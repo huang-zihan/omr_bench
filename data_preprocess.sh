@@ -66,3 +66,6 @@ python extract_track.py
 
 # filtering only multi-track data (not compulsary)
 python filter_multi_track.py
+
+# read PDF music score files, transform them into fine-grained music score images
+./score_split.sh
