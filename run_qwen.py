@@ -95,12 +95,12 @@ def qwen_omr_request(line_images):
         if i == 0:
             user_prompt = [{
                 "type": "text",
-                "text": "Convert this first staff line to ABC notation. Include the header information (X, T, M, K, etc.) and the first line of notes. Output ONLY the ABC code."
+                "text": "Convert the staff lines to ABC notation. Include the header information (X, T, M, K, etc.) and the notes. Output ONLY the ABC code."
             }]
         else:
             user_prompt = [{
                 "type": "text",
-                "text": "Convert this next staff line to ABC notation. Output ONLY the continuation of the ABC notation (notes only, no header)."
+                "text": "Convert the following staff lines to ABC notation, which are the continuation of the ABC notation above. Output ONLY the ABC code."
             }]
 
         # Build message list
