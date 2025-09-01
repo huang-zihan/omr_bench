@@ -1,0 +1,16 @@
+X:1
+T:Beethoven's Waltz. CJF.019
+C:Beethoven ?
+L:1/16
+Q:1/4=50
+M:3/8
+I:linebreak $
+K:G
+V:1 treble 
+V:1
+ B"^p" | d2>e2d2 | .d2.d2.d2 | (db)(ba)(ag) | (gf)(fe)(ed) | c2>d2c2 | .c2.c2.c2 | (ca)(ag)(gf) | %8
+ (fe)(ed)(dc) |$ B2 B4 | (Bc^cd^d)e | A2 A4 | (Ae^d^cBA) | B2 B4 | (Bc^cd^de) | A2 A4 | (AedcBA) |$ %17
+ .G2.A2.B2 | .c2.A2.d2 |"^cresc:" G>GA>AB>B | c>cA>Ad>d | (3(z Gg)(3(zAa)(3(zBb) | %22
+ (3(z cc')(3(zAa)(3(zdd') |"^8va------" GgfgdB | g4 | x6 |$"^p" A2 | A2>B2A2 | (Afgfed) | %29
+ (d2^c2c2) | (^c2>A2cd) | gfed^cB | A^GA^ABG |$ (G2F2).F2 | F4 A2 | (d4 ^d2) | (efga)b2 | d4 e2 | %38
+ d3"^D. Capo" B^cc || %39

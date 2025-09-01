@@ -1,0 +1,32 @@
+X:1
+T:Op.2530
+C:Yohei Kato * 加藤 洋平
+Z:Yohei Kato * 加藤 洋平 2019
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+Q:1/4=40
+M:3/8
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 bass 
+V:4 bass 
+V:1
+"^深縹色（こきはなだ）：Dark Tyrian Blue" z3 | z3 | A_AD | G_D>F | A,F>_B |!<(! C z D!<)! | %6
+!mf!"^鬱金色（うこんいろ）：\nApricot Yellow\n" DCE | F2 A | G2 F |$ E2 D |!>(! CDE!>)! | D2 C | FED | C2 A | %14
+ F>GF/E/ | D>CD/E/ | F z G |$!>(! FED!>)! | F z2 | A G2 | F G2 | E C2 | DA>G | AG>F | G3- | G3 |] %26
+V:2
+!p! D,_D,G,, | C,_G,,>B,, | F,D,>_A,, | _B,,G,,_E,, | A,, z2 | z F,D, | C,A,,G,, | F,, z2 | %8
+ D,C,>B,, |$ A,,D,>E, |!ped! C,2 F,!ped-up! |!ped! D,/C,/A,,/B,,/C,/D,/!ped-up! | %12
+!ped! C,2 F,!ped-up! |!ped! G,/G,,/C,/E,/F,/G,/!ped-up! | B,,D,C, | B,,C,F,- | F,E,C, |$ %17
+"_Groningen, 09:04, Wednesday, 12/25/2019" G,,B,,>C, | D,3 | C,3- | C,3- | C,3 | B,,F,,G,, | B,,3 | %24
+ A,,2 G,, | C,3 |] %26
+V:3
+ x3 | x3 | x3 | x3 | A_Af | cB>A | GA>B | c z d- | dcA |$ G2 B | e/d/c/B/A/G/ | B c2 | %12
+ d/c/B/c/d/e/ | f e2 | d z c | Bcd | c z2 |$ x3 | Bcd | fe>d | c B2 | AGA | B c2 | d2 f | e d2- | %25
+ !fermata!d3 |] %26
+V:4
+ x3 | x3 | x3 | x3 | z B,2 | C D2 | G,A,B,- | B,G,A, | B,CD |$ CB,G, | A,3 | B,2 A, | C2 B, | %13
+ C2 C- | CB,A, | B,A,>G, | A,B,C |$ D G,2 | A,2 G, | A,B,C- | C/A,/B,C- | CE,>F, | G,A,B, | %23
+ F,2 A,- | A,D,>G, | !fermata!C3 |] %26

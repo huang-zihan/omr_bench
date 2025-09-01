@@ -1,0 +1,44 @@
+X:1
+T:On the bonny bonny banks of Loch Lomond
+T:Arrangement: E.Montagne
+%%score { 1 | 2 } 3 4
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Accordion" snm="Acc."
+V:2 bass 
+L:1/4
+V:3 treble nm="Melodica" snm="Mel."
+L:1/4
+V:4 treble nm="Tenor Recorder" snm="T. Rec."
+V:1
+ z6 D2 | G2 GA B2 AG | A2 AG E2 D2 | .G2 .G2 .G2 Bd | e4 d2 d2 | e2 ed B2 Bd |$ cBAG E2 DE | %7
+ GGBd e2 dB | A4 G2 D2 | G2 GA B2 AG | ABAG E2 DE | .G2 .G2 .G2 Bd |$ e4 d2 d2 | e2 ge d2 Bd | %14
+ cBAG E2 DE | GGBd e2 dB | A4 G2 D2 | B2 Bc d2 cB |$ cecB A2 F2 | D2 B2 d2 g2 | %20
+ e!<(!fge d2 BB!<)! | efga!>(! bgdB!>)! | Acec AEFD |$ G2 B2 c2 G2 | F4 G2 z2 | z8 | z8 | z8 | z8 | %29
+ z8 |$ z8 | ddgd e2 dG | d4 G4 |] %33
+V:2
+ z4 |"^G   g" G,, [G,B,D]"^D   g" D, [G,B,D] |"^A   am" A,, [A,CE]"^A   d" A,, [F,A,D] | %3
+"^G   g   D   g" G,, [G,B,D] D, [G,B,D] |"^C   c    G  g" C, [E,G,C] G,, [G,B,D] | %5
+ C, [E,G,C] G,, [G,B,D] |$"^A    am        A    d" A,, [A,CE] A,, [F,A,D] | %7
+"^G      g        C    c" G,, [G,B,D] C, [E,G,C] | %8
+"^D   d    G  D\n" D, [F,A,D] [G,,G,B,D] [D,F,A,D] |"^G    g      D     g" G,, [G,B,D] D, [G,B,D] | %10
+"^C      c       am    D" C, [E,G,C] [A,CE] [D,F,A,D] | %11
+"^G  g    D  g           C  c    G  g                                        C    c       am  D          G    g        C   c          A   am G  D" G,, [G,B,D] D, [G,B,D] |$ %12
+ C, [E,G,C] G,, [G,B,D] | C, [E,G,C] G,, [G,B,D] | C, [E,G,C] [A,CE] [F,A,D] | %15
+ G,, [G,B,D] C, [E,G,C] | A,, [A,CE] [G,,G,B,D] [D,F,A,D] | %17
+"^G   g      D    g           A    am    D    d         G    g       D      g            C     c       G    g            C     c        G      g" G,, [G,B,D] D, [G,B,D] |$ %18
+ A,, [A,CE] D, [F,A,D] | G,, [G,B,D] D, [G,B,D] | C, [E,G,C] G,, [G,B,D] | C, [E,G,C] G,, [G,B,D] | %22
+"^A      am       A      d            G    g       C    c           D   d    G    D" A,, [A,CE] A,, [F,A,D] |$ %23
+ G,, [G,B,D] C, [E,G,C] | D, [F,A,D] [G,,G,B,D] [D,F,A,D] | z4 | z4 | z4 | z4 | z4 |$ z4 | %31
+"^G    g       C    c          D   G   D" G,, [G,B,D] C, [E,G,C] | D, [F,A,D] [G,,G,B,D]2 |] %33
+V:3
+ z4 | z4 | z4 | z4 | z4 | z4 |$ z4 | z4 | z4 |!p! d2 d B | c2 A2 | B2 d2 |$ c2 B2 | c e B2 | %14
+ G c e f | g d c G | A2 G2 | d2 G2 |$ E2 C A | B G B d | c2 B G | c2 B2 | A2 E D |$ B G E G | %24
+ D2 G F | G2 B2 | c3 A | .B .B .B d | c2 B2 | c2 B G |$ E2 G A | B2 c B | F2 G2 |] %33
+V:4
+ z8 | z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 | %17
+ G2 GA B2 AG |$ A2 AG E2 D2 | GAGA GABd | e4 d2 d2 | e2 ed B2 Bd | cBAG E2 DE |$ G2 Bd e2 dB | %24
+ A4 G2 D2 | G2 GA B2 AG | ABAG E2 DE | .G2 .G2 .G2 Bd | e4 d2 d2 | e2 ge dBBd |$ cBAG EDDE | %31
+ GGBd e2 dB | A4 G4 |] %33

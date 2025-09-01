@@ -1,0 +1,10 @@
+X:1
+T:the Lady of the Manor
+L:1/8
+M:6/8
+I:linebreak $
+K:D
+V:1 treble 
+V:1
+|: DFA dfa | a2 g f2 a | g2 f ede | fef dA/G/F/E/ | DFA dfa | a2 g f2 a | g2 f ede |$ dFA D3 :: %8
+ A2 A Ace | g2 g g2 f | e2 e ede | fa/g/f/e dfd | A2 A Ace | g2 g g2 f | ede ABc |$ dA/G/F/E/ D3 :| %16

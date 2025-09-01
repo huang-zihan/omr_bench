@@ -1,0 +1,88 @@
+X:1
+T:Theme From "Shindler's List"
+C:John Williams
+%%score 1 { ( 2 4 ) | ( 3 5 6 ) }
+L:1/8
+Q:1/4=50
+M:3/4
+I:linebreak $
+K:F
+V:1 bass nm="Violoncelle" snm="Vlc"
+V:2 treble nm="Piano" snm="Pia."
+L:1/16
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:6 bass 
+V:1
+ z6 | z6 | z6 |[M:4/4] z8 |$ z4 z2!mp! !tenuto!uA,,2 || (A,D,A,D,) (B,A,F,A,,) |$ %6
+ (F,G,,F,G,) uA,4 | (A,D,A,D,) (CB,A,G,) |$ (C,B,,E,G,) (B,A,G,F,) | (G,B,,G,B,,) (A,G,F,G,) |$ %10
+ A,6 !tenuto!uA,,2 | (G,B,,!open!G,B,,) (A,G,F,E,) |$ !4!D,4 E,2 F,/E,/D,/E,/ | %13
+ (F,G,,F,G,,) (A,G,F,E,) |$!<(! D,6!mf! !tenuto!uA,2!<)! |$!mf! (A!open!D)(AD) (BAFA,) |$ %16
+ (FG,)(FG) uA4 |$ (A!open!D)(AD) (cBAG) |$ (CB,EG) (BAGF) | (GB,)(GB,) (AG)FG |$ vA6 !tenuto!A,2 |$ %21
+ (GB,GB,) (AGFE) |$!<(! D4!>(! (E2 F/E/D/E/)!<)!!>)! |$ (FG,FG,) (!open!AGFE) | D8 |$ %25
+ z4 (B,,3 A,,/G,,/) |$ (D,2 G,,2) (A,,>G,,) (A,,/D,/F,/A,/) |$ D4- D/(G/E/D/) (B,/G,/E,/D,/) |$ %28
+ (B,,2 G,)"_Pizz et arco"G,, (G,>F, E,)!f!E- |$ E(E/D/ FE) (=B,>C) D2- |$ %30
+ D(C/D/ =B,A,/^G,/) (B, A,3) | z (E/D/ GF) (=B,>C) D2- |$ %32
+ D/ z/!<(! (uD,/E,/ F,)(F,/G,/ A,)(=B,/C/) (7:4:7(^D/^F,/B,/)[K:treble](D/^F/=B/^d/)!<)! ||$ %33
+[K:C]!ff! (eA)(eA) (fe)(cE) |$ (cD)cd ue4 |$ (eA)(eA) (gf)(ed) | (GF)Bd (fe)(dc) |$ %37
+ (dF)(dF) (ed)cd |$ (e2!>(! e/4)(c/4B/4A/4E/4[K:bass]C/4B,/4A,/4)!mf! (E,3!>)! C) | %39
+ (!open!DF,)(DF,) (ED({CD)}CB,) |$ (A,A,,) (C,/E,/F,/A,/) (B,2 C/B,/A,/B,/) | %41
+ (CD,CD,) (!tenuto!E!tenuto!D!tenuto!C!tenuto!B,) | %42
+ (A,3 B,,) (C,/E,/A,/!>(!C/) (E/[K:treble]A/c/d/)!>)! |$"^rall."!p! (eAeA) (fecE) | %44
+ (gf)(ed) (c/d/B/A/ (10:8:10G/4F/4E/4D/4C/4[K:bass]B,/4A,/4G,/4F,/4E,/4) | %45
+ (D,C,B,,F,) (!open!DCB,D,) |$ (FEDB)!>(! (dF)(E^g)!>)! |!>(! (a8 | a6)!>)!!pp! z2 |] %49
+V:2
+ e2d2 f4 e4 | c2=B2 d6 c2 | [DA]4 [CE]4 [D=B]4 |[M:4/4] [DEA]12 A4 |$ A2f2e2=B2 !arpeggio![^ca]8 || %5
+!p! [DFA]8 [DFA_B]4 [DFA]4 |$ [B,DF]8 A8 | [DFA]8 !arpeggio![B,DF]8 |$ [B,CE]8 [B,G]2 [A,F]6 | %9
+ [B,G]2 [G,D]4 G,2 D4 ^C4 |$ E4 D4 e4 f4 | [Gdg]8 [G,E]8 |$ z2 [A,F]2 [G,E]2[F,D]2 D2G,2^C2A,2 | %13
+ [B,DF]8 [A,EA]8 |$!<(! z2 E2 [FA]2A,2 [Ec]2[DB]2[CA]2!mp![B,G]2!<)! |$ %15
+ z A,[FA]A, A,B,A,2 A,A,[FA]A, A,B,A,2 |$ z B,[DF]G, G,G,[B,DF]2 z CcC EFeA |$ %17
+ AA[efa]A AAd2 z2 [Ff]6 |$ z B[DF]B, B,G[CE]G, z C3 CCcC | B8 c8 |$ AA,FA, EA,FA, AA,FA, x4 |$ %21
+ [=G,B,D=G]8 A^CA,E ^cFCE |$ d2>c2 B2>A2 G2>F2 E2>^C2 |$ [F,A,B,D]4 [Bdf]4 [A,^CE]4 [A^ca]4 | %24
+ A,F,DF Adfa d'8 |$ z2!f! AG B2A2 E2>F2 G4 |$ G2FG E2D^C E2 D6 |$ z2 AG c2B2 E2>F2 G4 |$ %28
+ G2G,A, B,2B,C D2!courtesy!=EF ^G4 |$!mf! c'=bc'e c'bc'e d'c'd'f babd |$ c=BfF deFE dceE fdeE | %31
+ DCc2 GEF2 F2>E2 DC=B,A, |$ [A,FA]8 [Afa]4 !arpeggio![^D^F=B^d]4 ||$ %33
+[K:C]!f! e8 [Ac]4[K:bass] [CE]4 |$ C4 C2D2[K:treble] B,GEB, B,^GE^G, |$ CA,EC AEcA [Ace]8 | %36
+ C4 B,4 [CDFd]4 [CEc]4 |$ A2 d6 [EBe]8 |$ c2B2A2B2!mp! c8 | !arpeggio![Ad]8 A4 ^G4 |$ A8 [DB]8 | %41
+ !arpeggio![CFAc]8 !arpeggio![^G,B,E]8 | z4 !arpeggio![EAe]12 |$!p! [eac']8 [Ece]8 | z16 | z16 |$ %46
+ z16 | z16 | z16 |] %49
+V:3
+ E,2 [E,C]2 [E,CE]2 | D,2 [D,=B,]2 [D,B,F]2 | [F,,D,A,]2 =B,,C, F,E, |[M:4/4] A,,,4 E,4 |$ %4
+ A,4 !arpeggio!A,4 || E z z2 z4 |$ z8 | z2 D,2 G,,D,E,F, |$ F, z C,2 F,,C,E,F, | %9
+ E,, D,2 D, A,,,A,,F,G, |$ D,,A,,F,A, E2 D2 | B,2 B,/E,/D,/B,,/ A,,2 A,,,2 |$ %12
+ B,,,F,,D,F,, A,,,A,,G,E, | F,2 [D,F,]2 A,,2 A,,,2 |$ %14
+!<(! D,,A,,F,A,, D,,B,,G,B,,!<)!!p!"_<sym>dynamicMezzo</sym>" |$ D,,A,,F,A,, D,,A,,F,A,, |$ %16
+ G,,F,C,,D, F,,C,A,E,, |$ D,,[A,EF]DD,, G,,, [B,D]3 |$ G,,F,C,,E, F,,C,A,C, | %19
+ E,, D,2 D, A,,,A,,G,A,, |$ D,,A,,F,A,, D,,A,,F,A,, |$ E,,B,,D,G, A,,,A,,G,A,, |$ %22
+ B,,,F,,D,F, A,,,A,,G,A,, |$ [G,,,G,,]2 [B,DF]2 [A,,,A,,]2 [A,^C]2 | z2 [F,A,D]2 [DFA]2 D,2 |$ %25
+ A, [DF]2 [DF] B, D2 [DE] |$ B,DA,,G, D,,A,,F,D, |$ A, [DF]2 [DF] B, [DE]2 [DE] |$ %28
+ D,/A,,/G,, G,/_E,/D, B,/D,/G,, [B,D!courtesy!=E]2 |$ A,,E,CE, A,,F,DF, |$ A,,F,DF, A,,E,CE, | %31
+ A,,E, D,,/A,,/F,/A,/ =B,D,A,F, |$ E, =B,,2 B,, A,B,,!arpeggio!B,,=B,,, ||$ %33
+[K:C] A,,,A,,E,C A,,E, A,,2 |$ D,,A,,G,,,G,, C,,E, B,,2 |$ A,,,4 D,,2 D,,2 | G,,,4 C,,4 |$ %37
+ B,, [F,A,]2 A,/F,/ E,,E, ^G,E, |$ A,,/E,B,/ B,/E,E,/ A,,E, C2 | %39
+ !arpeggio![F,A,] [F,A,]2 [F,A,] E,, B,,2 ^G, |$ F,,C, A,2 A,2 E,2 | %41
+ !arpeggio![D,,A,,]4 !arpeggio!B,,2 [E,,B,,]2 | z2 !arpeggio![E,A,C]6 |$ %43
+[K:treble]!p! [EAc]4[K:bass] [A,C]4 | z8 | z8 |$ z8 | z8 | z8 |] %49
+V:4
+ x6 | x6 | =Bd c2 A^G |[M:4/4] x8 |$ x8 || x8 |$ B,3 G, [CF]2 [^CE]2 | x8 |$ x8 | %9
+ x4 !arpeggio![A,EA]4 |$ [A,FA]4 A4 | x4 [B,D]2 [A,^C]2 |$ x4 [EG]2 [^CE]2 | x4 D2 ^C2 |$ x8 |$ %15
+ x8 |$ x8 |$ x4 x dcB |$ x8 | B [G,B,D]2 [G,B,D] cA,[^CF]E |$ GFEF GF ^G,A, |$ x8 |$ %22
+ d/F/E/=c/ B/D/C/A/ G/B,/A,/F/ E/A,/G,/^C/ |$ x8 | x8 |$ x8 |$ x8 |$ x8 |$ x8 |$ x8 |$ x8 | %31
+ x4 [A=B]4 |$ x8 ||$[K:C] c/E/A/E/ c/E/A/E/ F/D/E/C/[K:bass] B,/A,/C/E,/ |$ %34
+ C/D,/F,/D,/ C/F,/D/B,/[K:treble] B,>B, B,2 |$ z4 GFB,C | [DFG]4 x4 |$ A [DF]2 D A2 ^G2 |$ E4 E4 | %39
+ !arpeggio![DF]4 [DEB]4 |$ [CE]2 EC A2 ^G2 | x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 | x8 |] %49
+V:5
+ x6 | x6 | x2 A,2 x2 |[M:4/4] A,,,E,,A,,D, E,DC=B, |$ A,2 [=B,F]2 !arpeggio!E4 || x8 |$ x8 | %7
+ x4 !arpeggio!G,,4 |$ x6 [F,,C,]2 | E,,4 A,,, A,,3 |$ D,,4 F4 | [DE]4 A,,4 |$ B,,,4 A,,,4 | %13
+ G,,4 A,,4 |$ D,,4 D,,4 |$ D,,4 D,,4 |$ G,,2 C,,2 F,,3 E,, |$ D,,3 D,, G,,,4 |$ x8 | E,,4 A,,,4 |$ %20
+ D,,4 D,,4 |$ E,,4 A,,,4 |$ B,,,4 A,,,4 |$ x8 | D,,,8 |$ A,4 B,4 |$ B,2 A,,2 D,,4 |$ A,4 B,4 |$ %28
+ x8 |$ A,,4 A,,4 |$ A,,4 A,,4 | A,,2 D,,2 z4 |$ F,4 [DF]2 !arpeggio![^F,=B,]2 ||$ %33
+[K:C] A,,,4 A,,2 A,,A,,, |$ D,,2 G,,,2 C,,2 B,,E,, |$ A,,,A,,E,A, D,,/A,,/F,/A,,/ D,,/A,,/F,/A,,/ | %36
+ G,,,G,,G,G,, C,,G,,E,G,, |$ B,,4 E,,4 |$ A,,4 A,,4 | !arpeggio!B,,4 E,,4 |$ F,,4 B,4 | %41
+ !arpeggio!F,4 !arpeggio!E,4 | A,,,8 |$[K:treble] x4[K:bass] x4 | x8 | x8 |$ x8 | x8 | x8 |] %49
+V:6
+ x6 | x6 | x6 |[M:4/4] x8 |$ x8 || x8 |$ x8 | x8 |$ x8 | x8 |$ x8 | x8 |$ x8 | x8 |$ x8 |$ x8 |$ %16
+ x8 |$ x4 x B, A,G, |$ x8 | x8 |$ x8 |$ x8 |$ x8 |$ x8 | x8 |$ x8 |$ x8 |$ x8 |$ x8 |$ x8 |$ x8 | %31
+ x8 |$ x8 ||$[K:C] x8 |$ x8 |$ x8 | x8 |$ x6 D2 |$ x8 | x8 |$ x8 | x8 | x8 |$ %43
+[K:treble] x4[K:bass] x4 | x8 | x8 |$ x8 | x8 | x8 |] %49

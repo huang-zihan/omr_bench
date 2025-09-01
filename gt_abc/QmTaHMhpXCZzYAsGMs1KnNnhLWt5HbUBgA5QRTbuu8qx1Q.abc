@@ -1,0 +1,50 @@
+X:1
+T:The Internationale
+C:Pierre Degeyter
+%%score [ { 1 2 } 3 { 4 5 } ]
+L:1/4
+Q:1/4=102
+M:4/4
+I:linebreak $
+K:A
+V:1 treble nm="Violins I"
+L:1/8
+V:2 treble nm="Violins II"
+L:1/8
+V:3 alto nm="Violas"
+V:4 bass nm="Cellos"
+V:5 bass transpose=-12 nm="Doublebasses"
+V:1
+ z!mf! (E |: A3) G (BA)EC | (F4 D3) (F | B3) A (GF)ED |$ C6 z (E | A3) G ((BA))EC | (F4 D3) (A | %7
+ G2) B2 d2 G2 | A6!mp! (cB) |$ G3 G FG(AF | G4 E3) E | F3 (F B2) (A2 | G6) z!<(! B |$ %13
+ B3!<)! (G E)E^D(E | c4 A)FGA |!>(! G2 B2 A2 F2!>)! | %16
+!<(! E4[Q:1/4=102]"^Gloriously!" z2 (c>B)!<)! |$!f! (A4 E2) F2 | (F4 D2) (B>A) | G2 G2 F2 E2 | %20
+ E6 E2 |$ (c3 c B2 E2 | A4 G3) (G | F3) ^E (F2 B2) |!<(! B4 z2 (c>B)!<)! |$!ff! (A4 E3) F | %26
+ (F4 D2) (B>A) | G2 G2 F2 E2 | c6 c2 |$ (e3 e d2 c2 | B^ABc d3) d | c3 c B3 A |1 %32
+ A6[Q:1/4=102] z!mf! E :|2[Q:1/4=60] !fermata!A8 |] %34
+V:2
+ z2 |:!mf! A,3 G, (B,A,)EC | (F4 D3) (F | B,3) A, (GF)ED |$ C6 z2 | A,3 G, (B,A,)EC | (F4 D3) (A, | %7
+ G,2) B,2 D2 G,2 | (E2 D2 C4) |$!mp! G,3 G, FG(AF | G4 E3) E | F3 (F B,2) (A,2 | G,6) z2 |$ %13
+!<(! E2 E2!<)! B,4 | (A2 G2 E4) |!>(! E4 E2 ^D2!>)! |!<(! B,2 C2 F4!<)! |$!f! (A4 E2) F2 | %18
+ (F4 D2) (B>A) | G2 G2 F2 E2 | C4 A,2 E2 |$ (A4 G2 E2 | C4) C4 | D4 ^D4 |!<(! A4 F4!<)! |$ %25
+!ff! (A,4 E3) F | (F4 D2) (B,>A,) | G,2 G,2 D4 | A6 =G2 |$ ^A4 [D=A]2 [E^A]2 | %30
+ F2 [E^A]2 [D=A]2 [DA]2 | A4 E4 |1 E6 z2 :|2 !fermata!E8 |] %34
+V:3
+ z |:!mf! C2 E z | (D C D2) | D2 D z |$ C2 D D | C2 E z | (D C D2) | D2 D2 | (C B, A,2) |$ %9
+!mp! E2 E ^D | (E ^D E2) | E2 ^D2 | (E2 E ^D) |$!<(! B, B,!<)! G,2 | (E D C2) |!>(! A,2 E ^D!>)! | %16
+!<(! G, C =D2!<)! |$!f! (E D C2) | (D C D) D | D2 G,2 | A,2 A, G, |$ (C2 D2 | A,2) G,2 | A,2 A,2 | %24
+!<(! ^D2 =D2!<)! |$!ff! (E D C2) | (D C D2) | D2 G,2 | C3 C |$ E2 F F | D F F F | E2 D2 |1 C3 z :|2 %33
+ !fermata!C4 |] %34
+V:4
+ z |:!mf! E,2 A,2 | (D C B, A,) | G,2 E,2 |$ E,2 (A, G,) | E,2 A,2 | (D C B, A,) | E,2 G,2 | E,4 |$ %9
+!mp! B,2 A,2 | (B, A, G,2) | A,4 | (E ^D C B,) |$!<(! G, ^D,!<)! =D,2 | (C, B,, A,,2) | %15
+!>(! E,2 B,2!>)! |!<(! B,,2 G,2!<)! |$!f! (C B, A,2) | (D C B,) A, | E,2 D,2 | A, G, F, E, |$ %21
+ E,2 E,2 | E,2 C,2 | A,,2 B,,2 |!<(! A,2 G,2!<)! |$!ff! (C B, A,2) | (D C B, A,) | E,2 D,2 | %28
+ A,2 =G,2 |$ F,2 B,, C, | D, C, B,, =F, | C2 A, G, |1 E,3 z :|2 !fermata!E,4 |] %34
+V:5
+ z |:!mf! A,,2 C,2 | (A, ^A, =A,2) | E,2 G,2 |$ A,2 (B, E,) | A,,2 C,2 | (A, ^A, =A,2) | G,2 E,2 | %8
+ A,,4 |$!mp! E,2 B, B,, | (E, F, G,2) | B,2 B,,2 | (B,2 A,2) |$!<(! E, ^D,!<)! =D,2 | %14
+ (C, B,, A,,2) |!>(! B,,2 A,2!>)! |!<(! E,2 E,2!<)! |$!f! (A,, B,, C,2) | (A, ^A, =A,) F, | %19
+ G,2 E,2 | E,2 D,2 |$ (A,2 G,2 | F,2) =F,2 | D,2 ^D,2 |!<(! E,2 E,2!<)! |$!ff! (A,, B,, C,2) | %26
+ (A, ^A, =A,2) | G,2 E,2 | E,4 |$ F,2 B,, C, | D, C, B,, =F, | E, E,, E,,2 |1 A,,3 z :|2 %33
+ !fermata!A,,4 |] %34

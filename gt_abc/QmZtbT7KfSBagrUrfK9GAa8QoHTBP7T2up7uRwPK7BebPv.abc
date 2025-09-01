@@ -1,0 +1,11 @@
+X:1
+T:The Red Fox
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble 
+V:1
+ D2 | G2 G>A B2 B>c | d2 d2 c2 B>c | d3 e B2 G2 | A3 F GFED | G2 G>A B2 Bc | d<d d2 c2 Bc | %7
+ d2 de B2 G2 |$ A4 G2 || Bd | g2 g2 f2 ed | e2 dB d2 BA | G2 G>A BAGB | A4 G2 Bd | g2 g2 f2 ed | %15
+ e2 dB !fermata!d2 BA |$ G2 ge dBGB | A4 G2 || %18

@@ -1,0 +1,28 @@
+X:1
+T:O Sing a New Song, LM
+C:J. M. North, ca. 1904
+Z:Public Domain
+Z:Courtesy of the Cyber Hymnal™
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=85
+M:3/4
+I:linebreak $
+K:Db
+V:1 treble 
+V:2 treble 
+L:1/4
+V:3 bass 
+V:4 bass 
+L:1/4
+V:1
+ [DF]2 | [DF]>[DF] [DF][EG] [FA][DF] | [DB]4 [EB]2 | [GB]>[GB] [GB][GB] [Gc][Gd] | [Gc]4 [Gc]2 | %5
+ [Fd]>[FA] [FA][FA] [GB][A_c] | [GB]4 [GB]2 | [GB][CE] [DF][CG] [CF][CE] |$ D6 |] %9
+V:2
+ x | x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ D3 |] %9
+V:3
+ [D,A,]2 | [D,A,]>[D,A,] [D,A,][D,A,] [D,_C][D,C] | [G,B,]4 [G,B,]2 | %3
+ [E,B,]>[E,B,] [E,B,][E,B,] [E,A,][E,A,] | A,4 A,2 | [D,A,]>[D,D] [D,D][D,D] [D,D][D,D] | %6
+ [G,D]4 (ED) | [A,C]A, [A,,A,][A,,B,] [A,,A,][A,,G,] |$ [D,F,]6 |] %9
+V:4
+ x | x3 | x3 | x3 | A,2 A, | x3 | x2 G, | x/ A,/ x2 |$ x3 |] %9

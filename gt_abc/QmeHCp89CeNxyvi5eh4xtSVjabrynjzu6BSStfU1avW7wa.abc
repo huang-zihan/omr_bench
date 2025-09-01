@@ -1,0 +1,11 @@
+X:1
+T:Gortmore Jig
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble 
+V:1
+ g[Q:1/8=320]^G | ABA A2 B z2 | ^G2 G G2 B z2 | ABA ABd z2 | e2 d e^f^g z2 | ABA A2 B z2 | %6
+ ^G2 G GAB z2 |$ ^c2 A BA^G z2 | A3 A2 :| ^f | ^g2 e e2 ^f z2 | ^g^fe dBA z2 | ^g2 e e2 ^f z2 | %13
+ ^g2 a b2 a z2 | ^g2 e e2 ^f z2 |$ ^g^fe d^cB z2 | ^c2 A BA^G z2 | A3 A2 :| %18

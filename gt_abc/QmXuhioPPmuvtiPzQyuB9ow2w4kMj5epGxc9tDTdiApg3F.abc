@@ -1,0 +1,22 @@
+X:1
+T:The Kesh (Jig)
+T:Mandolin
+T:Traditional Irish
+%%score { 1 | 2 }
+L:1/8
+Q:3/8=120
+M:6/8
+I:linebreak $
+K:G
+V:1 treble nm="Mandolin" snm="Mdn."
+V:2 tab stafflines=4 strings=G3,D4,A4,E5 nostems 
+V:1
+|: G3 G.AB | A3 A.Bd | e.dd g.dd | e.dB d.BA | G.AG G.AB | A.BA A.Bd | e.dd g.dd |$ B.AF G3 ::$ %8
+ B2 B d2 d | e.ge d.BA | B2 B d.BG | A.BA A.GA | B.AB d.^cd | e.ge d.Bd | g.fg a.ga |$ b.gg g3 :| %16
+V:2
+|: !3!G3 !3!G .!2!A !2!B | !2!A3 !2!A .!2!B !2!d | !1!e .!2!d !2!d !1!g .!2!d !2!d | %3
+ !1!e .!2!d !2!B !2!d .!2!B !2!A | !3!G .!2!A !3!G !3!G .!2!A !2!B | %5
+ !2!A .!2!B !2!A !2!A .!2!B !2!d | !1!e .!2!d !2!d !1!g .!2!d !2!d |$ !2!B .!2!A !3!F !3!G3 ::$ %8
+ !2!B2 !2!B !2!d2 !2!d | !1!e .!1!g !1!e !2!d .!2!B !2!A | !2!B2 !2!B !2!d .!2!B !3!G | %11
+ !2!A .!2!B !2!A !2!A .!3!G !2!A | !2!B .!2!A !2!B !2!d .!2!^c !2!d | %13
+ !1!e .!1!g !1!e !2!d .!2!B !2!d | !1!g .!1!f !1!g !1!a .!1!g !1!a |$ !1!b .!1!g !1!g !1!g3 :| %16

@@ -1,0 +1,17 @@
+X:1
+T:l
+%%score { 1 | 2 }
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+ eB/ z/ c/A/G/ z/ c/F/ z z2 | B/ z/ F/A/ c/d/c/ z/ z4 | c/B/B/B/ E/D/ z z4 | BG3/2FF/ F3/2GBc/ |$ %4
+ c/ z/ z z2 z4 | [EGc]8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |$ z8 | %20
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |] %32
+V:2
+ D,2 D,2 D,2 z2 | E,2!mf! G,2 E,2 z2 | E,E,A, z F,F,C, z | [B,,E,]2 F,F, E,F,E,C, |$ z8 | %5
+ G,E,E,D, E, z z2 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | %21
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |] %32

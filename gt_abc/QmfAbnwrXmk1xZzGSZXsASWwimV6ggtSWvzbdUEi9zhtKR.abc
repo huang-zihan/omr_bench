@@ -1,0 +1,18 @@
+X:1
+T:5th Royal Dragoons Slow March. JMP.079
+L:1/8
+Q:1/4=110
+M:4/4
+I:linebreak $
+K:C
+V:1 treble 
+V:1
+"^as written" A2 | d2 d>d dgfe | d2 d>d dgfe | f2 d/e/f/g/ a2 gf | e2 e>e e2 cd | ea cd e2 d2 | %6
+ eacd e2 d2 |$ (3cec AA BB GG | (3cec AA BB GG | Aagf edcB | A2 A>A A2 :: cd | e2 e>e eagf | %13
+ g2 ee e2 g2 |$ ff dd cc dd | ee cc ABcA | d3 A d3 A | dcde ffed | e3 A e3 A | edef ggfe |$ %20
+ f2 a>a a2 f>a | g2 e>e efge | f2 a>a a2 fa | g2 e>e"^1" efge | f3 a agfe | d2 d>d d2 :|$ z z z z | %27
+[K:D]"^Suggested Interpretation" A2 | d2 d>d dgfe | d2 d>d dgfe | f2 d/e/f/g/ a2 gf | %31
+ e2 e>e e2 cd | ea cd e2 d2 |$ eacd e2 d2 | (3cec AA BB ^GG | (3cec AA BB ^GG | Aa^gf edcB | %37
+ A2 A>A A2 :: cd |$ e2 e>e eagf | g2 ee e2 g2 | ff dd cc dd | ee cc ABcA | d3 A d3 A | dcde ffed |$ %45
+ e3 A e3 A | edef ggfe | f2 a>a a2 f>a | g2 e>e efge | f2 a>a a2 fa | g2 e>e (ef)ge |$ f3 a agfe | %52
+ d2 d>d d2 :| %53

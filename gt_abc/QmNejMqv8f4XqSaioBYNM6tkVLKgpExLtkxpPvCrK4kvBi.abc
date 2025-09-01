@@ -1,0 +1,89 @@
+X:1
+T:La non ailleurs
+C:Jacob Clemens non papa
+%%score [ 1 2 [ 3 4 5 ] ]
+L:1/4
+Q:1/4=120
+M:2/2
+I:linebreak $
+K:F
+V:1 treble nm="Soprano" snm="S"
+V:2 treble nm="Alto" snm="A"
+V:3 treble-8 nm="Tenor 1" snm="T 1"
+V:4 treble-8 nm="Tenor 2" snm="T 2"
+V:5 treble-8 nm="Tenor 3" snm="T 3"
+V:1
+ z4 | d3 B- | B A/G/ c A- | A G A2 | z d e e |$ f3 d | d/e/f/d/ e/d/ d- | d c d A | B2 A2 | %9
+w: |Là, non|_ _ _ _ _|* ail- leurs,|le tris- te|cueur de-|meu- * * * * * *|||
+ G2 z d |$ d d c B | d D/E/ F/G/A/B/ | c/d/ e3/2 d/ d- | d c d d | d d c3/2 A/ |$ B2 A2 | z A F G | %17
+w: re, le|tris- te cueur de-|meu- * * * * * *||* * re, le|tris- te cueur de-|meu- re,|le tris- te|
+ A c B d- | d/c/ B3/2 A/ A- |"^#" A G2 F |$ G d d c | d A A G | A2 z f | e d c/B/A/G/ | F2 z d |$ %25
+w: cueur de- meu- *|||re jus- qu'à la|mort, jus- qu'à la|mort, jus-|qu'à la mort, _ _ _|_ ja-|
+ d e f3/2 e/4d/4 | d e2 d- | d c d c- | c/B/ B2 A | B d2 d |$ d2 c c | f f e d | c/B/A/G/ A3/2 B/ | %33
+w: mais ne chan- * *|||* * * ge-|ra, et quant|l'a- me du|corps se par- ti-|ra, _ _ _ _ _|
+ c d2 c | d2 z d |$ e e f e- | e d2 c | d2 d2 | A c2 G | z d2 A |$ c2 B A | c c B G | A3 G | %43
+w: _ _ _|* l'a-|me du corps se|_ par- ti-|ra, l'es-|prit do- lent,|l'es- prit|do- lent chan-|ge ra sa de-|meu- re,|
+ d2 A c- | c G z d |$ d c d B- | B/A/ A2 G- | G F G2 | z d2 A | c2 d d |$ c c B G | A3 G | %52
+w: l'es- rit do-|* lent, chan-|ge- ra sa de-|* * meu- *|* * re,|l'es- prit|do- lent chan-|ge- ra sa de-|meu- re,|
+ d2 A c- | c G z d | d c d B- |$ B A2 G- |"^#" G F G2- | G4- | G4- | G4 |] %60
+w: sa de- meu-|* re, chan-|ge- ra sa de-|* meu- *|* * re.|_|||
+V:2
+ z4 | z2 D2- | D2 C2 | B,2 A, F | E D2 C |$ D D F2- | F E/D/ G3/2 F/ | E E D2 | z4 | z B B B |$ %10
+w: |Là,|_ non|ail- leurs, là|non ail- *|leurs, là non|_ _ _ _ _|* ail- leurs,||le tris- te|
+ A F G2 | A2 z2 | z4 | z A A D | F3/2 G/ A/B/ A- |$ A G F D | E F3/2 E/ D- | D C D2 | z D F F | %19
+w: cueur de- meu-|re,||là, non ail-|leurs _ _ _ _|_ le tris- te|cueur de- * meu-|* * re,|le tris- te|
+ _E C D2 |$ B, B A G | F D C D | E A2 A | B2 A2 | z F G A |$ G G F2 | A2 A G | A A F3/2 E/4F/4 | %28
+w: cueur de- meu-|re jus- quà la|mort, jus- quà la|mort, jus- qu'à|la mort,|ja- mais ne|chan- ge- ra,|ja- mais ne|chan- * * * *|
+ G2 F2- | F2 B2 |$ B B A A | c c c B | A2 z A- | A G A2- | A F G2- |$ G G F/D/ G- | G/F/E/D/ E2 | %37
+w: ge- ra,|_ et|quant l'a- me du|corps se par- ti-|ra, et|_ quant l'a-|* me du|_ corps se _ par-|* * * * ti-|
+ D2 z D- | D A, C2 | B, B A3/2 F/ |$ A G2 F- | F E2 D- | D C D G | D F2 C | E2 G F |$ %45
+w: ra, l'es-|* prit do-|lent, l'es- prit do-|lent chan- ge-|* ra sa|_ de- meu- *|re, l'es- prit|do- lent chan-|
+ E E D3/2 B,/ | C D C/B,/A,/G,/ | A,2 G,2 | B2 A3/2 G/ | A G B A |$ A G3/2 F/F/E/4D/4 | E2 D B- | %52
+w: ge ra sa de-|meu- * * * * *|* re,|l'es- prit do-|lent chan- ge ra|sa de- * * * *|meu- re, chan-|
+ B A2 F | G G E A | G E F D |$ F2 E C | D2 z B, | B, B, C B, |"^b" E2 D2- | D4 |] %60
+w: * ge- ra|sa de meu- *|||re, chan-|ge- ra sa de-|meu- re.|_|
+V:3
+ a4 | f3 e/d/ | g2 e2 | z d f2 | g4 |$ f a2 a | b4 | a a a a | g3/2 f/ e f | d3/2 c/ B G |$ A2 z2 | %11
+w: Là,|non _ _|ail- leurs,|là, non|ail-|leurs, là, non|ail-|leurs, le tris- te|cueur- de- meu- *||re,|
+ z2 a2 | a a g f | a2 f2- | f e/d/ e f |$ d2 z f | g c d d | e3/2 f/ g G/A/ | B/c/d/B/ c d | %19
+w: le-|tris- te cueur de-|meu- *||re, là,|non ail- leurs, le|tris- te cueur de _|meu- * * * * *|
+ c/B/A/G/ A2 |$ G g f g | a2 z2 | z e f2 | g2 e2 | z d d f |$ d c d3/2 e/ | f e f d | e f3/2 e/ c | %28
+w: |re jus- qu'à la|mort,|jus- quà|la mort,|ja- mais ne|chan- ge- ra, _|_ ja- mais ne|chan- * * *|
+"^b" d e c2 | B f f f |$ g g e e | a a g3/2 f/ | e e f f | e d e A | d d B2 |$ G2 A/B/c/d/ | %36
+w: * * ge-|ra, et quant l'a-|me du corps se|par- ti- ra, _|_ et quant l'a-|me du corps se|par- ti- ra,|_ _ _ _ _|
+ e/f/g/f/4g/4 a2 | z g d f- | f c z g- | g d f2 |$ c e d/e/f/g/ | a g3/2 f/e/d/ | e2 d b- | %43
+w: |l'es- prit do-|* lent, l'es-|* prit do-|lent chan- ge- * * *|ra sa de- * *|meu- re, l'es-|
+ b a2 f | g g e a |$ g e f d | f2 e c |"^b" d2 c e | d4 | z g3/2 d/ f- |$ f e2 d- | d c d g | %52
+w: * prit do-|lent chan- ge- ra|sa de- meu- *|||re,|l'es- prit do-|* lent chan-|* ge- ra sa|
+ d f2 c | e2 g f | e e d3/2 B/ |$ c d c/B/A/G/ | A2 G2- | G4- | G4- | G4 |] %60
+w: de- meu- *||re, chan- ge- ra|sa de- meu- * * *|* re.|_|||
+V:4
+ z4 | z4 | z4 | d4 | B2 G2 |$ A2 d2 | B2 G2 | A A f3/2 e/ | d d c d | B/G/ g g g |$ f d e2 | %11
+w: |||Là,|non ail-|leurs, le|tris- te|cueur de- meu- *|re, de- meu- *|re, _ le tris- te|cueur de- meu-|
+ d f2 e/d/ | e c d3/2 e/ | f/d/ e d2- | d2 z2 |$ z d d d | c A B2 | A A B2- | B A/G/ A F | G2 z2 |$ %20
+w: ||* * * re,|_|le tris- te|cueur de- meu-|re, de- meu-||re|
+ z G d e | d f e d | c/B/A/G/ F d | B2 c2 | A A B A |$ B G A z/ A/ | d c d B | A2 z F | %28
+w: jus- quà la|mort, jus- quà la|mort, _ _ _ _ jus-|qu'à la|mort, ja- mais ne|chan- ge- ra, ja-|mais ne chan- ge-|ra, ja-|
+ B G A/B/ c/B/4c/4 | d2 z d- |$ d B c2 | A2 z2 | z A d d | c B A e | f f _e d- |$ d c d G | %36
+w: mais ne chan- * ge- * *|ra, et|_ quant l'a-|me,|et quant l'a-|me du corps se|par- ti- ra, _|_ _ _ _|
+ z2 z c | A B3/2 A/F/G/ | A2 G G- | G/A/B/c/ d2 |$ z2 z d | A c G B | A2 F G/A/ | %43
+w: l'es-|prit do- * * *|* lent, l'es-|* * * * prit,|chan-|ge- ra sa de-|meu- * * *|
+ B/c/ d3/2 c/A/B/ | c/d/ c2 A |$ B c A G | A F G2 | z2 z g- | g d f2 | e2 z d |$ A c G B | %51
+w: |||* * re,|l'es-|* prit do-|lent, l'es-|prit do- lent chan-|
+ A2 F G/A/ | B/c/ d3/2 c/A/B/ | c/d/ c2 A | B c A G |$ A F G2 | z d d d |"^b" g3/2 f/ e d | %58
+w: ge- ra sa _|de- * meu- * * *|||* * re,|chan- ge- ra|sa _ _ de-|
+ c2 B2- | B4 |] %60
+w: meu- re.|_|
+V:5
+ z2 d2- | d2 B2 | G2 A2 | z2 D2 | G2 E2 |$ D4 | z4 | z2 D2 | G G A F | G4 |$ D2 z2 | z d d d | %12
+w: Là,|_ non|ail- leurs,|là,|non ail-|leurs,||le|tris- te cueur de-|meu-|re,|le tris- te|
+ c A B2 | A2 z B | B B A F |$ G2 D2 | z4 | z2 G2 | G G F D | _E2 D2 |$ G2 z2 | z D A B | A2 D2 | %23
+w: cueur de- meu-|re, le|tris- te cueur de-|meu- re,||le|tris- te cueur de-|meu- *|re|jus- qu'à la|mort, jus-|
+ G2 A2 | D D G F |$ G E D2 | z4 | z F B A |"^b" G E F2 | z B B B |$ G2 A2 | F F c G | A2 z2 | z4 | %34
+w: qu'à la|mort, ja- mais ne|chan- ge- ra,||ja- mais ne|han- ge- ra,|et qant l'a-|me du|corps se par- ti-|ra,||
+ D2 G G |$ E E D C | c B A2 | D G2 D | F2 C/D/E/F/ | G3/2 F/ D d |$ A c G z | z4 | z2 z G- | %43
+w: et quant l'a-|me du corps se|par- ti- ra,|l'es- prit do-|lent, l'es- * * *|prit do- lent, l'es-|prit do- lent,||l'es|
+ G D F2 | C C E F |$ G A D G | F D E2 | D2 _E3/2 F/ | G2 D d | A c G z |$ z4 | z2 z G- | G D F2 | %53
+w: _ prit do-|lent chan- ge- ra|de de- meu- *||re, l'es- prit|do- lent,- l'es-|prit do- lent,||l'es-|* prit do-|
+ C C E F | G A D G |$ F D E2 | D2 z G | G G C G | C2 G2- | G4 |] %60
+w: lent chan- ge ra|sa de- meu- *||re, chan-|ge- ra sa de-|meu- re.|_|

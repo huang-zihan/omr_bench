@@ -1,0 +1,25 @@
+X:1
+T:Title
+C:Composer
+%%score [ 1 2 ]
+L:1/8
+Q:1/4=150
+M:6/8
+I:linebreak $
+K:C
+V:1 treble nm="Traverso"
+V:2 treble nm="Traverso"
+V:1
+|:"^Gigue" ef | gec agf | gec agf | gfe def | ede cef | gec agf | gec agf |$ gec aga | ^fef def | %9
+ g^fe d2 c | BGe dGc | BGe !plus!A2 G | G4 ::$ Bc | dcd dcd | !plus!B2 A Gef | gfg gfg | %17
+ !plus!e2 d c2 g | aga fef | gfg ede |$ fef dcd | e2 c c2 g | !plus!g2 f !plus!f2 e | %23
+ !plus!e2 d !plus!d2 c | !plus!c2 B !plus!B2 A | Ggf edc |$ Bcd Bcd | GBd f3- | fed e3- | edc d3- | %30
+ dcB cde | fed fed |$ gfe gfe | a2 g f2 e | e3 !plus!d3 | c3- c2 d | _edc dBG | _edc dBG |$ %38
+ f_ed ecg | _agf gf_e | f_ed edc | _agf gf_e | e3 !plus!d3 | c4 :| %44
+V:2
+|: cd | ece fed | ece fed | edc Bcd | c3- ccd | ece fed | ece fed |$ ece cBc | d2 c B2 A | G3 ^F3 | %10
+ G2 c B2 e | d2 g !plus!^f2 g | g4 ::$ GA | BAB BAB | G2 z z cd | ede ede | c2 z z z e | fef dcd | %19
+ ede gfg |$ aga fef | gfg ede | c2 z z z g | !plus!g2 f !plus!f2 e | !plus!e2 d !plus!d2 c | %25
+ d2 G gfe |$ def def | BGB dBd | g3- gag | f3- fgf | e3- efe | dcB dcB |$ edc edc | f2 e d2 c | %34
+ c3 !plus!B3 | c3- c2 B | cBA BGB | cBA BGB |$ dcB c_ec | f_ed edc | agf gf_e | f_ed edc | %42
+ c3 !plus!B3 | c4 :| %44

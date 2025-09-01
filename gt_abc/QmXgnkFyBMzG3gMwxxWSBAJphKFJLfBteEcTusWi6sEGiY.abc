@@ -1,0 +1,83 @@
+X:1
+T:Titanic
+%%score 1 { 2 | 3 }
+L:1/4
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Flauta" snm="Fl."
+V:2 treble nm="Piano" snm="Pno."
+V:3 bass 
+L:1/8
+V:1
+!mp! _A/B/B/c/- c2 | _d/4c/4B/4_A/4 B _e2 | _d/c/ _A3/2 F/- F |$ _E- E3 | _A/B/B/c/- c2 | %5
+ _d/4c/4B/4_A/4 B _e2 |$ c/_e/ f2 e- | e/c/ B3- | B _A3/2 A/ A | _A G A2- |$ A/_A/ G A2 | B c2 B- | %12
+ B _A3/2 A/ A | _A G A2 |$ _A _E3- | E z3 | z _A3/2 A/ A |$ _A G A2 | _A G A2 | B c2 B- | %20
+ B _A3/2 A/ A |$ _A G A2 | _A _E3- | E z3 | z _A3- |$ A B3 | _E _e2 _d | c B2 c | _d c2 B |$ %29
+ _A G A2 | G F3- | F/G/4F/4 _E2 _D- | D _A3- |$ A B3 | _E _e2 _d | c/B/- B2 c | _d c2 B |$ %37
+ _A G A2 | G G _A2 | B c2 B- | B ^G _A2 |$ z!mf! _A3/2 A/ A | _A G A2 | _A G A2 | B c2 B- |$ %45
+ B _A A2 | _A G A A- | A/_A/ _E3- |$ E z3 | z _A3/2 A/ A- | A/_A/ G A2 |$ _A G A2 | B c2 B- | %53
+ B _A3/2 A/ A | _A G A2 |$ _A _E3- | E z2 F | G _A3 | _A B3 |$ _E/_e/- e2 _d | c B2 c | _d c2 B | %62
+ _A G A2 |$ G/_A/4G/4 F3- | F _E2 _D- | D _A3 | _A B3 |$ _E _e2 _d | c/B/- B2 c | _d c2 B | %70
+ _A G A2 |$ G G _A2 | B c2 B- | B _A3- | A- A3- |$ A z3 | z z3 | z z3 | z z3 |$ z z3 | z z3 | %81
+ z c3- | c d3 |$ G g2 f | e d2 e | f e2 d | c =B c2 | =B A3- |$ A/=B/4A/4 G2 F- | F c3- | c d3 | %91
+ G/g/- g2 f |$ e d2 e | f e2 d | c =B c2 | =B B c2 | d e2 d- |$ d c3- | c z3 | z z3 | z z3 | %101
+ z z3 |$ z z3 | z z3 | z z3 | z z3 | z z3 |$ z z3 | z z3 | z z3 | z z3 | z z3 | z c3- |$ c- c3- | %114
+ c d3 | c c3- | c4 | z4 | z4 | z4 | z4 |] %121
+V:2
+!mf! z _A/_e/ _a/a/-a/e/ | _A A/_e/ _a/a/-a/e/ | _A A/_e/ _a/a/-a/e/ |$ _A A/_e/ _a/a/- a | %4
+ g _A/_e/ _a/a/-a/e/ | _A A/_e/ _a/a/-a/e/ |$ b _A/_e/ _a/a/-a/e/ | _A A/_e/ _a/a/- a | %8
+ _a a3/2 a/- a | _a b/_e/ a/e/b/e/ |$ _a/_e/ g a2 | b _a'2 g'- | g' _a3/2 a/ a | _a g a2 |$ %14
+ _a _e3- | e _d/_e/ f/_a/_d'/_e'/ | f'/g'/ _a3/2 a/ a |$ _a g a2 | _a g a2 | b c'2 b- | %20
+ b _a3/2 a/ a |$ _a g a2 | _a _e3- | e z2 f | g _a3- |$ a b3 | _e _e'2 _d' | c' b2 c' | %28
+ _d' c'2 b |$ _a g a2 | g f3- | f _e2 _d- | d _a3- |$ a b3 | _e _e'2 _d' | c'/b/- b2 c' | %36
+ _d' c'2 b |$ _a g a2 | g g _a2 | b c'2 b- | b _A _e/_a/-a/e/- |$ e _a3/2 a/ a | _a g a2 | %43
+ _a g a2 | b c'2 b- |$ b _a a2 | _a g a2- | a/_a/ _e3- |$ e _d/_e/ f/_a/_d'/_e'/ | %49
+ f'/g'/ _a3/2 a/ a- | a/_a/ g a2 |$ _a g a2 | b c'2 b- | b _a3/2 a/ a | _a g a2 |$ _a _e3- | %56
+ e z2 f | g _a3 | _a b3 |$ _e/_e'/- e'2 _d' | c' b2 c' | _d' c'2 b | _a g a2 |$ g f3- | f _e2 _d- | %65
+ d _a3 | _a b3 |$ _e _e'2 _d' | c'/b/- b2 c' | _d' c'2 b | _a g a2 |$ g g _a2 | b c'2 b- | %73
+ b _A/_e/ _a/a/-a/e/ | _A A/_e/ _a/a/-a/e/ |$ _A A/_e/ _a/a/-a/e/ | _A A/_e/ _a/a/-a/e/ | %77
+ _A c'2 b | _a _e'2 c' |$ _e' f3 | g _a3 | b e'3 | e' f'3 |$ g g'2 f' | e' d'2 e' | f' e'2 d' | %86
+ c' =b c'2 | =b a3- |$ a g2 f- | f c'3 | c' d'3 | g/g'/- g'2 f' |$ e' d'2 e' | f' e2 d | c =B c2 | %95
+ =B B c2 | d e2 d- |$ d c3 | c d3 | d f3- | f- f3- | f c3 |$ c d3 | d g3- | g- g3- | g c3 | %106
+ c d3- |$ d- d2 c- | c c3- | c- c2 d- | d- d3- | d c3- | c- c g c' |$ g c c2- | c z3 | z c3- | c4 | %117
+ z4 | z4 | z4 | z4 |] %121
+V:3
+!pp! z2 F,,C, F,C,F,C, | F,,2 _E,,B,, _E,B,,E,B,, | _E,,2 _D,,_A,, _D,A,,D,A,, |$ %3
+ _D,,2 _E,,B,, _E,B,,E,B,,- | B,,2 F,,C, F,C,F,C, | F,2 _E,,B,, _E,B,,E,B,, |$ %6
+ _E,2 _D,,_A,, _D,A,, D,2- | D,2 _E,,B,, _E,B,, E,2 | _E,,2 _A,,E,, A,,_E,_A,E, | %9
+ _A,2 B,,4- B,,_E,- |$ E,2 _A,,_D, F,D,F,D, | F,_D,_A,,_E, G,E,G,E, | B,,2 _A,,_E, _A,2 E,A, | %13
+ _E,2 B,,E, G,E,G,E, |$ B,,_E,_D,,_A,, _D,A,,D,A,, | _D,,_A,, D,,6 | _D,,2 _A,,_E,, A,,_E,_A,E, |$ %17
+ _A,,2 B,,_E, G,E,G,E, | B,,_E,_A,,_D, F,D,F,D, | F,_D,_A,,_E, G,E,G,E, | %20
+ B,,_E,_A,,_E,, A,,E,_A,E, |$ _A,_E,B,,E, G,E,G,E,- | E,B,,_D,,_A,, _D,A,,D,A,, | %23
+ _D,,_A,,D,,A,, _D,A,, C,,2- | C,,2 F,,C, F,,C,F,C, |$ F,,C,_E,,B,, G,,B,,-B,,E,,- | %26
+ E,,2 _D,,_A,, D,,A,,F,,A,, | _E,,2 E,,B,, G,,B,,E,,B,, | _E,,B,,F,,C, F,,C,F,,C, |$ %29
+ F,,C,,_E,,B,, E,,B,,G,,B,, | _E,,B,,_D,,_A,, D,,A,,D,,A,, | _D,,2 C,G,, C,G,,B,,F,, | %32
+ B,,F,,F,,C,, _A,,C,,F,,C,, |$ F,,C,,_E,,B,, G,,B,,-B,,E,,- | E,,B,,_D,,_A,, F,,A,,D,,A,, | %35
+ _D,,2 _E,,B,, G,,B,,E,,B,, | _E,,2 F,,C,, F,,C,,F,,C,, |$ F,,C,,_E,,B,, E,,B,,G,,B,, | %38
+ _E,,B,,_D,,_A,, A,,A,,D,,A,,- | A,,_D,,_E,,B,, G,,B,,G,,B,, | _E,,B,,_A,,E,, A,,_E,_A,E, |$ %41
+ _A,_E,_A,,E, A,E,A,E, | _A,2 _A,,_E, A,E,A,E, | _A,,_E,A,,_D, F,D,F,D, | F,_E,_A,,E, G,E,G,E, |$ %45
+ G,_E,_A,,E, _A,E,A,E, | _A,,_E,B,,E, G,E,G,E, | B,,_E,_D,,_A,, _D,A,,D,A,, |$ _D,,_A,, D,,6 | %49
+ _D,,2 _A,_E,, _A,,_E,A,E, | _A,_E,B,,E, G,E,G,E, |$ B,,_E,_A,,_D, F,D,F,D, | %52
+ F,_D,_A,,_E, G,E,G,E, | B,,_E,_A,,E, _A,E,A,E, | _A,,_E,B,, E,2 E,G,E,- |$ %55
+ E,B,,_D,,_A,, _D,A,,D,A,, | _D,_A,,_D,,A,, D,A,,C,,C,- | C,C,,F,,C, F,,_A,,C,F, | %58
+ C,F,,_E,,B,, G,,B,,-B,,E,,- |$ E,,2 _D,,_A,, F,,A,,D,,A,, | _D,,2 _E,,B,, G,,B,,E,,B,, | %61
+ _E,,2 F,,C, _A,,C,F,,C, | F,,C,_E,,B,, G,,B,,G,,B,, |$ _E,,B,,_D,,_A,, D,,A,,F,,B,, | %64
+ _D,,_A,,C,G,, C,G,,B,,F,, | B,,F,,F,,C,, F,,C,F,C, | F,,C,_E,,B,, G,,B,,-B,,E,,- |$ %67
+ E,,B,,_D,,_A,, F,,A,,_E,,A,, | _D,,2 _E,,B,, G,,B,,E,,B,, | _E,,B,,F,,C, _A,,C,F,,C, | %70
+ F,,C,_E,,B,, E,,B,,E,,B,, |$ _E,,B,,_D,,_A,, D,,A,,D,,A,, | _D,,_A,,_E,,B,, G,,B,,E,,B,, | %73
+ _E,,B,,F,,C, F,C,F,C, | F,,C,_E,,B,, G,B,,G,B,, |$ _E,B,,_D,,_A,, _D,A,,D,A,, | %76
+ _D,,2 _E,,B,, G,B,,_E,B,, | _E,,2 F,,C, F,C,F,C, | F,,C,_E,,B,, G,B,,_E,B,, |$ %79
+ _E,,B,,_D,,_A,, _D,A,,F,A,, | _D,_A,,C,,G,, C,G,,B,,F,, | B,,F,,A,,E,, C,E,,A,,E,, | %82
+ C,E,,G,,D,, =B,,D,,G,,D,, |$ G,,D,,F,,C, A,,C,A,,C, | F,,C,G,,D,, =B,,D,,G,,D,, | %85
+ G,,D,,A,,E,, =B,,C,B,,A,, | A,,2 G,,D,, =B,,D,,B,,D,, | G,,D,,F,,C, A,,C,A,,C, |$ %88
+ F,,C,E,,=B,, E,,2 D,,A,, | D,,2 A,,E,, =B,,E,,B,,E,, | A,,E,,G,,D,, A,,D,,=B,,D,, | %91
+ G,,D,,F,,C, A,,C,A,,C, |$ F,,C,G,,D,, =B,,D,,G,,D,, | G,,D,,A,,E,, =B,,E,,C,E,, | %94
+ A,,E,,G,,D,, =B,,D,,B,,D,, | G,,D,,F,,C, A,,C,A,,C, | F,,C,G,,D,, =B,,D,,G,,D,, |$ %97
+ G,,2 A,,2 E,A,E,A, | A,,E,G,,D, G,D,=B,D, | G,,D,F,,C, F,C,G,C, | F,C,F,,C, F,C,G,C, | %101
+ F,C,A,,E, A,E,A,E, |$ A,,E,G,,D, G,D,=B,D, | G,,D,F,,C, F,C,F,C, | G,C,F,C, G,C,F,C, | %105
+ F,,2 A,,E,, A,,E,,A,,E,, | A,,2 G,,D,, G,,D,,=B,,D,, |$ G,,D,, A,,6- | A,,2 F,,C, F,,C,G,,C, | %109
+ A,,C,E,,=B,, E,B,, G,,2- | G,,2- G,,6- | G,,2 C,,G,, C,G,,-G,,C, | G,,2 D,G,, =B,,G,,B,,G,, |$ %113
+ =B,,G,,C,F,, A,,F,,- F,,2 | A,,2 C,G,, =B,,G,, B,,2- | B,,2 C,G,, C,G,,-G,,C, | [G,,C,E,]8 | z8 | %118
+ z8 | z8 | z8 |] %121

@@ -1,0 +1,65 @@
+X:1
+T:There’ll Be No Shadows
+C:Lewis Edgar Jones
+Z:Public Domain
+Z:Courtesy of the Cyber Hymnal™
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=92
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ B, | [B,E]>[B,E] [B,E]>[B,F] [EG]>[EG] [EG]>E | [EG]>[FA] [GB]>[Ac] [GB]3 [FB] |$ %3
+w: 1.~Tho’|dark the path my feet may tread, It|is a joy to know There’ll|
+w: 2.~Life’s|bright- est day may have its clouds, But|still our hearts should sing, There’ll|
+w: 3.~We’re|march- ing home- ward to a land Where|wea- ry feet may rest; There’ll|
+ E2 [DF]2 [EG] [GB]3 | [Ac]>[GB] [GB]<[EG] [DF]3 [FB] | E>E [B,E]>[B,F] [EG]>[EG] [EG]>E |$ %6
+w: be no sha- dows|On the oth- er side; We|should not fear the wild- est storm, But|
+w: be no sha- dows|On the oth- er side; ’Twill|not be long till cares are o’er And|
+w: be no sha- dows|On the oth- er side; No|pain or sor- row e’er can touch The|
+ [EG]>[FA] [GB]>[Ac] [GB]3 [AB] | [Be]2 [Ac]2 [GB] [EG]3 | [DF]>E [CE]<[CE] [B,E]3 ||"^Refrain" B | %10
+w: sing as on we go, There’ll|be no sha- dows|On the oth- er side.||
+w: we are with the King; There’ll|be no sha- dows|On the oth- er side.|There’ll|
+w: re- gions of the blest; There’ll|be no sha- dows|On the oth- er side.||
+ [Ge]2 [Ge]2 [Ac] [GB]3 |$ [EG]4 [DF] E3 | B,>[B,E] [B,E]>[B,F] [EG]>[GB] [Ac]>[GB] | %13
+w: |||
+w: be no sha- dows,|no sha- dows,|Je- sus is the sun- shine of that|
+w: |||
+ [EG]2 [EF]2 [DF]3 B | [Ge]2 [Ge]2 [Ac] [GB]3 |$ [EG]4 [DF] E3 x3 | %16
+w: |||
+w: land so fair; There’ll|be no sha- dows,|no sha- dows,|
+w: |||
+ B,>[B,E] [B,E]>[B,F] [EG]<E [DF]>[DF] | E4- [B,E]2 |] %18
+w: ||
+w: Pain and death can nev- er en- ter|there. *|
+w: ||
+V:2
+ B, | x15/2 E/ | x8 |$ E2 x6 | x8 | E>E x5 E/ x/ |$ x8 | x8 | x3/2 E/ x5 || B | x8 |$ x5 E3 | %12
+ B,3/2 x13/2 | x7 B | x8 |$ x5 E3 x3 | B,3/2 x3/2 E3/2 x7/2 | EB,C>C x2 |] %18
+V:3
+ [E,G,] | [E,G,]>[E,G,] [E,G,]>[E,A,] [E,B,]>[E,B,] [E,B,]>[E,G,] | %2
+w: ~|~ ~ ~ ~ ~ ~ ~ ~|
+ [E,B,]>[E,B,] [E,E]>[E,E] [E,E]3 [D,B,] |$ [E,G,]2 [B,,B,]2 [E,B,] [E,E]3 | %4
+w: ~ ~ ~ ~ ~ ~|~ ~ ~ ~|
+ [E,E]>[E,E] [E,E]<[E,B,] [B,,B,]3 [D,A,] | %5
+w: ~ ~ ~ ~ ~ ~|
+ [E,G,]>[E,G,] [E,G,]>[E,A,] [E,B,]>[E,B,] [E,B,]>[E,G,] |$ %6
+w: ~ ~ ~ ~ ~ ~ ~ ~|
+ [E,B,]>[E,B,] [E,E]>[E,E] [E,E]3 [F,D] | [G,E]2 [A,E]2 [E,E] [E,B,]3 | %8
+w: ~ ~ ~ ~ ~ ~|~ ~ ~ ~|
+ [B,,A,]>[E,G,] [E,A,]<[E,A,] [E,G,]3 || [B,,B,] | [E,B,]2 [E,B,]2 [E,E] [E,E]3 |$ %11
+w: ~ ~ ~ ~ ~|~|~ ~ ~ ~|
+ B,4 [B,,A,] [E,G,]3 | [E,G,]>[E,G,] [E,G,]>[E,A,] [E,B,]>[E,E] [E,E]>[E,E] | %13
+w: there will be|no sha- dows, ~ ~ ~ ~ ~|
+ [F,=A,]2 [F,A,]2 [B,,B,]3 [B,,B,] | [E,B,]2 [E,B,]2 [E,E] [E,E]3 |$ B,4 E,E,E,[B,,A,] [E,G,]3 | %16
+w: ~ ~ ~ ~|~ ~ ~ ~|~ ~ ~ there will be|
+ [E,G,]>[E,G,] [E,G,]>[E,A,] [E,B,]<[E,G,] [B,,A,]>[B,,A,] | G,G, A,>A, [E,G,]2 |] %18
+w: no sha- dows, ~ ~ ~ ~ ~|~ ~ ~ nev- en-|
+V:4
+ x | x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 | x7 || x | x8 |$ E,E,E,E, x4 | x8 | x8 | x8 |$ E, x10 | %16
+ x8 | E,4- x2 |] %18

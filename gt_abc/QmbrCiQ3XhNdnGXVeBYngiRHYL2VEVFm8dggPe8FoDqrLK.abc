@@ -1,0 +1,18 @@
+X:1
+T:Father Kelly's
+L:1/8
+M:4/4
+I:linebreak $
+K:D
+V:1 treble 
+V:1
+|: de | f2 df edBd | Addc defa | g2 ef gfed | Beed efge | f2 df edBd |$ Addc defg | a2 fa a2 fa | %8
+ gece d2 :: fg | a2 fa dafa | a2 fa dafa | fBBB edcB |$ ABcd edcB | a2 fa dafa | a2 fa dafa | %16
+ g2 eg f2 df | edce d2 :| B2 GB AGEG |$ DGGF G2 AB | c2 AB cBAG | EAAG FDGA | B2 GB AGEG | %23
+ DGGF GABc | d2 Bd gdBd |1$ cAFA G3 A :|2 cAFA GABc |: d2 Bd gdBd | d2 Bd gdBd | e2 ce agfe |$ %30
+ defg agfe | d2 Bd gdBd | d2 Bd gdBd | c2 Ac BAGB |1 AGFA GABc :|2 AGFA G3 A ||$ %36
+[K:G] (3BcB GB AG (3EFG | DGGF G2 AB | (3cdc AB cBAG | EAAG FDGA | B2 GB AGEG |$ D G3 G2 (3ABc | %42
+ (3ded Bd gd (3Bcd | cAFA G2 :| d2 (3Bcd gd (3Bcd | (3ddd Bd gdBd |$ e2 ce agfe | defg ag (3gfe | %48
+ dcd B d g2 Bd | dc (3Bcd gdBd | c2 Ac BA (3GAB |$ AGFA G2 :| GA | B2 GB AGEG | DGGF G2 AB | %55
+ c2 AB cBAG | EGAG FDGA | B2 GB AGEG |$ DGGF G2 Bc | d2 Bd gdBd | cAFA G2 :: Bc | d2 Bd gdBd | %63
+ d2 Bd gdBd | e2 ce agfe |$ defg agfe | %66

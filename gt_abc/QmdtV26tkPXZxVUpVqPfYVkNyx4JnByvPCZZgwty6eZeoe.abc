@@ -1,0 +1,14 @@
+X:1
+T:YE JACOBITES BY NAME
+C:Traditional
+L:1/8
+Q:1/8=80
+M:4/4
+I:linebreak $
+K:C
+V:1 treble 
+V:1
+|: d |{g} e>f{g}ed{gBG} B2- Bg |{f} g2{a} fe{gfg} f2- fd |{g} e>f{g}ed{gBG} B2{g} B<d | %4
+{gef} e4{A} e2- e :|$ A |{Gdc} d2{gdc} d>e{g} f2{g} fd |{g} c>d{gef}ec{G} A2- A>f | %8
+{g} f2{gdc} B{d}c{g}B/{d}A3/2{g} A2 |${gBd} B2{Gdc} d2{gef} e2- eA |{Gdc} d2{gdc} d>e{g} f2{g} fd | %11
+{g} c>d{gef}ec{G} A2- A>f |${g} f2{gdc} B{d}c{g}B/{d}A3/2{g} A2 |{g} B4{GdGe} B3 |] %14

@@ -1,0 +1,43 @@
+X:1
+T:Piano
+C:Ethan Liu
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+L:1/4
+V:2 bass 
+V:4 bass 
+V:1
+!p! z8 | ee e2 (3efe !>!b2 | (3bc'b (3efe (3^ABA !>!E2 |:"_cresc." !turn!AA A2 (3A_BA !>!e2 |$ %4
+ (3efe (3^GAG (3EFE _A,2 |!mp! A/>G/A !>!A2 e/>d/e !>!e2 | %6
+ (3.e.e.e (3.A.A.A (3.A/!>!_B3/2.A .e2 |1$ _BB B2 (3B_cB ^f2 | %8
+!f!{/^a} !>![c^f=a]2"_dim."{/a} !>![B=f^g]2!8vb(!{/^G} !>![^F,C^D]2{/D} !>![E,^A,^C]2!8vb)! | %9
+{/b} !>!c'2 .e2{/B} !>!c2 .E2 |$!f!{/b} !>!c'2 .e2{/B} !>!c2 .C2 | %11
+"_cresc." !turn!AA A2 (3A_BA !>!e2 | (3efe (3^GAG (3EFE _A,2 |$ %13
+ !>![_A,_G]!>![B,=G]!>![^C^G] ^c4- c | (3^GAG (3EFE z2"_dim." (3bc'b | %15
+ (3efe (3^ABA !>!E2!pp! !turn!=AA |$ A4"_cresc." e4 :|2!p! (3e^c=c (3BcB (3G_AG C2 || %18
+!f! (3e^c=c (3BcB"_dim." (3BcB (3BcB |$!mf! (3e^c=c (3BcB (3BcB (3BcB |: %20
+"_dim." (3BcB (3BcB (3BcB (3BcB :|$!pp! (3G_AG (3a^fc (3^g=fB (3d^c=c | d6 !>!d'/ z/ z |] %23
+V:2
+!ped! E,,B,,E,B,, G,B,,E,B,,!ped-up! |!ped! E,,B,,E,B,, G,B,,E,B,,!ped-up! | %2
+!ped! A,,E,A,E, A,E,E,A,,!ped-up! |:!ped! A,,E,A,E, _B,E,B,E,!ped-up! |$ %4
+!ped! ^C,,^G,,^C,G,, E,A,,C,G,,!ped-up! |!ped! A,,E,A,E, A,,E,CE,!ped-up! | E,4 A,,4 |1$ %7
+!ped! ^D,,^F,,^D,F,, ^F,F,,F,F,,!ped-up! | %8
+ z/ !>!C,/.^F,/.A,/ z/ !>!B,,/.=F,/.^G,/ z/ !>!.^F,,/.C,/^D,/ z/ !>!E,,/.^C,/.^E,/ | %9
+!ped!{/^E,} =E,E, E,2 (3E,F,E, C2!ped-up! |$!ped!{/^E,} =E,E, E,2 (3E,F,E, C,,2!ped-up! | %11
+!ped! A,,E,A,E, _B,E,B,E,!ped-up! |!ped! ^C,,^G,,^C,G,, E,A,,C,G,,!ped-up! |$ %13
+ !>!_A,,!>!^B,,!>!C, z ^C,,2- C,,^G,, |!ped! ^C,^G,,E,A,, C,G,,!ped-up!!ped!A,,E, | %15
+ A,E,A,E, E,A,,!ped-up!A,,E, |$ A,,2!ped! (3A,,_B,,A,, _B,E,B,E,!ped-up! :|2 %17
+!ped! E,_A,,D,=A,, ^B,,E,, E,,2!ped-up! ||!ped! E,_A,,D,=A,, D,A,,D,A,,!ped-up! |$ %19
+!ped! E,_A,,D,=A,, D,A,,D,A,,!ped-up! |:!ped! D,A,,D,A,, D,A,,D,A,,!ped-up! :|$ %21
+!ped! ^B,E, (3A,_B,A, (3G,A,G, D,2-!ped-up! | D,6 !>!D/ z/ z |] %23
+V:3
+ x4 | x4 | x4 |: x4 |$ x4 | x4 | x4 |1$ x4 | x2!8vb(! x2!8vb)! | x4 |$ x4 | x4 | x4 |$ x4 | %14
+ x2 _A,2- | A,4 |$ x4 :|2 x4 || x4 |$ x4 |: x4 :|$ x C3 | x4 |] %23
+V:4
+ x8 | x8 | x8 |: x8 |$ x8 | x8 | x8 |1$ x8 | x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 | x8 |$ x8 :|2 %17
+ x8 || x8 |$ x8 |: x8 :|$ ^B,,E,, E,,6 | x8 |] %23

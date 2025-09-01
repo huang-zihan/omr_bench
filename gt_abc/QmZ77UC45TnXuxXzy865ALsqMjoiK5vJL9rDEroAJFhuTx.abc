@@ -1,0 +1,54 @@
+X:1
+T:Io ti voria
+T:fra Libro de villanelle, moresche, et altre canzoni, 1581
+T:Orlando di Lasso
+%%score [ 1 2 3 4 ]
+L:1/4
+Q:1/4=144
+M:2/2
+I:linebreak $
+K:F
+V:1 treble nm="Cantus"
+V:2 treble nm="Altus"
+V:3 treble-8 nm="Tenort"
+V:4 bass nm="Bassus"
+V:1
+ A2 c B | A2 G2 | ^F2 G2 | B2 A2 | G4 | A4 | A2 c B | A2 G2 | ^F2 G2 | B2 A2 | G4 | A2 z G |$ %12
+w: Io~ ti~ vor-|ria~ con-|tar~ la~|pe- na~|mi-|a,~|Io~ ti~ vor-|ria~ con-|tar~ la~|pe- na~|mi-|a,~ Ma~|
+ G G ^F F | G2 A G- | G G ^F2 | G2 z G | G G ^F F | G2 A G- | G G ^F2 | G2 z G |$ A2 B B- | %21
+w: non~ ce~ ba- sta-|ria- no~ mil-|* le~ me-|si,~ Ma~|non~ ce~ ba- sta-|ria- no~ mil-|* le~ me-|si,~ Ti~|di- co:~ voi~|
+ B B A2 | A2 z =B | c c c =B | c2 z A | A d c B | A2 z F | B2 A2 | G2 ^F2 | G2 z G |$ A2 B B- | %31
+w: _ me~ be-|ne?~ Tu~|mi~ ri- spon- di:~|si;~ Di-|co:~ fà~ que- sto~|mò!~ Tu~|di- ci:~|non~ si~|può,~ Ti~|di- co:~ voi~|
+ B B A2 | A2 z =B | c c c =B | c2 z A | A d c B | A2 z F | B2 A2 | G2 ^F2 | G4- |$ G4 |] %41
+w: _ me~ be-|ne?~ Tu~|mi~ ri- spon- di:~|si;~ Di-|co:~ fà~ que- sto~|mò!~ Tu~|di- ci:~|non~ si~|può.~|_|
+V:2
+ F2 F F | F2 E2 | D2 D2 | G2 F2- | F2 E2 | F4 | F2 F F | F2 E2 | D2 D2 | G2 F2- | F2 E2 | F2 z E |$ %12
+w: Io~ ti~ vor-|ria~ con-|tar~ la~|pe- na~|_ mi-|a,~|Io~ ti~ vor-|ria~ con-|tar~ la~|pe- na~|_ mi-|a,~ Ma~|
+ D D D D | E2 F D- | D _E D2 | D2 z E | D D D D | E2 F D- | D _E D2 | D2 z D |$ F2 F F- | F G E2 | %22
+w: non~ ce~ ba- sta-|ria- no~ mil-|* le~ me-|si,~ Ma~|non~ ce~ ba- sta-|ria- no~ mil-|* le~ me-|si,~ Ti~|di- co:~ voi~|_ me~ be-|
+ ^F2 z G | A G A G | G2 z F | F F F D | F2 z D | F2 F2 | E2 D2 | D2 z D |$ F2 F F- | F G E2 | %32
+w: ne?~ Tu~|mi~ ri- spon- di:~|si;~ Di-|co:~ fà~ que- sto~|mò!~ Tu~|di- ci:~|non~ si~|può,~ Ti~|di- co:~ voi~|_ me~ be-|
+ ^F2 z G | A G A G | G2 z F | F F F D | F2 z D | F2 F2 | E2 D2 | D4- |$ D4 |] %41
+w: ne?~ Tu~|mi~ ri- spon- di:~|si;~ Di-|co:~ fà~ que- sto~|mò!~ Tu~|di- ci:~|non~ si~|può.~|_|
+V:3
+ c2 A d | c2 c2 | A2 B2 | _e2 c2 | c4 | c4 | c2 A d | c2 c2 | A2 B2 | _e2 c2 | c4 | c2 z c |$ %12
+w: Io~ ti~ vor-|ria~ con-|tar~ la~|pe- na~|mi-|a,~|Io~ ti~ vor-|ria~ con-|tar~ la~|pe- na~|mi-|a,~ Ma~|
+ B B A A | c2 c =B- | B c A2 | =B2 z c | B B A A | c2 c =B- | B c A2 | =B2 z B |$ c2 d d- | %21
+w: non~ ce~ ba- sta-|ria- no~ mil-|* le~ me-|si,~ Ma~|non~ ce~ ba- sta-|ria- no~ mil-|* le~ me-|si,~ Ti~|di- co:~ voi~|
+ d d ^c2 | d2 z d | f e f d | e2 z c | c B A B | c2 z B | d2 c2 | c2 A2 | =B2 z B |$ c2 d d- | %31
+w: _ me~ be-|ne?~ Tu~|mi~ ri- spon- di:~|si;~ Di-|co:~ fà~ que- sto~|mò!~ Tu~|di- ci:~|non~ si~|può,~ Ti~|di- co:~ voi~|
+ d d ^c2 | d2 z d | f e f d | e2 z c | c B A B | c2 z B | d2 c2 | c2 A2 | =B4- |$ B4 |] %41
+w: _ me~ be-|ne?~ Tu~|mi~ ri- spon- di:~|si;~ Di-|co:~ fà~ que- sto~|mò!~ Tu~|di- ci:~|non~ si~|può.~|_|
+V:4
+ F,2 F, B,, | F,2 C,2 | D,2 G,2 | _E,2 F,2 | C,4 | F,,4 | F,2 F, B,, | F,2 C,2 | D,2 G,2 | %9
+w: Io~ ti~ vor-|ria~ con-|tar~ la~|pe- na~|mi-|a,~|Io~ ti~ vor-|ria~ con-|tar~ la~|
+ _E,2 F,2 | C,4 | F,,2 z C, |$ G,, G,, D, D, | C,2 F, G,- | G, C, D,2 | G,,2 z C, | G,, G,, D, D, | %17
+w: pe- na~|mi-|a,~ Ma~|non~ ce~ ba- sta-|ria- no~ mil-|* le~ me-|si,~ Ma~|non~ ce~ ba- sta-|
+ C,2 F, G,- | G, C, D,2 | G,,2 z G, |$ F,2 B,, B,- | B, G, A,2 | D,2 z G, | F, C, F, G, | %24
+w: ria- no~ mil-|* le~ me-|si,~ Ti~|di- co:~ voi~|_ me~ be-|ne?~ Tu~|mi~ ri- spon- di:~|
+ C,2 z F, | F, B,, F, G, | F,2 z B,, | B,,2 F,,2 | C,2 D,2 | G,,2 z G, |$ F,2 B,, B,- | B, G, A,2 | %32
+w: si;~ Di-|co:~ fà~ que- sto~|mò!~ Tu~|di- ci:~|non~ si~|può,~ Ti~|di- co:~ voi~|_ me~ be-|
+ D,2 z G, | F, C, F, G, | C,2 z F, | F, B,, F, G, | F,2 z B,, | B,,2 F,,2 | C,2 D,2 | G,,4- |$ %40
+w: ne?~ Tu~|mi~ ri- spon- di:~|si;~ Di-|co:~ fà~ que- sto~|mò!~ Tu~|di- ci:~|non~ si~|può.~|
+ G,,4 |] %41
+w: _|

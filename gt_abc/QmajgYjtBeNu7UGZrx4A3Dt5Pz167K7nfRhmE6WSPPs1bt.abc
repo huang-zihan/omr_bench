@@ -1,0 +1,118 @@
+X:1
+T:Yet, Sweet, take heed - Wilbye
+%%score { 1 | 2 } 3 4 5
+L:1/4
+Q:1/4=126
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Soprano I" snm="S"
+V:2 treble 
+V:3 treble nm="Alto" snm="A"
+V:4 treble-8 nm="Tenor" snm="T"
+V:5 bass nm="Bass" snm="B"
+V:1
+ z4 | z2"^Yet, Sweet, take heed"!p! d2 | B c A2 | z4 | z2 z"^John Wilbye\n (1574-1638)" =f |$ %5
+w: |Yet,|sweet, take heed,||all|
+[M:4/4] e d d ^c | d4 | z4 | z4 | z2 d2- | d c c2- |$ c c B2 | A4 | G3 d/c/ | B3/2 A/ G2 | %15
+w: sweets are hard to|get;|||Sting|* not, sting|* not her|soft|lips; Oh, be-|ware of that,|
+ z c/B/ A3/2 G/ |$ F2 z"^cresc." f/_e/ | d3/2 c/ B2 | z g/f/ _e3/2 d/ | c2!p! f2- | f2 d2- |$ %21
+w: Oh, be- ware of|that, Oh, be|ware of that,|Oh, be- ware of|that, Oh,|* Oh,|
+ d c c2- | c2 B2 | A4 | z!f! d B _e | (d/c/d/_e/ d) c | B2 B B/A/ |$ G2 c c/B/ | A2 d d/c/ | %29
+w: * be- ware|* of|that,|For if one|flam\- * * * * ing|dart come from her|eye, come from her|eye, come from her|
+ B2 A2 | G A B c |$ d2!p! B2- | B A/G/ A A | G2 g2- | g f/_e/ f2- |$ f _e/d/ c c | d4 | z4 | z4 | %39
+w: eye, Was|ne- ver dart so|sharp, ah,|* then you die, you|die, ah,|* then you die,|* then you die, you|die!|||
+ z4 |$ z4 | z4 | z4 | z4 |$ z4 | z4 | z4 | z4 |$ z4 | z4 | z!f! f d g | (f/_e/f/g/ f3/2) e/ | %52
+w: |||||||||||For if one|flam\- * * * * ing|
+ d2 d d/c/ |$ B2 _e e/d/ | c2 f f/_e/ | d3 d | B c d e |$ ^f2!p! g2- | g f/_e/ f2- | f _e/d/ e2- | %60
+w: dart come from her|eye, come from her|eye, come from her|eye, Was|ne- ver dart so|sharp, ah,|* then you die,|* then you die,|
+ e d/c/ d c- |$ c B/A/ B A/G/ | A3 A | G4 | z4 |!f! d4 | c B A G |$ ^F3 F | G A B c | d4- | d4 | %71
+w: * then you die, ah,|* then you die, then you|die, you|die,||was|ne- ver dart so|sharp, was|ne- ver dart so|sharp,||
+ d4 | z4 |$ z2 g2 | d3 c |!>(! =B4!>)! | z4 |!p! d4- | d2 c =B | A2 z2 |$ d4 | A3 G | ^F2 z2 | %83
+w: ||ah,|then you|die,||ah,|* then you|die,|ah,|then you|die,|
+ A2 c2- | c2 =B2 | A2 A2- | A G G2 |$ ^F2 z2 |!pp! d4- |[Q:1/4=124] d2[Q:1/4=122] c[Q:1/4=120] =B | %90
+w: ah, then|* you|die, ah,|* then you|die,|ah,|* then you|
+[Q:1/4=117] A3[Q:1/4=114] G- |[Q:1/4=112] G[Q:1/4=111] (^F/[Q:1/4=111]E/)[Q:1/4=109] F2 | %92
+w: die, ah,|* then * you|
+[Q:1/4=108] !fermata!G4 |] %93
+w: die.|
+V:2
+!p! d2 B c | A2 z2 | z3 f | e d d ^c | d2 z2 |$[M:4/4] z4 | z2 d2- | d c c2- | c c B2 | A4 | G4 |$ %11
+w: Yet, sweet, take|heed,|all|sweets are hard to|get.||Sting|* not, sting|* not her|soft|lips;|
+ z4 | z4 | z d/c/ B3/2 A/ | G2 z g/f/ | _e3/2 d/ c2 |$ z"^cresc." f/_e/ d3/2 c/ | B2 z B/A/ | %18
+w: ||Oh, be- ware of|that, Oh, be|ware of that,|Oh, be- ware of|that, Oh be-|
+ G _e/d/ c3/2 B/ | A4 | z2!p! f2- |$ f2 _e2 | d2 d2 | c4 | z!f! f d g | (f/_e/f/g/ f3/2) e/ | %26
+w: ware, Oh, be- ware of|that,|Oh,|* be-|ware of|that;|For if one|flam\- * * * * ing|
+ d2 d d/c/ |$ B2 _e e/d/ | c2 f f/_e/ | d3 d | B c d e |$ ^f2!p! g2- | g f/_e/ f2- | f _e/d/ e2- | %34
+w: dart come from her|eye, come from her|eye, come from her|eye, Was|ne- ver dart so|sharp, ah,|* then you die,|* then you die,|
+ e d/c/ d c/B/ |$ A B B A | B4 | z4 | z4 | z4 |$ z4 | z4 | z4 | z4 |$ z4 | z4 | z4 | z4 |$ z4 | %49
+w: * then you die, then you|die, ah, then you|die!|||||||||||||
+ z4 | z!f! d B _e | (d/c/d/_e/ d) c | B2 B B/A/ |$ G2 c c/B/ | A2 d d/c/ | B2 A2 | G A B c |$ %57
+w: |For if one|flam\- * * * * ing|dart come from her|eye, come from her|eye, come from her|eye, Was|ne- ver dart so|
+ d2!p! B2- | B A/G/ A2- | A G/F/ G2- | G F/_E/ D =E |$ ^F D G2- | G (^F/E/) F2 | G2 z2 | z4 | z4 | %66
+w: sharp, ah,|* then you die,|* then you die,|* then you die, ah,|then you die,|* then * you|die,|||
+ z4 |$!f! d4 | B c d e | ^f2 g2- | g2 ^f e | ^f2 g2 | d3 c |$ =B4- | B2 A2 |!>(! G4!>)! |!p! d4- | %77
+w: |was|ne- ver dart so|sharp, ah,|* then you|die, ah,|then you|die,|* you|die,|ah,|
+ d2 c =B | A4 | d4 |$ A3 G | ^F2 z2 | A4 | c3 =B | A2 G2 | ^F2 z2 | d4- |$ d2!pp! c =B | A3 G | %89
+w: * then you|die.|ah,|then you|die,|ah,|then you|die, you|die,|ah,|* then you|die, you|
+ ^F2 D2 | d4 | d4 | !fermata!=B4 |] %93
+w: die, ah,|then|you|die.|
+V:3
+ z!p! ^F G A | ^F3 D | D _E D A | A F E E | ^F3 D |$[M:4/4] E (=F/G/) A A | A2 ^F2 | G4 | A2 (G2- | %9
+w: Yet, sweet, take|heed, yet,|sweet, take heed, all|sweets are hard to|get, all|sweets are * hard to|get; Sting|not|her soft|
+ G2 ^F2) | G4 |$ A2 (G2- | G2 ^F2) | G G,/A,/ B,3/2 C/ | D2 _E2- | E2"^cresc." F2- |$ F2 F2 | %17
+w: |lips,|her soft||lips; Oh be- ware of|that, Oh,|* be\-|* ware|
+ F2 G2- | G2!p! G3/2 B/ | F2 F2 | F4 |$ z4 | z4 | z4 |!f! B2 B _E | B3 F | B,4 |$ _E E/D/ C2 | %28
+w: of that,|* Oh, be-|ware of|that;||||For if one|flam- ing|dart|come from her eye,|
+ F F/_E/ D D | G3/2 G/ ^F D | G4 |$!p! D4- | D4 | _E3 D/C/ | B, B2 A/G/ |$ F2 F2 | B,4 | %37
+w: come from her eye, Was|ne- ver dart so|sharp,|ah,||ah, then you|die, ah, then you|die, you|die!|
+ z!f! F D G | (F/_E/F/G/ F3/2) E/ | D2 D D/C/ |$ B,2 _E E/D/ | C2 F F/_E/ | D3 D | B, C D E |$ %44
+w: For if one|flam\- * * * * ing|dart come from her|eye, come from her|eye, come from her|eye, Was|ne- ver dart so|
+ ^F2!p! G2- | G F/_E/ F2- | F _E/D/ E2- | E D/C/ D C/B,/ |$ A, B, B, A, | B,4 |!f! B2 B _E | B3 F | %52
+w: sharp, ah,|* then you die,|* then you die,|* then you die, then you|die, ah, then you|die.|For if one|flam- ing|
+ B,4 |$ _E E/D/ C2 | F F/_E/ D2 | G2 ^F D | G2 G2 |$ D4 |!p! D3 C/B,/ | C3 B,/A,/ | B,3 C |$ D4 | %62
+w: dart|come from her eye,|come from her eye,|Was ne- ver|dart so|sharp,|ah, then you|die, then you|die, ah,|then|
+ D4 | G,2 z!f! D | D C D2- | D2 G2 | _E D C B, |$ A,2 D2 | D3 G | A A =B2- | B2 A G | A2 G2 | %72
+w: you|die,~ was|ne- ver dart,|* was|ne- ver dart so|sharp, was|ne- ver|dart so sharp,|* then you|die, ah,|
+ G2 ^F2 |$ G4 | z4 | z2!p! =B2- | B2 A G | A2 G2 | ^F2 D2- | D2 =B, C |$ D4 | z4 | z4 | z4 | z4 | %85
+w: then you|die,||ah,|* then you|die, you|die, ah,|* then you|die,|||||
+ D2 =F2- | F2 E2 |$ D2!pp! D2- | D2 C =B, | A,3 (=B,/C/) | D4 | D4 | !fermata!D4 |] %93
+w: ah, then|* you|die, ah,|* then you|die ah, *|then|you|die.|
+V:4
+!p! d2 g c | d3 ^f | g a !courtesy!=f d | ^c d A A | d3 a |$[M:4/4][K:treble-8] a a/ (g f/) e | %6
+w: Yet, sweet, take|heed, yet,|sweet, take heed, all|sweets are hard to|get, all|sweets are hard * to|
+ ^f2 d2 | e4 | (^f2 g2) | d4 | G4 |$ z A (B c) | d3 d/c/ | B3/2 A/ G2 | B4 |"^cresc." c4 |$ d4 | %17
+w: get; Sting|not|her *|soft|lips,|her soft *|lips; Oh, be-|ware of that,|Oh,|be-|ware|
+ d4 | _e4 | z2!p! c2 | d2 B2 |$ c2 c2 | d3 f | f4 | z4 | z4 | z4 |$ z4 | z4 | z4 | z4 |$ z4 | z4 | %33
+w: of|that,|be-|ware of|that, be-|ware of|that;||||||||||
+ z4 | z4 |$ z4 | z4 | z!f! d B _e | (d/c/d/_e/ d) c | B2 B B/A/ |$ G2 c c/B/ | A2 d d/c/ | B2 A2 | %43
+w: ||||For if one|flam\- * * * * ing|dart come from her|eye, come from her|eye, come from her|eye, Was|
+ G A B c |$ d2!p! B2- | B A/G/ A A | G2 g2- | g f/_e/ f2- |$ f _e/d/ c c | d4 | z4 | z4 | z4 |$ %53
+w: ne- ver dart so|sharp, ah,|* then you die, you|die, ah,|* then you die,|* then you die, you|die.||||
+ z4 | z4 | z4 | z4 |$ z4 | z4 | z4 | z4 |$ z4 | z4 | z!f! d c B | A G ^F2 | G4- | G4 |$ d2 A2 | %68
+w: ||||||||||Was ne- ver|dart so sharp,|was||ne- ver|
+ B2 B2 | A2 G2 | d4- | d2 =B2 | A2 A2 |$ G2 G2 | A4 |!p! (=B c d2) | d4 | z4 | z4 | ^f2 g2- |$ %80
+w: dart so|sharp, ah,|then|* you|die, you|die, ah,|then|you * *|die,|||ah, ah,|
+ g2 ^f e | d2 ^f2- | f2 e d | e2 e2- | e d d2 | d2 d2- | d2 c =B |$ A3!pp! G | ^F3 G | A3 G- | %90
+w: * then you|die, ah,|* then you|die, ah,|* then you|die, ah,|* then you|die, you|die, you|die, then|
+ G (^F/E/) F _B | A2 A2 | !fermata!G4 |] %93
+w: * you * die, ah,|then you|die.|
+V:5
+ z4 | z2!p! D,2 | G, C, D,2 | z4 | z2 D2 |$[M:4/4] C B, A, A, | D,4 | z4 | z4 | D,4 | E,3 E, |$ %11
+w: |Yet,|sweet, take heed,||all|sweets are hard to|get;|||Sting|not, sting|
+ ^F,2 G,2 | D,4 | G,4 | z G,/F,/ _E,3/2 D,/ | C,2 z"^cresc." F,/_E,/ |$ D,3/2 C,/ B,,2 | %17
+w: not her|soft|lips;|Oh, be- ware of|that, Oh, be-|ware of that,|
+ z B,/A,/ G,3/2 F,/ | _E,4 |!p! F,4 | B,,4 |$ A,,4 | B,,4 | F,4 | z4 | z4 | z4 |$ z4 | z4 | z4 | %30
+w: Oh, be- ware of|that,|Oh,|be-|ware|of|that;|||||||
+ z4 |$ z4 | z4 | z4 | z4 |$ z4 | z4 |!f! B,2 B, _E, | B,3 F, | B,,4 |$ _E, E,/D,/ C,2 | %41
+w: |||||||For if one|flam- ing|dart|come from her eye,|
+ F, F,/_E,/ D, D, | G,3/2 G,/ ^F, D, | G,4 |$!p! D,4- | D,4 | _E,3 D,/C,/ | B,, B,2 A,/G,/ |$ %48
+w: come from her eye, Was|ne- ver dart so|sharp,|ah,||ah, then you|die, ah, then you|
+ F,2 F,2 | B,,4 | z4 | z4 | z4 |$ z4 | z4 | z4 | z4 |$ z4 | z4 | z4 | z4 |$ z4 | z4 | z2 z!f! G, | %64
+w: die, you|die.||||||||||||||Was|
+ F, _E, D, C, | =B,,4 | C,4 |$ D,4 | G,4 | D,4- | D,2 D,2 | D,4- | D,2 D,2 |$ E,2 E,2 | ^F,4 | %75
+w: ne- ver dart so|sharp,|ah,|then|you|die,|* was|ne\-|* ver|dart so|sharp,|
+!p! G,4- | G,2 ^F, E, | ^F,2 G,2 | D,4- | D,4 |$ D,4 | D4- | D2 C =B, | A,3 G, | ^F,2 G,2 | %85
+w: ah,|* then you|die, you|die,|||ah,|* then you|die, ah,|then you|
+ D,3 C, | =B,,2 C,2 |$!pp! D,4- | D,4 | D,4 | D,4 | D,4 | !fermata!G,,4 |] %93
+w: die, ah,|then you|die,||ah,|then|you|die.|

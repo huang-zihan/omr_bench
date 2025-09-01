@@ -1,0 +1,29 @@
+X:1
+T:Brentford, LM
+C:English melody, arranged by Lowell Mason, 1835
+Z:Public Domain
+Z:Courtesy of the Cyber Hymnal™
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+M:3/4
+I:linebreak $
+K:F
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ [CF] | [CF]2 [CE] | [CF]2 [CA] | [CG]2 [CF] | !fermata![Ec]2 [EG] | [FA]2 [FB] | %6
+ ([FA] [EG]) [DF] x/ | ([DG] [CF]) [CE] | !fermata![CF]2 [Ac] | ([Af] [ce]) [Bd] | %10
+ ([Ac]3/2 [GB]/) [FA] |$ ([GB]/[Ac]/[Bd]/[Ac]/) ([GB]/[FA]/) | ([FA] [EG]) F | [Gc]2 [FA] | %14
+ [EG]2 [DF] | [DG] [CF] [CE] | !fermata![CF]2 |] %17
+V:2
+ x | x3 | x3 | x3 | x3 | x3 | x7/2 | x3 | x3 | x3 | x3 |$ x3 | x2 F | x3 | x3 | x3 | x2 |] %17
+V:3
+ [F,A,] | [F,A,]2 [G,B,] | [A,C]2 [F,C] | C B, [F,A,] | !fermata![C,G,]2 [C,C] | [F,C]2 [F,D] | %6
+ C3/2 (z/ B,/) [D,A,] | [B,,B,] [C,A,] [C,G,] | !fermata![F,A,]2 [F,C] | [F,C]2 [F,F] | %10
+ (F3/2 C/) [F,C] |$ [B,,D]2 D | [C,C]2 [F,A,] | G, C [F,C] | (C B,) [D,A,] | %15
+ [B,,B,] [C,A,] [C,G,] | !fermata![F,A,]2 |] %17
+V:4
+ x | x3 | x3 | E,2 x | x3 | x3 | F, C, x3/2 | x3 | x3 | x3 | D,2 x |$ x2 (B,,/=B,,/) | x3 | E,2 x | %14
+ C,2 x | x3 | x2 |] %17

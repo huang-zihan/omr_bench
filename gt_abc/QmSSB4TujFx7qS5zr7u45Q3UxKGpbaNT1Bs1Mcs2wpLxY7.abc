@@ -1,0 +1,16 @@
+X:1
+T:Blaydon Races
+C:Trad.
+L:1/8
+Q:1/8=240
+M:6/8
+I:linebreak $
+K:G
+V:1 treble 
+V:1
+ D |"G" G2 G G2 G | G2 G G2 G |"D7" A2 A A2 A |"G" B3"G7" G3 |"C" ccc c2 c |"G" B2 B B2 B | %7
+"A7" A2 B A2 G |"D7" F3 D3 |"G" G2 G G2 G |$ G2 G G2 G |"D7" A2 A A2 A |"G" B3"G7" G3 | %13
+"C" ccc c2 c |"G" B2 c d2 d |"D7" d2 c B2 A |"G" G2 A B2 c ||"G" d3"D7" d2 B | G3"C" G2 G |$ %19
+"A7" A2 A"D7" A2 A |"G" B3"G7" G3 |"C" c2 c"D7" c2 c |"G" B2 B"G" B2 B |"C" A2 B"A7" A2 G | %24
+"D" F3"D7" D3 |"G" G2 G"C" G2 G | G3"C" G2 G |"A7" A2 A"D7" A2 A |"G" B3"G7" G3 |$ %29
+"C" c2 c"D7" c2 c |"G" B2 c"E7" d2 d |"Am" d2 c"D7" B2 A |"G" G3 G2 |] %33

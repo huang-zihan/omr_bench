@@ -1,0 +1,91 @@
+X:1
+T:Fuggite pur fuggite
+C:Pomponio Nenna
+%%score [ 1 2 3 4 5 ]
+L:1/8
+Q:1/4=56
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Canto" snm="C"
+V:2 alto1 nm="Alto" snm="A"
+V:3 alto2 nm="Quinto" snm="5"
+V:4 alto nm="Tenore" snm="T"
+V:5 bass nm="Basso" snm="B"
+V:1
+ x8 | z2 z2 z2 x2 |[M:4/4] c2 c3 dde | f2 ff ^c4 | z2 a2 e4 | z ^ffg c3 =B | c4 c4 |$ z8 | %8
+w: ||Fug- gi- te pur fug-|gi- te cru- del,|cru- del|da chi v'a- do- ra,|Sem- pre||
+ z GBc dddd | d2 cB c4- | ccBA c4 |$ A2 B4 AF | A4 G4 | z8 | z dde ffff |$ f2 ed _e4 | d6 cB | d8 | %18
+w: e se tal' ho- ra, Vi- fer-|ma- te a mi- rarm'|_ il sen m'a- pri-|te, il sen m'a-|pri- te,||e se tal' ho- ra, Vi- fer-|ma- te a mi- rarm'|il sen m'a-|pri-|
+ =B8 | z8 | z8 |$ z4 z2 d2 | =B2 c2 A3 A | A4 A4 | z fff f3 c | d4 z ggg | g3 d e4 |$ z8 | %28
+w: te,|||Fe-|ri- te il cor fe-|ri- te,|Che non po- trann' al|fin, Che non po-|trann' al fin||
+ z2 d3 d c2 | fedcBA B2 | A8 | z4 c4- | c4 c4 |$ B2 A4 Bc | A4 G4 | z2 d4 fc | d2 c2 c4 | c4 z4 | %38
+w: que- ste vostr'|i- * * * * * *|re,|Più,|_ Più|che far- mi mo-|ri- re,|Et ò fe-|li- ce for-|te,|
+ z2 d2 BdcB |$ A2 A2 z4 | d4 f4- | f4 d4 | d8 | =B2 d4 d_e | d3 B c4 | B2 B2 AdcB |$ A2 A2 z4 | %47
+w: Con un fi- nir la|vi- ta|u- scir|_ di|mor-|te, Et ò fe-|* ce for-|te, Con un fi- nir la|vi- ta,|
+ z2 c2 AcBA | G2 G2 z4 | z2 c2 AcBA | G2 G2 z2 g2 | egfe d2 d2 |$ g3 _e d4 | c2 c2 AcBA | %54
+w: Con un fi- nir la|vi- ta,|Con un fi- nir la|vi- ta, Con|un fi- nir la vi- ta u-|scir di mor-|te, Con un fi- nir la|
+ c2 d2 _e4- | e4 c4 | c8 | !fermata!c8 |] %58
+w: vi- ta u- scir|_ di|mor-|te.|
+V:2
+ x8 | z2 z2 z2 x2 |[M:4/4][K:treble] A2 A3 A=Bc | c2 cc A4 | z2 f2 ^c4 | z AAA A3 F | G4 G4 |$ z8 | %8
+w: ||Fug- gi- te pur fug-|gi- te cru- del,|cru- del|da chi v'a- do- ra,|Sem- pre||
+ z4 z FGA | BBBB B2 AG | AAGF G4 |$ F4 z4 | z4 z GGA | BBBB B2 AG | A2 B2 A4 |$ z AAB cccc | %16
+w: e se tal'|ho- ra, Vi- fer- ma- te a mi-|rarm' il sen m'a- pri-|te,|e se tal'|ho- ra, Vi- fer- ma- te a mi-|rarm' il sen,|e se tal' ho- ra, Vi- fer-|
+ B2 AG A2 G2- | G2 ^FE F4 | G8 | A4 G3 G | F3 E E4 |$ D2 B2 A4 | D2 z2 z4 | z8 | z BBB B3 A | %25
+w: ma- te a mi- rarm' il|_ sen m'a- pri-|te,|Fe- ri- te il|cor fe- ri-|te, fe- ri-|te,||Che non po- trann' al|
+ B4 z Gcc | c3 =B c4 |$ z8 | z2 B3 A G2 | AGFE D4 | D4 z4 | z8 | A6 G2 |$ F2 GA ^F2 G2- | %34
+w: fin, Che non po-|trann' al fin||que- ste vostr'|i- * * * *|re,||Più che|far- mi mo- ri- *|
+ G2 ^F2 G4 | z2 B4 BA | G3 F G4 | A4 z4 | z2 B2 GBAG |$ ^F2 F2 z2 G2 | B4 A4- | A4 G4- | G4 ^F4 | %43
+w: * * re,|Et ò fe-|li- ce for-|te,|Con un fi- nir la|vi- ta u-|scir di|_ mor-||
+ G2 B4 BG | GA B4 A2 | z4 F2 EG |$ FE D4 D2 | z2 A2 FAGF | E2 E2 z4 | z2 A2 EAGF | E2 E2 z2 d2 | %51
+w: te, Et ò fe-|li- ce for- te,|Con un fi-|nir la vi- ta,|Con un fi- nir la|vi- ta,|Con un fi- nir la|vi- ta, Con|
+ B_edc =B2 B2 |$ dB c4 =B2 | z4 z2 A2 | FAGF B2 B2 | c6 A2 | G8 | A8 |] %58
+w: un fi- nir la vi- ta u-|scir di mor- te,|Con|un fi- nir la vi- ta u-|scir di|mor-|te.|
+V:3
+ x8 | z2 z2 z2 x2 |[M:4/4][K:treble] F2 F3 ^FGG | A2 A2 z2 A2 | E2 c2 A4 | z DDD F3 D | E4 EEFG |$ %7
+w: ||Fug- gi- te pur fug-|gi- te cru-|del, cru- del|da chi v'a- do- ra,|Sem- pre e se tal'|
+ AAAA A2 GF | GEDC F4- | F2 E2 z4 | z8 |$ z FDE FFFF | F2 ED EEDC | D4 D4 | z ^FGG AAA,A, |$ %15
+w: ho- ra, Vi- fer- ma- te a mi-|rarm' il sen m'a- pri-|* te,||e se tal' ho- ra, Vi- fer-|ma- te a mi- rarm' il sen m'a-|pri- te,|e se tal' ho- ra, Vi- fer-|
+ A,2 G,F, C2 G,2 | D4 D4- | D2 CB, D4 | D6 G2- | G2 F3 F E2- | ED D4 ^C2 |$ D4 z2 A2 | G3 G F3 E | %23
+w: ma- te a mi- rarm' il|sen, il|_ sen m'a- pri-|te, Fe-|* ri- te il cor|_ fe- ri- *|te, Fe-|ri- te il cor fe-|
+ E4 ^F4 | z DDD D2 C2 | B,4 z GGG | G3 G G4 |$ z2 A3 G F2 | BAGF G2 G2 | z2 A4 G2 | F6 GA | G8 | %32
+w: ri- te,|Che non po- trann' al|fin, Che non po-|trann' al fin|que- ste vostr'|i- * * * * re,|Più che|far- mi mo-|ri-|
+ F4 z4 |$ z8 | z8 | z2 G4 FF | DE F4 E2 | z2 F2 DGFE | D4 D4 |$ z4 D4 | G4 z2 C2 | F6 _E2 | D8 | %43
+w: re,|||Et ò fe-|li- ce for- te,|Con un fi- nir la|vi- ta|u-|scir, u-|scir di|mor-|
+ D2 G4 FG | D2 F2 F4 | F4 z4 |$ z4 D2 B,F | FE F4 F,2 | C4 E2 DA | AG A4 E2 | z2 E2 G4- | %51
+w: te, Et ò fe-|li- ce for-|te,|Con un fi-|nir la vi- ta u-|scir, Con un fi-|nir la vi- ta|u- scir|
+ G2 D2 D2 DD |$ B,_EDC D2 D2 | G4 z2 C2 | A,CB,A, G,2 G,2 | G2 G2 F4- | F4 E4 | F8 |] %58
+w: _ di mor- te, Con|un fi- nir la vi- ta u-|scir, Con|un fi- nir la vi- ta u-|scir di mor-||te.|
+V:4
+ x8 | z2 z2 z2 x2 |[M:4/4][K:treble-8] c2 c2 A d2 c | c2 c2 z2 e2 | ^c2 f2 e4 | z AAB c2 d2 | %6
+w: ||Fug- gi- te pur fug-|gi- te cru-|del, cru- del|da chi v'a- do- ra,|
+ G4 Gcde |$ ffff f2 ed | e2 f2 dB d2- | d2 G2 z cde | ffff _e2 dc |$ ddBc d4 | c4 z eef | %13
+w: Sem- pre e se tal'|ho- ra, Vi- fer- ma- te a mi-|rarm' il sen m'a- pri-|* te, e se tal'|ho- ra, Vi- fer- ma- te a mi-|rarm' il sen m'a- pri-|te, e se tal'|
+ gggg g2 ^fe | ^fdcB d4 |$ ddef gggg | g2 ^fe =f2 B2- | B2 AG A4 | G8 | z8 | z8 |$ z2 g4 f2- | %22
+w: ho- ra, Vi- fer- ma- te a mi-|rarm' il sen m'a- pri-|te, e se tal' ho- ra, Vi- fer-|ma- te a mi- rarm' il|_ sen m'a- pri-|te,|||Fe- ri-|
+ ff e3 d d2- | d2 ^c2 d4 | z fff f3 f | f4 z eee | e2 d2 c2 g2- |$ gf e2 fedc | d4 G4 | z8 | %30
+w: * te il cor fe- ri-|* * te,|Che non po- trann' al|fin, Che non po-|trann' al fin que-|* ste vostr' i- * * *|* re,||
+ z4 f2 e2 | d2 ef f2 e2 | z2 f4 e2 |$ d2 ef d4 | d4 z4 | z2 d4 dc | B2 c2 c4 | c4 d2 cg | %38
+w: Più che|far- mi mo- ri- re,|Più che|far- mi mo- ri-|re,|Et ò fe-|li- ce for-|te, Con un fi-|
+ g^f g4 G2 |$ d4 B4- | B4 c4- | c4 B4 | A8 | G2 d4 dc | B2 d2 c4 | d4 z4 |$ z2 f2 dfed | c4 c4 | %48
+w: nir la vi- ta u-|scir, u-|* scir|_ di|mor-|te, Et ò fe-|li- ce for-|te,|Con un fi- nir la|vi- ta,|
+ z2 g2 eagf | e4 e4 | z4 d4 | g6 g2 |$ g4 g2 g2 | egfe f4- | f2 f2 g4- | g2 c2 A3 B | c8 | c8 |] %58
+w: Con un fi- nir la|vi- ta|u-|scir di|mor- te, Con|un fi- nir la vi-|* ta u- scir|_ di mor- *||te.|
+V:5
+ x8 | z2 z2 z2 x2 |[M:4/4] F,2 F,3 D,G,C, | F,2 F,2 z2 A,2 | A,,8 | z D,D,G, F,2 D,2 | C,4 C,4 |$ %7
+w: ||Fug- gi- te pur fug-|gi- te cru-|del|da chi v'a- do- ra,|Sem- pre|
+ z F,A,B, CCCC | C2 B,A, B,B,G,F, | G,4 F,4 | z8 |$ z8 | z F,A,B, CCCC | B,2 A,G, D4- | %14
+w: e se tal' ho- ra, Vi- fer-|ma- te a mi- rarm' il sen m'a-|pri- te,|||e se tal' ho- ra, Vi- fer-|ma- te a mi- rarm'|
+ D2 G,2 D,4- |$ D,4 C,4 | D,8 | D,8 | z8 | D4 =B,2 C2 | A,3 A, A,4 |$ D,4 D,4 | G,2 C,2 F,2 G,2 | %23
+w: _ il sen|_ m'a-|pri-|te,||Fe- ri- te il|cor fe- ri-|te, Fe-|ri- te il cor fe-|
+ A,4 D,4 | z B,,B,,B,, D,2 F,2 | B,,4 z C,C,C, | E,2 G,2 C,4 |$ C3 B, A,2 B,A, | G,F,_E,D, E,4 | %29
+w: ri- te,|Che non po- trann' al|fin, Che non po-|trann' al fin|que- ste vostr' i- *||
+ D,8 | z2 D4 C2 | =B,2 CD C4 | F,4 z4 |$ z8 | z8 | z2 G,4 D,F, | B,,2 A,,2 C,4 | F,4 B,2 A,C | %38
+w: re,|Più che|far- mi mo- ri-|re,|||Et ò fe-|li- ce for-|te, Con un fi-|
+ B,A, G,4 G,2 |$ z2 D,2 G,4- | G,4 F,4 | D,8 | D,8 | z2 G,4 B,_E, | G,2 D,2 F,4 | B,,4 z4 |$ %46
+w: nir la vi- ta|u- scir|_ di|mor-|te,|Et ò fe-|li- ce for-|te,|
+ z4 B,2 G,B, | A,G, F,4 F,2 | z4 C2 B,D | CB, A,4 A,2 | C4 B,4 | G,8 |$ G,8 | C,4 F,4- | F,4 _E,4 | %55
+w: Con un fi-|nir la vi- ta,|Con un fi-|nir la vi- ta u-|scir di|mor-|te,|u- scir|_ di|
+ C,8- | C,8 | F,8 |] %58
+w: mor-||te.|

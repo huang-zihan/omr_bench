@@ -1,0 +1,13 @@
+X:1
+T:Wind That Shakes the Barley, The
+L:1/8
+M:2/2
+I:linebreak $
+K:D
+V:1 treble 
+V:1
+ A3 B AFED | B3 A BcdB | A3 B AFED |1 gfed BcdB :|2 gfed Bcde || f3 d g3 e |$ f3 d Bcde | %7
+ f3 d g2 fg | afed Bcde | f3 d g3 e | f3 d Bcdc | defg a3 b |$ afed BcdB || %13
+"^variations" FAAB AFED | B3 A Bc d2 | FAAB ABde | fded BedB | A2 FA ADFA |$ B2 GB BGdB | %19
+ A2 FA A2 de | fded BAde || f3 a g2 ge | f2 ed Bcde | fefa g3 b |$ afed B2 de | f2 fd g2 ge | %26
+ fefd Bcde | defg afbf | afed BcdB || %29

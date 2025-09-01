@@ -1,0 +1,15 @@
+X:1
+T:Shoot Two Bits
+L:1/8
+Q:1/4=120
+M:2/2
+I:linebreak $
+K:D
+V:1 treble 
+V:1
+"^Fast""^Bob Walters' version:" D2- | DEFG A2 ag | faec dfed | cABc A2 ed | cBAG FGFE | %5
+ DEFG A2 ag |$ faec dfed | cABc A2 ag | faec d2 :: FG | ABAG FDEF | GFGA BcdB |$ cded cABc | %13
+ dcde fg a2 | ABAG FDEF | GFGA BcdB | cded cABc | dfec d2 :|$"^As taught by Charlie Walden:" Ac | %19
+ d2 fd A2 ag | faec dfed | [ce] [Ae]3 [Ae]2 ed | cABd AGFE | DEFG A2 ag | faec dfed |$ %25
+ [ce] [Ae]3 [Ae]2 ag | faec d2 :: FG |"^*" ABAF DFAF | GFGA BcdB | cded cABc | dcde fg a2 |$ %32
+ ABAF DFAF | GFGA BcdB | cded cABc | dfec d2 :|"^Substitution""^*" ABAG FDEF || %37

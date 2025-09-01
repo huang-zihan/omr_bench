@@ -1,0 +1,59 @@
+X:1
+T:Praise God for His Word
+C:James Henry Fillmore, Sr
+Z:Public Domain
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+M:6/4
+I:linebreak $
+K:Ab
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ E | [EA] [EA] [EA] [EA]2 [CA]/>[DB]/ |$ [Ec] [EB] [=DA] [EB]2 [EB]/>[Ec]/ | %3
+w: 1.~Praise|for His Word! from its pag-|es di- vine Came the light|
+w: 2.~Praise|for His Word; for the heav-|en- ly light It is send-|
+w: 3.~Praise|for His Word! not a prom-|ise shall fail; What- so- e’er|
+ [Ed] [Ec] [EB] [Ec] [DB] [CA] |$ [=DA] [DG] [DA] [EB]2 E/>E/ | [EA] [EA] [EA] [EA]2 [CA]/>[DB]/ |$ %6
+w: of His love to this poor|heart of mine: I had wan-|far in the by- ways of|
+w: ing a- far in- to sin’s|dark- some night; For the hope|gives, where be- fore was des-|
+w: may op- pose, still its truth|will pre- vail: ’Tis the word|God and for- e’er must en-|
+ [Ec] [EB] [=DA] [EB]2 [EB]/>[Ec]/ | [Ed] [Ec] [EB] [Ec] [DB] [CA] |$ [FB] [EA] [EG] [EA]2 || %9
+w: sin, When the light of His|truth to my heart en- tered|in. * * *|
+w: pair, For the Heav- en re-|vealed, and the way lead- ing|there! Praise God for|
+w: dure; Earth and Heav- en may|pass, but it stand- eth se-|cure. * * *|
+"^Refrain" (c/>d/) | [Ae]2 [Ac]/>[Ad]/ [Ae]2 A/A/ |$ [Gd] [Gd] [Ac] [GB]2 [EB]/>[EB]/ | %12
+w: |||
+w: His *|which its pag- es un- fold!|sto- ry of love which will|
+w: |||
+ [=Ec] [Ec] [EB] [FA] [FA] F |$ [=DB] [DB] [Dc] [EB]2 E/>E/ | [EA] [EA] [EA] [EA] [EG] [EA] |$ %15
+w: |||
+w: ne- ver grow old! For the|on life’s path- way which streams|pag- es! Praise God for His|
+w: |||
+ [GB] [GB] [GB] [GB] A [EB] | [Ec] [Ec] [Ad] [Ae]2 [FA]/[Fd]/ | [Ec] [Ec] [EA] [GB] [EA] |] %18
+w: |||
+w: Word, bless- èd Book of the|es! * * * * *||
+w: |||
+V:2
+ E | x6 |$ x6 | x6 |$ x5 E/>E/ | x6 |$ x6 | x6 |$ x5 || A | x5 A/A/ |$ x6 | x5 F |$ x5 E/>E/ | %14
+w: God||||dered a-||||||||||
+w: God||||which it|||||grace|For the||light|from its|
+w: God||||of our||||||||||
+ x6 |$ x4 A x | x6 | x5 |] %18
+w: ||||
+w: |Ag-|||
+w: ||||
+V:3
+ E, | [A,,C] [C,C] [E,C] [A,C]2 A,/>A,/ |$ A, [G,B,] [F,B,] [E,G,]2 [E,G,]/>[E,A,]/ | %3
+ [E,B,] [E,A,] [E,G,] A, [E,G,] [F,A,] |$ [B,,F,] [B,,B,] [B,,A,] [E,G,]2 E,/>E,/ | %5
+ [A,,C] [C,C] [E,C] [A,C]2 A,/>A,/ |$ A, [G,B,] [F,B,] [E,G,]2 [E,G,]/>[E,A,]/ | %7
+ [E,B,] [E,A,] [E,G,] A, [E,G,] [F,A,] |$ [D,D] [E,C] [E,B,] [A,,C]2 || (A,/>B,/) | %10
+ [A,C]2 A,/>[A,B,]/ [A,C]2 [CE]/[CE]/ |$ [B,E] [B,E] [A,E] [E,E]2 [D,G,]/>[D,G,]/ | %12
+ [C,G,] [C,G,] [C,C] [F,C] [F,C] [F,A,] |$ [B,,F,] [B,,F,] [B,,A,] [E,G,]2 E,/>E,/ | %14
+ [A,,C] [C,C] [E,C] [A,C] [B,D] [A,C] |$ [E,E] [E,E] [E,E] [E,D] [F,C] [G,B,] | %16
+ A, A, [F,A,] [C,A,]2 [D,A,]/[D,A,]/ | [E,A,] [E,A,] [E,C] [E,D] [A,,C] |] %18
+V:4
+ E, | x5 A,/>A,/ |$ A, x5 | x3 A, x2 |$ x5 E,/>E,/ | x5 A,/>A,/ |$ A, x5 | x3 A, x2 |$ x5 || A, | %10
+ x2 A,3/4 x13/4 |$ x6 | x6 |$ x5 E,/>E,/ | x6 |$ x6 | A, A, x4 | x5 |] %18

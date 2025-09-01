@@ -1,0 +1,28 @@
+X:1
+C:Locv (TRANSCRIPTION)
+%%score { 1 | ( 2 3 4 ) }
+L:1/8
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano"
+V:2 bass 
+L:1/4
+V:3 bass 
+V:4 bass 
+L:1/4
+V:1
+ g8 | _a8 | e8 | _b8 | C2 C4 C2 | [CF]2 [CF]4 [CF]2 | [CG]2 [CG]4 [CG]2 | [C_B]2 [CB]4 [CB]2 | %8
+ [CG] z [CG] [CF]2 [CG]2 z |$ [CF] z [CF] [CG]2 [C_A]2 z | [cg]2 [cf]2 [cg] z [cg][cf]- | %11
+ [cf] [cg]2 z [cf] z [cf][cg]- | [cg] a4[I:staff +1] [C,C]2[I:staff -1] z[I:staff +1] ([C,-C]4 | %13
+ C,8-) | [C,C]4[I:staff -1] z4 |] %15
+V:2
+ C,4- | C,4 | x4 | [D,F,A,]4 | C,,4 | C,,4 | C,,4 | C,,4 | x4 |$ x4 | x4 | x4 | %12
+ x/[I:staff -1] [caa]2 x z/ g x | f c _b c | x4 |] %15
+V:3
+[I:staff -1] G8 | _A8 | E8 | _B8 |[I:staff +1] C,8 | C,8 | C,8 | C,8 | %8
+ [C,,C,] z z [C,,C,]2 [C,,C,]2 z |$ [C,,C,]2 z [C,,C,]2 [C,,C,]2 z | %10
+ [C,,C,]2 [C,,C,]2 [C,C] z z [C,C]- | [C,C] [C,C]2 z [C,C] z z [C,C]- | [C,C] x9[I:staff -1] c2 | %13
+[I:staff +1] C8- |[I:staff -1] g2 c2 [gc']2[I:staff +1] x2 |] %15
+V:4
+ C,,4 | C,,4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x6 | x4 | x4 |] %15

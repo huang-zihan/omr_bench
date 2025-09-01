@@ -1,0 +1,28 @@
+X:1
+T:Benediction, 87.87.47
+C:Arthur Henry Mann, 1879
+Z:Public Domain
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+M:4/4
+I:linebreak $
+K:A
+V:1 treble 
+V:2 treble 
+L:1/8
+V:3 bass 
+V:4 bass 
+V:1
+ [CE] [CA] [Dd] [Ec] | [DB]3/2 F/ [EA] [EG] | [Ee] [Ed] [Ec] [EA] | [^DG] [DF] [=DB]2 | %4
+ [CE] [CA] [Dd] [Ec] |$ [FB]3/2 F/ [EA] (E/D/) | [CA] [^Dc] E z/ G/ x/ | E z/ F/ E2 x/ | %8
+ [B,E]3/2 [B,E]/ [EF] [DG] |$ [CA] [Ec] [Fe]3/2 [Fd]/ | [Gc]2 [GB]2 | A4 |] %12
+V:2
+ x8 | x3 F x4 | x8 | x8 | x8 |$ x3 F x G2 x | x4 B3 E2 | G3 (^D2 E4) | x8 |$ x8 | x8 | A8 |] %12
+V:3
+ [A,,A,] [A,,E,] (F,/G,/) [A,,A,] | [D,F,] [B,,D] [F,C] [E,B,] | %2
+ [E,G,] ([F,A,]/[G,B,]/) [A,C] [CE] | B, [A,B,] (G, F,/G,/) | A, [A,,E,] (F,/G,/) [A,,A,] |$ %5
+ [D,F,] [B,,D] [E,C] [E,B,] | [F,A,] [F,A,] [G,B,]3/2 [^A,C]/ x/ | B, z/ A,/ A, G, x/ | %8
+ E, z/ G,/ [C,A,] [B,,B,] |$ [A,,C] [A,C] [^A,C]3/2 [B,D]/ | [E,E]2 [E,D]2 | [A,C]4 |] %12
+V:4
+ x2 A,, x | x4 | x4 | B, B,2 x | A, A,, x2 |$ x4 | x9/2 | B,3/2 (B,, E,2) | G,3/2 D, x3/2 |$ x4 | %10
+ x4 | x4 |] %12

@@ -1,0 +1,133 @@
+X:1
+T:Title
+%%score [ 1 2 3 ] [ 4 5 6 7 ] 8 { ( 9 11 ) | 10 }
+L:1/4
+Q:1/4=150
+M:3/4
+I:linebreak $
+K:C
+V:1 treble nm="Vl 1"
+L:1/8
+V:2 treble nm="Vl 2"
+L:1/8
+V:3 alto nm="Bratsj"
+V:4 treble nm="S"
+L:1/8
+V:5 treble nm="A"
+V:6 treble-8 nm="T"
+V:7 bass nm="B"
+V:8 bass nm="Cello"
+V:9 treble nm="Cembalo, Harpsichord"
+L:1/8
+V:11 treble 
+V:10 bass 
+V:1
+ GG | c2 c2 c2 | B4 cd | e2 e2 f2 | g2 g2 gd | ed cB AG |$ ^F4 dA | _B2 B2 BA | G2 G2 Bc | %9
+ d>c d>e d>e | d2 B2 dd |$ e>d e>f e>f | e2 c2 e2 | f3 f e2 | d3 e f2 | e4 e>e | g>f g>a g>a |$ %17
+ g2 e2 f>g | a>_b a>g f>e | d4 B>c | d>c d>e d>e | d2 B2 d>d |$ e>d e>f e>d | c2 A2 B2 | c3 d e2 | %25
+ c3 B c2 | A4 AB | c2 G2 c2 |$ B4 cd | e2 e2 f2 | g2 g2 gd | ed cB AG | ^F4 dA |$ _B2 B3 A | %34
+ G2 G2 B>c | d>c d>e d>e | d2 B2 d>d |$ e>d e>f e>f | e2 c2 e2 | f3 f c2 | _B3 A B2 | A4 z2 | %42
+ z2 z2 c2 | f2 c2 d2 |$ d2 B2 B2 | B2 G2 d2 | g2 d2 d2 | e2 B2 B2 | c2 G2 c2 | c3 d B2 |$ c6 |] %51
+V:2
+ EF | G2 G2 G2 | G4 G2 | G2 G2 A2 | G2 G2 G2 | G2 G2 E2 |$ D4 ^FF | G2 G3 ^F | G2 G2 DD | G2 G3 G | %10
+ G>F G>A G>A |$ G2 E2 G2 | G2 E2 G2 | F3 F G2 | A3 A G2 | G4 c>c | e>e g>f g>a |$ g>a g2 e2 | %18
+ f>g f>e d>c | B4 D>D | G2 G3 G | G>F G>A G>A |$ G2 E2 ^G2 | A2 E2 ^G2 | A4 A2 | A3 B ^G2 | A4 A2 | %27
+ G4 G2 |$ G4 G2 | G4 A2 | G4 G2 | G2 G2 E2 | D4 ^FF |$ G2 G3 ^F | G2 G2 D>D | G4 G2 | %36
+ G>F G>A G>A |$ G2 E2 G2 | G2 E2 G2 | F3 F F2 | C3 C C2 | C4 z2 | z6 | z2 z2 F2 |$ F2 D2 D2 | %45
+ D2 B,2 B,2 | B,2 G,2 G2 | G2 G2 G2 | E2 E2 G2 | A2 _BA GF |$ E6 |] %51
+V:3
+ C/C/ | C G, E | D2 D | C C C | D B, D | C E C |$ A,2 A,/D/ | D D3/2 D/ | B, B, G,/A,/ | %9
+ B,/>A,/ B,/>C/ B,/>C/ | B, G, B,/>B,/ |$ C C C | C G, C | C2 C | C2 B, | C2 G | E C c |$ c G c | %18
+ c A3/2 G/ | G2 G,/>A,/ | B,/>A,/ B,/>C/ B,/>C/ | B, G, B,/>B,/ |$ C C E | E/>F/ E/>F/ E/>F/ | %24
+ E2 E | F3/2 F/ E | E2 C/D/ | E C E |$ D2 D | C2 C | D2 D | C E C | A,2 A,/D/ |$ D D3/2 D/ | %34
+ B, B, G,/>A,/ | B,/>A,/ B,/>C/ B,/>C/ | B, G, B, |$ C2 C | C G, C | C D/C/ _B,/A,/ | %40
+ G,3/2 F,/ E, | F,2 C | F C C | C A, A, |$ B, G, D | G D D | E B, B, | C D D | C C E | %49
+ D3/2 D/ D/E/ |$ C3 |] %51
+V:4
+ G G | c2 c2 c2 | B4 c d | e2 e2 f2 | g2 g2 g d | ed cB AG |$ ^F4 d A | _B2 B3 A | G2 G2 B c | %9
+w: To the|hills and the|vales, to the|rocks and the|moun- tains, To the|mu- * si- * cal _|groves and the|cool sha- dy|foun- tains, Let the|
+ d>cd>ed>e | d2 B2 d d |$ e>de>fe>f | e2 c2 e2 | f3 f e2 | d3 e f2 | e4 z2 | z6 |$ z6 | z6 | %19
+w: tri- * * * * *|* umphs, let the|tri- * * * * *|* umphs of|love and of|beau- ty be|shown.||||
+ z2 z2 B3/2 c/ | d>cd>ed>e | d2 B2 d3/2 d/ |$ e>de>fe>d | c2 A2 B2 | c3 d e2 | c3 B c2 | A4 A B | %27
+w: Let the|tri- * * * * *|* umphs, let the|tri- * * * * *|* umphs of|love and of|beau- ty be|shown. To the|
+ c2 G2 c2 |$ B4 c d | e2 e2 f2 | g2 g2 g d | ed cB AG | ^F4 d A |$ _B2 B3 A | G2 G2 B3/2 c/ | %35
+w: hills and the|vales, to the|rocks and the|moun- tains, To the|mu- * si- * cal _|groves and the|cool sha- dy|foun- tains, let the|
+ d>cd>ed>e | d2 B2 d3/2 d/ |$ e>de>fe>f | e2 c2 e2 | f3 f c2 | _B3 A B2 | A4 z2 | z2 z2 c2 | %43
+w: tri- * * * * *|* umphs, let the|tri- * * * * *|* umphs of|love and of|beau- ty be|shown;|Go|
+ f2 c2 d2 |$ d2 B2 B2 | B2 G2 d2 | g2 d2 d2 | e2 B2 B2 | c2 G2 c2 | c3 d B2 |$ c6 |] %51
+w: re- vel, go|re- vel, ye|Cu- pids, go|re- vel ye|Cu- pids, go|re- vel, the|day is your|own.|
+V:5
+ E/ F/ | G G G | G2 G/ G/ | G G A | G G G/ G/ | G G E |$ D2 ^F/ F/ | G G3/2 ^F/ | G G D/ D/ | %9
+w: To the|hills and the|vales, to the|rocks and the|moun- tains, To the|mu- si- cal|groves and the|cool sha- dy|foun- tains, Let the|
+ G G3/2 G/ | G/>F/G/>A/G/>A/ |$ G E G | G E G | F3/2 F/ G | A3/2 A/ G | G2 z | z3 |$ z3 | z3 | %19
+w: tri- umphs, the|tri- * * * * *|* umphs, the|tri- umphs of|love and of|beau- ty be|shown.||||
+ z z D3/4 D/4 | G G3/2 G/ | G/>F/G/>A/G/>A/ |$ G E ^G | A E ^G | A3/2 A/ A | A3/2 B/ ^G | %26
+w: Let the|tri- umphs, the|tri- * * * * *|* umphs, the|tri- umphs of|love and of|beau- ty be|
+ A2 A/ A/ | G G G |$ G2 G/ G/ | G G A | G G G/ G/ | G G E | D2 ^F/ F/ |$ G G3/2 ^F/ | %34
+w: shown. To the|hills and the|vales, to the|rocks and the|moun- tains, To the|mu- si- cal|groves and the|cool sha- dy|
+ G G D3/4 D/4 | G G3/2 G/ | G/>F/G/>A/G/>A/ |$ G E G | G E G | F3/2 F/ F | C3/2 C/ C | C2 z | z3 | %43
+w: foun- tains, let the|tri- umphs, the|tri- * * * * *|* umphs, the|tri- umphs of|love and of|beau- ty be|shown;||
+ z2 F |$ F D D | D B, B, | B, G, G | G G G | E E G | A _B/A/ G/F/ |$ E3 |] %51
+w: Go|re- vel, ye|Cu- pids, go|re- vel, go|re- vel, ye|Cu- pids, the|day is _ your _|own.|
+V:6
+ c/ c/ | c G e | d2 d/ d/ | c c c | d B d/ d/ | c e c |$ A2 A/ d/ | d d3/2 d/ | B B G/ A/ | %9
+w: To the|hills and the|vales, to the|rocks and the|moun- tains, To the|mu- si- cal|groves and the|cool sha- dy|foun- tains, Let the|
+ B/>A/B/>c/B/>c/ | B G B3/4 B/4 |$ c c c | c G c | c3/2 c/ c | c3/2 c/ B | c2 z | z3 |$ z3 | z3 | %19
+w: tri- * * * * *|* umphs, let the|tri- umphs, the|tri- umphs of|love and of|beau- ty be|shown.||||
+ z z G3/4 A/4 | B/>A/B/>c/B/>c/ | B G B3/4 B/4 |$ c c e | e/>f/e3/4 f/4 e/>f/ | e3/2 e/ e | %25
+w: Let the|tri- * * * * *|* umphs, let the|tri- umphs, the|tri- * * umphs of _|live and of|
+ f3/2 f/ e | e2 c/ d/ | e c e |$ d2 d/ d/ | c c c | d B d/ d/ | c e c | A2 A/ d/ |$ d d3/2 d/ | %34
+w: beau- ty be|shown. To the|hills and the|vales, to the|rocks and the|moun- tains, To the|mu- si- cal|groves and the|cool sha- dy|
+ B B G/ A/ | B/>A/B/>c/B/>c/ | B G B3/4 B/4 |$ c c c | c G c | c d/c/ _B/A/ | G3/2 F/ E | F2 c | %42
+w: foun- tains, let the|tri- * * * * *|* umphs, let the|tri- umphs, the|tri- umphs of|love and _ of _|beau- ty be|shown; Go|
+ f c c | c A A |$ B G d | g d d | e B B | c d d | c c e | d3/2 d/ d/e/ |$ c3 |] %51
+w: re- vel, ye|Cu- pids, go|re- vel, go|re- vel, ye|Cu- pids, go|re- vel, ye|Cu- pids, the|day is your _|own.|
+V:7
+ C,/ D,/ | E, E, C, | G,2 A,/ B,/ | C C A, | B, B, B,/ B,/ | C C C, |$ D,2 D,/ D,/ | G, D,3/2 D,/ | %8
+w: To the|hills and the|vales, to the|rocks and the|moun- tains, To the|mu- si- cal|groves and the|cool sha- dy|
+ G,, G,, G,/ G,/ | G, G,, G,/G,/ | G, G,, G, |$ C/>B,/C/>D/C/>D/ | C C, C | A,3/2 A,/ E, | %14
+w: foun- tains, Let the|tri- umphs, let the|tri- umphs, the|tri- * * * * *|* umphs of|love and of|
+ F,3/2 D,/ G, | C,2 z | z3 |$ z3 | z3 | z z G,3/4 G,/4 | G, G,, G,3/4 G,/4 | G, G,, G, |$ %22
+w: beau- ty be|shown.||||Let the|tri- umphs, let the|tri- umphs, the|
+ C/>B,/C/>D/C/>B,/ | A, A,, E, | A,3/2 A,/ C, | D,3/2 D,/ E, | A,,2 A,/ A,/ | E, E, C, |$ %28
+w: tri- * * * * *|* umphs of|love and of|beau- ty be|shown. To the|hills and the|
+ G,2 A,/ B,/ | C C A, | B, B, B,/ B,/ | C C C, | D,2 D,/ D,/ |$ G, D,3/2 D,/ | G,, G,, G,3/4 G,/4 | %35
+w: vales, to the|rocks and the|moun- tains, To the|mu- si- cal|groves and the|cool sha- dy|foun- tains, let the|
+ G, G,, G,3/4 G,/4 | G, G,, G, |$ C/>B,/C/>D/C/>D/ | C C, C | A,3/2 G,/ F, | E,3/2 D,/ C, | %41
+w: tri- umphs, let the|tri- umphs, the|tri- * * * * *|* umphs of|love and of|beau- ty be|
+ F,2 F, | A, F, F, | A, F, D, |$ G, G, G,, | G,, G,, G, | G, G, G, | C G, G, | A, E, E, | %49
+w: shown; Go|re- vel, go|re- vel, ye|Cu- pids, go|re- vel, go|re- vel, go|re- vel, ye|Cu- pids, the|
+ F,3/2 D,/ G, |$ C,3 |] %51
+w: day is your|own.|
+V:8
+ C,/D,/ | E, E, C, | G,2 A,/B,/ | C C A, | B, B, B,/B,/ | C C C, |$ D,2 D,/D,/ | G, D,3/2 D,/ | %8
+ G,, G,, G,/G,/ | G, G,, G,/G,/ | G, G,, G, |$ C/>B,/ C/>D/ C/>D/ | C C, C | A,3/2 A,/ E, | %14
+ F,3/2 D,/ G, | C,2 C, | C C, C, |$ C/>D/ C/>_B,/ A,/>G,/ | F, F,, F, | G,2 G, | G, G,, G, | %21
+ G, G,, G, |$ C/>B,/ C/>D/ C/>B,/ | A, A,, E, | A,3/2 A,/ C, | D,3/2 D,/ E, | A,,2 A,/A,/ | %27
+ E, E, C, |$ G,2 A,/B,/ | C C A, | B, B, B,/B,/ | C C C, | D,2 D,/D,/ |$ G, D,3/2 D,/ | G,,2 G, | %35
+ G, G,, G, | G, G,, G, |$ C/>B,/ C/>D/ C/>D/ | C C, C | A,3/2 G,/ F, | E,3/2 D,/ C, | F,2 F, | %42
+ A, F, F, | A, F, D, |$ G, G, G,, | G,, G,, G, | G, G, G, | C G, G, | A, E, E, | F,3/2 D,/ G, |$ %50
+ C,3 |] %51
+V:9
+ EE | A2 [Gc]2 [EGc]2 | [DGB]4 cd | [Ge]4 [Ac]2 | [Gd]4 dG | [Ge]2 [Ec]2 [CA]2 |$ [A,^F]4 FA | %7
+ [G_B]2 [DB]3 [^FA] | [B,G]4 [D_B]>[CA] | [B,G]4 [B,D]>[CE] | [B,D]4 [B,DG]2 |$ G4 c2 | %12
+ [Ec]4 [EGc]2 | [FAc]4 [CGc]2 | [DAc]4 [DGB]2 | [EGc]4 [Ec]>[Fd] | [ce]2 [Ec]2 [EG]2 |$ %17
+ E2 e>d c>_B | A>F c>A f>c | B4 [B,DG]2 | [B,DG]4 [DGB]2 | [GBd]4 [B,DG]2 |$ G4 ^G2 | %23
+ [CA]4 [E^G]2 | [CA]4 [EAe]2 | [FAc]4 [E^Gc]2 | [CEA]4 [CA][DB] | c4 [EGc]2 |$ [GB]4 cd | %29
+ [Gce]4 [Fcf]2 | [Gd]4 dG | [Ge]2 [Ec]2 [CA]2 | [A,^F]4 [FA]2 |$ _B/G/B/d/ g/d/B/G/ B/G/A/^F/ | %34
+ G^F/E/ D/C/B,/A,/ G,2 | [B,DG]4 [B,DG]2 | [DFB]4 [DFB]2 |$ [EGc]4 [EGc]2 | [Gce]4 [EGc]2 | %39
+ c4 _BA | _B4 B2 | [FA]4 A2 | c2 A2 A2 | F2 A2 d2 |$ B2 G2 B2 | [B,G]2 D2 [B,G]2 | B4 B2 | %47
+ e2 B2 B2 | c4 [CGc]2 | [DAc]3 [DF] [DF][EG] |$ [CE][B,D] [CE][DF] [EG][FA] |] %51
+V:10
+ C,/D,/ | E, E, C, | G,2 A,/B,/ | C C A, | B, B, B,/B,/ | C C C, |$ D,2 D,/D,/ | G, D,3/2 D,/ | %8
+ G,,2 G,/>G,/ | G, G,, G, | G, G,, G, |$ C/>B,/ C/>D/ C/>D/ | C C, C | A,7/4 A,/4 E, | %14
+ F,7/4 D,/4 G, | C,2 C, | C C, C, |$ C/>D/ C/>_B,/ A,/>G,/ | F, F,, F, | G,2 G, | G, G,, G, | %21
+ G, G,, G, |$ C/>B,/ C/>D/ C/>B,/ | A, A,, E, | A,7/4 A,/4 C, | D,7/4 D,/4 E, | A,,2 A,/A,/ | %27
+ E, E, C, |$ G,2 A,/B,/ | C C A, | B, B, B,/B,/ | C C C, | D,2 D,/D,/ |$ G, D,3/2 D,/ | G,,2 G, | %35
+ G, G,, G, | G, G,, G, |$ C/>B,/ C/>D/ C/>D/ | C C, C | A,7/4 G,/4 F, | E,7/4 D,/4 C, | F,2 F, | %42
+ A, F, F, | A, F, D, |$ G, G, G,, | G,,2 G, | G,2 G, | C G, G, | A, E, E, | F,3/2 D,/ G, |$ C,3 |] %51
+V:11
+ x | x3 | x2 G | x3 | D2 D | x3 |$ x2 ^F | x3 | x3 | x3 | x3 |$ E2 E/>F/ | x3 | x3 | x3 | x3 | %16
+ x3 |$ x3 | x3 | x G x | x3 | x3 |$ E/>D/ E/>F/ E/>D/ | x3 | x3 | x3 | x3 | E G x |$ x3 | x3 | x3 | %31
+ x3 | x3 |$ x3 | x3 | x3 | x3 |$ x3 | x3 | F2 F | G7/4 F/4 E | x3 | x3 | x3 |$ x3 | x3 | E D G | %47
+ G2 G | E G x | x3 |$ x3 |] %51

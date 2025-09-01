@@ -1,0 +1,83 @@
+X:1
+T:Pagaalay ng Puso
+%%score [ 1 ( 2 3 ) 4 5 ]
+L:1/4
+Q:1/4=77
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="Soprano" snm="S."
+V:2 treble nm="Alto" snm="A."
+V:3 treble 
+V:4 treble-8 nm="Tenor" snm="T."
+L:1/8
+V:5 bass nm="Bass" snm="B."
+V:1
+ B E F | G F E | A A B | c3 | B/c/ B e | _e3/2 =e/ f | e3- | e3 |:[Q:1/4=73] z!mp! (G F) | %9
+w: Dooh. _ _|_ _ _|||du du du du|du du du|doo|_|du ohh|
+ z (G F) | z (G F) |$ z (G F) ||!mf! B E F | G2 F/E/ | A2 B | c3 | B G E | F G3/2 F/ | E3 | %19
+w: du ohh|du ohh|du ohh|Min- san~ la~-|mang~ a~- ko~|da~ ra~|an~|sa~ da~ ig~|dig~ na~ i~|to~|
+ z2 z/ B/ | B2 E/F/ |$ G2 F/E/ | (A2 B) | c2- c/ c/ | B G3/2 E/ | F G3/2 F/ | E3 | z3 || %28
+w: Ka~|ya~ a~ no~|man~ ang~ ma~|bu~- *|ti~ * ma~|a~ ring~ ga~|win~ ko~ nga~|yon~||
+!mp! .E E2 | .E E2 |$ .E E2 | .E E2 | .G G2 | .G G2 | .E E2 | .E E2 | .G G2 | .G G2 | .E E2 |$ %39
+w: doot doo|doot doo|doot doo|doot doo|doot doo|doot doo|doot doo|doot doo|doot doo|doot doo|doot doo|
+ .E E2 | F F F | (F/A/) G3/2 F/ |!<(! (E3!<)! | D2)!f! D || G2 D | B A G | G F3/2 E/ | G F D | %48
+w: doot doo|ang ma- nga|ba- * gay na|'to|_ Na-|way 'wag|mo i- tong|i- pag- pa-|li- ban o|
+ A2 D |$ c B3/2 A/ | A G2- | G2 d/c/ | B2 d/c/ | B c d | d2 c | E3 | B2 A/G/ | A3/2 A/G/F/ | %58
+w: i- pag|wa- lang ba-|ha- la|_ sa- pag-|kat 'di na|ko mu- ling|da- ra-|an|sa ga- ni-|tong ma- nga lan-|
+!mp! G3- | G3 :|$ B2 A/G/ | A3/2 A/G/F/ |[Q:1/4=60]"^rall." G3- | G3 |[Q:1/4=48]"^rit." G3 | G3- | %66
+w: das|_|sa ga- ni-|tong ma- nga lan-|das|_|lan-|das|
+!>(!"^dim." !fermata!G3!>)! |] %67
+w: _|
+V:2
+ B E F | G F E | E E E | (B A2) | A G E | _E G3/2 F/ | (A3 | G3) |: z!mp! E2 | z E2 | z E2 |$ %11
+w: Dooh.~ _ _|_ _ _|||du~ du~ du~|du du du|doo|_|du~|du~|du~|
+ z E2 || z E2 | z E2 | z (E D) | (B A2) | z E2 | z D2 | z E2 | z E2 | z E2 |$ z E2 | z (E D) | %23
+w: du~|du|du~|du~ du|du~ ohh|du~|du~|du~|du~|du|du~|du~ du|
+ (B A2) | z E2 | z D2 | z E2 | z E2 ||!mp! .C C2 | .C C2 |$ .B, B,2 | .B, B,2 | .C C2 | .C C2 | %34
+w: du~ ohh|du~|du~|du~|du~|doot~ doo~|doot~ doo~|doot~ doo~|doot~ doo~|doot~ doo~|doot~ doo~|
+ .B, B,2 | .B, B,2 | .C C2 | .C C2 | .B, B,2 |$ .B, B,2 | D D D | E E3/2 E/ | (D C B,) | %43
+w: doot~ doo~|doot~ doo~|doot~ doo~|doot~ doo~|doot~ doo~|doot~ doo~|ang~ ma~- nga~|ba~- gay~ na~|'to~ _ _|
+ (C D)!f! D || D2 D | G G D | D D3/2 D/ | D D D | G2 D |$ F F3/2 E/ | E D2- | D2 G/G/ | G2 G/G/ | %53
+w: _ _ Na~|way~ 'wag~|mo~ i~ tong~|i~ pag~ pa~|li~ ban~ o~|i~ pag~|wa~ lang~ ba~|ha~ la~|_ sa~ pag~|kat~ 'di~ na~|
+ G G A | G2 D | D3 | E2 E/E/ | E3/2 E/E/E/ |!mp! (D3 | D3) :|$ E2 E/E/ | E3/2 E/D/D/ | z F E- | %63
+w: ko~ mu~ ling~|da~ ra~|an~|sa~ ga~- ni~-|tong~ ma~ nga~ lan~-|das~|_|sa~ ga~- ni~-|tong~ ma~- nga~- lan~|lan- das|
+ E3 | E3 | D3- |!>(! !fermata!D3!>)! |] %67
+w: _|lan-|das|_|
+V:3
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |: x3 | x3 | x3 |$ x3 || x3 | x3 | x3 | E3 | x3 | x3 | x3 | %19
+ x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 | x3 || x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %38
+ x3 |$ x3 | x3 | x3 | x3 | x3 || x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %57
+ x3 | x3 | x3 :|$ x3 | x3 | x3 | x3 | x3 | x3 | x3 |] %67
+V:4
+ B2 E2 F2 | G2 F2 E2 | G2 G2 ^G2 | c6 | Bc B2 G2 | B2 c2 B2 | B6- | B6 |: z!mp! B- B4 | z B- B4 | %10
+w: Dooh.~ _ _|_ _ _|||du~ du~ du~ du~|du~ du du|doo|_|du~ *|du~ *|
+ z B- B4 |$ z B- B4 || z B- B4 | z B- B4 | z (c3 B2) | z c- c4 | z G- G4 | z A- A4 | z B- B4 | %19
+w: du~ *|du~ *|du~ *|du~ *|du du|du~ *|du~ *|du~ *|du~ *|
+ z B- B4 | z B- B4 |$ z B- B4 | z (G3 ^G2) | z c- c4 | z B- B4 | z A- A4 | z B- B4 | z B- B4 || %28
+w: du~ *|du~ *|du~ *|du du|du~ *|du~ *|du~ *|du~ *|du~ *|
+!mf! E4 EE | E4 FG |$ F2 E4- | .E2 E2 E2 | A4 A2 | A3 A GF | G6- | .G2 z2 E2 | A2 A3 A | A4 BA | %38
+w: O~ a~ no~|mang~ ka~ bu~|ti~ han~|* ang~ ma~|a~ ri~|kong~ i~ pa~ da~|ma~|* I~|tu~ lot~ nin~|yong~ ma~ ga~|
+ G2 E3 F |$ G6 | G2 G2 G2 | A2 c3 c | (G6 | A4)!f! c2 || B4 B2 | d2 d2 B2 | A2 A3 A | B2 A2 d2 | %48
+w: wa~ ko~ nga~|yon~|ang~ ma~- nga~|ba~- gay~ na~|'to~|_ Na~|way~ 'wag~|mo~ i~ tong~|i~ pag~ pa~|li~ ban~ o~|
+ (d2 c2) c2 |$ c2 c3 c | c2 (c4 | B4) cc | d4 cc | d2 d2 d2 | (d2 c2) c2 | (B2 A4) | G4 GG | %57
+w: i~ * pag~|wa~ lang~ ba~|ha~ la~|_ sa~ pag~|kat~ 'di~ na~|ko~ mu~ ling~|da~ _ ra~|an _|sa~ ga~- ni~-|
+ c3 ccc |!mp! (c6 | B6) :|$ G4 GG | c3 cBA | z2 z2 z d | c6 | c6 | B6- |!>(! !fermata!B6!>)! |] %67
+w: tong~ ma~- nga~- lan~-|das~|_|sa~ ga~- ni~-|tong~ ma~ nga~ lan~|lan~-|das~|lan-|das|_|
+V:5
+ B, E, F, | G, F, E, | C, C, B,, | [A,,E,]3 | E, D, C, | F,3/2 E,/ _E, | E,3- | E,3 |:!mp! E,3 | %9
+w: Dooh.~ _ _|_ _ _|||du~ du~ du~|du~ du du|doo|_|du|
+ E,3 | E,3 |$ E,3 || E,3 | E,3 | (E,2 ^G,) | A,3 | C,3 | D,3 | E,3 | E,3 | E,3 |$ E,3 | (C,2 B,,) | %23
+w: du|du|du|du|du|du du|du|du|du|du|du|du|du|du du|
+ [A,,E,]3 | E,3 | D,3 | E,3 | E,3 ||!mp! .A, A,2 | .A, A,2 |$ .G, G,2 | .G, G,2 | .E, E,2 | %33
+w: du|du|du|du|du|doot~ doo~|doot~ doo~|doot~ doo~|doot~ doo~|doot~ doo~|
+ .E, E,2 | .E, E,2 | .E, E,2 | .E, E,2 | .E, E,2 | .E, E,2 |$ .E, E,2 | C, C, C, | D, D,3/2 D,/ | %42
+w: doot~ doo~|doot~ doo~|doot~ doo~|doot~ doo~|doot~ doo~|doot~ doo~|doot~ doo~|ang~ ma~- nga~|ba~- gay~ na~|
+ (C,3 | D,2)!f! D, || G,2 G, | G, G, G, | D, D,3/2 D,/ | D, D, D, | D,2 D, |$ D, D,3/2 D,/ | %50
+w: 'to~|_ Na~|way~ 'wag~|mo~ i~ tong~|i~ pag~ pa~|li~ ban~ o~|i~ pag~|wa~ lang~ ba~|
+ G, G,2- | G,2 D,/D,/ | G,2 E,/F,/ | G, G, F, | E,2 E, | D,3 | C,2 C,/C,/ | D,3/2 D,/D,/D,/ | %58
+w: ha~ la~|_ sa~ pag~|kat~ 'di~ na~|ko~ mu~ ling~|da~ ra~|an~|sa~ ga~- ni~-|tong~ ma~ nga~ lan~-|
+!mp! G,3- | G,3 :|$ C,2 C,/C,/ | D,3/2 D,/D,/D,/ | z3 | z/ B,/ A,2 | D,3 | G,3- | %66
+w: das~|_|sa~ ga~- ni~-|tong~ ma~ nga~ lan~||lan- das|lan-|das|
+!>(! !fermata!G,3!>)! |] %67
+w: _|

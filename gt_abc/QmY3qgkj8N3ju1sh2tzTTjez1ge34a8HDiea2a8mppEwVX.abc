@@ -1,0 +1,42 @@
+X:1
+T:Horn Fanfaire RHS
+C:Andrew Murphy
+%%score 1 2 3 4
+L:1/8
+Q:1/4=70
+M:none
+I:linebreak $
+K:none
+V:1 treble transpose=-7 nm="Horn in F" snm="F Hn."
+V:2 treble transpose=-7 nm="Horn in F" snm="F Hn."
+V:3 treble transpose=-7 nm="Horn in F" snm="F Hn."
+L:1/4
+V:4 treble transpose=-7 nm="Horn in F" snm="F Hn."
+V:1
+[K:C]!fff! c!>!e/!>!e!>!e/!>!e !>!g!>!g/!>!g!>!g/!>!f | %1
+ !>!e!>!e/!>!e!>!e/!>!d !>!c!>!c/!>!c!>!c/!>!B | !>!c!>!e/!>!e!>!e/!>!e !>!g!>!g/!>!g!>!g/!>!f | %3
+ e6 c2 |$ !>!c!>!e/!>!e!>!e/!>!d !>!c!>!c/!>!c!>!c/!>!B | %5
+ !>!A!>!A/!>!A!>!A/!>!c !>!B!>!B/!>!B!>!B/!>!d | A6 G2 | B6 g2 |:$ %8
+ A/ z/ c/e/- e/d/c/B/ Ac/e/- e/d/c/B/ | G/ z/ B/dc/B/A/ _A4 | %10
+ A/ z/ c/e/- e/d/c/B/ Ac/e/- e/d/c/B/ |$ G/ z/ B/dc/B/c/ c4 |!fff! c!>!e/ee/e gg/gg/f | %13
+ ee/ee/d cc/cc/B | ff/ff/f gg/gg/f |$ e6 c2 | ff/ff/f gg/gg/g | ff/ff/d cc/cc/B | %18
+ AA/AA/c BB/BB/d |$!mp!!<(! B6!f! [Gg]2!<)! :|!ff! [Af]2 z2 z4 |] z8 | z8 | z8 | z8 | z8 | z8 | %27
+ z8 | z8 | z8 | z8 | z8 | z8 |] %33
+V:2
+[K:C] Fc/cc/c Gd/dd/G | Ac/cc/B!ff! A/G/A/B/ c/B/A/E/ |!f! Fc/cc/c Gd/dd/G | %3
+!ff! Ac/cc/B A/G/A/B/ c/B/A |$!ff! F3 A c3 d | A2 d2 e2 d2 | c4 d4 | Bcde f2 e2 |:$ e z z2 f z z2 | %9
+ g z z2 e2 d2 | e z z2 f z z2 |$ g z z2 f2 d2 | Fc/cc/c Gd/dd/G | Ac/cc/B!ff! A/G/A/B/ c/B/A/E/ | %14
+ Fc/cc/c Gd/dd/G |$!ff! Ac/cc/B A/G/A/B/ c/B/A |!ff! F3 A B3 d | Bc d2 e2 d2 | c4 d4 |$ %19
+!mp!!<(! G4!f! [Bd]4!<)! :|!ff! d2 z2 z4 |] z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %32
+ z8 |] %33
+V:3
+[K:C] [Ac]2 [Bd]2 | [ce]2 [ce] [Bd] | [Ac]2 [Bd]2 | [ce]2 [ce] [Bd] |$ [Ac]2 d2 | A2 [ce] [Bd] | %6
+ [Ac]2 [Bd]2 | _A/E/A/c/ d [Gc] |:$ [ce]/ z/ z [cf]/ z/ z | [Bd]/ z/ z [Be]/ z/ z | %10
+ [ce]/ z/ z [cf]/ z/ z |$ [Bd]/ z/ z c B | [Ac]2 [Bd]2 | [ce]2 [ce] [Bd] | [Ac]2 [Bd]2 |$ %15
+ [ce]2 [ce] [Ae] | [Ac]2 [Bd]2 | [Bd]2 [ce] [Bd] | [Ac]2 [Bd]2 |$!mp!!<(! E G!f! [Bd]2!<)! :| %20
+!ff! c z z2 |] z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 |] %33
+V:4
+[K:C] F4 G4 | A4 AcAG | F4 G4 | A4 AcAG |$ F4 GA B2 | FGAB A2 G2 | F4 G4 | _AEA=A B2 [A,C]2 |:$ %8
+ A2 z2 F2 z2 | G2 z2!ff! _A z FE | A2 z2 F2 z2 |$ G2 z2 c2 G2 | F4 G4 | A4 AcAG | F4 G4 |$ %15
+ A4 AcAG | F4 GA B2 | FGAB A2 G2 | F4 G4 |$!mp!!<(! [EBd]8!<)! :|!ff! A2 z2 z4 |] z8 | z8 | z8 | %24
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |] %33

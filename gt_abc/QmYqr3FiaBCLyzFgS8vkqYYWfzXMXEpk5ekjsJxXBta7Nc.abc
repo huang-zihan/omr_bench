@@ -1,0 +1,24 @@
+X:1
+T:Coventry Carol
+C:Renaissance carol
+Z:Public Domain
+%%score ( 1 2 ) 3
+L:1/4
+M:3/4
+I:linebreak $
+K:Bb
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:1
+ [DG] [DG] [D^F] | [DG]2 [GB] | [FA]/[FA]/ [FA] [DG] | [D^F]3 | [DG] [FA] [FB] | c z ^F x | %6
+ [G=B]3 || [DG] [DG] [D^F] | [DG]2 [GB] |$ [FA]2 [DG] | [D^F]3 | [DG] [FA] [FB] | c z ^F x | %13
+ G2 [Fd] | [Ac]2 [GB] | [FA]2 [DB] | [FA]2 [CG] | [D^F]3 | [DG] [D^F] [DG] |$ c z ^F x | [G=B]3 || %21
+V:2
+ x3 | x3 | x3 | x3 | x3 | G2 A2 | x3 || x3 | x3 |$ x3 | x3 | x3 | G2 A2 | x3 | x3 | x3 | x3 | x3 | %18
+ x3 |$ G2 A2 | x3 || %21
+V:3
+ [G,B,] [G,B,] [D,A,] | [G,B,]2 E, | [F,C]/[F,C]/ [F,C] [G,B,] | [D,A,]3 | [G,B,] [F,C] [D,D] | %5
+ [C,E] [D,D]2 x | [G,D]3 || [G,B,] [G,B,] [D,A,] | [G,B,]2 E, |$ [F,C]2 [G,B,] | [D,A,]3 | %11
+ [G,B,] [F,C] [D,B,] | [C,C] [D,D]2 x | [G,D]2 [B,D] | [F,C]2 [G,D] | [D,D]2 [G,B,] | %16
+ [F,C]2 [=E,G,] | [D,A,]3 | [G,B,] [D,A,] [G,B,] |$ [C,G,] [D,D]2 x | [G,D]3 || %21

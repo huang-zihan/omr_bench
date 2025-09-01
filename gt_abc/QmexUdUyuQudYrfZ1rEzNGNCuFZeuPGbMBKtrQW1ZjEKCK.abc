@@ -1,0 +1,82 @@
+X:1
+T:Lend a Hand
+C:Carey Boggess
+Z:Public Domain
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble 
+V:2 treble 
+L:1/4
+V:3 bass 
+V:4 bass 
+L:1/4
+V:1
+ [CE]>[DF] | [EG]2 [CE]>[DF] [EG]2 [Ge]>[Ge] |$ (dc) [GB]>[FA] [EG]2 ([CE]>[EG]) | %3
+w: 1.~Lend a|hand! lend a hand! in the|work * for the world! Place these|
+w: 2.~There are|eyes that are weep- ing where|none * wipe the tear; There are|
+w: 3.~There are|lips that are burn- ing where|none * hold the cup; There are|
+w: 4.~Lend a|hand! lend a hand! there is|com- * ing a day Wh- en|
+ [DF]2 [B,D]>[DF] [GB]2 [FA]>[EG] |$ [DF]2 [EG]>[DF] [CE]2 ([CE]>[DF]) | %5
+w: in your ban- ner, ne’er let|it be furled Whi- le sin,|
+w: that are break- ing for tid-|ings of cheer; There are sin-|
+w: ren who starve for a bit|and a sup; There are forms|
+w: who shall weigh us, to each|one will say, “Didst thou help|
+ [EG]2 [CE]>[DF] [EG]2 [Ge]>[Ge] |$ (dc) [GB]>[FA] [EG]2 [Ec]>[Ec] | %7
+w: pain and sad- ness hold sway|in * the world, Lend a hand!|
+w: ners would turn from their sins|were * you near, Lend a hand!|
+w: that are sink- ing, your hand|might * hold up, Lend a hand!|
+w: ev- ery bro- ther thou couldst|in * the way?” Lend a hand!|
+ [Fc]2 [Ec]>[Ec] [Fc]2 [^DB]>[DA] | [EG]2 [FA]>[FB] [Ec]2 ||$"^Refrain" G>G | %10
+w: a hand! in the work for|the world! * *||
+w: a hand! in the work for|the world! Lend a|hand! Lend|
+w: a hand! in the work for|the world! * *||
+w: a hand! in the work for|the world! * *||
+ (z2 E>E E2) [EG]>[EA] | F2 F>F F2 [FG]>[FA] |$ [FB]2 [DB]>[Ec] [Fd]2 [Ge]>[Fd] | %13
+w: |||
+w: * * * a hand!|* * * * a hand|the work for the world! Lend|
+w: |||
+w: |||
+ (E2 E>F E2) c>d |$ (z2 E>E F2) c>d | z2 E>E F2 [^DB]>[DA] | [EG]2 [DB]>[Ec] [Fd]2 [FA]>[FB] | %17
+w: ||||
+w: a * * * hand! Lend|* * * hand! Lend|* * * hand in|* work for the world! *|
+w: ||||
+w: ||||
+ [Ec]6 |] %18
+w: |
+w: |
+w: |
+w: |
+V:2
+ x | x4 |$ A x3 | x4 |$ x4 | x4 |$ A x3 | x4 | x3 ||$ x | c3 x | B3 x |$ x4 | c3 x |$ c3 x | c3 x | %16
+w: ||words||||lend||||||||||
+w: ||hearts||||lend||||Lend|in||a|a|the|
+w: ||child-||||lend||||||||||
+w: ||He||||lend||||||||||
+ x4 | x3 |] %18
+w: ||
+w: ||
+w: ||
+w: ||
+V:3
+ [C,G,]>[C,G,] | [C,C]2 [C,G,]>[C,G,] [C,C]2 [C,C]>[C,C] |$ %2
+w: ~ ~|~ ~ ~ ~ ~ ~|
+ [F,C]2 [F,C]>[F,C] [C,C]2 ([C,G,]>[C,G,]) | [G,,G,]2 [G,,G,]>[G,,G,] [G,,G,]2 [G,,G,]>[G,,G,] |$ %4
+w: ~ ~ ~ ~ ~ *|~ ~ ~ ~ ~ ~|
+ [G,,G,]2 [G,,G,]>[G,,G,] [C,G,]2 ([C,G,]>[C,G,]) | [C,C]2 [C,G,]>[C,G,] [C,C]2 [C,C]>[C,C] |$ %6
+w: ~ ~ ~ ~ ~ *|~ ~ ~ ~ ~ ~|
+ [F,C]2 [F,C]>[F,C] [C,C]2 [B,_C]>[B,C] | [A,C]2 [G,_B,]>[G,B,] [F,A,]2 [^F,C]>[F,C] | %8
+w: ~ ~ ~ ~ ~ ~|~ ~ ~ ~ ~ ~|
+ [G,C]2 [G,B,]>[G,D] [C,C]2 ||$ G,2 | C,2 [C,G,]>[C,G,] [C,G,]2 [C,C]>[C,C] | %11
+w: ~ ~ ~ ~|~|~ Lend a hand in the|
+ [G,D]2 [G,D]>[G,D] [G,D]2 [G,B,]>[G,C] |$ [G,D]2 [G,D]>[G,C] [G,B,]2 [G,B,]>[G,B,] | %13
+w: work for the world! ~ ~|~ ~ ~ ~ ~ ~|
+ [C,C]2 [C,G,]>[C,A,] [C,G,]2 C,2 |$ C,2 [_B,C]>[B,C] [A,C]2 [A,C]2 | %15
+w: ~ Lend a hand! ~|~ Lend a hand! ~|
+ [A,C]2 [G,_B,]>[G,B,] [F,A,]2 [^F,C]>[F,C] | [G,C]2 G,>G, [G,,B,]2 [G,,B,]>[G,,C] | [C,G,]6 |] %18
+w: ~ Lend a hand! * *|||
+V:4
+ x | x4 |$ x4 | x4 |$ x4 | x4 |$ x4 | x4 | x3 ||$ x | x4 | x4 |$ x4 | x4 |$ x4 | x4 | %16
+ x G,/>G,/ x2 | x3 |] %18

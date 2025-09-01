@@ -1,0 +1,27 @@
+X:1
+T:Title
+%%score 1 2
+L:1/8
+Q:1/4=90
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="Grand Piano, Soprano"
+V:2 bass nm="Choir Pad, I Would Be a Little Sunbeam"
+L:1/4
+V:1
+ DB AA FG | d2 F4 | DF Ac BA | B4 z2 |$ DB AG FG | d2 F4 | DF Ac BA | G4 z2 | A2 da [dd']2 | %9
+w: By~Charles~Hutchinson~Gabriel * * * * *|||||||||
+ B2 db [dd']2 | ^cB AG FE | B2 A4 | A2 da [dd']2 |$ B2 db [dd']2 | ^cB AG FE | D6 | DB AG FG | %17
+w: ||||||||
+ d2 F4 | DF Ac BA | B4 z2 | DB AG FG |$ d2 F4 | DF Ac BA | G6- | G2 z2 z2 |] %25
+w: ||||||||
+V:2
+ [G,,G,] [G,B,D] [G,B,D] | [A,,A,] [A,CD] [A,CD] | [D,,D,] [A,CD] [A,CD] | %3
+ [G,,G,] [G,B,D] [G,B,D] |$ [G,,G,] [G,B,D] [G,B,D] | [A,,A,] [A,CD] [A,CD] | %6
+ [D,,D,] [A,CD] [A,CD] | [G,B,D]2 z | [D,,D,] [F,A,D] [F,A,D] | [G,,G,] [G,B,D] [G,B,D] | %10
+ [A,,A,] [G,A,^C] [G,A,C] | D, [F,A,D] [F,A,D] | D, [F,A,D] [F,A,D] |$ [G,,G,] [G,B,D] [G,B,D] | %14
+ [A,,A,] [G,A,^C] [A,,G,] | [D,F,]/[E,G,]/ [F,A,]/[G,B,]/ [D,A,C] | [G,,G,] [G,B,D] [G,B,D] | %17
+ [A,,A,] [A,CD] [A,CD] | [D,,D,] [A,CD] [A,CD] | [G,,G,] [G,B,D] [G,B,D] | %20
+ [G,,G,] [G,B,D] [G,B,D] |$ [A,,A,] [A,CD] [A,CD] | [D,,D,] [A,CD] [A,CD] | [G,B,D]3- | %24
+ [G,B,D] z z |] %25

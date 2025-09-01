@@ -1,0 +1,31 @@
+X:1
+T:Standin In The Need of Prayer
+Z:Rodeheaver's Plantation Melodies
+%%score [ 1 2 3 4 ]
+L:1/8
+Q:1/4=100
+M:2/4
+I:linebreak $
+K:D
+V:1 treble nm="Soprano" snm="S."
+V:2 treble nm="Alto" snm="A."
+V:3 bass nm="Tenor" snm="T."
+V:4 bass nm="Bass" snm="B."
+V:1
+ AA AB | cc B/A/F | BB BB | dd |$ B/A/F | AA AA | cc B/A/F | B/A/F/E/ DF |$ E2 A2 | B/A/F/E/ DF | %10
+w: I'm goin't' join that|big 'so- c'a- * tion,||||||Then my lit- tle soul's *|||
+ E>E D2 | B/A/F/E/ |$ DF | E2 A2 | B/A/F/E/ DF | E>E D2!D.C.! |] %16
+w: |Then my lit- tle|soul's *||||
+V:2
+ z4 | z4 | GG GG | GG |$ G/F/D | FF FF | FF FF | z2 z D |$ C2 G2 | F/F/D/A,/ A,D | C>C D2 | z2 |$ %12
+w: ||I'm going't' join that|big 'so-|c'a- * tion,|I'm goin't' join that|big 'so- c'a- tion,|goinin't'|shine, shine,|Then mu lit- tle soul's goin't'|shine a- long,||
+ z D | C2 G2 | F/F/D/A,/ A,D | C>C A,2 |] %16
+w: goin't'|shine, shine,|Then my it- tle soul'd goin't'|shine a- long.|
+V:3
+ z4 | z4 | DD DD | B,D |$ DA, | DD DD | A,A, DA, | z2 z A, |$ A,2 C2 | D/D/A,/G,/ F,A, | %10
+ G,>G, F,2 | z2 |$ z A, | A,2 C2 | D/D/A,/G,/ F,A, | G,>G, F,2 |] %16
+V:4
+ z4 | z4 | G,G, G,G, | G,B, |$ DD, | D,D, D,D, | D,D, D,D, | z2 z D, |$ A,,2 A,,2 | %9
+ D,/D,/D,/D,/ D,D, | A,,>A,, D,2 | z2 |$ %12
+"_1. I'm goin't' join that big 'soc'ation\n\n2. I'm goin't' climb up Jacob's ladder\n\n3. I'm goin't' climb up high'r and higher\n\n4. I'm goin't' feast off milk and honey\n\n5. I'm goin't' walk and talk with th'angels\n\n6. I'm goin't' tell God how you done me" z D, | %13
+ A,,2 A,,2 | D,/D,/D,/D,/ D,D, | A,,>A,, D,2 |] %16

@@ -1,0 +1,13 @@
+X:1
+T:Jim French's Waltz Mazurka
+L:1/8
+M:3/4
+I:linebreak $
+K:D
+V:1 treble 
+V:1
+"D" F>G ^G>A B>d | F>G ^G>A B>d |"A" d2 c3 B | d2 c4 |"Em" E>F G>A B>c |"G" E>F G>A B>c | %6
+"D" B2 A3 ^G | B2 A4 |$"D" F>G ^G>A B>d | F>G ^G>A B>d |"Bm" f2 e3 d |"Em" f2 e4 |"G" d/f/d c3 B | %13
+"A" c>B A2 f>e | f>e B2 c2 |"D" [Dd]4 A2 ||$"D" (3fff f2 e2 | (3ddd d3 c |"G" B>c B2 F2 | %19
+"A" G4 A>G |"D" F>A d2 f2 |"A" g6 |"G" f>e d>B c>d |"A" e4 A2 |"D" (3fff f2 e2 |$ (3ddd d3 c | %26
+"G" B>c B2 F2 |"A" G4 A>G |"D" F>A d2 f2 |"A" g4 f2 |"G" e>B"A" c3/2 z/ A2 |"D" d4 || %32

@@ -1,0 +1,12 @@
+X:1
+T:Will You Come Down to Limerick?
+L:1/8
+M:9/8
+I:linebreak $
+K:G
+V:1 treble 
+V:1
+ d"^S" | cAG GDG G2 d | cAG GFG Add | cAG GDG G2 A |1 FGA =fed cAd :|2$ FGA =fed cAG || %6
+ def gaf g2 f | def gbg afd | cde =fge f2 d |$ cde =fed cA^F | def gaf g2 f | def gbg afd | %12
+ bag agf g2 d |$ cde =fed cAG || BGB AFA G2 A | BAB GBd cBA | BGB AFA G2 A | FGA =fed cA^F |$ %18
+ BGB AFA G2 A | BAB GBd cBA | fdf ece d2 A | FGA =fed cA"^S"G |] %22

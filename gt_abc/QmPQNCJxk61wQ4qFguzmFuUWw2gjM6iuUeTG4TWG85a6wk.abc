@@ -1,0 +1,12 @@
+X:1
+T:My Pretty Mary
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble 
+V:1
+ D | G2 B>c (edcB) | (gfed) B2{d} (cB) | A2 c>e (agfe) | (de)(cd) B2 (B>A) | G2 B>d (gbaf) |$ %6
+{a} (gdec) B3 d | g2 d>e B2{d} c>A | G4- G2 z || d | g>(f g/a/b/a/) gfed | (Bd)(gd) B3 B |$ %12
+ A2 Bd g2 ba | (ga)(fg) e3 d | g>(a b/a/g/f/) e>(f g/f/e/d/) | (Bg)(Bc) A3 d | g2 d>e B2{d} cA | %17
+ G6 z || %18

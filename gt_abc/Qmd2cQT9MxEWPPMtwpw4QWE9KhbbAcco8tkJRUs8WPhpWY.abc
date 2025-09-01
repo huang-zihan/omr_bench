@@ -1,0 +1,13 @@
+X:1
+T:Good Bye, Gramin
+C:J. Scott Skinner
+L:1/4
+M:4/4
+I:linebreak $
+K:D
+V:1 treble 
+V:1
+ .A .d (d c) | e d3/4{f}e/ (d A) | F G A D | (A/F/){F} E/D/{D} E2 | (A d) (d c) | %5
+ (c B3/4{d}c/) (B A) | F G (A/C/) (D/G/) |${A,D} F{DF} (E/>D/) D2 | (B g) (g B) | %9
+{B} (c B3/4{d}c/) (B A) | (A/B/) (c/d/) (e/^G/) (A/d/) |{EA} c{Ac} (B/>A/) A2 | %12
+ (d c3/4{e}d/) (c B) |$ (B A3/4{c}B/) (A G) | F G (A/C/) (D/G/) |{A,D} F{DF} (E/>D/) D2 || %16

@@ -1,0 +1,22 @@
+X:1
+T:Luigi's Mansion Dark Moon Library Piano
+%%score { 1 | 2 }
+L:1/8
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+L:1/4
+V:1
+ GBdB _dBcB | Gg^fg d z3 | GBdB _dBcB | G z7 | cege ^fe=fe |$ cc'=bc' g z3 | cege ^fe=fe | c z7 | %8
+ ^fe=fe ^fe=fe | ^fgde c z3 |$ AB_dB =eBgB | baga ^f z3 | GBdB _dBcB | Gg^fg d z2 d | edce dGBd |$ %15
+ _dBcB G z3 | B2 A2 G2 ^F2 | B2 A2 G2 ^F2 | ^f2 d2 e2 c2 | _d2 =B2 c2 z2 :| %20
+"^Optional ending used for performances." GBdB _dBcB |$ Gg^fg d z2 d | edce dGBd | _dBcB [Gg]4 |] %24
+V:2
+ G,, B,, A,, D, | G,, B,, A,, D, | G,, B,, A,, D, | G,,/D,,/=E,,/^F,,/ G,,/A,,/B,,/=B,,/ | %4
+ C, E, D, G,, |$ C, E, D,/_A,/G,/D,/ | C, E, D, G,, | C,/D,/E,/F,/ G,/E,/C,/B,,/ | %8
+ E,/G,/C,/G,/ E,/G,/C,/G,/ | E,/G,/D,/E,/ C,/ z3/2 |$ %10
+ =E,,/[B,,_D,]/A,,/[B,,D,]/ E,,/[B,,D,]/A,,/[B,,D,]/ | =E,,/[B,,_D,]/A,,/[B,,D,]/ ^F,,/ z3/2 | %12
+ G,, B,, A,, D, | G,, B,, A,, D, | z4 |$ z4 | B,, A,, G,, _G,, | B,, A,, G,, _G,, | ^F, D, E, C, | %19
+ _D, _C, =C, z :| G,, B,, A,, D, |$ G,, B,, A,, D, | z4 | z2 [G,,B,,D,]2 |] %24

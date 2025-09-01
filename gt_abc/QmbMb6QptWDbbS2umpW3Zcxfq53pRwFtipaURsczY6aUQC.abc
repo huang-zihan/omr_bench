@@ -1,0 +1,14 @@
+X:1
+T:Croughly
+C:William Marshall
+L:1/8
+Q:1/8=128
+M:4/4
+I:linebreak $
+K:Dmin
+V:1 treble 
+V:1
+|: c | A<d d>e f2 df | e>d c<g a/g/f/e/ ce | A<d d>e f2 df | g>e a/g/f/e/ d2 dc |$ A<d d>e f2 df | %6
+ e>d c<g a/g/f/e/ ce | A<d d>e f2 df | g>e a/g/f/e/ d2 dE | F>G A<B c<F A<F |$ %10
+ E>F G<c G/F/E/D/ CE | F<A G<B A<f e<g | f>d f/e/d/^c/ d2 DE | F>G A<B c<F A<F |$ %14
+ E>F G<c G/F/E/D/ CE | F<A G<B A<f e<g | f>d f/e/d/^c/ d2 d :| %17

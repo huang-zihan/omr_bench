@@ -1,0 +1,12 @@
+X:1
+T:The Courtyard
+L:1/8
+M:6/8
+I:linebreak $
+K:D
+V:1 treble 
+V:1
+|: DE | F3 FED | FGA AFD | B3 BAG | B3 Bcd | F3 FED | FGA AFD | B3 Bcd |1$ FGE D2 E :|2 FGE DdA || %10
+ B3 BAG | B3 BAG | A3 AGF | A3 AGF | B3 BAG | B3 Bcd | A3 BAG |1$ FGE DdA ||2 FGE D2 E |: %19
+ F2 A AGF | A3 AGF | G2 B BAG | B3 BAG | F2 A AGF | A3 AGF |$ G3 BAG | FGE D2 E |: G3 GFE | %28
+ G3 GFE | F3 FED | F3 FED | G3 GFE | G3 GFE | A3 BAG |$ FGE D2 F || %35

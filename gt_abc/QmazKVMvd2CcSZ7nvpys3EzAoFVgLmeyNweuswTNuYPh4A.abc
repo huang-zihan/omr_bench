@@ -1,0 +1,13 @@
+X:1
+T:Four-Hand Reel [1], The
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble 
+V:1
+ (3DEF | TG2 BG dGBG | FADA FADA | G2 BG dGBd | egfa gedB | G2 BG dGBG |$ FADA FADA | G2 BG dcBd | %8
+ egfa g2 || (3def | gdBd edBd | gdBd Te2 ef | gdBd edBd |$ egfa g3 d | gabg efge | dedc BGBd | %16
+ Tedef edBd | egfa gedB ||$ G2 BG dcBG | (3FED AD BDAD | G2 BG dcBd | egfa gedB | G2 BG dcBG |$ %23
+ (3FED AD BDAD | G2 BG dcBd | egfa g2 || (3def | Tg2 gf gdBd | faag fdef |$ Tg2 gf gdBd | %30
+ (3efg af g3 d | gabg efge | dedc BGBd | Tedef edBd |$ (3efg af gedB || %35

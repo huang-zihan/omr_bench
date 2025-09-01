@@ -1,0 +1,34 @@
+X:1
+T:Brussels, 87.87 D
+C:L. B. Shook, 1883
+Z:Public Domain
+Z:Courtesy of the Cyber Hymnal™
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=107
+M:4/4
+I:linebreak $
+K:G
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+L:1/4
+V:1
+ D>D | [DG]3 [DG] [GB]2 [Gd]2 | [Gd]4 [GB]2 [DG]>G | [FA]3 [FA] [Fd]2 [Ad]2 | [GB]6 D>D | %5
+ [DG]3 G [GB]2 [Gd]2 | [Ge]4 [Gc]2 [Gc]>[Gc] | [GB]3 [Gd] [FB]2 [FA]2 |$ G6 G>A | B4- BA (Bc) | %10
+ [Gd]4 [GB]2 e>e | d3 [Gd] [GB]2 [GB]2 | [FA]6 D>D | G3 [DG] [GB]2 [Gd]2 | [Gc]2 [Ge]4 [Gd]>[Fc] |$ %15
+ [GB]3 [DG] [GB]2 [FA]2 | G6 |] %17
+V:2
+ D>D | x8 | x15/2 G/ | x8 | x6 D>D | x3 G x4 | x8 | x8 |$ G6 x2 | (G>GGG G2) G2 | x8 | (G>G G) x5 | %12
+ x6 D>D | (D>D D) x5 | x8 |$ x8 | G6 |] %17
+V:3
+ [G,B,]>[G,B,] | [G,B,]3 [G,B,] [G,D]2 [G,B,]2 | [G,B,]4 [G,D]2 [G,B,]>[G,B,] | %3
+ [D,D]3 [D,C] (A,D) [F,D]2 | [G,D]6 [G,B,]>[G,B,] | [G,B,]3 [G,B,] [G,D]2 [G,B,]2 | %6
+ [C,C]4 [C,E]2 [C,E]>[C,E] | [D,D]3 [D,B,] [D,D]2 [D,C]2 |$ [G,B,]6 z2 | %9
+ ([G,D]>[G,D][G,D][G,D] [G,D]2) (G,A,) | [G,B,]4 [G,D]2 z2 | %11
+ ([G,B,]>[G,B,] [G,B,])[G,B,] [G,D]2 [G,D]2 | [D,D]6 z2 | %13
+ ([G,B,]>[G,B,] [G,B,])[G,B,] [G,D]2 [G,B,]2 | [CE]2 C4 [B,D]>[A,D] |$ %15
+ [G,D]3 [G,B,] [D,D]2 [D,C]2 | [G,B,]6 |] %17
+V:4
+ x | x4 | x4 | x2 D, x | x4 | x4 | x4 | x4 |$ x4 | x3 G, | x4 | x4 | x4 | x4 | x C2 x |$ x4 | x3 |] %17

@@ -1,0 +1,12 @@
+X:1
+T:St James's Park
+L:1/8
+M:2/4
+I:linebreak $
+K:Bb
+V:1 treble 
+V:1
+ F | B2 dB | cAGF | B2 dB | c2 e2 | B2 dB | cAGF | GBAc | B2 B, :: F | B2 dB | cece | B2 dB |$ %13
+ cAGF | B2 dB | cece | dcBA | B2 B, :: f2 (f/g/a) | fdcB | g2 g/a/b | gedc | f2 f/g/a | fdcB |$ %24
+ ecBA | B2 B,2 :|[M:4/4] F | B2 dc BGFD | EGFD EC-CF | B2 dc BGFD | EGFE DB,B, :: g |$ %32
+ fBdB fB (e/d/c/B/) | fBdB Accg | fBdB (B/c/e/f/) bg | fdcB FBB :| %36

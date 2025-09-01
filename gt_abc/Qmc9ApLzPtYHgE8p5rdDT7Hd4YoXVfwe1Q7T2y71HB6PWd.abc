@@ -1,0 +1,16 @@
+X:1
+T:Mullindough or the Black Laddie, JBut.712, The
+%%score ( 1 2 )
+L:1/8
+Q:1/2=70
+M:2/2
+I:linebreak $
+K:G
+V:1 treble 
+V:2 treble 
+V:1
+ g | Tedef g2 (f>e) | dG (e/d/c/B/) dGGg |{f} edef g2 f>e | dBgB e2 eg | Tedef Tg2 f>e |$ %6
+ d>gB>g d>gB>g | Tedef g>be>g | d>Bg>B A2 A :: g | Te>Ae>d eAAB |$ dG (e/d/c/B/) dGGg | %12
+ e>Ae>d e<AAB | d>Bg>B A2 Ag | e>Ae>d eAAB | dGdB dGGg |$ e>Ae>f g>be>g | d>gB>g A2 A :| %18
+V:2
+ x | x8 | x8 | x8 | x4 A2 A2 | x8 |$ x8 | x8 | x7 :: x | x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x7 :| %18

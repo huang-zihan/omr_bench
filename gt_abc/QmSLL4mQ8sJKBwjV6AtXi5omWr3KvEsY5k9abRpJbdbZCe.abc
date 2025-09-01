@@ -1,0 +1,15 @@
+X:1
+T:Stackars de alla Kolgossar
+%%score 1 2
+L:1/4
+M:3/4
+I:linebreak $
+K:Dmin
+V:1 treble 
+V:2 treble 
+V:1
+ (3D A, A, D/>(E/ | (3F) D D E | (3F D D F/>G/ | (3A A ^G A | (3F (A G) E/>(uG/ | %5
+ (3:2:4F) D E/D/ ^C |$ (3:2:4D/E/ F A ^C/>D/ | (3E D ^C D :| %8
+V:2
+ (3D A, A, A,/>(^C/ | (3D) =B, B, ^C | (3D (A, ^C) D/>E/ | (3F F E F | (3D (F E) ^C/>(E/ | %5
+ (3:2:4D) B, A,/B,/ A, |$ (3:2:4A,/^C/ D F A,/>A,/ | (3A, A, A, D :| %8

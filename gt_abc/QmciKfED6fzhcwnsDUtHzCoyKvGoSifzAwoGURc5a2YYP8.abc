@@ -1,0 +1,59 @@
+X:1
+T:Final Fantasy VII - It's Hard To Stand On Both Feet! (4 hand piano reduction)
+C:Nobuo Uematsu
+%%score { 1 | 2 | 3 | 4 }
+L:1/8
+Q:1/4=92
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 bass 
+V:4 bass 
+L:1/4
+V:1
+|: z6 .a.^f | g8 | z6 .A.^F | G8 |$ [Be]4 [=Bf]4 | [Gd]4 [Ae]4 | [Be]4 [=Bf]4 | [Gd]4 [Ae]4 |$ %8
+ z .[eg] z .[eg] z .[eg] [f=a]2 | z .[eg] z .[eg] z .[eg] [f=a]2 | c2 g2 f2- fd | %11
+ e.f.e.d z .c z .B |$ c.[eg] z .[eg] z .[eg] [f=a]2 | z .[eg] z .[eg] z .[eg] [f=a]2 | %14
+ c2 g2 f2- fb | c'.d'.e'.b z .f z .b |$ g.[eg] z .[eg] z .[eg] [f=a]2 | %17
+ z .[eg] z .[eg] z .[eg] [f=a]2 | c2 g2 f2- fd | e.f.e.d z .c z .B |$ %20
+ c.[eg] z .[eg] z .[eg] [f=a]2 | z .[eg] z .[eg] z .[eg] [f=a]2 | c2 g2 f2- fb | %23
+ c'.d'.e'.b z .f z .b |$ g.[eg] z .[eg] z .[eg] [f=a]2 | z .[eg] z .[eg] z .[eg] [f=a]c'/d'/ | %26
+ z/ e'/ z/ d'/ z/ c'/ z/ b/ z/ a/ z/ g/ z/ f/ z/ e/ |$ _d3 c =B.g.=d.f | .ec- c6 | z8 | %30
+[K:Bb] B4 .G2 .d.c |$ B4 .G2 .d.c | B4 G2 F2 | G8 |[K:C] c4 .A2 .e.d |$ c4 .A2 .e.d | c4 A2 G2 | %37
+[M:6/4] A8 z4 :| %38
+V:2
+|: z .[DE] z .[DE] z .[DE] z .[DE] | z .[DE] z .[DE] z .[DE] z .[DE] | %2
+ z .[DE] z .[DE] z .[DE] z .[DE] | z .[DE] z .[DE] z .[DE] z .[DE] |$ %4
+ z .[DE] z .[DE] z .[DE] z .[DE] | z .[DE] z .[DE] z .[DE] z .[DE] | %6
+ z .[DE] z .[DE] z .[DE] z .[DE] | z .[DE] z .[DE] z .[DE] z .[DE] |$ z .[DE] z .[DE] z C/_D/ =D2 | %9
+ z .[DE] z .[DE] z C/_D/ =D2 | z .[DE] z .[DE] z .[DE] z .[DE] | z .[DE] z .[DE] z .[DE] z .[DE] |$ %12
+ z .[DE] z .[DE] z C/_D/ =D2 | z .[DE] z .[DE] z C/_D/ =D2 | z .[DE] z .[DE] z .[DE] z .[DE] | %15
+ z .[DE] z .[DE] z .[DE] z .[DE] |$ z .[DE] z .[DE] z C/_D/ =D2 | z .[DE] z .[DE] z C/_D/ =D2 | %18
+ z .[DE] z .[DE] z .[DE] z .[DE] | z .[DE] z .[DE] z .[DE] z .[DE] |$ z .[DE] z .[DE] z C/_D/ =D2 | %21
+ z .[DE] z .[DE] z C/_D/ =D2 | z .[DE] z .[DE] z .[DE] z .[DE] | z .[DE] z .[DE] z .[DE] z .[DE] |$ %24
+ z .[DE] z .[DE] z C/_D/ =D2 | z .[DE] z .[DE] z C/_D/ =D2 | e'd'c'b agfe |$ %27
+ [_DFA]3 [DFA] [=B,=DG]4 | z .[DE] z .[DE] z .[DE] z .[DE] | z .[DE] z .[DE] z .[DE] z .[DE] | %30
+[K:Bb] z .[B,D] z .[B,D] z .[B,E] z .[B,E] |$ z .[B,D] z .[B,D] z .[B,E] z .[B,E] | %32
+ z .[CE] z .[CE] z .[CD] z .[CD] | z .[B,E] z .[B,E] z .[B,E] z .[B,E] | %34
+[K:C] z .[CE] z .[CE] z .[CF] z .[CF] |$ z .[CE] z .[CE] z .[CF] z .[CF] | %36
+ z .[DF] z .[DF] z .[DE] z .[DE] |[M:6/4] z .[CF] z .[CF] z .[CF] z .[CF].[CF] z z2 :| %38
+V:3
+|: z8 | z8 | z8 | z8 |$ [G,C]4 [A,^C]4 | [G,B,]4 [F,_C]4 | [G,C]4 [A,^C]4 | [G,B,]4 [F,_C]4 |$ %8
+ z .B, z .B, z B,/=B,/ C2 | z .B, z .B, z B,/=B,/ C2 | z8 | z8 |$ z .B, z .B, z B,/=B,/ C2 | %13
+ z .B, z .B, z B,/=B,/ C2 | z8 | z8 |$ z .B, z .B, z B,/=B,/ C2 | z .B, z .B, z B,/=B,/ C2 | z8 | %19
+ z8 |$ z .B, z .B, z B,/=B,/ C2 | z .B, z .B, z B,/=B,/ C2 | z8 | z8 |$ z .B, z .B, z B,/=B,/ C2 | %25
+ z .B, z .B, z B,/=B,/ C2 |[K:treble] .[EGc]2 z .[EGc] .[EAc]2 z .[EAc] |$[K:bass] z8 | z G,- G,6 | %29
+ z8 |[K:Bb] z8 |$ z8 | z8 | z8 |[K:C] z8 |$ z8 | z8 |[M:6/4] z8 ._A,4 :| %38
+V:4
+|: .C, .G,, .A,, ._D, | .C, .G,, .A,, ._D, | .C, .G,, .A,, ._D, | .C, .G,, .A,, ._D, |$ %4
+ .C, .G,, .A,, ._D, | .C, .G,, .A,, ._D, | .C, .G,, .A,, ._D, | .C, .G,, .A,, ._D, |$ %8
+ .C, z z z/ D,/4_D,/4 | .C, z z z/ _D,/ | .C, .G,, .A,, ._D, | .C, .G,, .A,, ._D, |$ %12
+ .C, .G,, .A,, z/ _D,/ | .C, .G,, .A,, ._D, | .C, .G,, .A,, ._D, | .C, .G,, .A,, ._D, |$ %16
+ .C, .G,, .A,, z/ _D,/ | .C, .G,, .A,, z/ _D,/ | .C, .G,, .A,, ._D, | .C, .G,, .A,, ._D, |$ %20
+ .C, .G,, .A,, z/ _D,/ | .C, .G,, .A,, z/ _D,/ | .C, .G,, .A,, ._D, | .C, .G,, .A,, ._D, |$ %24
+ .C, .G,, .A,, z/ _D,/ | .C, .G,, .A,, z/ _D,/ | C/.B,/.A,/.G,/ F,/._F,/.E,/.C,/ |$ %27
+ _D,3/2 .C,/ .=B,, G,, | .C, .G,, .A,, ._D, | .C, .G,, .A,, ._D, |[K:Bb] .G,, .D, E, .B,, |$ %31
+ .G,, .D, E, .B,,/.E,/ | C, .G,, D, .A,, | E, .B,, E, .B,, |[K:C] .A,, .E, F, .C,/.G,/ |$ %35
+ .A,, .E, F, .C,/.E,/ | D, A,, E, B,, |[M:6/4] .F, .C, .F,/.E,/ .C,/.D,/ .F, z :| %38

@@ -1,0 +1,28 @@
+X:1
+T:Wareham, LM
+C:William Knapp, 1738
+Z:Public Domain
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+M:3/4
+I:linebreak $
+K:Bb
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ [DB] | [DB] [FA] [EG] | (E D) [FB] | [Gc] [FB] [FA] | [FB]2 [Fc] | [Fd] [Cc] (D/=E/) | %6
+ (A B) [Fc] | [GB] [FA] [=EG] | F2 F |$ ([EG] F) (G/A/) | [FB]2 (F/E/) | [DB]2 [Fc] | %12
+ [Fd]2 (c/d/) | ([Ee] [Fd]) [Gc] | ([FB] [EA]) [FB] | ([Gc] [FB]) [EA] | [DB]2 |] %17
+V:2
+ x | x3 | F2 x | x3 | x3 | x2 B | F2 x | x3 | F2 F |$ x F E | x2 A | x3 | x2 F | x3 | x3 | x3 | %16
+ x2 |] %17
+V:3
+ [B,,F,] | [B,,F,]2 (G,/A,/) | [B,,B,]2 [D,B,] | [E,E] [F,D] [F,C] | [B,,D]2 [F,A,] | %5
+ B, [A,C] [G,C] | ([F,C] [D,F,]) [A,,A,] | [B,,D] [C,C] [C,B,] | [F,A,]2 [D,B,] |$ (E, D,) [C,E] | %10
+ (E D) [F,C] | [G,B,]2 [G,B,] | B,2 [F,A,] | (G, F,) (G,/A,/) | ([D,B,] [C,C]) [B,,D] | %15
+ ([E,E] [F,D]) [F,C] | [B,,B,]2 |] %17
+V:4
+ x | x2 B,, | x3 | x3 | x3 | B, x2 | x3 | x3 | x3 |$ B,2 x | B,,2 x | x3 | B,2 x | B,2 E, | x3 | %15
+ x3 | x2 |] %17

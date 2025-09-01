@@ -1,0 +1,130 @@
+X:1
+T:Anchor
+C:Novo Amor & Ed Tullet
+%%score { 1 { 2 | 3 } }
+L:1/8
+Q:1/4=115
+M:2/4
+I:linebreak $
+K:A
+V:1 treble-8 nm="Piano" snm="Pno."
+V:2 bass nm="Piano"
+V:3 bass 
+V:1
+|: z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 |$ z4 | z4 | z4 | z4 | z4 | z4 | %16
+w: ||||||||||||||||
+!mp!"^Lightly" e2 ee | z !tenuto!A2 !tenuto!A |$ d2 cc- | c2 z2 | e2 ee | z !tenuto!A2 !tenuto!A | %22
+w: Took the breath|from my|op- en mouth||Ne- ver known|how it|
+ d2 cc- |$ c c2 B- | B z z2 | z2 z A | c2 cc | BA z2 | z4 | z4 |$ z4 | z4 | e2 ee | %33
+w: broke me down|* I went||in|cir- cles some-|where else.|||||Shook the best|
+ z !tenuto!A2 !tenuto!A | d2 cc- | c2 z2 |$ e2 ee | z !tenuto!A2 !tenuto!A | d2 cc- | c c2 B- | %40
+w: when your|love was home||Stor- ing up|on your|sum- mer glow|* you went|
+ B z z2 | z2 z A |$ c2 cc | BA z2 | z4 | z4 | z4 | z e e2 |!mp! f4 |$ c4 | e2 cc | dc z2 | z4 | %53
+w: |in|search of some-|one else.||||And I|hear|your|ship is co-|min' in||
+ z4 | z4 | z e3 | f4 |$ c4 | e2 cc | dc z2 | z4 | z4 | z4 | z e e2 | f4 |$ c4 | e2 cc | dc z2 | %68
+w: ||your|tears|a|sea for me|to swim||||And I|hear|a|storm is co-|min' in.|
+ z4 | z4 | z4 | z e3 | f4 |$!>(! cB AA | e2 dc- | c B2 A- |!p! A z z2!>)! | z4 | z4 | z4 |$ %80
+w: |||My|dear|is * * it|all we've e-|* ver been?|||||
+[K:treble]!pp! (B3 c-) | c4- | c4 | (c3 A-) | A4- | A4- | A4 | c4 | B4- | B4 |$ c4 | B4 | A4 | z4 | %94
+w: (oohs) *||||||||||||||
+ z4 | z4 |!mp! E2 EE | z !tenuto!A,2 !tenuto!A, |$ D2 CC- | C2 z2 | E2 EE | %101
+w: ||Caught the air|in your|wo- ven mouth||Leave it all|
+ z !tenuto!A,2 !tenuto!A, | D2 CC- | C C2 B,- |$ B, z z2 | z2 z A, | C2 CC | B,A, z2 | z4 | z4 | %110
+w: I'll be|hea- ving how|* you went||in|search of some-|one else.|||
+ z4 | z4 |$ E2 EE- | E !tenuto!A,3 | D2 CC- | C2 z2 | E2 EE | z !tenuto!A,3 |$ D2 CC- | C C2 B,- | %120
+w: ||Taught the hand|* that|taut the bride||Both our eyes|lock|to the tide|* we went|
+ B, z z2 | z2 z A, | C2 CC | B,A, z2 | z4 |$ z4 | z4 | z E E2 |!mp! F4 | C4 | E2 CC | DC z2 | z4 |$ %133
+w: |in|cir- cles some-|where else.||||And I|hear|your|ship is co-|min' in.||
+ z4 | z4 | z E3 | F4 | C4 | E2 CC | DC z2 | z4 |$ z4 | z4 | z!mf! E E2 | F4 | C4 | E2 CC | DC z2 |$ %148
+w: ||Your|tears|a|sea for me|to swim.||||And I|hear|a|storm is co-|min' in.|
+ z4 | z4 | z4 | z E3 | F4 |!>(! CB, A,A, | E2 DC- | C B,2 A,- |$!p! A, z z2!>)! | z4 | z4 | z4 | %160
+w: |||My|dear|is * * it|all we've e-|* ver been?|||||
+[Q:1/4=80] z4 | z4 |[Q:1/4=60] z4 | z4 | z4 | z4 | z4 | z4 | z4 |$ z4 |[Q:1/4=115]"^\n"!<(! G4 | %171
+w: ||||||||||An-|
+ E4 | A3 A | GF!mp! E2!<)! | z4 | z4 | z4 |$ z4 |!<(! G4 | E4 | A3 A | GF!mf! E2!<)! | z4 | z4 |$ %184
+w: chor|up to|me lo- ve.|||||An-|chor|up to|me lo- ve.|||
+ z4 | z4 |!<(! G4 | E4 | A3 A | GF!f! E2!<)! | z4 |$ z4 | z4 | E4 |!<(! G4 | E4 | A4 | B4 | %198
+w: ||An-|chor|up to|me lo- ve.||||Oh|An-|chor|up|to|
+!ff! c4-!<)! |$ c4- | c4 | d4 | c4 | c4 | c B3- | B4- |$ B4 | B4 |[Q:1/4=80] F4- | F4 | z4 | %211
+w: me|||my|love|my|lo- *||ve|my|lo-|ve.||
+[Q:1/4=60] z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 |] %219
+w: ||||||||
+V:2
+|:!p! z C E,A, | z (C E,A,) | z (C E,A,) | z (C E,A,) | z (C E,A,) | z (C E,A,) | z (C E,A,) | %7
+ z (C E,B,) | z (G, E,A,) | z (G, E,A,) |$!<(! z (A, E,A,) | z (C E,!<)!!mf!A,) |!p! z (F, E,A,) | %13
+ z (F, E,A,) | z (F, E,A,) | z (F, E,A,) | z (C E,A,) | z (C E,A,) |$ z (C E,A,) | z (C E,A,) | %20
+ z (C E,A,) | z (C E,A,) | z (C E,A,) |$ z (C E,B,) | z G, E,A, | z G, E,A, |!<(! z A, z A, | %27
+ z C z!mf! A,!<)! |!p! z (F, E,A,) | z (F, E,A,) |$ z (F, E,A,) | z (F, E,A,) | z (C E,A,) | %33
+ z (C E,A,) | z (C E,A,) | z (C E,A,) |$ z (C E,A,) | z (C E,A,) | z (C E,A,) | z (C E,B,) | %40
+ z G, E,A, | z G, E,A, |$!<(! z A, z A, | z C z!mf! A,!<)! |!p! z"_cresc." (F, E,A,) | %45
+ z (F, E,A,) | z (F, E,A,) | z [Be] [Be]2 |!mp! [cf]4 |$ [Fc]4 | [EAe]2 [Cc][Cc] | [Dd][Cc] z2 | %52
+ z (F EA) | z (F EA) | z (F EA) | z [Be] [Be]2 | [cf]4 |$ [Fc]3 [Fc] | [EAe]2 [Cc][Cc] | %59
+ [Dd][Cc] z2 | z (F EA) | z (F EA) | z (F EA) | z [Be] [Be]2 | [cf]4 |$ [Fc]3 [Fc] | %66
+ [EAe]2 [Cc][Cc] | [Dd][Cc] z2 | z (F EA) | z (F EA) | z (F EA) | z [Be] [Be]2 | [cf]4 |$ %73
+!>(! cB AA | e2 dc- | c B2 A- |!p! A z z2!>)! | z A z A | z A z A | z A z A |$!p! z C E,A, | %81
+ z (C E,A,) | z (C E,A,) | z (C E,A,) | z (C E,A,) | z (C E,A,) | z (C E,A,) | z (C E,B,) | %88
+ z (G, E,A,) | z (G, E,A,) |$!<(! z (A, E,A,) | z (C E,!<)!!mf!A,) |!p! z (F, E,A,) | z (F, E,A,) | %94
+ z (F, E,A,) | z (F, E,A,) | z (C E,A,) | z (C E,A,) |$ z (C E,A,) | z (C E,A,) | z (C E,A,) | %101
+ z (C E,A,) | z (C E,A,) | z (C E,B,) |$ z G, E,A, | z G, E,A, |!<(! z A, z A, | z C z!mf! A,!<)! | %108
+!p! z (F, E,A,) | z (F, E,A,) | z (F, E,A,) | z (F, E,A,) |$ z (C E,A,) | z (C E,A,) | z (C E,A,) | %115
+ z (C E,A,) | z (C E,A,) | z (C E,A,) |$ z (C E,A,) | z (C E,B,) | z G, E,A, | z G, E,A, | %122
+!<(! z A, z A, | z C z!mf! A,!<)! |!p! z"_cresc." (F, E,A,) |$ z (F, E,A,) | z (F, E,A,) | %127
+[K:treble] z [Be] [Be]2 |!mp! [cf]4 | [Fc]4 | [EAe]2 [Cc][Cc] | [Dd][Cc] z2 | z (F EA) |$ %133
+ z (F EA) | z (F EA) | z [Be] [Be]2 | [cf]4 | [Fc]3 [Fc] | [EAe]2 [Cc][Cc] | [Dd][Cc] z2 | %140
+!<(! z (F EA) |$ z (F EA) | z (F EA)!<)! | z!mf! [Be] [Be]2 | [cf]4 | [Fc]3 [Fc] | %146
+ [EAe]2 [Cc][Cc] | [Dd][Cc] z2 |$ z (F EA) | z (F EA) | z (F EA) | z [Be] [Be]2 | [cf]4 | %153
+!>(! cB AA | e2 dc- | c B2 A- |$!p! A z z2!>)! |!<(! z A z A | z A z A | z A z!mf! A!<)! | z4 | %161
+ z4 |!pp! [FAc]4 | [Ace]4 | [CFA]4- | [CFA]4 | [FAc]4 | [EGB]4 | [CFA]4- |$ [CFA]4 |!<(! z A z A | %171
+ z A z A | z A z A | z A z!p! A!<)! | z A z A | z A z A | z A z A |$ z A z A |!<(! z A z A | %179
+ z A z A | z A z A | z A z!mp! A!<)! | z A z A | z A z A |$ z [EA] z [EA] | z [EA] z [EA] | %186
+!<(! z [EA] z [EA] | z [EA] z [EA] | z [EA] z [EA] | z [EA] z!mf! [EA]!<)! | z [EA] z [EA] |$ %191
+ z [EA] z [EA] | z [EA] z [EA] | z [EA] z [EA] |!<(! z [EA] z [EA] | z [EA] z [EA] | %196
+ [EA][EA] [EA][EA] | [EA][EA] [EA][EA] |!f! [CEA]!<)![CEA] [CEA][CEA] |$ [CEA][CEA] [CEA][CEA] | %200
+ [CEA][CEA] [CEA][CEA] | [CEA][CEA] [CEA][CEA] | [CEA][CEA] [CEA][CEA] | [CEA][CEA] [CEA][CEA] | %204
+ [CEA][CEA] [CEA][CEA] | [CEA][CEA] [CEA][CEA] |$ [CEA][CEA] [CEA][CEA] | [CEA][CEA] [CEA][CEA] | %208
+ z4 | z4 | z4 |!pp!!>(! [FAc]4 | [Ace]4 | [CFA]4- | [CFA]4 | [FAc]4 | [EGB]4 | [CFA]4- | %218
+!ppp! [CFA]4!>)! |] %219
+V:3
+|:!ped! A,,4 | A,,4 | A,,4 | A,,4!ped-up! |!ped! D,,4 | D,,4 | D,,4 | D,,4!ped-up! |!ped! E,,4 | %9
+ E,,4 |$ [F,,C,]2 [F,,C,]2 | [A,,E,]2 [A,,E,]2!ped-up! |!ped! [D,,A,,]4 | [D,,A,,]4 | [D,,A,,]4 | %15
+ [D,,A,,]4!ped-up! |!ped! A,,4 | A,,4 |$ A,,4 | E,4!ped-up! |!ped! D,4 | D,4 | D,4 |$ D,4!ped-up! | %24
+!ped! E,,4 | E,,4 | [F,,C,]2 [F,,C,E,]2 | [A,,E,]2 [A,,E,]2!ped-up! |!ped! [D,,A,,]4 | [D,,A,,]4 |$ %30
+ [D,,A,,]4 | [D,,A,,]4!ped-up! |!ped! A,,4 | A,,4 | A,,4 | A,,4!ped-up! |$!ped! D,4 | D,4 | D,4 | %39
+ D,4!ped-up! |!ped! E,,4 | E,,4 |$ [F,,C,]2 [F,,C,E,]2 | [A,,E,]2 [A,,E,]2!ped-up! | %44
+!ped! [D,,A,,]4 | [D,,A,,]4 | [D,,A,,]4 | [D,,A,,]4!ped-up! |!ped! [F,,,F,,]C, E,C- |$ %49
+ CA, F,C,!ped-up! |!ped! [A,,,A,,]E, A,C- | CA, E,C,!ped-up! |!ped! [D,,,D,,]F, E,A, | %53
+ [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A,!ped-up! |!ped! [F,,,F,,]C, E,C- |$ %57
+ CA, F,C,!ped-up! |!ped! [A,,,A,,]E, A,C- | CA, E,C,!ped-up! |!ped! [D,,,D,,]F, E,A, | %61
+ [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A,!ped-up! |!ped! [F,,,F,,]C, E,C- |$ %65
+ CA, F,C,!ped-up! |!ped! [A,,,A,,]E, A,C- | CA, E,C,!ped-up! |!ped! [D,,,D,,]F, E,A, | %69
+ [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A,!ped-up! |!ped! [F,,,F,,]C, E,C- |$ %73
+ CA, F,C,!ped-up! |!ped! [E,,,E,,]B,, E,B,- | B,G, E,B,,!ped-up! |!ped! [D,,,D,,]F, E,A, | %77
+ [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A,!ped-up! |$!ped! A,,4 | A,,4 | A,,4 | %83
+ A,,4!ped-up! |!ped! D,,4 | D,,4 | D,,4 | D,,4!ped-up! |!ped! E,,4 | E,,4 |$ [F,,C,]2 [F,,C,]2 | %91
+ [A,,E,]2 [A,,E,]2!ped-up! |!ped! [D,,A,,]4 | [D,,A,,]4 | [D,,A,,]4 | [D,,A,,]4!ped-up! | %96
+!ped! A,,4 | A,,4 |$ A,,4 | E,4!ped-up! |!ped! D,4 | D,4 | D,4 | D,4!ped-up! |$!ped! E,,4 | E,,4 | %106
+ [F,,C,]2 [F,,C,E,]2 | [A,,E,]2 [A,,E,]2!ped-up! |!ped! [D,,A,,]4 | [D,,A,,]4 | [D,,A,,]4 | %111
+ [D,,A,,]4!ped-up! |$!ped! A,,4 | A,,4 | A,,4 | A,,4!ped-up! |!ped! D,4 | D,4 |$ D,4 | %119
+ D,4!ped-up! |!ped! E,,4 | E,,4 | [F,,C,]2 [F,,C,E,]2 | [A,,E,]2 [A,,E,]2!ped-up! | %124
+!ped! [D,,A,,]4 |$ [D,,A,,]4 | [D,,A,,]4 | [D,,A,,]4!ped-up! |!ped! [F,,,F,,]C, E,C- | %129
+ CA, F,C,!ped-up! |!ped! [A,,,A,,]E, A,C- | CA, E,C,!ped-up! |!ped! [D,,,D,,]F, E,A, |$ %133
+ [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A,!ped-up! |!ped! [F,,,F,,]C, E,C- | %137
+ CA, F,C,!ped-up! |!ped! [A,,,A,,]E, A,C- | CA, E,C,!ped-up! |!ped! [D,,,D,,]F, E,A, |$ %141
+ [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A,!ped-up! |!ped! [F,,,F,,]C, E,C- | %145
+ CA, F,C,!ped-up! |!ped! [A,,,A,,]E, A,C- | CA, E,C,!ped-up! |$!ped! [D,,,D,,]F, E,A, | %149
+ [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A,!ped-up! |!ped! [F,,,F,,]C, E,C- | %153
+ CA, F,C,!ped-up! |!ped! [E,,,E,,]B,, E,B,- | B,G, E,B,,!ped-up! |$!ped! [D,,,D,,]F, E,A, | %157
+ [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A, | !fermata![D,,,D,,]4- | %161
+ [D,,,D,,]4!ped-up! |!ped! [F,,C,]4 | [A,,E,]4 | [D,,A,,]4- | [D,,A,,]4!ped-up! |!ped! [F,,C,]4 | %167
+ [E,,B,,]4 | [D,,A,,]4- |$ [D,,A,,]4!ped-up! |!ped! [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A, | %172
+ [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A,!ped-up! |!ped! [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A, | %176
+ [D,,,D,,]F, E,A, |$ [D,,,D,,]F, E,A,!ped-up! |!ped! [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A, | %180
+ [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A,!ped-up! |!ped! [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A, |$ %184
+ [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A,!ped-up! |!ped! [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A, | %188
+ [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A,!ped-up! |!ped! [D,,,D,,]F, E,A, |$ [D,,,D,,]F, E,A, | %192
+ [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A,!ped-up! |!ped! [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A, | %196
+ [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A,!ped-up! |!ped! [D,,,D,,]F, E,A, |$ [D,,,D,,]F, E,A, | %200
+ [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A,!ped-up! |!ped! [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A, | %204
+ [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A,!ped-up! |$ [D,,,D,,]F, E,A, | [D,,,D,,]F, E,A, | %208
+!ff!!ped! [D,,,D,,]4- | [D,,,D,,]4- | [D,,,D,,]4 | [F,,C,]4 | [A,,E,]4 | [D,,A,,]4- | [D,,A,,]4 | %215
+ [F,,C,]4 | [E,,B,,]4 | [D,,A,,]4- | [D,,A,,]4!ped-up! |] %219

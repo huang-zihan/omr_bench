@@ -1,0 +1,13 @@
+X:1
+T:Trim The Velvet
+L:1/8
+M:4/4
+I:linebreak $
+K:D
+V:1 treble 
+V:1
+|: D3 F ED D2 | D2 (3FGA GE E2 | D3 F ED D2 | ABcA GE E2 | D3 F E3 G | FGAF GE E2 |$ AD D2 ED D2 | %7
+ ABcA GE E2 |: AdBd Ad d2 | ABAF GE E2 | AdBd Ad d2 | ABcA GE E2 |$ A3 B AFDF | ADFD GE E2 | %14
+ Ad (3Bcd Ad d2 | ABcA GE E2 |: d3 e fdec | d2 ef gfec |$ d2 (3fed edfd | ABcA GE E2 | d3 e fdec | %21
+ d2 ef gf e2 | fd d2 edfd | ABcA GE E2 |:$ (3FED AD FD D2 | (3FED AF GE E2 | (3FED AD FD D2 | %27
+ ABcA GE E2 | (3FED AD FD D2 | AD D2 GE E2 |$ F3 D E2 (3EFG | A2 (3cBA GE E2 || %32

@@ -1,0 +1,24 @@
+X:1
+T:Rest (Maker), 86.886
+C:Frederick Charles Maker, 1887
+Z:Public Domain
+%%score ( 1 2 ) 3
+L:1/4
+M:4/4
+I:linebreak $
+K:D
+V:1 treble 
+V:2 treble 
+L:1/8
+V:3 bass 
+V:1
+ [DF] | [DF]3/2 [DF]/ [D^E] [DF] | [DA] [DA] [D^G] [E=G] | [DF]3/2 D/ D [DE] | [CE]3 [DF] | %5
+ [DF]3/2 [CG]/ [DA] [Dd] |$ [Ed]3/2 [Ec]/ [DB] [DB] | [DB]3/2 [^DA]/ [EG] [E^G] | %8
+ [EA] [EG] [DF] [DA] | D3/2 D/ D [CE] | [DF]3 |] %11
+V:2
+ x2 | x8 | x8 | x3 D D2 x2 | x8 | x8 |$ x8 | x8 | x8 | D3 D D2 x2 | x6 |] %11
+V:3
+ [D,A,] | [D,A,]3/2 [D,A,]/ [D,^G,] [D,A,] | [F,A,] [F,A,] [E,B,] [C,A,] | %3
+ [D,A,]3/2 [D,F,]/ [B,,F,] [B,,^G,] | [A,,A,]3 [D,A,] | [D,A,]3/2 [E,A,]/ [F,A,] [F,A,] |$ %6
+ [F,^A,]3/2 [F,A,]/ [G,B,] [G,B,] | [G,B,]3/2 [F,B,]/ [E,B,] [D,B,] | [C,A,] [C,A,] [D,A,] [F,=C] | %9
+ [G,=C]3/2 [G,B,]/ [G,B,] [G,_B,] | [D,A,]3 |] %11

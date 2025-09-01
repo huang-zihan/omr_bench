@@ -1,0 +1,24 @@
+X:1
+T:O biondetta
+C:Giovanni Antonio Rigatti
+%%score 1 2
+L:1/8
+Q:1/4=80
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Soprano" snm="S"
+V:2 bass nm="BC"
+V:1
+ z2 ^FG A3 A | BA B^c d2 A2 | ^fe fe d^c dc |$ BA B^c A2 A2 |$ BA BA G^F GF | ED E^F D2 D2 :: %6
+w: O bion- det- ta|la- * sci- * vet- ta|pa- * sto- * rel _ la _|tut- * ta _ bel- la,|pa- * sto- * rel- * la _|tut- * to _ bel- la,|
+w: O ru- bel- la|nin- * fa _ bel- la|d'a- * mor _ freg- * gio _|d'a- * mor _ preg- gio,|d'a- * mor _ freg- * gio _|d'a- * mor _ preg- gio,|
+w: O Lil- let- ta|par- * go- * let- ta|Lil- * l'a- * ma- * ta _|Lil- * la'in- * gra- ta,|Lil'- * l'a- * ma- * ta _|Lil'- * l'a'in- * gra- ta,|
+ z4 z2 ^FG | AB ^cd Bc de |$ ^cAcd eB d2- | d2 e4 z B | B4 A2 G2- | G3 B E4 | D8 :| %13
+w: se vez-|zo- * sa _ se _ fe- *|sto- sa io ti mi- ro ahi,|_ ahi so-|spi- ro, ahi|_ so- spi-|ro.|
+w: se ri-|den- * te _ pur _ so- *|ven- te io ti mi- ro ahi,|_ ahi so-|spi- ro, ahi|_ so- spi-|ro.|
+w: men- tre'in-|can- * ti _ trà _ gl'A- *|man- ti io ti mi- ro ahi,|_ ahi so-|spi- ro, ahi|_ so- spi-|ro|
+V:2
+ z2 D,E, ^F,E, F,D, | G,E, A,A,, D,E, ^F,E, | D,2 ^C,2 D,E, ^F,C, |$ D,2 E,2 A,,B,, ^C,D, |$ %4
+ G,^F, E,F, G,2 B,2 | G,2 A,2 D,3 E, :: ^F,G, A,A,, D,3 E, | ^F,2 ^C,2 D,2 E,2 |$ %8
+ A,,2 ^F,2 E,2 F,^G, | A,A,, ^C,D, E,2 ^F,C, | D,2 E,2 A,,2 B,,^C, | D,E, ^F,G, A,B, G,A, | D,8 :| %13

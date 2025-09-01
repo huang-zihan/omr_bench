@@ -1,0 +1,28 @@
+X:1
+T:Подмосковные вечера
+T:Podmoskovnie vechera
+T: Vasily Solovyov-Sedoi
+T:Mikhail Matusovsky 
+%%score { 1 | 2 | 3 }
+L:1/4
+M:2/4
+I:linebreak $
+K:F
+V:1 treble nm="Organ" snm="Org."
+L:1/8
+V:2 bass 
+V:3 bass 
+V:1
+ DF AF | G2 FE | A2 G2 | D4 | FA cc | d2 cB | A4 |: =B2 ^c2 | ed A2- | AF ED |$ AG B2- | B2 cB | %12
+ A2 GF | A2 G2 | D4!D.C.! :| [^G=B]2 [=G^c]2 | [F-e][F-d] [FA]2- | [FA]F ED | AG [DB]2- | %19
+ [DB]2 [Ac][GB] | [FA]2 [EG][DF] |$ [^C-A]2 [CG]2 | [Dd]4- | [Dd]4- | [Dd]4 |] z4 | z4 | z4 | z4 | %29
+ z4 | z4 | z4 |] %32
+V:2
+ [F,A,D]2 | [G,B,D]2 | [G,A,^C]2 | [F,A,D]2 | [F,A,C]2 | [F,B,D] [B,CE] | [F,A,C]2 |: %7
+ [^G,DE] [=G,A,^C] | [F,A,D]2 | [F,A,D]2 |$ [G,B,D]2 | [G,B,D]2 | [F,A,D]2 | [G,A,^C]2 | %14
+ [F,A,D]2 :| [^G,DE] [=G,A,^C] | [F,A,D]2 | [F,A,D]2 | [G,B,D]2 | [G,B,D]2 | [F,A,D]2 |$ %21
+ [G,A,^C]2 | [F,A,D]2- | [F,A,D]2- | [F,A,D]2 |] z2 | z2 | z2 | z2 | z2 | z2 | z2 |] %32
+V:3
+ D,,2 | G,,2 | A,,2 | D,,2 | F,,2 | B,, C, | F,,2 |: E,, A,, | D,,2 | F,,2 |$ G,,2 | B,,2 | F,,2 | %13
+ A,,2 | D,,2 :| E,, A,, | D,,2 | F,,2 | G,,2 | B,,2 | D,,2 |$ A,,2 | D,,2 | F,,2 | D,,2 |] z2 | %26
+ z2 | z2 | z2 | z2 | z2 | z2 |] %32

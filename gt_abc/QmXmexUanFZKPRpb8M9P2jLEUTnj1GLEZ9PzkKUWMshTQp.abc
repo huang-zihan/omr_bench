@@ -1,0 +1,13 @@
+X:1
+T:1.er Les Cerceaux
+L:1/4
+M:2/2
+I:linebreak $
+K:G
+V:1 treble 
+V:1
+ G,/A,/B,/C/ | D D D D | D G A B | c A B/A/B/c/ | B B G,/A,/B,/C/ | D D D D | D E F G | B,2 A,2 | %8
+ G,2 ::$"^2.F." D/E/F/G/ | A A A A | A G A d | c2 !plus!B2 | A2 G,/A,/B,/C/ | D D D D | D E F G | %16
+ B,2 !plus!A,2 | G,2 ::"^1.F." c/B/A/^G/ |$ A2 c/B/A/^G/ | A D E F | G C B, A, | B, G, c/B/A/^G/ | %23
+ A2 c/B/A/^G/ | A D E F | G C B, A, | G,2 :: B, C |$"^2.F." D2 E D | C B, A, B, | C2 D C | %31
+ B, A, G, A, | B,2 C/B,/A,/G,/ | A,2 C/B,/A,/G,/ | A, C B, A, | G,2 :| %36

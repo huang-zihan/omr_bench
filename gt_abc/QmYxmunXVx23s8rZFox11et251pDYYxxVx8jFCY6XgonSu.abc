@@ -1,0 +1,47 @@
+X:1
+T:Euge serve bone
+C:José de Torres y Martinez Bravo [1665-1738]
+Z:The Bible, Gospel of Saint Matthew,
+Z:chapter 25, verse 21.
+Z:Copyright ©
+%%score [ 1 2 ]
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Soprano" snm="S."
+V:2 treble-8 transpose=-12 nm="Tenor" snm="T."
+V:1
+ z4 e4- | e2 d2 c2 B2 | A2 G2 c2 B2 | A2 G2 F2 E2 |$ A2 G2 F2 E2- | E2 DC D4 | E4 e4- | %7
+w: Eu-|* ge ser- ve|bo- ne, et fi-|de- * * *|||lis, et|
+ e2 d2 c2 B2- |$ B2 A4 ^G2 | A8 | z Bcd ^c/A/B/c/ d/c/d/e/ | f/e/d/c/ d/c/B/A/ ^G2 GG |$ %12
+w: _ fi- de- *||lis:|qui- a in pa- * * * * * * *|* * * * * * * * * u- ca|
+ A2 F2 z D d2- | dBcd ^c/A/B/c/ d/e/f/d/ | e/f/g/e/ fe d/e/f/d/ ed |$ ^c/d/e/c/ d2 z2 Bc | %16
+w: fui- sti fi- de-|||* * * * lis, su- pra|
+ d/c/d/e/ dc/B/ A>G AB | c>B cd e2 ef |$ g/f/g/f/ gf/e/ d>c de | f/e/f g/f/e/d/ c2 cd |$ %20
+w: mul- * ta te con- * * sti- * * *|* tu- * * am, su- pra|mul- * ta te con- * * sti- * * *|* * * * * tu- am, te cons- *|
+ e/d/e/f/ ed/c/ B>A Bc | d/c/d/e/ dc/B/ A4- | A2 ^G2 A4 ||$ e2 cA ed/e/ B/c/d/e/ | %24
+w: ti- * * * * * * * * * *||* tu- am,|in- tra in ga- * * * * * *|
+ c/d/c/B/ A3 A ^G2 | A2 FD AG/A/ E/F/G/A/ | ^FE/D/ G3 G F2 |$ G2 EC G>G D2 | EFGA GEFG | %29
+w: * * * * * u- dium,|in- tra in ga- * * * * * *|* * * * u- dium,|in- tra in ga- u- dium,|do- * * * * * * *|
+ AG F3 F E2 | FEFG E4- | E2 DC D4 |$ E8 | z2 E^F ^GEAB | ^G2 A2 z4 | z2 AB ^cAde |$ ^c2 d2 BAGA | %37
+w: * * * mi- ni|tu- * * * *||i.|A- lle- lu- ia, a- lle-|lu- ia,|a- lle- lu- ia, a- lle|lu- ia, a- * * *|
+ BG cd B2 c2 | d2 ed cBAG | A2 Bc dcBA | ^G16 |] %41
+w: * * lle- * lu- ia,|a- lle- * lu- * * *||ia.|
+V:2
+ e6 d2 | c2 B2 A2 G2 | c2 B2 A2 G2 | F2 E2 A2 G2 |$ F2 E2 D2 C2 | F8 | E2 e4 d2 | c2 B2 A2 ^G2 |$ %8
+w: Eu- ge|ser- ve bo- ne,|et fi- de- *||||lis, et fi-|de- * * *|
+ c4 BBcd | ^c/A/B/c/ d/c/d/e/ f/e/d/c/ d/c/B/A/ | ^G2 GG A2 F2 | z D d3 Bcd |$ %12
+w: * lis, qui- a in|pa- * * * * * * * * * * * * * * *|* u- ca fui- sti,|fi- de- * * *|
+ ^c/A/B/c/ d/c/d/e/ f/e/d/c/ d/c/B/A/ | ^G4 A2 ^F/G/A/F/ | G/A/B/G/ A/B/c/A/ B/G/A/B/ cB |$ %15
+w: |* lis, fi- * * *|de- * * * * * * * * * * * * *|
+ AG ^F/G/A/F/ G4 | z2 Bc d/c/ d/e/ d c/B/ | A>G AB c>B cd |$ e2 ef g/f/ g/a/ g f/e/ | %19
+w: * * * * * * lis,|su- pra mul- * ta _ te con- *|sti- * * * * * tu- *|am, su- pra mul- * ta _ te con- *|
+ d>c de f/e/f/g/ f e/d/ |$ c2 cd e/d/e/f/ ed/c/ | B>A Bc defd | e2 E2 A4 ||$ z8 | %24
+w: sti- * * * * * * * * tu _|am, te con sti- * * * * * *||* tu- am,||
+ e2 cA ed/e/ B/c/d/e/ | ^cB/A/ d3 d c2 | d2 BG dc/d/ A/B/c/d/ |$ BA/G/ c3 c B2 | cdef ecde | %29
+w: in- tra in ga- * * * * * *|* * * * u- dium,|in- tra in ga- * * * * * *|* * * * u- dium,|do- * * * * * * *|
+ fedc B>B c2 | AGAB cBAG | F8 |$ E2 E^F ^GEAB | ^G2 A2 z4 | z2 AB ^cBde | ^c2 d2 z2 fg |$ %36
+w: * * * * * mi- ni|tu- * * * * * * *||i, A- lle lu- ia, a- lle-|lu- ia,|a- lle- lu- ia, a- lle-|lu- ia, a- lle|
+ e2 f2 dcBc | dB ef d2 e2 | B2 cB AGFE | F8 | E16 |] %41
+w: lu- ia, a- * * *|* * le- * lu- ia,|a- lle- * lu- * * *||ia.|

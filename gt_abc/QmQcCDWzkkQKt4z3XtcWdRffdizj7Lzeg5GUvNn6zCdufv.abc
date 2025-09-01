@@ -1,0 +1,29 @@
+X:1
+T:Dancing queen
+C:Abba
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=90
+M:4/4
+I:linebreak $
+K:A
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+L:1/4
+V:1
+ c2 BB- B2 z2 | c2 BB- B2 c2 | A>B- BG A>B- BG | A2 F2 c>B- BA | G>A- AA- A4 | G>A- AA- A2 BA |$ %6
+ G>A- AA- A4 | z8 |"^A" ce/e/- ee ee f2- | f4 z4 | ce/e/- ee ee c2- | c4 z2 cB |$ BB/B/- BB cc z2 | %13
+ BB/B/- BB c2 BA | E>F- FF- F4 | e>f- ff- f4 |:"^B" ce/e/- ee ea f2- | f4 z4 |$ ce/e/- ee ee c2- | %19
+ c4 z4 | BB/B/- BB cc z2 | BB/B/- Bc- c2 BA | E>F- FF- F4 | z4 A>B- Bc |$"^C" c>d- dd- d4 | %25
+ z4 e>f- fg | g>a- aa- a4 | g>a- aa- a b2 a | g>a- aa- a4 |$ z8 | g>a- aa- a4 | g>a- aa- a b2 a | %32
+ b>c'- c'c'- c'2 b2 | a8 |"^D" c2 BB- B2 z2 |$ c2 BB- B2 c2 | A>B- BG A>B- BG | A2 F2 c>B- BA | %38
+ G>A- AA- A4 | G>A- AA- A2 BA | G>A- AA- A4 |$ a8 :| %42
+V:2
+ E, E, E, E, | C, C, C, C, | F, F, F, F, | B,, B,, B,, B,, | D, D, D, D, | B,, B,, E, E, |$ %6
+ A,, A,, A,, A,, | D, D, D,2 | A,, A,, A,, A,, | D, D, C, B,, | A,, A,, A,, A,, | %11
+ F,, F,, F,, F,, |$ E,, E,, A,, A,, | E,, E,, A,, E,, | E,, F,, F,, F,, | E,, F,, F,, F,, |: %16
+ A,, A,, A,, A,, | F,, F,, F,, F,, |$ A,, A,, A,, A,, | F,, F,, F,, F,, | E,, E,, A,, A,, | %21
+ E,, E,, F,, F,, | E,, F,, F,, F,, | E,, F,, F,, F,, |$ B,, B,, B,, B,, | E,, E,, E,, E,, | %26
+ A,, A,, A,, A,, | D, D, D, D, | A,, A,, A,, A,, |$ D, D, D, D, | A,, A,, A,, A,, | D, D, D, D, | %32
+ A,, A,, A,, E, | D, D, A,, A,, | E,, E,, E,, E,, |$ C, C, C, C, | F, F, F, F, | B,, B,, B,, B,, | %38
+ D, D, D, D, | B,, B,, E, E, | A,, A,, A,, A,, |$ A,,4 :| %42

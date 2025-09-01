@@ -1,0 +1,20 @@
+X:1
+T:Mrs Garden (of Troops) Strathspey. 2voices. Dix.07
+C:(Robert Petrie 1767-1830)
+%%score 1 2
+L:1/8
+Q:1/4=110
+M:4/4
+I:linebreak $
+K:F
+V:1 treble 
+V:2 treble 
+L:1/4
+V:1
+|: C | F>GFd cFdF | ECC>F E/F/G/E/ CE | F>GFd cFAf | c>f a/g/f/e/ f2 f :: c |$ f>ca>c b>ca>c | %7
+ A>f b/a/g/f/ egga | f>ca>c b>ca>c | b/a/g/f/ e/f/g/f/ f2 f c/4d/4e/ |$ f>ca>c b>ca>c | %11
+ [Ac]>f b/a/g/f/ eggf/e/ | dBdf cAcf | [Ac]f a/g/f/e/"^tr" f2 fa"^$" :| %14
+V:2
+|: z/ | F, F,, A,, B,, | C, A,, C, B,, | A,, F,, A,, F,, | A,, C, F,, F,,/ :: z/ |$ A, F, E, F, | %7
+ A, F, E, C, | A, F, E, F, | C C F, F, |$ A, F, E, F, | F, C, E, C, | B,, B, A, G, | %13
+ F, C, F,, F,, :| %14

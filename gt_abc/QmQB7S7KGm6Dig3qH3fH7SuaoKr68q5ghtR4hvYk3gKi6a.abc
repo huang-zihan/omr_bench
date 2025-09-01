@@ -1,0 +1,64 @@
+X:1
+T:Who Shall Be Able to Stand?
+C:Edmund Simon Lorenz
+Z:Public Domain
+Z:Courtesy of the Cyber Hymnal™
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble 
+V:2 treble 
+L:1/4
+V:3 bass 
+V:4 bass 
+V:1
+ [GB][FA] | [EG][EG][EG][DF] E2 [_DF]2 | [CE]4 [CE]2 [CE][CF] |$ [EG][EG][EG][DA] [EB]2 [Ec]2 | %4
+w: 1.~When the|aw- ful judg- ment day is|break- ing, And the|Judge shall sit up- on His|
+w: 2.~Years of|sow- ing shall at length find|har- vest, Pass- ing|joys yield ev- er- last- ing|
+w: 3.~Oh, how|bless- èd in that day the|right- eous, Cleansed in|Je- sus’ blood from ev- ery|
+ [DF]6 [GB][FA] | [EG][EG][EG][DF] E2 [_DF][DF] |$ [CE][CA][CA][DB] [Ec]2 [Ec][Ec] | %7
+w: throne, All the|world will then ap- pear, Some in|glad- ness, some in fear, Wait- ing|
+w: pain; But the|right- eous, sore- ly tried, Shall be|ful- ly sa- tis- fied, They e-|
+w: stain; For the|Judge they need not fear, He is|Sav- ior, friend so dear; Thro’ His|
+ [Ec][EB][EG]E [EG]2 [DF]2 | E6 z2 ||$"^Refrain" [CE]2 [EA]>[EG] [EA][Ec][DB][CA] | [EB]6 z2 | %11
+w: for the Lord to claim His|own.|||
+w: ter- nal life shall now ob-|tain.|Who shall be a- ble then to|stand?|
+w: love e- ter- nal life they|gain.|||
+ [E=A]2 [EA]>[DB] [Fc][Fc][FB][Fc] |$ [Fd]6 [Ac][Ad] | [Ge][Ge][Ge][Ac] [GB]2 [EG][_DF] | %14
+w: |||
+w: Who shall be a- ble then to|stand? At the|Judg- e’s blest com- mand, At His|
+w: |||
+ [CE][CA][CA][DB] [Ec]2 [Ec][Ec] |$ [Ec][EB][EG]E [EG]2 [DF]2 | E6 |] %17
+w: |||
+w: right the right- eous stand, As they|hear the wel- come words, “Well|done!”|
+w: |||
+V:2
+ x | x2 E x | x4 |$ x4 | x4 | x2 E x |$ x4 | x3/2 E/ x2 | E3 x ||$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ %15
+ x3/2 E/ x2 | E3 |] %17
+V:3
+ [E,B,][E,B,] | [E,B,][E,B,][E,B,][E,A,] [E,G,]2 [E,G,]2 | [A,,A,]4 [A,,E,]2 [A,,A,][A,,A,] |$ %3
+w: |||
+ [E,B,][E,B,][E,B,][F,B,] [F,E]2 [A,C]2 | B,6 [B,,B,][B,,B,] | %5
+w: |shall * *|
+ [E,B,][E,B,][E,B,][E,A,] [E,G,]2 [E,G,][E,G,] |$ %6
+w: |
+ [A,,A,][A,,A,][A,,A,][A,,A,] [A,,A,]2 [A,,A,][A,,A,] | %7
+w: |
+ [B,,G,][B,,G,][B,,B,][B,,G,] [B,,B,]2 [B,,A,]2 | [E,G,]6 z2 ||$ %9
+w: ||
+ [A,,A,]2 [A,,C]>[A,,B,] [A,,C][A,,A,][A,,A,][A,,A,] | [E,G,][E,G,][E,G,][E,G,] [E,G,]2 z2 | %11
+w: * * * * * be a-|ble then to stand? shall|
+ F,2 [F,C]>[F,B,] [F,=A,][E,A,][D,A,][F,A,] |$ B,B,B,B, B,2 B,B, | %13
+w: be * * * * a- ble|then to stand? * * * *|
+ [E,B,][E,B,][E,B,][E,E] [E,E]2 [E,B,][E,G,] | %14
+w: |
+ [A,,A,][A,,A,][A,,A,][A,,A,] [A,,A,]2 [A,,A,][A,,A,] |$ %15
+w: |
+ [B,,G,][B,,G,][B,,B,][B,,G,] [B,,B,]2 [B,,A,]2 | [E,G,]6 |] %17
+w: ||
+V:4
+ x2 | x8 | x8 |$ x8 | B,6 x2 | x8 |$ x8 | x8 | x8 ||$ x8 | x8 | F,2 x6 |$ B,B,B,B, B,2 B,B, | x8 | %14
+ x8 |$ x8 | x6 |] %17

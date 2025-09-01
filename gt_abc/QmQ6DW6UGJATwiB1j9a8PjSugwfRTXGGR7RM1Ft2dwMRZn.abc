@@ -1,0 +1,123 @@
+X:1
+T:Dreaming
+T:Song for Men's Voices
+C:Harry Rowe Shelley
+%%score [ 1 2 3 4 ]
+L:1/8
+Q:1/4=95
+M:6/8
+I:linebreak $
+K:Bb
+V:1 treble-8 nm="Tenor 1" snm="T1"
+V:2 treble-8 nm="Tenor 2" snm="T2"
+V:3 bass nm="Bass 1" snm="B1"
+V:4 bass nm="Bass 2" snm="B2"
+V:1
+"^Gracefully"!p! d3 B2 c | d3 B2 c |!<(! d3!<)!!>(! f2 e!>)! | d6 |$ =B2 c (e2 d) | %5
+w: 1.  Dream- ing, just|dream- ing, as|bed- time draws|nigh;|Wak- ing dear _|
+w: 2.  Dream- ing, just|dream- ing, I|see home a-|gain;|Tho' it brings _|
+!<(! =B c2- c2!<)! c | (!>!f2 d) (!>!f2 d) |!>(! (c3 ^c3)!>)! | d3 B2 =c |$"^cresc." d3 B2 c | %10
+w: mem'- ries _ As|twi- light rays _|die; _|Think- ing of|days that are|
+w: heart- aches, _ It's|worth _ all the|pain: _|In it is|rest for my|
+!f! d !>!g2- g2 f | B6 | e3 d2 c | e"^dim." c2- c2 d |!p! B6- |$ %15
+w: now long _ gone|by;|Dream- ing, just|dream- ing, _ that's|all.|
+w: poor, ach- * ing|brain:|Dream- ing, just|dream- ing, _ that's|all.|
+ B z[Q:1/4=115]!mf!"^animato"!<(! B c2 d!<)! | c2 B G2 B | c2 d c2 d | c2 B !>!e!>!d!>!c |$ %19
+w: _ I see a|farm- house, and the|old red mill; I|hear the song of the|
+w: _ It lets me|wan- der as a|child once more, My|friends re- turn from that|
+ !>!d!>!c!>!d c3 |!<(! B3!<)! !>!g2 !>!g | !>!g3- g2 f | e2 d[Q:1/4=80]"^rit." (cB)c | %23
+w: weird whip- poor- will:|Tho' long a-|go, _ the|pic- ture haunts _ me|
+w: far- a- way shore:|From this dull|earth _ My|feel- ings haev'n- * ward|
+!>(! !fermata!d6!>)! |$[Q:1/4=95]"^Tempo I" (ede) =B2 c | e c2- c3 |!<(! f3-!<)! f2 !>!f | %27
+w: still:|Dream- * * ing, just|dream- ing; _|Ah! _ just|
+w: soar:||||
+ !>!f d2- d3 |!f! !>!B!>!B!>!c (!>!d!>!!fermata!g) f |$ (eB) c!>(! !fermata!^c3!>)! |1!p! (d6 | %31
+w: dream- ing; _|Tho' long a- go, _ it|haunts _ me still,|Dream-|
+w: |From this dull earth _ my|feel- * ings soar:||
+ !fermata!e6) |!<(! d z f =e2!<)! f |!>(! !fermata!d6!>)! :|2$ d d2 z2!p! !fermata!g || %35
+w: |ing, a dream, that's|all.|Dream- ing, just|
+w: ||||
+ f3 !fermata!e2 z | z2!<(! f =e2!<)!!>(! f | !fermata!d6!>)! |] %38
+w: dream- ing,|a dream, that's|all.|
+w: |||
+V:2
+!p! B3 G2 A | B3 G2 A |!<(! B3!<)!!>(! B2 B!>)! | B6 |$ =B2 c (e2 d) |!<(! =B c2- c2!<)! c | %6
+w: 1.  Dream- ing, just|dream- ing, as|bed- time draws|nigh;|Wak- ing dear _|mem'- ries _ As|
+w: 2.  Dream- ing, just|dream- ing, I|see home a-|gain;|Tho' it brings _|heart- aches, _ It's|
+ (!>!d2 A) (!>!d2 A) |!>(! A6!>)! | B3 G2 A |$"^cresc." B3 G2 A |!f! B !>!d2- d2 d | B6 | B3 B2 B | %13
+w: twi- light rays _|die;|Think- ing of|days that are|now long _ gone|by;|Dream- ing, just|
+w: worth _ all the|pain:|In it is|rest for my|poor, ach- * ing|brain:|Dream- ing, just|
+ A"^dim." A2- A2 A |!p!!<(! B2 F!<)!!>(! G2 F!>)! |$ B z z z3 |!p! G3 B3 | _A3 A3 | G3 B3 |$ %19
+w: dream- ing, _ that's|all, a dream; that's|all.|Dream- ing,|dream- ing,|dream- ing,|
+w: dream- ing, _ that's|all, a dream; that's|all.||||
+ _A3 A3 |!<(! (G_AB)!<)! !>!e2 !>!e | !>!f3- f2 d | c2 G"^rit." G2 G |!>(! !fermata!A6!>)! |$ %24
+w: dream- ing.|Tho' _ _ long a-|go, _ the|pic- ture haunts me|still:|
+w: |From _ _ this dull|earth _ My|feel- ings heav'n- ward|soar:|
+ A3 A2 A | A A2 A3 |!<(! (ede!<)! =B2) !>!c | !>!d _B2- B3 |!f! !>!B!>!B!>!c !>!!fermata!d2 d |$ %29
+w: Dream- ing, just|dream- ing; _|Ah! _ _ _ just|dream- ing; _|Tho' long a- go, it|
+w: ||||From this dull earth my|
+ B2 B!>(! !fermata!B3!>)! |1!p! (B6 | !fermata!A6) |!<(! F z F G2!<)! F |!>(! !fermata!F6!>)! :|2$ %34
+w: haunts me still,|Dream-||ing, a dream, that's|all.|
+w: feel- ings soar:|||||
+ B B2 z2!p! !fermata!=e || _e3 !fermata!c2 z | z2!<(! F G2!<)! F | !fermata!F6 |] %38
+w: Dream- ing, just|dream- ing,|a dream, that's|all.|
+w: ||||
+V:3
+!p! (F,2 B,) G,2 _G, | (F,2 B,) =G,2 _G, |!<(! (F,2 D,)!<)!!>(! A,2 G,!>)! | F,6 |$ %4
+w: 1.  Dream- * ing, just|dream- * ing, as|bed- * time draws|nigh;|
+w: 2.  Dream- * ing, just|dream- * ing, I|see _ home a-|gain:|
+ ^G,2 A, (C2 B,) |!<(! ^G, A,2- A,2!<)! A, | (!>!A,2 F,) (!>!A,2 F,) |!>(! F,6!>)! | %8
+w: Wak- ing dear _|mem'- ries _ As|twi- light rays _|die;|
+w: Tho' it brings _|heart- aches, _ It's|worth _ all the|pain:|
+ (F,2 B,) G,2 _G, |$"^cresc." (F,2 B,) =G,2 _G, |!f! F, !>!B,2- B,2 _A, | G,6 | G,3 F,2 E, | %13
+w: Think- * ing of|days _ that are|now long _ gone|by;|Dream- ing, just|
+w: In _ it is|rest _ for my|poor, ach- * ing|brain:|Dream- ing, just|
+ G,"^dim." E,2- E,2 F, |!p!!<(! D,2 D,!<)!!>(! =E,2 D,!>)! |$ D, z z z3 |!p! E,3 G,3 | F,3 F,3 | %18
+w: dream- ing, _ that's|all, a dream; that's|all.|Dream- ing,|dream- ing,|
+w: dream- ing, _ that's|all, a dream; that's|all.|||
+ E,3 G,3 |$ F,3 D,3 |!<(! (E,F,G,)!<)! !>!B,2 !>!B, | =B,2 !>!B, !>!D2 B, | G,2 F,"^rit." E,2 G, | %23
+w: dream- ing,|dream- ing.|Tho' _ _ long a-|go, a- go, the|pic- ture haunts me|
+w: ||From _ _ this dull|earth, dull earth My|feel- ings heav'n- ward|
+!>(! !fermata!^F,6!>)! |$ (G,F,G,) D,2 E, | G, E,2- E,3 |!<(! (C=B,C!<)! ^G,2) !>!A, | %27
+w: still:|Dream- * * ing, just|dream- ing; _|Ah! _ _ _ just|
+w: soar:||||
+ !>!B, F,2- F,3 |!f! !>!B,!>!B,!>!B, !>!D!>!!fermata!B, _A, |$ G,2 G,!>(! !fermata!_G,3!>)! |1 %30
+w: dream- ing; _|Tho' long a- go, _ it|haunts me still,|
+w: |From this dull earth _ my|feel- ings soar:|
+"^Solo" D F,2 z2 D | C F,2 !fermata!z2 C |!<(! B,6-!<)! |!>(! !fermata!B,6!>)! :|2$ %34
+w: Dream- ing, just|dream- ing, that's|all.|_|
+w: ||||
+ D F,2 z2!p! !fermata!_D || C3 !fermata!A,2 C |!<(!!>(! B,6-!<)!!>)! | !fermata!B,6 |] %38
+w: Dream- ing, just|dream- ing, that's|all.|_|
+w: ||||
+V:4
+!p! B,,3 B,,2 B,, | B,,3 B,,2 B,, |!<(! B,,3!<)!!>(! B,,2 B,,!>)! | B,,6 |$ F,2 F, F,3 | %5
+w: 1.  Dream- ing, just|dream- ing, as|bed- time draws|nigh;|Wak- ing dear|
+w: 2.  Dream- ing, just|dream- ing, I|see home a-|gain;|Tho' it brings|
+!<(! F, F,2- F,2!<)! F, | (!>!F,2 F,) (!>!F,2 F,) |!>(! (E,3 F,,3)!>)! | B,,3 B,,2 B,, |$ %9
+w: mem'- ries _ As|twi- light rays _|die; _|Think- ing of|
+w: heart- aches, _ It's|worth _ all the|pain: _|In it is|
+"^cresc." B,,3 B,,2 B,, |!f! B,, !>!B,,2- B,,2 B,, | E,6 | C,3 C,2 C, | F,,"^dim." F,,2- F,,2 F,, | %14
+w: days that are|now long _ gone|by;|Dream- ing, just|dream- ing, _ that's|
+w: rest for my|poor, ach- * ing|brain:|Dream- ing, just|dream- ing, _ that's|
+!p!!<(! B,,2 D,!<)!!>(! ^C,2 D,!>)! |$ B,, z z z3 |!p! E,3 B,,3 | D,3 B,,3 | E,3 B,,3 |$ F,3 B,,3 | %20
+w: all, a dream; that's|all.|Dream- ing,|dream- ing,|dream- ing,|dream- ing.|
+w: all, a dream; that's|all.|||||
+!<(! E,3!<)! !>!E,2 !>!E, | G,2 !>!G, !>!=B,2 G, | C,2 C,"^rit." (E,3 | %23
+w: Tho' long a-|go, a- go, the|pic- ture haunts|
+w: From this dull|earth, dull earth My|feel- ings heav'n-|
+ D,2) A,,!>(! !fermata!D,3!>)! |$ F,,3 F,,2 F,, | F,, F,,2- F,,3 |!<(! F,3-!<)! F,2 !>!F, | %27
+w: _ me still:|Dream- ing, just|dream- ing; _|Ah! _ just|
+w: * ward soar:||||
+ !>!B, B,,2- B,,3 |!f! !>!B,!>!B,!>!B, !>!B,!>!!fermata!_A, B,, |$ E,2 E,!>(! !fermata!=E,3!>)! |1 %30
+w: dream- ing; _|Tho' long a- go, _ it|haunts me still,|
+w: |From this dull earth _ my|feel- ings soar:|
+!p! F,,6- | !fermata!F,,6 |!<(! B,, z D, ^C,2!<)! D, |!>(! !fermata!B,,6!>)! :|2$ %34
+w: Dream-||ing, a dream, that's|all.|
+w: ||||
+ F, F,,2 z2!p! !fermata!B, || A,3 !fermata!F,,2 z | z2!<(! D,!<)!!>(! ^C,2 D,!>)! | %37
+w: Dream- ing, just|dream- ing,|a dream, that's|
+w: |||
+ !fermata!B,,6 |] %38
+w: all.|
+w: |

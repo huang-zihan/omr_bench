@@ -1,0 +1,14 @@
+X:1
+T:"Down by the River Side"       (air)      0045
+C:After  Chief  F. O'Neill
+C:slow
+L:1/4
+Q:1/4=70
+M:3/4
+I:linebreak $
+K:G
+V:1 treble 
+V:1
+"^vb" d/c/ | B G G | F G A | B G B | c2 (B/c/) | d g g | d e =f | A F A | c2 d/c/ | B G G | F G A | %11
+ B G B | c2 B/c/ |$ d g g | d e =f | A G G | G2 || B/c/ | d g f | g a g | =f d e | =f z d | g f d | %23
+ c d c | d B G | F2 c/B/ |$ B G G | F G A | B G B | c2 B/c/ | d g g | d e =f | A G G | G2 |] %34

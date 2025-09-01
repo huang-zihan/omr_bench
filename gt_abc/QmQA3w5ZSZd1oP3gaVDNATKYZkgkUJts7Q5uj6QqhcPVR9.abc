@@ -1,0 +1,19 @@
+X:1
+T:Brass Band March
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble 
+V:1
+ ba[Q:1/8=300] G4 G3 A | B2 d4 g2 | e2 eg e2 d2 | B2 .D2 .E2 .^F2 |"^5" G4 G^FGA | %5
+ G2 (3^FGF (3EFE D2 | G4 G^FGA | G2 ^F/G/F E2 D2 |$"^9" A4 A^GAB | A2 ^F2 E/F/E D2 | A4 A^GAB | %11
+ c6 B/c/B |"^13" A2 D/E/^F/G/ A2 D/E/F/G/ | A2 ^F2 E/F/E D2 | B4 BABc |$ d6 || g2 | %17
+"^17" e2 eg e2 d2 | [GB]6 (3BcB | A2 c2 ABcA | B2 G2 E4 |"^21" e2 e^f e2 d2 | [GB]6 [GB]2 | %23
+ AB c2 AB ^c2 | d6 || c2 |$"^25" B2 c2 ^c2 d2 |[M:3/2] b4 a4 a^gab |[M:4/4] a2 B2 ^c2 d2 | %29
+ g4 g^fga | g2 B2 ^c2 d2 |[M:3/2]"^30" b4 a4 a^gab |$[M:4/4] a2 B2 c2 de | B2 D2 E2 ^F2 | %34
+"^33" G2 ^F/G/F E/F/E D2 | B2 c2 ^c2 d2 |[M:3/2] b4 a4 a^gab |[M:4/4] A2 B2 ^c2 d2 | %38
+"^37" g4 g^fga |$ g6 G2 | A2 B2 c2 d2 | e2 ^f2 g2 ^g2 |"^41" a2 ba g2 ^f2 | g2 ag ^f2 g2 | %44
+ a2 ba g2 ag | e2 ge d2 e2 |"^45" c2 e2 B/c/B A2 |$ G4 G^FGA | G2 (3EGE D2 E2 | G6 (3BcB | %50
+"^49" A2 aa a2 e2 | g6 (3e^fg | a2 (3e^fg a2 ef | g2 c4 g2 |"^53" e2 ee e2 ^d2 |$ e2 =d2 c/B/c A2 | %56
+ G2 gg g2 a2 | g2 eg e2 d2 | c8 |] %59

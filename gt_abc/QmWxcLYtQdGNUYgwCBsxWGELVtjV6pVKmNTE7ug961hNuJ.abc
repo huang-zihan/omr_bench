@@ -1,0 +1,55 @@
+X:1
+T:The Lord Omnipotent Shall Reign
+C:George Nathaniel Fenn
+Z:Public Domain
+Z:Courtesy of the Cyber Hymnal™
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=103
+M:6/8
+I:linebreak $
+K:F
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ [CF] | [CF]2 [CG] [FA]2 F | [EG]2 [EA] [EB]2 [CE] | [CF]2 [EG] [FA]2 [E=B] | [Ec]3- [Ec]2 [G^c] |$ %5
+w: 1.~The|Lord om- ni- po-|tent shall reign Wher-|e’er the sun doth|shine; * His|
+w: 2.~The|Lord com- mands, and|it stands fast, He|speaks, and it is|done; * For-|
+w: 3.~He|calls us now to|do and dare, The|world for Christ to|gain, * That|
+ [^Fd]2 [Fc] [GB]2 [=F=B] | [Ec]2 [EB] [FA]2 F | [FG]2 [F^G] [FA]2 [C=G] | [CF]3- [CF]2 || %9
+w: right to rule earth’s|kings shall own, And|bless His sway di-|vine. *|
+w: ev- er- more His|reign shall last, En-|dur- ing is His|throne. *|
+w: in His king- dom|we may share, As|kings and priests to|reign. *|
+"^Refrain" F | [EG]2 [DF] [CE]2 [CE] |$ [CF]2 [CG] [FA]2 A | [G=B]2 [FA] [EG]2 G | %13
+w: ||||
+w: Then|mag- ni- fy His|match- less name, Let|an- thems ring from|
+w: ||||
+ [FA]2 [F=B] !fermata![Gc]2 [E_B] | [FA]2 [Fc] [FB]2 [^Fc] | [G=B]2 [Gd] [Gc]2 F |$ %16
+w: |||
+w: shore to shore; On|sea and land, in|loud ac- claim, Ex-|
+w: |||
+ [FG]2 [F^G] [FA]2 [C=G] | F3- [CF]2 |] %18
+w: ||
+w: alt Him ev- er-|more. *|
+w: ||
+V:2
+ x | x5 F | x6 | x6 | x6 |$ x6 | x5 F | x6 | x5 || F | x6 |$ x5 A | x5 G | x6 | x6 | x5 F |$ x6 | %17
+ C2 C x2 |] %18
+V:3
+ [F,A,] | [F,A,]2 [F,B,] [F,C]2 [F,A,] | [C,B,]2 [C,A,] [C,G,]2 [C,G,] | %3
+w: ~|~ ~ ~ ~|~ ~ ~ ~|
+ [A,,C]2 [C,C] [F,C]2 [D,F,] | [C,-G,]3 [C,B,]2 A, |$ [D,A,]2 [D,D] [G,D]2 [G,D] | %6
+w: ~ ~ ~ ~|~ * ~|~ ~ ~ ~|
+ [C,C]2 [C,C] [F,C]2 [_E,A,] | [D,B,]2 [_D,=B,] [C,C]2 [C,_B,] | [F,A,]3- [F,A,]2 || [F,A,] | %10
+w: ~ ~ ~ ~|~ ~ ~ ~|~ *|~|
+ [C,C]2 [C,C] [C,C]2 [C,B,] |$ [F,A,]2 [F,B,] [F,C]2 [F,F] | [G,D]2 [G,=B,] C2 [E,C] | %13
+w: ~ ~ ~ ~|~ ~ ~ ~|~ ~ ~ ~|
+ [F,C]2 [D,F] [C,E]2 [C,C] | [F,C]2 [A,,_E] [B,,D]2 [D,D] | [G,D]2 [=B,,F] [C,E]2 [_E,A,] |$ %16
+w: ~ ~ ~ ~|~ ~ ~ ~|~ ~ ~ Ex-|
+ [D,B,]2 [_D,=B,] [C,C]2 [C,_B,] | A,2 B, [F,A,]2 |] %18
+w: alt, ex- alt Him|ev- er- more.|
+V:4
+ x | x6 | x6 | x6 | x5 A, |$ x6 | x6 | x6 | x5 || x | x6 |$ x6 | x3 C2 x | x6 | x6 | x6 |$ x6 | %17
+ F,3- x2 |] %18

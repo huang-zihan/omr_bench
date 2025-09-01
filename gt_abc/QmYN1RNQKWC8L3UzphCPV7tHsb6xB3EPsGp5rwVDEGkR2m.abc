@@ -1,0 +1,16 @@
+X:1
+T:the Fourth of June
+%%score 1 2
+L:1/8
+M:2/2
+I:linebreak $
+K:D
+V:1 treble 
+V:2 bass 
+L:1/4
+V:1
+ F | E2 E>F B>FE>F | E2 E>F d>FD>F | E2 E>F E>FG>A | B/c/d A>G F>DD :: F |$ E>e-e>^d e>EE>F | %7
+ E>ee>c d>DD>F | E>e-e>d B>cd>e | (f/g/a) e>f d>DD :| %10
+V:2
+ D,/ | A, A,, G, G,, | A, A,, D, D,, | A, A,, G, E,/>F,/ | G, A, D, D,,/ :: D,/ |$ E, E,, E, E,, | %7
+ E, E,, D, D,, | E, E,, G,/>A,/B,/>C/ | D A, D, D,,/ :| %10

@@ -1,0 +1,15 @@
+X:1
+T:Manage the Miser
+C:John Young, 1713
+L:1/4
+Q:1/2=100
+M:3/2
+I:linebreak $
+K:F
+V:1 treble 
+V:1
+|:"F""^A" f2 c2"Bb" d2 |"F" c A2 c A F |"Dm" f2 d2"C" g2 |"Dm" a f"G7" d g"C" e c | %4
+"F" f2 c2"Bb" d2 |"F" c A2 d"G7" =B d |"C" G g a/g/f/e/"Dm" f/e/d/c/ |$"G" =B/c/ d"G7" G B"C" c2 :: %8
+"C""^B" g2 e2"C7" g2 |"F" c f2 g"Dm" a2 |"A7" b/a/g/f/ e/f/ g ^c/d/ e |"A7" A a e/f/g/a/"Dm" f d | %12
+"Gm" b2 d2"C" e2 |$"F" a/g/f/e/"Dm" d/e/f/g/"C" e c |"F" f c c/d/ _e"Bb" d/=e/ f | %15
+"C" e/f/ g"C7" c e"F" f2 :| %16

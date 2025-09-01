@@ -1,0 +1,62 @@
+X:1
+T:Mentre da te mi parto
+C:Huomo Buono Morsolino
+Z:©
+%%score [ 1 2 3 ]
+L:1/4
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Soprano 1" snm="S 1"
+L:1/8
+V:2 treble nm="Soprano 2" snm="S 2"
+V:3 bass nm="Bass" snm="B"
+V:1
+ e6 ee | e2 e2 f4 | e4 g4- | g2 f2 e4 |$ d4 z4 | e6 dc | e2 c2 B4 |1[M:2/4] A4 :|2$ A4 |: %9
+w: Men- tre da|te mi par-|t'o mio|_ te- so-|ro,|l'al- ma ti|la- scio'è mo-|ro.|ro|
+w: Ris- sor- ge,|las- so'al di-|par- ti-|* re'in- ten-|to,|col- mo d'as-|pro tor- men-|to.|to.|
+w: Mi- ra'il vol-|to di Fil-|li'e'im- mo-|* bil stas-|si,|che gia fer-|ma- ti'ha'i pas-|si.|si.|
+w: Do- ven- do'al|fi- ne'il mi-|se- ro|_ par- ti-|re,|fu vi- ci-|no'al mo- ri-|re.|re.|
+[M:4/4] e6 BB | B3 c d2 g2 | f2 e2 g3 d | d4 e4- |$ e2 e4 d2- |$ dede c2 e2 | d6 c2 |1 B4 A4 :|2 %17
+w: Dis- se par-|ten- * * do'al-|la sua Fil- li'A-|min- ta,|_ che stret-|* ta fra le brac- cia|te- nea|cin- ta.|
+w: E sot- to|gli'oc- * * chi|nel suo ben te-|ne- a,|_ co- si|_ vo- lea par- ti- r'e|non po-|te- a.|
+w: E men- tre|pen- * * s'al-|la cru- del par-|ti- ta,|_ si sen-|* tia ve- nir men l'al-|ma'e la|vi- ta.|
+w: E mo- ria|cer- * * to,|ma Fil- li gra-|di- ta,|_ con un|_ so- a- ve ba- cio|li die'a-|i- ta.|
+ B4 A4- || A8 |] %19
+w: ||
+w: ||
+w: ||
+w: ||
+V:2
+ c3 c/c/ | B c d2 | c e2 d | ^c d2 c |$ d2 c2- | c B/A/ B A | ^G A2 G |1[M:2/4] A2 :|2$ A c- |: %9
+w: Men- tre da|te mi par-|t'o mio te|so- * *|ro,- l'al-|* ma ti la- scio'è|mo- * *|ro.|ro. Dis-|
+w: Ris- sor- ge,|las- so'al di-|par- * ti-|re'in ten- *|to, col-|* mo d'as- pro tor-|men- * *|to.|to. E|
+w: Mi- ra'il vol-|to di Fil-|li'e im- mo-|bil stas- *|si, che|_ gia fer- ma- ti|ha'i pas- *|si.|si. E|
+w: Do- ven- do'al|fi- ne'il mi-|se- * ro|par- * ti-|re, fu|_ vi- ci- no'al mo-|ri- * *|re.|re. E|
+[M:4/4] c ^G/G/ G2- | G B A B | c2 B c- | c B c2- |$ c c2 B- |$ B/c/B/c/ A c | B A ^G A- |1 %16
+w: * se par- ten-|* do'al- la sua|Fil- li'A- min-|* * ta,|_ che stret-|* ta fra le brac- cia|te- nea cin- *|
+w: _ sot- to gli'oc-|* chi nel suo|ben te- ne|_ _ a,|_ co- si|_ vo- lea par- ti- r'e|non po- te- *|
+w: _ men- tre pen-|* s'al- la cru-|del par- ti-|* * ta,|_ si sen-|* tia ve- nir men l'al-|ma'e la vi- *|
+w: _ mo- ra cer-|* to, ma Fil-|li gra- di-|* * ta,|_ con un|_ so- a- ve ba- cio|li die a- i-|
+ A ^G (A c) :|2 A ^G A2- || A4 |] %19
+w: * * ta. Dis-|(cin- ) ta.|_|
+w: * * a. E-|(te)- * a.|_|
+w: * * ta. E|(vi)- * ta.|_|
+w: * * ta. E|(i)- * ta.|_|
+V:3
+ A,3 A,/A,/ | ^G, A, D,2 | A, C2 _B, | A,4 |$ D,2 A,2- | A, ^G,/^F,/ G, A, | E,4 |1 %7
+w: Men- tre da|te mi par-|t'o mio te|so-|ro, l'al-|* ma ti la scioè|mo-|
+w: Ris- sor- ge,|las- so'al di-|par- ti- re'in-|ten-|to, col-|* mo d'as- pro tor-|men|
+w: Mi- ra'il vol-|to di Fil-|li'e'im- mo- bil|stas-|si, che|_ gia fer- ma- ti'ha'i|pas-|
+w: Do- ven- do'al|fi- ne'il mi-|se- ro par-|ti-|re, fu|_ vi- ci- no'al mo-|ri-|
+[M:2/4] A,,2 :|2$ A,, A,- |:[M:4/4] A, E,/E,/ E,2- | E, G, F, E, | A, A, G,2- | G,2 C, C, |$ %13
+w: ro.|ro. Dis-|* se par- ten-|* do'al- la sua|Fil- li'A- min-|* ta, che|
+w: to.|to E|_ sot- to gl'oc-|* chi nel suo|ben te- ne-|* a, co-|
+w: si.|si. E|_ men- tre pen-|* s'al- la cru-|del par- ti-|* ta, si|
+w: re.|re. E|_ mo- ra cer-|* to, ma Fil-|li gra- di-|* ta, con|
+ E,3/2 ^F,/ G, G, |$ G,3/2 E,/ F, C, | D,/E,/F,/D,/ E,2- |1 E,2 A,, (A, :|2 E,2) A,,2- || A,,4 |] %19
+w: stret- ta fra le|brac- cia te- nea|cin- * * * *|* ta, E|(cin)- ta.|_|
+w: si vo- lea par-|ti- * r'e non|po- * * * te-|* a, E|(te)- a.|_|
+w: sen- tia ve- nir|men l'al- ma'e la|vi- * * * *|* ta. E|(vi)- ta.|_|
+w: un so- a- ve|ba- cio li die'a-|i- * * * *|* ta. E|(i)- ta.|_|

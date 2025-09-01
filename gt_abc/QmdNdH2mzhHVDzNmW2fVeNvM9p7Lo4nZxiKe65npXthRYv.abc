@@ -1,0 +1,379 @@
+X:1
+T:Chorfantasie C-Moll op. 80
+T:Chorfantasie C-Moll op. 80
+C:Ludwig van Beethoven
+%%score [ [ ( 1 2 ) 3 4 5 ] ] { 6 | ( 7 8 ) }
+L:1/8
+Q:1/4=82
+M:2/4
+I:linebreak $
+K:C
+V:1 treble nm="Sopr I-II" snm="S"
+V:2 treble 
+V:3 treble nm="Alt" snm="A"
+V:4 treble-8 nm="Ten I-II" snm="T"
+V:5 bass nm="Bass" snm="B"
+V:6 treble nm="Piano" snm="P"
+L:1/16
+V:7 bass 
+V:8 bass 
+V:1
+"^A" z4 | z4 | z4 | z4 |$ z4 | z4 | z4 | z4 | z4 | z4 |$ z4 | z2"^SOLO" .e .e | .e2 z2 | %13
+w: |||||||||||Schmei- chelnd|hold,|
+ z2!p!!p!!p! c c | c c c G |$ G G G G | G G B c | cB c c | c c c G | G G G G |$ G G c B | c2 c c | %22
+w: schmei- chelnd|hold und lieb- lich|klin- gen un- sers|Le- bens Har- mo-|nien, _ und dem|Schön- heits- sinn ent-|schwin- gen Blu- men|sich, die e- wig|blüh'n. Fried' und|
+ d B B B | c G G G | G G B c |$ !fermata!B2"^cresc.""^cresc.""^cresc." _B B | %26
+w: Freu- de glei- ten|freund- lich wie der|Wel- len Wech- sel-|spiel; was sich|
+"^rf""^rf""^rf" A c B c | G G G G | G G c B |"^B" c2 z2 |$ z4 | z4 | z4 |$ z4 | z4 | z4 |$ z4 | %37
+w: dräng- te rauh und|feind- lich, ord- net|sich zu Hoch- ge-|fühl.||||||||
+ z4 | z4 |$ z4 | z4 | z4 |$ z4 | z4 | z4 |$ z4 |"^C" z2!f!!f!!f!"^TUTTI" e e | f e d c | c B A B |$ %49
+w: |||||||||Gros- ses,|das in's Herz ge-|drun- gen, blüht dann|
+ c c d e | ed e e | f e d c | c B A B | c c e d | c2 e e |$ f d d d | e c c c | B c d e | %58
+w: neu und schön em-|por, * hat ein|Geist sich auf- ge-|schwun- gen, hall't ihm|stets ein Geis- ter-|chor. Nehmt denn|hin, ihr schö- nen|See- len, froh die|Ga- ben schö- ner|
+ !fermata!d2 e e | f e d c | c B A B |$ c c e d |"^D" c2 z2 | z2 z f | e2 z2 |$ z2 z f | e z e z | %67
+w: Kunst. Wenn sich|Lieb' und Kraft ver-|mäh- len, lohnt dem|Men- schen Göt- ter-|Gunst.|Nehmt|hin,|nehmt|hin, ihr|
+ d z d z | e e z2 |$ z2 z!p!!p!!p! A | G2 z2 | z2 z A | A z z2 |$ z2 z A | A z A z | A z A z |$ %76
+w: schö- nen|See- len,|nehmt|hin,|nehmt|hin|die|Ga- ben|schö- ner|
+"^E" G2 z2 | z2!p!"^SOLO" e e | g f e d | d c e e |$ gf e d | fe dc | BA ^ga |$ c2 d2 | %84
+w: Kunst.|Nehmt denn|hin, ihr schö- nen|See- len, froh die|Ga- * ben, die|Ga- * ben *|schö- * ner, *|schö- ner|
+"^F" e2!p!"^TUTTI" e"^cresc." e | fe d c |$ BA ^ga | c2 d2 | e2 e e |$ fe d c | BA ^ga | c2 d2 |$ %92
+w: Kunst. Nehmt die|Ga- * ben, die|Ga- * ben *|schö- ner|Kunst, froh die|Ga- * ben, die|Ga- * ben *|schö- ner|
+[M:2/2]!f!"^G""^Presto"[Q:1/2=140] e4 e2 e2 | f2 e2 d2 c2 | B2 A2 ^g2 a2 | c4 e2 d2 | c2 z2 z4 |$ %97
+w: Kunst, froh die|Ga- * ben, die|Ga- * ben *|schö- ner *|Kunst.|
+ z8 | z4 c2 c2 | d2 d2 d2 d2 | e2 e2 z4 | z8 | z4 c2 c2 |$ d2 d2 d2 d2 |!f! e8 | z4 e2 e2 | f8 | %107
+w: |Nehmt denn|hin, ihr schö- nen|See- len,||froh die|Ga- ben schö- ner|Kunst.|Wenn sich|Lieb'|
+ z4 f4 | ^f2 z2 z4 |$ z4 ^f4 | g2 z2 z4 |"^H" z4"^piu""^piu""^piu"!f! g4 | g8- | g8- |$ g8- | g8- | %116
+w: und|Kraft,|und|Kraft,|und|Kraft|_|||
+!ff!!ff!!ff! g8- | g4 f4 | e8 |$ d8 | c2 z2 z4 |"^I" e6 e2 | d6 d2 | g6 g2 |$ e8 | e6 e2 | d6 d2 | %127
+w: |* ver-|mäh-||len,|lohnt dem|Men- schen|Göt- ter-|Gunst,|lohnt dem|Men- schen|
+ g6 g2 | e8- |$ e8 | ^f8- | f4 ^f4 |"^K" g8 | z8 |$ z8 |!p!"^SOLO"[Q:1/2=200] e4 e4 | g4 f4 | %137
+w: Göt- ter-|Gunst,|_|Göt-|* ter-|Gunst.|||Nehmt denn|hin, ihr|
+ e4 d4 | d4 c4 | e4 e4 |$ g4 f4 | e4 d4 | f4 e4 | d4 c4 | B4 A4 | ^g4 a4 |$ c8 | d8 | e8 | %149
+w: schö- nen|See- len,|nehmt die|Ga- *|ben, die|Ga- *|ben, die|Ga- *|ben *|schö-|ner|Kunst.|
+!p!!p!!p!"^TUTTI" e4"^cresc.""^cresc.""^cresc." e4 | f4 e4 |$ d4 c4 | B4 A4 | ^g4 a4 | c8 | %155
+w: Nehmt die|Ga- *|ben, die|Ga- *|ben *|schö-|
+ e4 d4 |$!f!!f!!f! c2 z2 z4 | z8 | z4 c2 c2 | d2 d2 d2 d2 | e2 e2 z4 |$ z8 | z4 c2 c2 | %163
+w: ner *|Kunst.||Wenn sich|Lieb' und Kraft ver-|mäh- len,||lohnt dem|
+ d2 d2 d2 d2 | e8 | z4 e2 e2 |$ f8 | z4 f4 | ^f2 z2 z4 | z4 ^f4 | g2 z2 z4 | %171
+w: Men- schen Göt- ter-|Gunst.|Wenn sich|Lieb'|und|Kraft,|und|Kraft,|
+ z4"^più"!f!"^più""^più" g4 |$ g8- | g8- | g8- | g8- |!ff!!ff!!ff! g8- |$ g4 f4 | e8- | d8 | %180
+w: und|Kraft|||||* ver-|mäh-||
+ c2 z2 z4 | e6 e2 | d6 d2 |$ g6 g2 | e8 | e6 e2 | d6 d2 | g6 g2 | e8 |$ e6 e2 | d6 d2 | g6 g2 | %192
+w: len,|lohnt dem|Men- schen|Göt- ter-|Gunst,|lohnt dem|Men- schen|Göt- ter-|Gunst,|lohnt dem|Men- schen|Göt- ter-|
+ e8 | e6 e2 |!ff! g8- |$ g8- | g8- | g4 g4 | e4 z4 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %208
+w: Gunst,|Göt- ter-|Göt-|||* ter-|Gunst.||||||||||
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 |] %215
+w: |||||||
+V:2
+ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x2 e e | f e d c |$ c B A B | %16
+ c c d e | e d e e | f e d c | c B A B |$ c c e d | x2 e e | f d d d | e c c c | B c d e |$ %25
+ d2 e e | f e d z | c B A B | c c e d | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | %40
+ x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | %59
+ x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | %77
+ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$[M:2/2] x8 | x8 | %94
+ x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | %113
+ x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | %132
+ x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ %151
+ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | %170
+ x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 |$ %189
+ x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %208
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %215
+V:3
+ z4 | z4 | z4 | z4 |$ z4 | z4 | z4 | z4 | z4 | z4 |$ z4 | z2"^SOLO" .c .c | .c2 z2 | %13
+w: |||||||||||Schmei- chelnd|hold,|
+ z2!p!!p!!p! G G | A G F E |$ E D C D | E E G G | G2 G G | A G F E | E D C D |$ E E G F | E2 G G | %22
+w: schmei- chelnd|hold und lieb- lich|klin- gen un- sers|Le- bens Har- mo-|nien, und dem|Schön- heits- sinn ent-|schwin- gen Blu- men|sich, die e- wig|blüh'n. Fried' und|
+ G G G G | G E E E | D E G G |$ !fermata!G2 G G | F G F E | E D C D | E E G [G,F] | [CE]2 z2 |$ %30
+w: Freu- de glei- ten|freund- lich wie der|Wel- len Wech- sel-|spiel; was sich|dräng- te rauh und|feind- lich, ord- net|sich zu Hoch- ge-|fühl.|
+ z4 | z4 | z4 |$ z4 | z4 | z4 |$ z4 | z4 | z4 |$ z4 | z4 | z4 |$ z4 | z4 | z4 |$ z4 | %46
+w: ||||||||||||||||
+ z2!f!!f!!f! G G | A G F E | E D C D |$ E G G G | G2 G G | A G F E | E D C D | E E G F | E2 G G |$ %55
+w: Gros- ses,|das in's Herz ge-|drun- gen, blüht dann|neu und schön em-|por, hat ein|Geist sich auf- ge-|schwun- gen, hall't ihm|stets ein Geis- ter-|chor. Nehmt denn|
+ G G G G | G E E E | D E B c | !fermata!B2 _B B | A G F E | E D C D |$ E E G F | E2 z2 | z2 z A | %64
+w: hin, ihr schö- nen|See- len, froh die|Ga- ben schö- ner|Kunst. Wenn sich|Lieb' und Kraft ver-|mäh- len, lohnt dem|Men- schen Göt- ter-|Gunst.|Nehmt|
+ G2 z2 |$ z2 z c | G z G z | G z G z | G G z2 |$ z2 z!p!!p!!p! F | E2 z2 | z2 z F | ^F z z2 |$ %73
+w: hin,|nehmt|hin, ihr|schö- nen|See- len,|nehmt|hin,|nehmt|hin|
+ z2 z ^F | ^F z F z | ^F z F z |$ G2 z2 | z4 | z4 | z4 |$ z2 G G | G3 G | F2 A2 |$ G2 G2 | %84
+w: die|Ga- ben|schö- ner|Kunst.||||Nehmt die|Ga- ben|schö- ner,|schö- ner|
+ G2!p!!p!!p! G G | G2 G G |$ F2 A2 | G2 G2 | G2 G G |$ G2 E E | F2 A2 | G2 G2 |$ %92
+w: Kunst. Nehmt die|Ga- ben, die|Ga- ben|schö- ner|Kunst, froh die|Ga- ben, die|Ga- ben|schö- ner|
+[M:2/2]!f!!f!!f! G4 G2 G2 | G4 G2 G2 | F4 A4 | G4 G2 F2 | E2 z2 z4 |$ z8 | z4 E2 E2 | G2 G2 G2 G2 | %100
+w: Kunst, froh die|Ga- ben, die|Ga- ben|schö- ner *|Kunst.||Nehmt denn|hin, ihr schö- nen|
+ G2 G2 z4 | z8 | z4 E2 E2 |$ G2 G2 G2 G2 |!f! G8 | z4 G2 G2 | A8 | z4 A4 | A2 z2 z4 |$ z4 A4 | %110
+w: See- len,||froh die|Ga- ben schö- ner|Kunst.|Wenn sich|Lieb'|und|Kraft,|und|
+ G2 z2 z4 | z4!f! _e4 | _e8- | e8- |$ e8- | (e8 |!ff!!ff!!ff! e8-) | e4 d4 | c8 |$ B8 | c2 z2 z4 | %121
+w: Kraft,|und|Kraft|_||||* ver-|mäh-||len,|
+ c6 c2 | A6 A2 | B6 B2 |$ c8 | c6 c2 | A6 A2 | B6 B2 | c8- |$ c8 | A8- | A4 A4 | G8 | z8 |$ z8 | %135
+w: lohnt dem|Men- schen|Göt- ter-|Gunst,|lohnt dem|Men- schen|Göt- ter-|Gunst,|_|Göt-|* ter-|Gunst.|||
+ z8 | z8 | z8 | z8 | z8 |$ z8 |!p! G4 G4 | G8 | G4 G4 | F8 | A8 |$ G8 | G8 | G8 |!p!!p!!p! G4 G4 | %150
+w: ||||||Nehmt die|Ga-|ben, die|Ga-|ben|schö-|ner|Kunst.|Nehmt die|
+ G8 |$ G4 G4 | F8 | A8 | G8 | G8 |$!f!!f!!f! E2 z2 z4 | z8 | z4 E2 E2 | G2 G2 G2 G2 | G2 G2 z4 |$ %161
+w: Ga-|ben, die|Ga-|ben|schö-|ner|Kunst.||Wenn sich|Lieb' und Kraft ver-|mäh- len,|
+ z8 | z4 E2 E2 | G2 G2 G2 G2 | G8 | z4 G2 G2 |$ A8 | z4 A4 | A2 z2 z4 | z4 d4 | B2 z2 z4 | %171
+w: |lohnt dem|Men- schen Göt- ter-|Gunst.|Wenn sich|Lieb'|und|Kraft,|und|Kraft,|
+ z4!f! _e4 |$ _e8- | e8- | e8- | (e8 |!ff!!ff!!ff! e8-) |$ e4 d4 | c8 | B8 | c2 z2 z4 | c6 c2 | %182
+w: und|Kraft|||||* ver-|mäh-||len,|lohnt dem|
+ A6 A2 |$ B6 B2 | c8 | c6 c2 | A6 A2 | B6 B2 | c8 |$ c6 c2 | A6 A2 | B6 B2 | c8 | c6 c2 | %194
+w: Men- schen|Göt- ter-|Gunst,|lohnt dem|Men- schen|Göt- ter-|Gunst,|lohnt dem|Men- schen|Göt- ter-|Gunst,|Göt- ter-|
+!ff! e8- |$ e8- | e8- | e4 e4 | c4 z4 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %211
+w: Göt-|||* ter-|Gunst.|||||||||||||
+ z8 | z8 | z8 | z8 |] %215
+w: ||||
+V:4
+ z4 | z4 | z4 | z4 |$ z4 | z4 | z4 | z4 | z4 | z4 |$ z4 | z2 z2 | z2"^SOLO" e e | e2 z2 | z4 |$ %15
+w: ||||||||||||Schmei- chelnd|hold,||
+ z4 | z4 | z4 | z4 | z4 |$ z4 | z4 | z4 | z4 | z4 |$ z4 | z4 | z4 | z4 | z2 [ce] [ce] |$ %30
+w: ||||||||||||||Wenn der|
+ [cf] [ce] [cd] [Gc] | [Gc] [GB] [GA] [GB] | [Gc] [Ec] [Bd] [ce] |$ [ce][Bd] [ce] [ce] | %34
+w: Tö- ne Zau- ber|wal- ten und des|Wor- tes Wei- he|spricht, _ muss sich|
+ [cf] [ce] [cd] [Gc] | [Gc] [GB] [GA] [GB] |$ [Gc] [Gc] [ce] [Bd] | c2 [ce] [ce] | %38
+w: Herr- li- ches ge-|stal- ten, Nacht und|Stür- me wer- den|Licht, äuss'- re|
+ [df] [Bd] [Bd] [Bd] |$ [ce] [Gc] [Gc] [Gc] | [GB] [Gc] [Bd] [ce] | !fermata!d2 z2 |$ %42
+w: Ru- he, inn'- re|Won- ne herr- schen|für den Glück- li-|chen.|
+ !fermata!z2 [_Be] [Be] | [Af] [Ge] [Bd] c | [Gc] [GB] [GA] [GB] |$ [Gc] [Gc] [ce] [Bd] | %46
+w: Doch der|Kün- ste Früh- lings-|son- ne lässt aus|bei- den Licht ent-|
+ c2!f!!f!!f! c c | c c c c | c G G G |$ G G B c | cB c c | c c c c | c G G G | G G c B | c2 c c |$ %55
+w: stehn Gros- ses,|das in's Herz ge-|drun- gen, blüht dann|neu und schön em-|por, * hat ein|Geist sich auf- ge-|schwun- gen, hall't ihm|stets ein Geis- ter-|chor. Nehmt denn|
+ d B B B | c c G G | G G G G | !fermata!G2 c c | c c B c | G G G G |$ G G c B | c2 z2 | z2 z c | %64
+w: hin, ihr schö- nen|See- len, froh die|Ga- ben schö- ner|Kunst. Wenn sich|Lieb' und Kraft ver-|mäh- len, lohnt dem|Men- schen Göt- ter-|Gunst.|Nehmt|
+ c2 z2 |$ z2 z c | c z c z | B z B z | c c z2 |$ z2 z!p!!p!!p! c | c2 z2 | z2 z c | c z z2 |$ %73
+w: hin,|nehmt|hin, ihr|schö- nen|See- len,|nehmt|hin,|nehmt|hin|
+ z2 z c | c z c z | c z c z |$ B2!p! e e | f e d c | B B c d | f e d c |$ B B B B | c3 c | c2 c2 |$ %83
+w: die|Ga- ben|schö- ner|Kunst. Nehmt denn|hin, ihr schö- nen|See- len, nehmt denn|hin, ihr schö- nen|See- len, nehmt die|Ga- ben|schö- ner,|
+ c2 B2 | c2!p!!p!!p! c c | c2 G G |$ A2 d2 | e2 B2 | c2 c c |$ c2 G G | A2 d2 | e2 B2 |$ %92
+w: schö- ner|Kunst. Nehmt die|Ga- ben, die|Ga- ben|schö- ner|Kunst, froh die|Ga- ben, die|Ga- ben|schö- ner|
+[M:2/2]!f!!f!!f! c4 c2 c2 | c4 G2 G2 | A4 d4 | e4 B4 | c2 z2 z4 |$ z8 | z4 c2 c2 | B2 B2 B2 B2 | %100
+w: Kunst, froh die|Ga- ben, die|Ga- ben|schö- ner|Kunst.||Nehmt denn|hin, ihr schö- nen|
+ c2 c2 z4 | z8 | z4 c2 c2 |$ B2 B2 B2 B2 |!f! c8 | z4 c2 c2 | c8 | z4 c4 | d2 z2 z4 |$ z4 d4 | %110
+w: See- len,||froh die|Ga- ben schö- ner|Kunst.|Wenn sich|Lieb'|und|Kraft,|und|
+ d2 z2 z4 | z4!f! _e4 | _e8- | e8- |$ e8- | (e8 |!ff!!ff!!ff! e8-) | e4 a4 | g8 |$ G8 | c2 z2 z4 | %121
+w: Kraft,|und|Kraft|_||||* ver-|mäh-||len,|
+ c6 c2 | f6 f2 | d6 d2 |$ e8 | c6 c2 | f6 f2 | d6 d2 | e8 |$ c4 c4 | d8- | d4 d4 | d8 |!p! e4 e4 |$ %134
+w: lohnt dem|Men- schen|Göt- ter-|Gunst,|lohnt dem|Men- schen|Göt- ter-|Gunst,|lohnt ihn|Göt-|* ter-|Gunst.|Nehmt denn|
+ f4 e4 | d4 c4 | B4 B4 | c4 d4 | f4 e4 | d4 c4 |$ B4 B4 | c4 d4 | c8 | c4 c4 | c8 | d8 |$ e8 | B8 | %148
+w: hin, ihr|schö- nen|See- len,|nehmt denn|hin, ihr|schö- nen|See- len|Nehmt die|Ga-|ben, die|Ga-|ben|schö-|ner|
+ c8 |!p!!p!!p! c4 c4 | c8 |$ c4 c4 | c8 | d8 | e8 | c4 B4 |$!f!!f!!f! c2 z2 z4 | z8 | z4 c2 c2 | %159
+w: Kunst.|Nehmt die|Ga-|ben, die|Ga-|ben|schö-|ner *|Kunst.||Wenn sich|
+ B2 B2 B2 B2 | c2 c2 z4 |$ z8 | z4 c2 c2 | B2 B2 B2 B2 | c8 | z4 c2 c2 |$ c8 | z4 c4 | d2 z2 z4 | %169
+w: Lieb' und Kraft ver-|mäh- len,||lohnt dem|Men- schen Göt- ter-|Gunst.|Wenn sich|Lieb'|und|Kraft,|
+ z4 d4 | d2 z2 z4 | z4!f! _e4 |$ _e8- | e8- | e8- | (e8 |!ff!!ff!!ff! e8-) |$ e4 a4 | g8 | G8 | %180
+w: und|Kraft,|und|Kraft|||||* ver-|mäh-||
+ c2 z2 z4 | c6 c2 | f6 f2 |$ d6 d2 | e8 | c6 c2 | f6 f2 | d6 d2 | e8 |$ c6 c2 | f6 f2 | d6 d2 | %192
+w: len,|lohnt dem|Men- schen|Göt- ter-|Gunst,|lohnt dem|Men- schen|Göt- ter-|Gunst,|lohnt dem|Men- schen|Göt- ter-|
+ e8 | e6 e2 |!ff! e8- |$ e8- | e8- | e4 e4 | e4 z4 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %208
+w: Gunst,|Göt- ter-|Göt-|||* ter-|Gunst.||||||||||
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 |] %215
+w: |||||||
+V:5
+ z4 | z4 | z4 | z4 |$ z4 | z4 | z4 | z4 | z4 | z4 |$ z4 | z4 | z2"^SOLO" C C | C2 z2 | z4 |$ z4 | %16
+w: ||||||||||||Schmei- chelnd|hold,|||
+ z4 | z4 | z4 | z4 |$ z4 | z4 | z4 | z4 | z4 |$ z4 | z4 | z4 | z4 | z2 G, G, |$ A, G, F, E, | %31
+w: |||||||||||||Wenn der|Tö- ne Zau- ber|
+ E, D, C, D, | E, G, G, G, |$ G,2 G, G, | A, G, F, E, | E, D, C, D, |$ E, C, G, G,, | C,2 G, G, | %38
+w: wal- ten und des|Wor- tes Wei- he|spricht, muss sich|Herr- li- ches ge-|stal- ten, Nacht und|Stür- me wer- den|Licht, äuss'- re|
+ G, G, G, G, |$ G, E, E, E, | D, E, G, G, | !fermata!G,2 z2 |$ !fermata!z2 C C | F, C G, E, | %44
+w: Ru- he, inn'- re|Won- ne herr- schen|für den Glück- li-|chen.|Doch der|Kün- ste Früh- lings-|
+ E, D, C, D, |$ E, C, G, G,, | C,2!f!!f! C, C, | C, C, C, C, | G, G, G, F, |$ E, E, D, C, | %50
+w: son- ne lässt aus|bei- den Licht ent-|stehn Gros- ses,|das in's Herz ge-|drun- gen, blüht dann|neu und schön em-|
+ G,2 C, C, | C, C, C, C, | G, G, G, F, | E, C, G, G, | C,2 C, C, |$ G, G, G, G, | C C, C, C, | %57
+w: por, hat ein|Geist sich auf- ge-|schwun- gen, hall't ihm|stets ein Geis- ter-|chor. Nehmt denn|hin, ihr schö- nen|See- len, froh die|
+ G, C, G, C, | !fermata!G,2 C, C, | F, C, G, C, | G, G, G, F, |$ E, C, G, G, | C,2 z2 | z2 z F, | %64
+w: Ga- ben schö- ner|Kunst. Wenn sich|Lieb' und Kraft ver-|mäh- len, lohnt dem|Men- schen Göt- ter-|Gunst.|Nehmt|
+ C,2 z2 |$ z2 z F, | C, z C, z | G, z G, z | C C z2 |$ z2 z!p!!p! F, | C,2 z2 | z2 z F, | %72
+w: hin,|nehmt|hin, ihr|schö- nen|See- len,|nehmt|hin,|nehmt|
+ D, z z2 |$ z2 z D, | D, z D, z | D, z D, z |$ G,2 z2 | z4 | z4 | z4 |$ z2 G, G, | C,3 C, | %82
+w: hin|die|Ga- ben|schö- ner|Kunst.||||Nehmt die|Ga- ben|
+ F,2 F,2 |$ G,2 G,2 | C2!p!!p! C, C, | C,2 C, C, |$ F,2 F,2 | G,2 G,2 | C,2 C, C, |$ C,2 C, C, | %90
+w: schö- ner,|schö- ner|Kunst. Nehmt die|Ga- ben, die|Ga- ben|schö- ner|Kunst, froh die|Ga- ben, die|
+ F,2 F,2 | G,2 G,2 |$[M:2/2]!f!!f! C,4 C,2 C,2 | C,4 E,2 E,2 | F,4 F,4 | G,4 G,4 | C,2 z2 z4 |$ %97
+w: Ga- ben|schö- ner|Kunst, froh die|Ga- ben, die|Ga- ben|schö- ner|Kunst.|
+ z8 | z4 C2 C2 | G,2 G,2 G,2 G,2 | C2 C2 z4 | z8 | z4 C2 C2 |$ G,2 G,2 G,2 G,2 |!f! C8 | %105
+w: |Nehmt denn|hin, ihr schö- nen|See- len,||froh die|Ga- ben schö- ner|Kunst.|
+ z4 C,2 C,2 | F,8 | z4 F,4 | D,2 z2 z4 |$ z4 D,4 | G,2 z2 z4 | z4!f! _E4 | _E8- | E8- |$ E8- | %115
+w: Wenn sich|Lieb'|und|Kraft,|und|Kraft,|und|Kraft|_||
+ (E8 |!ff!!ff! C8-) | C4 F,4 | G,8- |$ G,8 | C,2 z2 z4 | A,6 A,2 | F,6 F,2 | G,6 G,2 |$ C8 | %125
+w: ||* ver-|mäh-||len,|lohnt dem|Men- schen|Göt- ter-|Gunst,|
+ A,6 A,2 | F,6 F,2 | G,6 G,2 | C8 |$ A,4 A,4 | D8- | D4 D4 | G,8 | z8 |$ z8 | z8 | z8 | z8 | z8 | %139
+w: lohnt dem|Men- schen|Göt- ter-|Gunst,|lohnt ihn|Göt-|* ter-|Gunst.|||||||
+ z8 |$ z8 |!p! G,4 G,4 | C,8 | C,4 C,4 | F,8 | F,8 |$ G,8 | G,8 | C,8 |!p!!p! C,4 C,4 | C,8 |$ %151
+w: ||Nehmt die|Ga-|ben, die|Ga-|ben|schö-|ner|Kunst.|Nehmt die|Ga-|
+ C,4 C,4 | F,8 | F,8 | G,8 | G,8 |$!f!!f! C,2 z2 z4 | z8 | z4 C,2 C,2 | G,2 G,2 G,2 G,2 | %160
+w: ben, die|Ga-|ben|schö-|ner|Kunst.||Wenn sich|Lieb' und Kraft ver-|
+ C2 C2 z4 |$ z8 | z4 C,2 C,2 | G,2 G,2 G,2 G,2 | C8 | z4 C,2 C,2 |$ F,8 | z4 F,4 | D,2 z2 z4 | %169
+w: mäh- len,||lohnt dem|Men- schen Göt- ter-|Gunst.|Wenn sich|Lieb'|und|Kraft,|
+ z4 D,4 | G,2 z2 z4 | z4!f! _E4 |$ _E8- | E8- | E8- | (E8 |!ff!!ff! C8-) |$ C4 F,4 | G,8- | G,8 | %180
+w: und|Kraft,|und|Kraft|||||* ver-|mäh-||
+ C,2 z2 z4 | A,6 A,2 | F,6 F,2 |$ G,6 G,2 | C8 | A,6 A,2 | F,6 F,2 | G,6 G,2 | C8 |$ A,6 A,2 | %190
+w: len,|lohnt dem|Men- schen|Göt- ter-|Gunst,|lohnt dem|Men- schen|Göt- ter-|Gunst,|lohnt dem|
+ F,6 F,2 | G,6 G,2 | C8 | C6 C2 |!ff! C8- |$ C8- | C8- | C4 C4 | C4 z4 | z8 | z8 | z8 | z8 | z8 | %204
+w: Men- schen|Göt- ter-|Gunst,|Göt- ter-|Göt-|||* ter-|Gunst.||||||
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |] %215
+w: |||||||||||
+V:6
+ z8 | z2 G/B/d/g/ z2 g/b/d'/g'/ | .g'.d'.b.d' .g.b.d.g | BdGB DGB,D |$ x4 GDBG | dBgd!f! bgd'b | %6
+ g'd'bd' gbdg | BdGB DGB,D | x4 GDBG | dBgd!f! bgd'b |$ e'c'gc' egce | egce gc'eg | egce gc'eg | %13
+ c'e'ge' ge'ge' | af'ge' fd'ec' |$ ec'db cadb | ec'ec' bd'ac' | c'e'd'f' ge'ge' | af'ge' fd'ec' | %19
+ ec'db cadb |$ ec'gc' ge'fd' | ec'gc' ge'c'e' | d'f'd'f' fd'bd' | c'e'ec' ec'ec' | dbec' bd'c'e' |$ %25
+ !fermata![bd']4 [g_b]e'[gb]e' |!>(! af'ge' fd'e!>)!c' | ec'db cadb | gc'ec' ge'fd' | %29
+ ec'ge c2Tc'2 |$ z2 Tc'2 z2{bc'} Tg'2 | z2 Tg'2 z2{^f'g'} Tg2 | z2 Tg2 z2 Tg'2 |$ z2 Tg'2 z2 Tc'2 | %34
+ z2 Tc'2 z2 Tc'2 | z2 Tg'2 z2 Tg2 |$ z2 Tg2 z2 Tg'2 | z/ g/a/g/ a/g/a/b/ c'2 Te'2 | %38
+ f/g/a/b/ c'/d'/e'/f'/ z2 Td'2 |$ e/f/g/a/ b/c'/d'/e'/ z2 Tc'2 | z2 Tg2 z2 Tg'2 | %41
+ z2 !fermata!Tg2 ^f/g/a/b/ c'/d'/e'/f'/ |$ g'2 !fermata!z2 e2Te'2 | z2 Tc'2 z2 Te'2 | %44
+ z2 Tg'2 z2 Tg2 |$ z2 Tg2 z/ g/a/g/ a/g/a/b/ | %46
+!8va(! c'/d'/e'/f'/ g'/a'/b'/c''/!8va)!"_ORCH." [g'c''e'']2[gc'e']2 | %47
+ ([ac'f']2[gc'e']2[fc'd']2[egc']2) | ([egc']2[dgb]2[cga]2[dgb]2) |$ [egc']2[egc']2[gbd']2[gc'e']2 | %50
+ [gc'e']2[gbd']2[gc'e']2[gc'e']2 | [ac'f']2[gc'e']2[fc'd']2[egc']2 | [egc']2[db]2[ca]2[dgb]2 | %53
+ [egc']2[egc']2[gc'e']2[fbd']2 | [cec']4 [gc'e']2[gc'e']2 |$ ([gd'f']2[gbd']2).[gbd']2.[gbd']2 | %56
+ ([gc'e']2[egc']2).[egc']2.[egc']2 | ([fgb]2[egc']2[gbd']2[gc'e']2) | %58
+ !fermata![gbd']4!f! [g_be']2[gbe']2 | ([ac'f']2[gc'e']2[fbd']2[ec']2) | [egc']2[db]2[ca]2[dgb]2 |$ %61
+ [egc']2[egc']2[gc'e']2[gbd']2 | [egc']4 z2 Tc'2 | (f'2>c'2a2) [cfa]2 | [ceg]2 z2 z2 Tc'2 |$ %65
+ (f'2>c'2a2) .[fa]2 | .[ceg]2 z2 .[ceg]2 z2 | .[Bdg]2 z2 .[Bdg]2 z2 |!p! .[Gce]2 z2 z2 Tc'2 |$ %69
+ f'2>c'2a2 [fa]2 | [eg]4 z2 Tc'2 | (3f'e'g' f'/a'/f'/c'/ a2a2 | [^fa]4 z2 c'2 |$ %73
+ (3^f'e'g' f'/a'/f'/c'/ a2 z2 | z Ta!8va(! (3c''a'^f' z Tf' (3a'f'c'!8va)! | %75
+ z Ta (3c'a^f z Tf (3afc |$ (6:4:6gg'gg'gg' (6:4:6gg'gg'gg' | (6:4:6gg'gg'gg' (6:4:6gg'gg'gg' | %78
+ (6:4:6gg'gg'gg' (6:4:6gg'gg'gg' | (6:4:6gg'gg'gg' (6:4:6gg'gg'gg' |$ %80
+ (6:4:6gg'gg'gg' (6:4:6gg'gg'gg' | (6:4:6gg'gg'gg' (6:4:6gg'gg'gg' | %82
+ (6:4:6aa'aa'aa' (6:4:6aa'aa'aa' |$ (6:4:6gg'gg'gg' (6:4:6gg'gg'gg' | %84
+ z2 g/c'/e'/g'/ z2 g/c'/e'/g'/ | z2 g/c'/e'/g'/ z2 g/c'/e'/g'/ |$ z2 a/c'/f'/a'/ z2 a/c'/f'/a'/ | %87
+ z2 g/c'/e'/g'/ z2 g/c'/e'/g'/ | z2 c/e/g/c'/ z2 c/e/g/c'/ |$ %89
+ z2!8va(! c'/e'/g'/c''/ z2 c'/e'/g'/c''/ | z2 c'/d'/a'/c''/ z2 c'/d'/a'/c''/ | %91
+ z2 c'/e'/g'/c''/ z2 b/d'/g'/b'/ |$[M:2/2] [e'c''e'']8!8va)! [gg']4 [gg']4 | %93
+ ([aa']4 [gg']4) ([ff']4 [ee']4) | ([dd']4 [cc']4) ([^a^a']4 [bb']4) | [ee']8 ([gg']4 [ff']4) | %96
+ [ec'e']4 z4 (3[CEc]4 [DFd]4 [EGe]4 |$ (3[FAf]4 [GBg]4 [Aca]4 (3[Bdb]4 [cec']4 [dfd']4 | %98
+ [ege']4 z4 [cec']4 [cec']4 | [dgbd']4 [dgbd']4 [dgbd']4 [dgbd']4 | [ege']4 z4 [cec']4 [cec']4 | %101
+ [dgbd']4 [dgbd']4 [dgbd']4 [dgbd']4 | [ec'e']4 z4 (3[CEc]4 [DFd]4 [EGe]4 |$ %103
+ (3[FAf]4 [GBg]4 [Aca]4 (3[Bdb]4 [cec']4 [dfd']4 | [cegc']4 z4 [cegc']4 [cegc']4 | [cegc']8 z8 | %106
+ z8 [fac'f']4 z4 | [fac'f']4 z4 z8 | [Acd^f]4 z4 ^F2A2c2d2 |$ [Acd^f]4 z4 z8 | z8 z2 B2d2^f2 | %111
+ g4 z4 [_e'g']2g2[e'g']2g2 | [_e'g']2g2[e'g']2g2 [e'g']2g2[e'g']2g2 | %113
+ [_e'g']2g2[e'g']2g2 [e'g']2g2[e'g']2g2 |$ [_e'g']2g2[e'g']2g2 [e'g']2g2[e'g']2g2 | %115
+ [_e'g']2g2[e'g']2g2 [e'g']2g2[e'g']2g2 | [e'g']2g2[e'g']2g2 [e'g']2g2[e'g']2g2 | %117
+ [e'g']2g2[e'g']2g2 [d'f']2f2[d'f']2f2 | [c'e']2e2[c'e']2e2 [c'e']2e2[c'e']2e2 |$ %119
+ [bd']2d2[bd']2d2 [bd']2d2[bd']2d2 | [cegc']4 z4 [cegc']4 z4 | [eac'e']4 z4 [eac'e']4 z4 | %122
+ [fac'd']4 z4 [fac'd']4 z4 | [dgbd']4 z4 [dgbd']4 z4 |$ [egc'e']4 z4 [egc'e']4 z4 | %125
+ [eac'e']4 z4 [eac'e']4 z4 | [fac'd']4 z4 [fac'd']4 z4 | [dgbd']4 z4 [dgbd']4 z4 | %128
+ [c'e']2g2[c'e']2g2 [c'e']2g2[c'e']2g2 |$ [c'e']2a2[c'e']2a2 [c'e']2a2[c'e']2a2 | %130
+ [c'd'^f']2a2[c'd'f']2a2 [c'd'f']2a2[c'd'f']2a2 | [c'd'^f']2a2[c'd'f']2a2 [c'd'f']2a2[c'd'f']2a2 | %132
+!p! (3g4 g'4 g4 (3g'4 g4 g'4 | (3g4 g'4 g4 (3g'4 g4 g'4 |$ (3g4 g'4 g4 (3g'4 g4 g'4 | %135
+ (3g4 g'4 g4 (3g'4 g4 g'4 | (3g4 g'4 g4 (3g'4 g4 g'4 | (3g4 g'4 g4 (3g'4 g4 g'4 | %138
+ (3g4 g'4 g4 (3g'4 g4 g'4 | (3g4 g'4 g4 (3g'4 g4 g'4 |$ (3g4 g'4 g4 (3g'4 g4 g'4 | %141
+ (3g4 g'4 g4 (3g'4 g4 g'4 | (3g4 g'4 g4 (3g'4 g4 g'4 | (3g4 g'4 g4 (3g'4 g4 g'4 | %144
+ (3a4 a'4 a4 (3a'4 a4 a'4 | (3a4 a'4 a4 (3a'4 a4 a'4 |$ (3g4 g'4 g4 (3g'4 g4 g'4 | %147
+ (3g4 g'4 g4 (3g'4 g4 g'4 | g2g2c'2e'2 g'4 z4 | z2 g2c'2e'2 b'4 z4 | z2 g2c'2e'2 g'4 z4 |$ %151
+ z2 g2c'2e'2 g'4 z4 | z2 a2c'2f'2 a'4 z4 | z2 c2f2a2 c'4 z4 | z2 c2e2g2 c'4 z4 | %155
+ z2 g2c'2e'2 g'2f'2d'2b2 |$!f! c'4 z4 (3[CEc]4 [DFd]4 [EGe]4 | %157
+ (3[FAf]4 [GBg]4 [Aca]4 (3[Bdb]4 [cec']4 [dfd']4 | [ege']4 z4 z8 | z16 | %160
+ z8 (3[CEc]4 [DFd]4 [EGe]4 |$ (3[FAf]4 [GBg]4 [Aca]4 (3[Bdb]4 [cec']4 [dfd']4 | [ege']4 z4 z8 | %163
+ z16 | [cegc']4 z4 [cegc']4 [cegc']4 | [cegc']8 z8 |$ z8 [fac'f']4 z4 | [fac'f']4 z4 z8 | %168
+ [Acd^f]4 z4 ^F2A2c2d2 | [Acd^f]4 z4 z8 | z8 z2 B2d2^f2 | g4!f! z4 [_e'g']2g2[e'g']2g2 |$ %172
+ [_e'g']2g2[e'g']2g2 [e'g']2g2[e'g']2g2 | [_e'g']2g2[e'g']2g2 [e'g']2g2[e'g']2g2 | %174
+ [_e'g']2g2[e'g']2g2 [e'g']2g2[e'g']2g2 | [_e'g']2g2[e'g']2g2 [e'g']2g2[e'g']2g2 | %176
+ [e'g']2g2[e'g']2g2 [e'g']2g2[e'g']2g2 |$ [e'g']2g2[e'g']2g2 [d'f']2f2[d'f']2f2 | %178
+ [c'e']2e2[c'e']2e2 [c'e']2e2[c'e']2e2 | [bd']2d2[bd']2d2 [bd']2d2[bd']2d2 | %180
+ [cegc']4 z4 [egc'e']4 z4 | [eac'e']8 [eac'e']8 | [fac'd']8 [fac'd']8 |$ [dgbd']8 [dgbd']8 | %184
+ [egc'e']8 [egc'e']8 | [eac'e']8 [eac'e']8 | [fac'd']8 [fac'd']8 | [dgbd']8 [dgbd']8 | %188
+ [eac'e']16 |$ [eac'e']16 | [fac'd']16 | [dgbd']16 | [egc'e']16 | [egc'e']12 [egc'e']4 | %194
+ [egc'e']16- |$ [egc'e']16- | [egc'e']16- | [egc'e']8 [egc'e']8 | [egc'e']4 z4 z8 | z16 | z16 | %201
+ z16 | z16 | z16 | z16 | z16 | z16 | z16 | z16 | z16 | z16 | z16 | z16 | z16 | z16 |] %215
+V:7
+!f!!ped! (3G,,,/B,,,/D,,/ z (3G,,/B,,/D,/ x | (3G,/B,/D/ z[K:treble] (3G/B/d/ z | %2
+ .g/.d/.B/.d/ .G/.B/.D/.G/ |[K:bass] B,/D/G,/B,/ D,/G,/B,,/D,/ |$ G,,/B,,/D,/B,,/ G,/D,/B,/G,/ | %5
+[K:treble] D/B,/G/D/ B/G/d/B/ | g/d/B/d/ G/B/D/G/ |[K:bass] B,/D/G,/B,/!p! D,/G,/B,,/D,/ | %8
+ G,,/B,,/D,/B,,/ G,/D,/B,/G,/ |[K:treble] D/B,/G/D/ B/G/!ped-up!d/B/ |$ e/!ped!c/G/c/ E/G/C/E/ | %11
+[K:bass] G,/C/E,/G,/ C/E/G,/C/ |[K:treble] E/G/C/E/ G/c/E/G/ | c/e/G/e/[K:bass] C,C!ped-up! | %14
+ C,C C,C |$ G,,G, G,,G, | [C,C][C,C] [G,,G,][C,C] | G,,G, C,C | C,C C,C | G,,G, G,,G, |$ %20
+ [C,C][E,E] [G,G][G,,G,] | [C,C]2 z [G,,G,] | G,,G, G,,G, | C,C C,C | [G,,G,][G,G] [G,G][C,C] |$ %25
+ !fermata![G,,G,]2 [C,C][C,C] | [F,F][C,C] [G,,G,][C,C] | G,,G, G,,[F,G,] | %28
+ [E,G,]C, [G,,G,][G,,,G,,] |{bc'} [C,,C,] z G,/4E/4C/4E/4 G,/4E/4C/4E/4 |$ %30
+{^f'g'} A,/4F/4C/4F/4 G,/4E/4C/4E/4 F,/4D/4C/4D/4 E,/4C/4G,/4C/4 | %31
+{^fg} E,/4C/4G,/4C/4 D,/4B,/4G,/4B,/4 C,/4A,/4G,/4A,/4 D,/4B,/4G,/4B,/4 | %32
+ E,/4C/4G,/4C/4 E,/4C/4G,/4C/4 G,/4D/4B,/4D/4 G,/4E/4C/4E/4 |$ %33
+ G,/4E/4C/4E/4 G,/4D/4B,/4D/4 G,/4E/4C/4E/4 G,/4E/4C/4E/4 | %34
+ A,/4F/4C/4F/4 G,/4E/4C/4E/4 F,/4D/4C/4D/4 E,/4C/4G,/4C/4 | %35
+ E,/4C/4G,/4C/4 D,/4B,/4G,/4B,/4 C,/4A,/4G,/4A,/4 B,,/4B,/4G,/4B,/4 |$ %36
+ E,/4C/4G,/4C/4 E,/4C/4G,/4C/4 G,/4E/4C/4E/4 F,/4D/4B,/4D/4 | %37
+ E,/4C/4G,/4C/4 E/4C/4G,/4C/4 G,/4E/4C/4E/4 G,/4E/4C/4E/4 | %38
+ G,/4F/4D/4F/4 G,/4D/4B,/4D/4 G,/4D/4B,/4D/4 G,/4D/4B,/4D/4 |$ %39
+ G,/4E/4C/4E/4 E,/4C/4G,/4C/4 E,/4C/4G,/4C/4 E,/4C/4G,/4C/4 | %40
+ D,/4B,/4G,/4B,/4 E,/4C/4G,/4C/4 G,/4D/4B,/4D/4 G,/4E/4C/4E/4 | !fermata![G,B,D] z z2 |$ %42
+ !fermata!z2 G,/4_B,/4C/4E/4 G,/4B,/4C/4E/4 | %43
+ A,/4F/4C/4F/4 G,/4E/4C/4E/4 F,/4D/4B,/4D/4 E,/4C/4G,/4C/4 | %44
+ E,/4C/4G,/4C/4 D,/4B,/4G,/4B,/4 C,/4A,/4G,/4A,/4 D,/4B,/4G,/4B,/4 |$ %45
+ E,/4C/4G,/4C/4 E,/4C/4G,/4C/4 G,/4E/4C/4E/4 F,/4D/4B,/4D/4 | [C,E,G,C]2 C,C, | C,3 C, | G,3 F, |$ %49
+ E,E,D,C, | G,G,,C,C, | C,3 C, | G,3 F, | E,C,G,G,, | C,CzC, |$ G,G,,zG, | C,CC,C, | G,,C,G,,C, | %58
+ !fermata!G,,2 C,C, | F,C,G,,C, | G,, G,2 F, |$ E,C,G,G,, | %62
+ (3C,/G,/C/ (3C,/G,/C/ (3C,/G,/C/ (3C,/G,/C/ | (3C,/F,/C/ (3C,/F,/C/ (3C,/F,/C/ (3C,/F,/C/ | %64
+ (3C,/G,/C/ (3C,/G,/C/ (3C,/G,/C/ (3C,/G,/C/ |$ (3C,/F,/C/ (3C,/F,/C/ (3C,/F,/C/ (3C,/F,/C/ | %66
+ (3C,/G,/C/ (3C,/G,/C/ (3C,/G,/C/ (3C,/G,/C/ | %67
+ (3G,,/D,/G,/ (3G,,/D,/G,/ (3G,,/D,/G,/ (3G,,/D,/G,/ | %68
+ (3C,/E,/G,/ (3C/E/[K:treble]G/ (3C/E/G/ (3C/E/G/ |$ (3C/F/A/ (3C/F/A/ (3C/F/A/ (3C/F/A/ | %70
+ (3C/E/G/ (3C/E/G/ (3C/E/G/ (3C/E/G/ | (3C/F/A/ (3C/F/A/ (3C/F/A/ (3C/F/A/ | %72
+ (3D/^F/A/ (3D/F/A/ (3D/F/A/ (3D/F/A/ |$ (3D/^F/A/ (3D/F/A/ (3D/F/A/ (3D/F/A/ | %74
+ (3D/^F/A/ (3D/F/A/ (3D/F/A/ (3D/F/A/ | (3D/^F/A/ (3D/F/A/ (3D/F/A/ (3D/F/A/ |$ %76
+ [G,G] z[K:bass] EE | C,[G,CE]C,[G,CE] | G,,[G,B,DF]G,,[G,B,DF] | C,[G,CE]C,[G,CE] |$ %80
+ G,,[G,B,DF]G,,[G,B,DF] | C,[G,CE]C,[G,CE] | F,,[F,A,CD]F,,[F,A,CD] |$ C,[G,CE]C,[G,B,D] | %84
+ C,/4E,/4G,/4C/4 z C,/4E,/4G,/4C/4 z | C,/4E,/4G,/4C/4 z C,/4E,/4G,/4C/4 z |$ %86
+ (5:4:5F,,/4A,,/4C,/4D,/4F,/4 z (5:4:5F,,/4A,,/4C,/4D,/4F,/4 z | %87
+ G,,/4C,/4E,/4G,/4 z G,,/4B,,/4D,/4G,/4 z |!ped!!f! C,,/4E,,/4G,,/4C,/4 z C,,/4E,,/4G,,/4C,/4 z |$ %89
+ C,,/4E,,/4G,,/4C,/4 z C,,/4E,,/4G,,/4C,/4 z | %90
+ (5:4:5F,,,/4A,,,/4C,,/4D,,/4F,,/4 z (5:4:5F,,,/4A,,,/4C,,/4D,,/4F,,/4 z | %91
+ G,,,/4C,,/4E,,/4G,,/4 z G,,,/4B,,,/4D,,/4G,,/4 z |$ %92
+[M:2/2]!f! [C,,E,,G,,C,]2 [C,E,G,]C [C,E,G,]C[C,E,G,]C | [C,E,G,]C[C,E,G,]C [C,E,G,]C[C,E,G,]C | %94
+ [C,F,A,]C[C,F,A,]C [C,F,A,]C[C,F,A,]C | [G,C]E[G,C]E [G,,B,,D,]F,[G,,B,,D,]F, | %96
+ C,,C,C,,C, C,,C,C,,C, |$ C,,C,C,,C, C,,C,C,,C, | C,,C,C,,C, [C,C]2 [C,C]2 | %99
+ [G,,G,]2 [G,,G,]2 [G,,G,]2 [G,,G,]2 | C,,C,C,,C, C,,C,C,,C, | C,,C,C,,C, C,,C,C,,C, | %102
+ C,,C,C,,C, [C,C]2 [C,C]2 |$ [G,,G,]2 [G,,G,]2 [G,,G,]2 [G,,G,]2 | %104
+!f! [C,,C,]2 [C,E,G,]_B, [C,E,G,]B,[C,E,G,]B, | [C,E,G,]_B,[C,E,G,]B, [C,E,G,]B,[C,E,G,]B, | %106
+ [F,A,]C[F,A,]C [F,A,]C[F,A,]C | [F,A,]C[F,A,]C [F,A,]C[F,A,]C | %108
+ [D,^F,A,]C[D,F,A,]C [D,F,A,]C[D,F,A,]C |$ [D,^F,A,]C[D,F,A,]C [D,F,A,]C[D,F,A,]C | GG,GG, GG,GG, | %111
+ _E,_EE,E E,EE,E | _E,_EE,E E,EE,E | _E,_EE,E E,EE,E |$ _E,_EE,E E,EE,E | _E,_EE,E E,EE,E | %116
+ C,CC,C C,CC,C | C,CC,C F,,F,F,,F, | G,,G,G,,G, G,,G,G,,G, |$ G,,,G,,G,,,G,, G,,,G,,G,,,G,, | %120
+ (3[C,,C,]2 [C,,C,]2 [C,,C,]2 (3[C,,C,]2 [E,,E,]2 [C,,C,]2 | %121
+ (3[A,,,A,,]2 [A,,,A,,]2 [A,,,A,,]2 (3[A,,,A,,]2 [C,,C,]2 [A,,,A,,]2 | %122
+ (3[F,,,F,,]2 [F,,,F,,]2 [F,,,F,,]2 (3[F,,,F,,]2 [A,,,A,,]2 [F,,,F,,]2 | %123
+ (3[G,,,G,,]2 [G,,,G,,]2 [G,,,G,,]2 (3[G,,,G,,]2 [B,,,B,,]2 [G,,,G,,]2 |$ %124
+ (3[C,,C,]2 [C,,C,]2 [C,,C,]2 (3[C,,C,]2 [E,,E,]2 [C,,C,]2 | %125
+ (3[A,,,A,,]2 [A,,,A,,]2 [A,,,A,,]2 (3[A,,,A,,]2 [C,,C,]2 [A,,,A,,]2 | %126
+ (3[F,,,F,,]2 [F,,,F,,]2 [F,,,F,,]2 (3[F,,,F,,]2 [A,,,A,,]2 [F,,,F,,]2 | %127
+ (3[G,,,G,,]2 [G,,,G,,]2 [G,,,G,,]2 (3[G,,,G,,]2 [B,,,B,,]2 [G,,,G,,]2 | C,,C,C,,C, C,,C,C,,C, |$ %129
+ A,,,A,,A,,,A,, A,,,A,,A,,,A,, | D,,D,D,,D, D,,D,D,,D, | D,DD,D D,DD,D | (3G,2 G2 G,2 (3G2 G,2 G2 | %133
+ (3G,2 G2 G,2 (3G2 G,2 G2 |$ C,2 z2 [G,CE]2 z2 | C,2 z2 [G,CE]2 z2 | G,,2 z2 [G,B,DF]2 z2 | %137
+ G,,2 z2 [G,B,DF]2 z2 | C,2 z2 [G,CE]2 z2 | C,2 z2 [G,CE]2 z2 |$ G,,2 z2 [G,B,DF]2 z2 | %141
+ G,,2 z2 [G,B,DF]2 z2 | C,2 z2 [G,CE]2 z2 | C,2 z2 [G,CE]2 z2 | F,,2 z2 [F,A,CD]2 z2 | %145
+ F,,2 z2 [F,A,CD]2 z2 |$ G,,2 z2 [G,CE]2 z2 | G,,2 z2 [G,B,]2 z2 | %148
+ [C,E,G,]C[C,E,G,]C [C,E,G,]C[C,E,G,]C | G,2 z2 z CEG | G,2 z2 z CEG |$ G,2 z2 z CEG | %152
+ G,2 z2 z CFA | C2 z2 z FAc | C2 z2 z EGc | z G,CE GFDB, |$ C,,C,C,,C, C,,C,C,,C, | %157
+ C,,C,C,,C, C,,C,C,,C, | C,,C,C,,C, z4 | z8 | C,,C,C,,C, C,,C,C,,C, |$ C,,C,C,,C, C,,C,C,,C, | %162
+ C,,C,C,,C, z4 | z8 |!f! [C,,C,]2 [C,E,G,]_B, [C,E,G,]B,[C,E,G,]B, | %165
+ [C,E,G,]_B,[C,E,G,]B, [C,E,G,]B,[C,E,G,]B, |$ [F,A,]C[F,A,]C [F,A,]C[F,A,]C | %167
+ [F,A,]C[F,A,]C [F,A,]C[F,A,]C | [D,^F,A,]C[D,F,A,]C [D,F,A,]C[D,F,A,]C | %169
+ [D,^F,A,]C[D,F,A,]C [D,F,A,]C[D,F,A,]C | GG,GG, GG,GG, | _E,_EE,E E,EE,E |$ _E,_EE,E E,EE,E | %173
+ _E,_EE,E E,EE,E | _E,_EE,E E,EE,E | _E,_EE,E E,EE,E | C,CC,C C,CC,C |$ C,,C,C,,C, F,,,F,,F,,,F,, | %178
+ G,,,G,,G,,,G,, G,,,G,,G,,,G,, | G,,,G,,G,,,G,, G,,,G,,G,,,G,, | %180
+ (3[C,,C,]2 [C,,C,]2 [C,,C,]2 (3[C,,C,]2 [E,,E,]2 [C,,C,]2 | %181
+ (3[A,,,A,,]2 [A,,,A,,]2 [A,,,A,,]2 (3[A,,,A,,]2 [C,,C,]2 [A,,,A,,]2 | %182
+ (3[F,,,F,,]2 [F,,,F,,]2 [F,,,F,,]2 (3[F,,,F,,]2 [A,,,A,,]2 [F,,,F,,]2 |$ %183
+ (3[G,,,G,,]2 [G,,,G,,]2 [G,,,G,,]2 (3[G,,,G,,]2 [B,,,B,,]2 [G,,,G,,]2 | %184
+ (3[C,,C,]2 [C,,C,]2 [C,,C,]2 (3[C,,C,]2 [E,,E,]2 [C,,C,]2 | %185
+ (3[A,,,A,,]2 [A,,,A,,]2 [A,,,A,,]2 (3[A,,,A,,]2 [C,,C,]2 [A,,,A,,]2 | %186
+ (3[F,,,F,,]2 [F,,,F,,]2 [F,,,F,,]2 (3[F,,,F,,]2 [A,,,A,,]2 [F,,,F,,]2 | %187
+ (3[G,,,G,,]2 [G,,,G,,]2 [G,,,G,,]2 (3[G,,,G,,]2 [B,,,B,,]2 [G,,,G,,]2 | %188
+ (3[A,,,A,,]2 [A,,,A,,]2 [A,,,A,,]2 (3[A,,,A,,]2 [C,,C,]2 [A,,,A,,]2 |$ %189
+ (3[A,,,A,,]2 [A,,A,]2 [A,,A,]2 (3[A,,A,]2 [C,C]2 [A,,A,]2 | F,,F,F,,F, F,,F,F,,F, | %191
+ G,,G,G,,G, G,,G,G,,G, | C,CC,C C,CC,C | C,CC,C C,CC,C | C,CC,C C,CC,C |$ C,CC,C C,CC,C | %196
+ C,CC,C C,CC,C | C,CC,C C,CC,C | [C,C]2 z2 z4 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %209
+ z8 | z8 | z8 | z8 | z8 | z8 |] %215
+V:8
+ z G,,/4B,,/4D,/4G,/4 z G,/4B,/4[I:staff -1]D/4G/4 | x2[I:staff +1][K:treble] x2 | x4 | %3
+[K:bass] x4 |$ G,/B,/D/B,/ x2 |[K:treble] x4 | x4 |[K:bass] x4 | G,/B,/D/B,/ x2 |[K:treble] x4 |$ %10
+ x4 |[K:bass] x4 |[K:treble] x4 | x2[K:bass] x2 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | %23
+ x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | %41
+ x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | %60
+ x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x5/3[K:treble] x7/3 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | %75
+ x4 |$ x2[K:bass] x2 | x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | %91
+ x4 |$[M:2/2] x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | %108
+ x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | %127
+ x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 |$ %146
+ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | %165
+ x8 |$ x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | %184
+ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %203
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %215

@@ -1,0 +1,19 @@
+X:1
+T:Whigs of Fife
+C:William Marshall
+%%score { 1 2 }
+L:1/8
+M:2/2
+I:linebreak $
+K:C
+V:1 treble 
+V:2 bass 
+L:1/4
+V:1
+ f | cF F/F/F (AGG>A) | cF F/F/F f>gag | fF F/F/F AG-GA | FDE^C D3 :: (e |$ f)ccf gdde | %7
+ (fcc)d (f/e/f/g/) ag | fccf gdde | f/g/a g>e d2- d :: f |$ cf a/a/a gc_bc | fcaf c/d/c/_B/ Af | %13
+ cf a/a/a gcea |{g} f/e/d{f} e/d/^c d2 d :: e |$ fcAf gd g/a/_b | af ca{g} f/e/f/g/ a/b/a/g/ | %18
+ fcAf{a} g/f/g/a/ g/a/_b |${b} a/g/f g/f/e d2- d :| %20
+V:2
+ z/ | f a c' _b | a f a c' | f A c ^c | d A d3/2 :: z/ |$ A A B B | A f c c | A A B B | A A d3/2 :: %10
+ z/ |$ f f e c | A F c c | f f c ^c | d A d d/ :: z/ |$ f f B c | f f f f | f f e ^c |$ d A d d/ :| %20

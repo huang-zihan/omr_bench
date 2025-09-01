@@ -1,0 +1,152 @@
+X:1
+T:Hor che'l ciel e la terra
+C:Cipriano de Rore
+Z:Francesco Petrarca
+%%score [ 1 2 [ 3 4 ] 5 ]
+L:1/4
+Q:1/4=100
+M:4/2
+I:linebreak $
+K:F
+V:1 treble nm="Soprano" snm="S"
+V:2 treble nm="Alto" snm="A"
+V:3 treble-8 nm="Tenor 1" snm="T 1"
+V:4 treble-8 nm="Tenor 2" snm="T 2"
+V:5 bass nm="Bass" snm="B"
+V:1
+ G3 G d2 d _e | d4 d d2 G | =B2 c2 z4 |$ d3 d d2 c A | B2 G d3/2 e/ f e f- |$ f/e/ d2 ^c d4 |$ %6
+w: Hor che’l ciel e la|ter- ra~e’l ven- to|ta- ce|E le fe- re~e gli~au-|gel- li~il son- * * no~af- fre-|* * * * na,|
+ z4 z d2 d | d2 c A B2 A d- |$ d/e/ f e f3/2 e/ d2 ^c |$ d2 z2 z4 | z2 z d2 e f2 | %11
+w: E le|fe- re~e gli~au- gel- li~il son-|* * * no~af- fre- * * *|na,|Not- te'l car-|
+ d _e c2 B B G A- |$ A/G/4A/4 B G c A d2 c | A B2 A A A G2 | A4 z4 |$ f d e f2 c2 d- | %16
+w: ro stel- la- to~in gi- ro me-|* * * * na, not- te'l car- ro|stel- la- to~in gi- ro me-|na|E nel suo let- to~il mar|
+ d c B G A2 G2- |$ G2 z2 z4 |$ =B4 c4 | z d2 c z _e2 d | z2 G4 ^F2 | z4 z2 d2 |$ e e f2 d d2 c | %23
+w: _ senz’ on- da gia- ce,|_|'Veg- ghio,|pen- so, ar- do,|pian- go;|e|chi mi sfa- ce Sem- pre|
+ B A2 G G ^F G G |$ c2 d2 z2 z c- |$ c =B c2 d2 c2 | B A c2 d f3/2 e/4d/4 e- | e/d/ d2 ^c d4 |$ %28
+w: m’è~in- an- zi per mia dol- ce|pe- na: Sem-|* pre m’è~in- an- zi|per mia dol- ce pe- * * *|* * * * na:|
+ z2 d2 c c B3/2 c/ | d A d2 =B B c2 | d2 G2 z4 |$ z4 z d2 f- | f e e f d3 c | d d _e2 d4- |$ %34
+w: Guer- ra~è’l mio sta- *|* to, d’i- ra~e di duol|pie- na,|E sol|_ di lei pen- san- do~ò|qual- che pa- ce,|
+ d2 z2 z d d d | d4 d4- | d8 ||[Q:1/4=80] z4 z4 |$ z4 z2 d2- | d2 d2 e4 | e3 f d2 d f- |$ %41
+w: _ ò qual- che|pa- ce.|_||Co-|* sí sol|d’u- na chia- ra fon-|
+ f e d2 c c2 c | B A G G2 F z c | d2 d f3/2 e/ d2 c- |$ c B3/2 A/ A B4 | z4 z2 d2 | d =B c4 d2- |$ %47
+w: * te vi- va Mo- ve’l|dol- c'e l’a- ma- ro on-|d’io mi pas- * * *|* * * * co;|U-|na man so- la|
+ d A A B3/2 A/ G2 F- | F f3/2 e/ d3/2 ^c/4=B/4 c d2 |$ z2 c2 d d2 B |$ B _e2 c2 f3/2 =e/ d- | %51
+w: _ mi ri- sa- * * na~e|_ pun- * * * * * ge;|E per- ché’l mio|mar- tir non giun- * *|
+ d c F3/2 G/ A4 | A4 z4 |$ z4 z d d d | c d _e2 d4 | z G B A G/A/B/c/ d/e/ f- |$ f/e/ d2 ^c d2 z2 | %57
+w: * ga~a ri- * *|va,|Mil- le vol-|te~il dí mo- ro|e mil- le nas- * * * * * *|* * * * co,|
+ z8 | z d d c f f e2 |$ d d2 c B3/2 A/ B/G/ A- | A/G/ G3/2 ^F/ F G2 z2 | z8 |$ z d d c f f e2 | %63
+w: |Tan- to da la sa- lu-|te mia son lun- * * * *|* * * * * ge,||Tan- to da la sa- lu-|
+ d d2 c B3 A | z d2 d B _e2 d |$ c c c =B c4 | d8 |] %67
+w: te mia son lun- ge,|Tan- to da la sa-|lu- te mia son lun-|ge.|
+V:2
+ z4 G3 G | B2 B3 A B2 | G G3/2 F/G/A/ B A G2 |$ ^F2 z G2 D E2 | G G G2 F A G A- |$ %5
+w: Hor che’l|ciel e la ter-|ra~e’l ven- * * * * to ta-|ce E le fe-|re~e gli~au- gel- li~il son- no~af- fre-|
+ A/G/4F/4 G A A B2 B B- |$ B/A/F/G/ A2 D2 z A- | A A A2 G2 C F- |$ F D G D A2 A A |$ %9
+w: * * * * na, il son- no~af- fre-|* * * * * na, E|_ le fe- re~e gli~au- gel-|* li~il son- no~af- fre- na, Not-|
+ A B2 A c B G A- | A A G2 F c2 B- | B/A/G/F/ E F D2 C2 |$ z2 z E ^F G2 E | F D2 C C A, B,2 | %14
+w: te'l car- ro stel- la- to~in gi-|* ro me- na, in gi-|* * * * * ro me- na,|Not- te'l car- ro|stel- la- to~in gi- ro me-|
+ A, F D E F3 G |$ A D G F A3 F | z A D D F2 _E D |$ D B2 A2 G3/2 ^F/ F |$ G2 z2 E4 | %19
+w: na E nel suo let- to~il|mar senz’ on- da gia- ce,|E nel suo let- to~il mar|senz’ on- da gia- * *|ce, 'Veg-|
+ F2 z A2 G z G- | G F B4 A2 | z2 G4 ^F2 |$ z G A A B2 G G- | G F E D2 D C2- |$ C C F G A2 D F |$ %25
+w: ghio, pen- so, ar-|* do, pian- go;|pian- go;|e chi mi sfa- ce Sem-|* pre m’è~in- an- zi per|_ mia dol- ce pe- na: Sem-|
+ E F A2 F F2 _E | D D _E2 D2 z2 | z4 B4 |$ A A G2 G A2 G- | G ^F G4 A2- | A D z G B3 A |$ %31
+w: pre m’è~in- an- zi per mia|dol- ce pe- na:|Guer-|ra~è’l mio sta- to, d’i- ra~e|_ di duol pie-|* na, E sol di|
+ A B G2 G G F A- | A2 G B B2 A A- | A B G4 G2- |$ G F3/2 G/ A2 D B2- | B A z G G G G2 | ^F8 || %37
+w: lei pen- san- do~ò qual- che pa-|* ce, E sol di lei|_ pen- san- do~ò|_ qual- * * che pa-|* ce, ò qual- che pa-|ce.|
+ z2 G3 G C2- |$ C D2 D _E2 D G- | G A G2 G2 z G | G A2 A A B G A- |$ A A A3 F G2- | %42
+w: Co- sí sol|_ d’u- na chia- ra fon-|* te vi- va Co-|sí sol d’u- na chia- ra fon-|* te vi- va Mo-|
+ G F _E2 D D C2 | B,2 z F F3/2 E/ F/G/ A |$ D F3 F4 | z2 z A2 A F2 | G2 A E F F3/2 E/D/C/ |$ %47
+w: * ve’l dol- c'e l’a- ma-|ro on- d’io _ _ _ _|mi pas- co;|U- na man|so- la mi ri- sa- * * *|
+ D C F2 G G E A- | A/G/F/E/ D A A3/2 G/ F/E/ D- |$ D/C/ B,2 A, z B,2 B, |$ _E2 C C F2 D B- | %51
+w: * na~e pun- ge; mi ri- sa-|* * * * * na~e pun- * * * *|* * * ge; E per-|ché’l mio mar- tir non giun-|
+ B A A2 D2 z2 | ^F2 F F G D B2- |$ B A z2 z ^F2 F | A F G2 B3 A | z B G A B2 A A |$ %56
+w: * ga~a ri- va,|Mil- le vol- te~il dí mo-|* ro Mil- le|vol- te~il dí mo- ro|e mil- le nas- co, e|
+ F G A2 D B B A | F G A3/2 G/4A/4 B A A2 | G F2 E z A2 G- |$ G D F F D3 D | D D D2 D B B A | %61
+w: mil- le nas- co, Tan- to da|la sa- lu- * * * te mia|son lun- ge, Tan- to|_ da la sa- lu- te|mia son lun- ge, Tan- to da|
+ F G A3/2 G/4A/4 B A A2 |$ G F2 E z A2 G- | G D F F D2 G A- | A G ^F2 G4- |$ G8- | G8 |] %67
+w: la sa- lu- * * * te mia|son lun- ge, Tan- to|_ da la sa- lu- te mia|_ son lun- ge.|_||
+V:3
+ z8 | z G2 G d2 d _e | d2 c G2 A B2 |$ A2 z2 z4 | d2 d d2 c2 A |$ B2 A2 G3/2 A/ B G |$ %6
+w: |Hor che’l ciel e la|ter- ra~e’l ven- to ta-|ce|E le fe- re~e gli~au-|gel- li~il son- * * no~af-|
+ B2 A c d G/A/ B/c/d/e/ | f2 e f d e f d |$ d2 G B A2 A e |$ ^f g2 e =f d2 c | c A B2 A2 z2 | %11
+w: fre- na, E le fe- * * * * *|* re~e gli~au- gel- li~il son- no~af-|fre- na, af- fre- na, Not-|te'l car- ro stel- la- to~in|gi- ro me- na,|
+ z2 A2 G G2 F |$ c B2 A c d G2 | F4 z f d e | f3 c2 d2 c- |$ c B G A2 A z2 | z F B B A3/2 B/ c d |$ %17
+w: Not- te'l car- ro|stel- la- to~in gi- ro me-|na, E nel suo|let- to~il mar senz’|_ on- da gia- ce,|E nel suo let- * * to~il|
+ G d d c _e2 d2 |$ d4 c2 z2 | z f2 c z c2 B | _e4 d4 | G4 d4 |$ z8 | z4 z2 G2 |$ A A B2 A2 z2 |$ %25
+w: mar senz’ on- da gia- ce,|'Veg- ghio,|pen- so, ar- do,|pian- go;|pian- go;||e|chi mi sfa- ce|
+ z d2 c B A2 G | G ^F G G B2 A2 | z8 |$ z4 z2 B2 | A A G2 G d2 c- | c =B c2 d2 d2 |$ %31
+w: Sem- pre m’è~in- an- zi|per mia dol- ce pe- na:||Guer-|ra~è’l mio sta- to, d’i- ra~e|_ di duol pie- na,|
+ z B _e3 d d c | c3 B B/A/B/c/ d/e/ f- | f g c2 d2 z d |$ d2 d c c g2 d | d d d6 | d8 || %37
+w: E sol di lei pen-|san- do~ò qual- * * * * * *|* che pa- ce, E|sol di lei pen- san- do~ò|qual- che pa-|ce.|
+ G4 G2 A2 |$ A2 A B2 G2 B- | B A d2 c4 | z c c f3/2 e/d/c/ B A- |$ A A f3/2 f/ f c _e2 | %42
+w: Co- sí sol|d’u- na chia- ra fon-|* te vi- va|Co- sí sol _ _ _ _ d’u-|* na chia- ra fon- te vi-|
+ d d B B3/2 c/d/e/ f f | f d2 c z B B A |$ B2 F2 z f d d | g2 g f e f3/2 e/d/c/ | B G c2 c2 z2 |$ %47
+w: va Mo- ve’l dol- * * * * c'e|l’a- ma- ro on- d’io mi|pas- co; U- na man|so- la mi ri- sa- * * *|* na~e pun- ge;|
+ z2 d2 B B c2 | d2 A2 A2 B3/2 A/ |$ G2 F2 z F F G- |$ G G G A2 A B3/2 c/ | %51
+w: U- na man so-|la mi ri- sa- na~e|pun- ge; E per- ché’l|_ mio mar- tir non giun- *|
+ d A2 f3/2 e/ d3/2 ^c/ c | d A2 A c B G2 |$ d3 A z A2 A | A3/2 B/ c G G g2 f | z d2 f d g2 f |$ %56
+w: * ga~a ri- * * * *|va, Mil- le vol- te~il dí|mo- ro Mil- le|vol- * * te~il dí mo- ro|e mil- le nas- co,|
+ d2 f e d3/2 c/ d/e/ f- | f/e/ d3/2 ^c/ c d2 A2 | z2 z A B A c c |$ B3 A B2 G d- | %60
+w: e mil- le nas- * * * *|* * * * * * co,|Tan- to da la sa-|lu- te mia son lun-|
+ d G z A B G B c | d3/2 e/ f e g f e2 |$ d2 z2 z4 | z4 z G G F | B B A2 G4 |$ c3 d _e4 | d8 |] %67
+w: * ge, Tan- to da la sa-|lu- * * te mia son lun-|ge,|Tan- to da|la sa- lu- te|mia son lun-|ge.|
+V:4
+ z4 z2 G2- | G G g2 g ^f g2- | g d _e e d2 d2 |$ z2 G3 G c2 | B G B3 A c c |$ %5
+w: Hor|_ che’l ciel e la ter-|* ra~e’l ven- to ta- ce|E le fe-|re~e gli~au- gel- li~il son- no~af-|
+ d3/2 e/ f e z g f g- |$ g d e f3/2 e/d/c/ B A | A2 A d2 G z B |$ A3/2 B/ c f f2 e2 |$ %9
+w: fre- * * na, E le fe-|* re~e gli~au- gel- * * * * li~il|son- no~af- fre- na, il|son- * * no~af- fre- na,|
+ z d d c2 f d e- | e f d3 c f2 | g2 z2 z d e f- |$ f d _e c2 B B G | d3/2 e/ f2 e d d G | %14
+w: Not- te'l car- ro stel- la-|* to~in gi- ro me-|na, Not- te'l car-|* ro stel- la- to~in gi- ro|me- * * na, E nel suo|
+ c2 B A2 A B G |$ d2 c3 f2 d | e f f d2 c2 B- |$ B A/G/ F/G/A/B/ c3/2 B/ A2 |$ G2 G4 G2 | %19
+w: let- to~il mar senz’ on- da|gia- ce, E nel|suo let- to~il mar senz’ on-|* * * * * * * * da gia-|ce, 'Veg- ghio,|
+ z B2 A z2 G3/2 A/ | B2 B2 z4 | z2 B4 A2 |$ z c2 d2 d _e2 | d d c B A2 G g |$ f f2 d e2 f2 |$ z8 | %26
+w: pen- so, ar- *|* do,|pian- go;|e chi mi sfa-|ce Sem- pre m’è~in- an- zi per|mia dol- ce pe- na:||
+ z2 z G G d2 c | f3 e z g2 f |$ f e2 d e2 f d | d3/2 c/ =B/A/B/c/ d2 f2- | f2 e2 z f f3/2 e/ |$ %31
+w: per mia dol- ce|pe- na: Guer- ra~è’l|mio sta- to, d’i- ra~e di|duol _ _ _ _ _ _ pie-|* na, E sol di|
+ d2 c c2 B2 F- | F/G/A/B/ c d f2 f2 | z4 G2 B2- |$ B2 A A2 B G2- | G ^F G G B4 | A8 || e4 e2 f2 |$ %38
+w: lei pen- san- do~ò qual-|* * * * * che pa- ce,|E sol|_ di lei pen- san-|* do~ò qual- che pa-|ce.|Co- sí sol|
+ f2 f d2 c B3/2 A/ | G d =B2 c G G c- | c A A d2 G d2- |$ d ^c d2 A A =c G/A/ | B/c/ d G G B2 F2 | %43
+w: d’u- na chia- ra fon- *|* te vi- va Co- sí sol|_ d’u- na chia- ra fon-|* te vi- va Mo- ve’l dol- *|* * * c'e l’a- ma- ro|
+ z f f f d3/2 c/ d/e/ f- |$ f/_e/ d c2 B2 z d- | d e2 f c2 d2- | d2 A G A2 A B- |$ B F2 B G G2 A- | %48
+w: on- d’io mi pas- * * * *|* * * * co; U-|* na man so- la|_ mi ri- sa- na~e pun-|* ge; U- na man so-|
+ A A z f2 e d G |$ B/c/d/e/ f2 f2 z B |$ B c2 c c d2 d | g e d3/2 e/ f2 e2 | z d d d e f g2- |$ %53
+w: * la mi ri- sa- na~e|pun- * * * * ge; E|per- ché’l mio mar- tir non|giun- ga~a ri- * * va,|Mil- le vol- te~il dí mo-|
+ g f z2 z d2 d | A d G g2 d z d | B G d2 d d d A |$ B2 A A B G B c | d3/2 e/ f e g f e2 | %58
+w: * ro Mil- le|vol- te~il dí mo- ro e|mil- le nas- co, e mil- le|nas- co, Tan- to da la sa-|lu- * * te mia son lun-|
+ d2 z2 z4 |$ z4 z G G F | B B A2 G d3/2 e/ f- | f/e/ d2 ^c d2 A2 |$ z2 z A B A c c | B3 A B2 G d- | %64
+w: ge,|Tan- to da|la sa- lu- te mia _ _|_ _ _ son lun- ge,|Tan- to da la sa-|lu- te mia son lun-|
+ d2 d2 z c c d |$ _e3/2 e/ e d c G c2 | =B8 |] %67
+w: * ge, Tan- to da|la sa- lu- te mia son lun-|ge.|
+V:5
+ z8 | z4 z2 G,2- | G, G, C,2 G, ^F, G,2 |$ D,2 B,3 B, A,2 | G,4 x4 |$ z4 z D2 D |$ %6
+w: |Hor|_ che’l ciel e la ter-|ra~e’l ven- to ta-|ce|E le|
+ D2 C A, B,3/2 A,/ G, F, | D,/E,/F,/G,/ A, D, G,2 F, B,, |$ D,2 C, D,3/2 E,/F,/D,/ A,2 |$ %9
+w: fe- re~e gli~au- gel- * * li~il|son- * * * * no~af- fre- na, il|son- no~af- fre- * * * *|
+ D, G,2 A,2 B,2 A,- | A, D, G,2 D, A,2 B,- | B, C2 F, z G, C, F,- |$ F, G,2 A,2 G,2 C, | %13
+w: na, Not- te'l car- ro|_ stel- la- to~in gi- ro|_ me- na, Not- te'l car-|* ro stel- la- to~in|
+ D,/C,/B,,/C,/ D,/E,/F,/G,/ A, D, G,2 | F,2 z2 F,2 D, E, |$ F, G, C, F, F,3/2 G,/ A, B, | %16
+w: gi- * * * * * * * * ro me-|na E nel suo|let- to~il mar senz’ on- * * da|
+ A, A, z G, F,2 C, G,- |$ G, G, D, F, _E, C, D,2 |$ G,2 z2 C,4 | B,,2 z F,2 C, z2 | _E,2 E,2 z4 | %21
+w: gia- ce, E nel suo let-|* to~il mar senz’ on- da gia-|ce, 'Veg-|ghio, pen- so,|ar- do,|
+ _E,4 D,4 |$ z C, F, D, G,2 C,2 | z4 D,2 E, E, |$ F,2 D, D2 C B, A,- |$ %25
+w: pian- go;|e chi mi sfa- ce|e chi mi|sfa- ce Sem- pre m’è~in- an-|
+ A, G, F, F, D,3/2 E,/ F, C, | D,2 C,2 z4 | B,2 A, A, G,2 G, D- |$ D C2 =B, C2 D2 | %29
+w: * zi per mia dol- * * ce|pe- na:|Guer- ra~è’l mio sta- to, d’i-|* ra~e di duol pie-|
+ D,2 z2 G,2 F,3/2 E,/ | D, D, C,2 B,, B,,3/2 C,/D,/E,/ |$ F, G, C,2 G,2 z2 | z8 | %33
+w: na, E sol di|lei pen- san- do~ò qual- * * *|* che pa- ce,||
+ z2 z C B,3/2 A,/ G,2 |$ G, D,2 F,2 G,3/2 A,/B,/C/ | D D, B,3/2 A,/ G,4 | D,8 || C,4 C,2 F,2- |$ %38
+w: E sol di lei|pen- san- do~ò qual- * * *|* che pa- * *|ce.|Co- sí sol|
+ F, D, D, G,2 C, G,2- | G, ^F, G,2 C,4 | z4 z G, G, D,/E,/ |$ F,/G,/ A, D, D, F,2 C,2 | %42
+w: _ d’u- na chia- ra fon-|* te vi- va|Mo- ve’l dol- *|* * * c'e l’a- ma- ro|
+ z D, _E,2 B,, B,2 A, | z B, B, A, B,2 F,2 |$ z4 D2 B, B,- | B, C2 D A, A, B,3/2 A,/ | %46
+w: on- d’io mi pas- co;|on- d’io mi pas- co;|U- na man|_ so- la mi ri- sa- na~e|
+ G,2 F, C, F, F,2 G,- |$ G, A, D, D, _E,2 C, F,- | F, D, D,2 z4 |$ z4 B,,2 B,, _E,- |$ %50
+w: pun- ge; U- na man so-|* la mi ri- sa- na~e pun-|* * ge;|E per- ché’l|
+ E, C, C, F,2 D,2 G,- | G, A, D,4 A,2 | z D, D, D, C, D, _E,2 |$ D,2 z2 D,3 D, | F, D, C,2 G,3 D, | %55
+w: _ mio mar- tir non giun-|* ga~a ri- va,|Mil- le vol- te~il dí mo-|ro Mil- le|vol- te~il dí mo- ro|
+ z G, G, D, G,2 D,2 |$ z4 z G, G, F, | B, B, A,2 G, D2 C | B,2 A,2 D,2 C, C, |$ %59
+w: e mil- le nas- co,|Tan- to da|la sa- lu- te mia son|lun- ge, Tan- to da|
+ G,3/2 G,/ F, F, G,/A,/B,/C/ D D, | G,2 D,2 z G, G, F, | B, B, A,2 G, D2 C |$ B,2 A,2 D,2 C, C, | %63
+w: la sa- lu- te mia _ _ _ _ son|lun- ge, Tan- to da|la sa- lu- te mia son|lun- ge, Tan- to da|
+ G,3/2 G,/ F, F, G,/A,/B,/C/ D D, | G,2 D, D, _E, C, C, =B,, |$ C,3/2 C,/ C, G, C,4 | G,8 |] %67
+w: la sa- lu- te mia _ _ _ _ son|lun- ge, Tan- to da la sa-|lu- te mia son lun-|ge.|

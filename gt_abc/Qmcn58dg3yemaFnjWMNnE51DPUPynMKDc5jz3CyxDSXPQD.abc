@@ -1,0 +1,29 @@
+X:1
+T:Plano, 88.88.88
+C:Pluma M. Kimball Brown, 1897
+Z:Public Domain
+Z:Courtesy of the Cyber Hymnal™
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=83
+M:3/4
+I:linebreak $
+K:C
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ [EG] | [Ec]3 [Ec] [Ec]>[EG] | [EG][DF] [CE]3 [EG] | [FA]3 [FA] [Ae]>[Ad] | [Gc]>[GB] [GB]3 [EG] | %5
+ [E_B][EB] [EB]3 [CE] | [CF]>[EG] [FA]3 [^FA] | [^Fc][Fc] [Fc]3 [FA] |$ [GB]>[Gc] [Gd]3 [FG] | %9
+ [EG]3 [EG] [Ge][Gc] | [FB]>[FA] [EG]3 [EG] | [FA]3 [FA] [Af] (e/d/) x | %12
+ !fermata![Gc]!fermata![FB] [Ec]3 |] %13
+V:2
+ x | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x5 ^F x | x5 |] %13
+V:3
+ [C,G,] | [C,G,]3 [C,G,] [C,G,]>[C,G,] | [G,,G,][G,,G,] [C,G,]3 [C,C] | [F,C]3 [F,C] [^F,C]>[F,D] | %4
+ [G,E]>[G,D] [G,D]3 [C,C] | [C,C][C,C] [C,C]3 [G,_B,] | [F,A,]>[F,_B,] [F,C]3 [D,D] | %7
+ [D,D][D,D] [D,D]3 [D,D] |$ [G,D]>[G,C] [G,B,]3 G, | (z [G,C]) C[E,C] x2 | [F,C]>[A,C] C3 C | %11
+ (z [C,C]) [F,C] (C/D/) x3 | !fermata![G,E]!fermata![G,D] [C,C]3 |] %13
+V:4
+ x | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | (C3 C, E,)C | x2 C3 C | (C3 F,, A,,) x D, | x5 |] %13

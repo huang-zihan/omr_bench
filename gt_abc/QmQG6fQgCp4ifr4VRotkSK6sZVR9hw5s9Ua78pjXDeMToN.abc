@@ -1,0 +1,29 @@
+X:1
+T:Title
+%%score ( 1 2 ) { 3 | ( 4 5 ) }
+L:1/4
+M:3/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Grand Piano, Unnamed-000"
+V:2 treble 
+V:3 bass nm="Choir Pad, Unnamed-001"
+V:4 bass 
+V:5 bass 
+V:1
+ [EG] [EG] [EG] | [EB]2 E | [EF]2 [DF] | [EG]3 | [FB] [GB] [FB] | [Ee]2 [Fd] | c- [Cc] [Ec] |$ %7
+w: By~George~Job~Elvey,~1862 * *|||||||
+ [DB]3 | [DB] [DB] [DB] | [=EB]2 [EG] | [FA]2 [EA] | [DA]3 | [EG] [EG] [FG] | [EG]2 [EB] | %14
+w: |||||||
+ [EF]2 [DF] | E3- | E z z |] %17
+w: |||
+V:2
+ x3 | x3 | x3 | x3 | x3 | x3 | G z z |$ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |] %17
+V:3
+ B, B, B, | B,2 G, | C2 B, | B,3 | B, B, B, | =A,2 B, | B,2 z |$ B,3 | G, G, G, | G,2[K:treble] C | %10
+ C2 C | B,3 | B,[K:bass] B, =B, | C2 B, | B,2 A, | G,3- | G, z z |] %17
+V:4
+ E, E, E, | G,,2 C, | A,,2 B,, | E,3 | D, D, D, | C,2 B,, | E, z =A, |$ B,,3 | z3 | C,2 C, | %10
+ F,2 F, | B,,3 | E, E, D, | C,2 G,, | B,,2 B,, | E,3- | E, z z |] %17
+V:5
+ x3 | x3 | x3 | x3 | x3 | x3 | z F,2 |$ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |] %17

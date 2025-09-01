@@ -1,0 +1,34 @@
+X:1
+T:Underwood, 87.87 D
+C:Theodore Edson Perkins, 1896
+Z:Public Domain
+Z:Courtesy of the Cyber Hymnal™
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble 
+V:2 treble 
+L:1/4
+V:3 bass 
+V:4 bass 
+V:1
+ [Ec]2 [CE]2 [DF][DG][CA][DB] | [Ec]4 [CA]4 | [DB]2 [DB]2 [C=A][DB][Ec][DB] | [CA]6 z2 | %4
+ [Ec]2 [CE]2 [DF][DG][CA][DB] | [Ec]4 [CA]4 | [DB]2 [C=A]2 [DB][Fd][Ec][DB] | [CA]8 |$ %8
+ [Fd]2 [DF]2 [DF][DG][CA][DF] | [CE]4 [CA]4 | [EB]2 [Ge]2 [GB][EG][=DF][DG] | %11
+ (E2 [DG]2 [CA]2 [DB]2) | [Ec]2 [CE]2 [DF][DG][CA][DB] | [Ec]4 [_Ge]2 [Fd]2 | %14
+ [Ec]2 [Ec]2 [Ec][DB][CA][DG] | [CA]6 z2 |] %16
+V:2
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | E x3 | x4 | x4 | x4 | x4 |] %16
+V:3
+ [A,,A,]2 [A,,A,]2 [A,,A,][A,,A,][A,,A,][A,,A,] | [A,,A,]4 [A,,A,]4 | %2
+ [E,G,]2 [E,G,]2 [E,^F,][E,G,][E,A,][E,G,] | [A,,A,]6 z2 | %4
+ [A,,A,]2 [A,,A,]2 [A,,A,][A,,A,][A,,A,][A,,A,] | [A,,A,]4 [A,,A,]4 | %6
+ [E,G,]2 [E,^F,]2 [E,G,][E,G,]A,[E,G,] | [A,,A,]8 |$ [D,A,]2 [D,A,]2 [D,A,][B,,E,][A,,E,][A,,A,] | %9
+ [A,,A,]4 [A,,A,]4 | [E,G,]2 [E,B,]2 [E,B,][E,B,][B,,A,][B,,B,] | (G,2 B,2 A,2 G,2) | %12
+ [A,,A,]2 [A,,A,]2 [A,,A,][A,,A,][A,,A,][A,,A,] | [A,,A,]4 [C,A,]2 [D,A,]2 | %14
+ [E,A,]2 [E,A,]2 [E,A,][E,G,][E,A,][E,B,] | [A,,A,]6 z2 |] %16
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x6 A, x | x8 |$ x8 | x8 | x8 | E,8 | x8 | x8 | x8 | x8 |] %16

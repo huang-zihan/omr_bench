@@ -1,0 +1,58 @@
+X:1
+T:Confessing Love Through The Wind
+C:Sai
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=105
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+!ff! z g d'2 d'3 g- | gg d'2 d'3 g- | gg c'2 c'3 g- | gga c'2 g e'2- | e'fc' e'4- e'- |$ %5
+ e'fc' d'4 c'- | c'gb c'4- c'- | c'g b4- bC | G2 G2 G2 [CF]E- | E4 CD[CE]C |$ G2 G2 GG F/E/E- | %11
+ E6- EC | GGGG G E2 C | GGGG G E2 C | EEEE EFED- |$ D6- Dc | !arpeggio![cg]2 g2 g2 [cf]e- | %17
+ e4 cd[ce]c | g2 g2 gg f/e/e- | e6- ec |$ gggg g e2 c | gggg g e2 c | gggg gac'b- | ba g2 gac'a | %24
+ [ed']2 [ed']2 [ed']2 e'[egc']- |$ [egc']4 gac'a | [ed']2 [ed']2 [ed']2 e'[ge']- | %27
+ [ge']d'/c'/- c'4- c'c' | d'd'd'd' d' c'3 | d'd'd'd' d' c'2 g |$ e'e'e'e' e'f'e'd'- | d'4 gac'a | %32
+ [ed']2 [ed']2 [ed'][ed']e'[egc']- | [egc']4 gac'a |$ [ed']2 [ed']2 [ed']2 e'[ge']- | %35
+ [ge']d'/c'/- c'4- c'c' | d'd'd'd' d' c'3 | d'd'd'd' d' c'2 g |$ e'e'e'e' e'f'e'd'- | %39
+ d'2 b b2 c'2 d'- | d'3 c'4 g- | gg d'2 d'3 g- | gg c'2 c'3 g- |$ gga c'2 g e'2- | e'fc' e'4- e'- | %45
+ e'fc' d'4 c'- | c'gb c'4- c'- | c'g b4- b2 |$ G2 G2 G2 [CF]E- | E4 CD[CE]C | G2 G2 GG F/E/E- | %51
+ E6- EC | GGGG G E2 C |$ GGGG G E2 C | GGGG GAcB- | B4 gac'a | [ed']2 [ed']2 [ed']2 e'[egc']- | %57
+ [egc']4 gac'a |$ [ed']2 [ed']2 [ed']2 e'[ge']- | [ge']d'/c'/- c'4- c'c' | d'd'd'd' d' c'3 | %61
+ d'd'd'd' d' c'2 g |$ e'e'e'e' e'f'e'd'- | d'4 gac'a | [ed']2 [ed']2 [ed'][ed']e'[egc']- | %65
+ [egc']4 gac'a |$ [ed']2 [ed']2 [ed']2 e'[ge']- | [ge']d'/c'/- c'4- c'c' | d'd'd'd' d' c'3 | %69
+ d'd'd'd' d' c'2 g |$ e'e'e'e' e'f'e'd'- | d'2 b b2 c'2 d'- | d'3 c'4 z | z8 | z8 | z8 | z8 | z8 | %78
+ z8 | z8 | z8 |$ d'2 d'2 d'2 e'c'- | c'4 gac'a | d'2 d'2 d'2 e'e'- | e'd'/c'/- c'4- c'c' | %85
+ d'd'd'd' d' c'3 |$ d'd'd'd' d' c'2 g | e'e'e'e' e'f'e'd'- | d'4 gac'a | %89
+ [ed']2 [ed']2 [ed'][ed']e'[egc']- |$ [egc']4 gac'a | [ed']2 [ed']2 [ed']2 e'[ge']- | %92
+ [ge']d'/c'/- c'4- c'c' | d'd'd'd' d' c'3 | d'd'd'd' d' c'2 g |$ e'e'e'e' e'f'e'd'- | %96
+ d'2 b b2 c'2 d'- | d'3 c'4 g- | gg d'2 d'3 g- | gg c'2 c'3 g- |$ gga c'2 g e'2- | e'fc' e'4- e'- | %102
+ e'fc' d'4 c'- | c'gb c'4- c'- | c'g b4- bc' | c'8 |] %106
+V:2
+ C,3/2.C3/2[G,C]- [G,C]4 | C,3/2.C3/2[G,C]- [G,C]4 | A,,3/2.A,3/2[E,A,]- [E,A,]4 | %3
+ A,,3/2.A,3/2[E,A,]- [E,A,]4 | F,,3/2.F,3/2[C,F,]- [C,F,]4 |$ F,,3/2.F,3/2[C,F,]- [C,F,]4 | %6
+ G,,3/2.G,3/2[D,G,]- [D,G,]4 | G,,3/2.G,3/2[D,G,]- [D,G,]4 | C,G,CD- D4 | C,G,CD- D4 |$ %10
+ A,,E,A,B,- B,4 | A,,E,A,B,- B,2 C2 | F,,C,F,G,- G,4 | F,,C,F,G,- G,3 F,, | G,,D,G,A,- A,4 |$ %15
+ G,,D,G,A,- A,2 C2 | C,G,CD- D4 | C,G,CD- D4 | A,,E,A,B,- B,4 | A,,E,A,B,- B,2 C2 |$ %20
+ F,,C,F,G,- G,4 | F,,C,F,G,- G,3 F,, | G,,D,G,A,- A,4 | G,,D,G,A,- A,2 C2 | C,G,CD- D4 |$ %25
+ C,G,CD- D4 | A,,E,A,B,- B,4 | A,,E,A,B,- B,2 C2 | F,,C,F,G,- G,4 | F,,C,F,G,- G,3 F,, |$ %30
+ G,,D,G,A,- A,4 | G,,D,G,A,- A,2 C2 | C,G,CD- D4 | C,G,CD- D4 |$ A,,E,A,B,- B,4 | %35
+ A,,E,A,B,- B,2 C2 | F,,C,F,G,- G,4 | F,,C,F,G,- G,3 F,, |$ G,,D,G,A,- A,4 | G,,D,G,A,- A,2 C2 | %40
+ C,G,CD- D4 | C,3/2.C3/2[G,C]- [G,C]4 | A,,3/2.A,3/2[E,A,]- [E,A,]4 |$ %43
+ A,,3/2.A,3/2[E,A,]- [E,A,]4 | F,,3/2.F,3/2[C,F,]- [C,F,]4 | F,,3/2.F,3/2[C,F,]- [C,F,]4 | %46
+ G,,3/2.G,3/2[D,G,]- [D,G,]4 | G,,3/2.G,3/2[D,G,]- [D,G,]4 |$ C,G,CD- D4 | C,G,CD- D4 | %50
+ A,,E,A,B,- B,4 | A,,E,A,B,- B,2 C2 | F,,C,F,G,- G,4 |$ F,,C,F,G,- G,3 F,, | G,,D,G,A,- A,4 | %55
+ G,,D,G,A,- A,2 C2 | C,G,CD- D4 | C,G,CD- D4 |$ A,,E,A,B,- B,4 | A,,E,A,B,- B,2 C2 | %60
+ F,,C,F,G,- G,4 | F,,C,F,G,- G,3 F,, |$ G,,D,G,A,- A,4 | G,,D,G,A,- A,2 C2 | C,G,CD- D4 | %65
+ C,G,CD- D4 |$ A,,E,A,B,- B,4 | A,,E,A,B,- B,2 C2 | F,,C,F,G,- G,4 | F,,C,F,G,- G,3 F,, |$ %70
+ G,,D,G,A,- A,4 | G,,D,G,A,- A,2 C2 | C,G,CD- D4 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |$ %81
+ C,G, C2 C,G, C2 | C,G, C2 C,G, C2 | A,,E, A,2 A,,E, A,2 | A,,E, A,2 A,,E, C2 | %85
+ F,,C, F,2 F,,C, E,2 |$ F,,C, F,2 F,,C, E,2 | G,,D, G,2 G,,D, B,2 | G,,D,G,B, G,,D,G,C | %89
+ C,G,CD- D4 |$ C,G,CD- D4 | A,,E,A,B,- B,4 | A,,E,A,B,- B,2 C2 | F,,C,F,G,- G,4 | %94
+ F,,C,F,G,- G,3 F,, |$ G,,D,G,A,- A,4 | G,,D,G,A,- A,2 C2 | C,G,CD- D4 | C,3/2.C3/2[G,C]- [G,C]4 | %99
+ A,,3/2.A,3/2[E,A,]- [E,A,]4 |$ A,,3/2.A,3/2[E,A,]- [E,A,]4 | F,,3/2.F,3/2[C,F,]- [C,F,]4 | %102
+ F,,3/2.F,3/2[C,F,]- [C,F,]4 | G,,3/2.G,3/2[D,G,]- [D,G,]4 | G,,3/2.G,3/2[D,G,]- [D,G,]4 | %105
+ !arpeggio![C,G,C]8 |] %106

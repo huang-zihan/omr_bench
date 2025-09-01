@@ -1,0 +1,13 @@
+X:1
+T:Garey Cottage
+L:1/8
+Q:1/8=128
+M:4/4
+I:linebreak $
+K:F
+V:1 treble 
+V:1
+|: c | A>F A/B/c A2 F>A | B>G B/A/G/F/ E<G G>B | A>F A/B/c A2 F>A | B<d c>B A<F Fc |$ %5
+ A>F A/B/c A2 F>A | B>G B/A/G/F/ E<G G>B | A>F A/B/c A2 F>A | B<d c>B A<F Fe |$ %9
+ f>c f/g/a/g/ f2 c<f | b>a g>f e<g g>a | f>c f/g/a/g/ f2 d<f | e<c b>g a<f f>a |$ %13
+ f>c f/g/a/g/ f2 c<f | b>a g>f e<g gf/c/ | d<b c<a B<g A<f | d/c/B/A/ G>c A<F F :| %17

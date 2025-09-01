@@ -1,0 +1,24 @@
+X:1
+T:La Capricieuse
+T:De Prins Frans
+T: BRON Beiaardboek De Prins Frans (1781) / www.tangosite.com/concertina/collection/17/fdp/
+T:DP 39
+T:Manuscript, Leuven, 1781
+Z:genoteerd door Van der Elst Johan
+%%score [ 1 2 ]
+L:1/8
+Q:1/2=80
+M:2/2
+I:linebreak $
+K:F
+V:1 treble nm="Flute"
+V:2 bass nm="Flute"
+L:1/4
+V:1
+ defg |: e2 d2 ^c2 d2 | MA4 GABc | A2 G2 F2 PE2 | F2 D2 defg | e2 d2 ^c2 d2 |$ MA4 GABc | %7
+ A2 G2 F2 E2 |1 MD4 defg :|2 MD4 fg a2 |: g2 f2 g2 e2 | Mf4 gfed |$ gfed gfed | c2 A2 fg a2 | %14
+ gafa gfge | Mf4 gfed | ^c2 de f2 Pe2 |1 d4 fg a2 :|2$ d4 z4 |] %19
+V:2
+ D,2 |: G, F, E, D, | A,2 E, G, | F, G, A, A,, | D,2 D,2 | G, F, E, D, |$ A,2 E, G, | %7
+ F, G, A, A, |1 D,2 D,2 :|2 D,2 [F,A,]2 |: [E,B,] [F,A,] B, C | A, F, B,2 |$ G,2 E,2 | A,2 A, F, | %14
+ B, A, B, C | A, F, B, G, | A, G, A, A, |1 D,2 [F,A,]2 :|2$ D,2 z2 |] %19

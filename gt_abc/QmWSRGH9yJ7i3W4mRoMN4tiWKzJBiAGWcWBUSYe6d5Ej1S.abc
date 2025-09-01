@@ -1,0 +1,24 @@
+X:1
+T:Brandenburg Concerto No. 2
+T:Johann Sebastian Bach Engraved by R. L. Roy
+T:Excerpt 1 Movement I: mm. 1-37
+T:Trumpet in F alto
+Z:www.brassexcerpts.com
+Z:This work is made available under the Creative Commons CC0 1.0 Universal Public Domain Dedication.
+Z:You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
+L:1/16
+Q:1/4=100
+M:2/2
+I:linebreak $
+K:none
+V:1 treble transpose=5 nm="Piano" snm="Pno."
+V:1
+[K:C] C2 | E2G2E2C2 E2G2c2G2 | E2G2E2C2 E2G2 cdef | g2g2g2g2 Tg8- | g12 z2 c2 |$ %5
+ c2G2G2E2 E2C2C2c2 | c2G2G2E2 E2C2 C2GG | G4 z2 GG G4 z2 GG | G2cG ECG2 E4 z4 | z16 |$ %10
+ z8 z4 z2 C2 | E2G2E2C2 E2G2c2G2 | E2G2E2C2 E2G2c2 z2 | z16 | z8 z4 z2 G2 |$ %15
+ gaba gaba g^fga bc'ba | gaba gaba g2G2 z4 | z16 | z8 z4 z2 G2 |$ gaba gaba g^fga bc'ba | %20
+ gaba gaba g2G2 z2 d2 | e^fef Tf3e/f/ gfga gfed |$ edeg ^fedc d2G2 z2 dd | d4 z2 dd d4 z2 dd | %24
+ d4 z2 dd d4 z2 d2 | d2g^f g2d2 d2ba b2d2 |$ d2g^f g2d2 d2ba b2 z2 | z2 ded2g2 ^f2ded2g2 | %28
+ G2 z2 z4 z4 z2 g2 | abab Tb3a/b/ c'2cd efge |$ afdf Gdgf efge c2e2 | Te16- | e8 z2 e2a2e2 | %33
+ f8- f2d2g2d2 | e8- e2c2f2c2 |$ Td8- d2cd e2d2 | c2a^g a2e2 e2c'b c'2e2 | %37
+ e2a^g a2e2 e2c'b c'2 z2 |] %38

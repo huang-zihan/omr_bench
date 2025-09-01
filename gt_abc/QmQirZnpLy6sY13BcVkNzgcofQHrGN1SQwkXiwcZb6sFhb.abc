@@ -1,0 +1,89 @@
+X:1
+T:Electric Love
+%%score [ 1 2 3 4 ]
+L:1/8
+Q:3/8=120
+M:12/8
+I:linebreak $
+K:A
+V:1 treble nm="Soprano" snm="S."
+V:2 treble nm="Alto" snm="A."
+L:1/4
+V:3 treble-8 nm="Tenor" snm="T."
+V:4 bass nm="Bass" snm="B."
+V:1
+"_Hm" c12- | c6 d6 | c12 | z12 |"_Ah" c12- | c6 d6 |$ c12- | c12 | c12- | c6 d6 |$ c12- | c12 | %12
+"_ooh" E12- | E6- E3 F3 |$ E12- | E12 | E12- | E6- E3 F3 |$ E12- | E12 |"_ooh" F12 | A12 | E12 |$ %23
+ F12 | A6 B6 | z12 |"_Lighting in a bottle" B2 B2 BA B3/2A3/2 z z2 | z12 |$ %28
+"_Go now that I got it" G2 G2 GF G3/2A3/2 z z2 |"_Ah \n" c6 c3 d3 | e6"_To be struck" c3 c3 | B12 | %32
+"_Ah \n" e12 |"_Ah \n" c12- |$ c6 d6 | c12- | c12 | c12- |$ c6 d6 | c12- | c12 | E12- |$ %42
+ E6- E3 F3 |"_ooh" E12- | E12 | E12- |$ E6- E3 F3 | E12- | E12 |"_ooh" F12 |$ A12 | E12 | F12 | %53
+ A6 B6 | z12 |$"_Lighting in a bottle" B2 B2 BA B3/2A3/2 z z2 | z12 | %57
+"_Go now that I got it" G2 G2 GF G3/2A3/2 z z2 |"_Ah \n" c6 c3 d3 | e6"_To be struck" c3 c3 | B12 | %61
+"_Ah \n" e12 |$ c12- | c6 d6 | c12- | c12 |$ c12- | c6 d6 | c12- | c12 |$ %70
+ z3 z"_da da da dum dum dum" AA A2 E2 F2 | C3 z AA A2 E2 F2 | C3 z z8 | z12 | z3 z AA A2 E2 F2 | %75
+ C3 z AA A2 E2 F2 |$ C3 z z8 | z12 | z3 z AA A2 E2 F2 | C3 z AA A2 E2 F2 | C3 z z8 | z12 | %82
+ z3 z AA A2 E2 F2 |$ C3 z AA A2 E2 F2 | C3 z z8 | z12 | A12 | B12 | d12 | %89
+ z"_da da da     da da da" dd d z4 e ee z | z12 |$"_Lighting in a bottle" B2 B2 BA B3/2A3/2 z z2 | %92
+ z12 |"_Go now that I got it" G2 G2 GF G3/2A3/2 z z2 |"_Ah \n" c6 c3 d3 | e6"_To be struck" c3 c3 | %96
+ B12 |"_Ah \n" e12 |$ c12- | c6 d6 | c12- | c12 |$ c12- | c6 d6 | c12- | c12 |] %106
+V:2
+"_Hm" E6- | E3 F3 | C6 | z6 |"_Ah" E6- | E3 F3 |$ C6- | C6 | E6- | E3 F3 |$ C6- | C6 |"_ooh" C6- | %13
+ C3- C3/2 D3/2 |$ C6- | C6 | C6- | C3- C3/2 D3/2 |$ C6- | C6 |"_ooh" D6 | E6 | C3 B,3 |$ D6 | E6 | %25
+ z6 |"_Lighting in a bottle" D D D/C/ D3/4C3/4 z/ z | z6 |$ %28
+"_Go now that I got it" E E E/D/ E3/4F3/4 z/ z |"_Ah \n" F3 F3/2 G3/2 | %30
+ A3"_To be struck" A3/2 A3/2 | G6 |"_Ah \n" B6 |"_Ah \n" E6- |$ E3 F3 | C6- | C6 | E6- |$ E3 F3 | %39
+ C6- | C6 | C6- |$ C3- C3/2 D3/2 |"_ooh" C6- | C6 | C6- |$ C3- C3/2 D3/2 | C6- | C6 |"_ooh" D6 |$ %50
+ E6 | C3 B,3 | D6 | E6 | z6 |$"_Lighting in a bottle" D D D/C/ D3/4C3/4 z/ z | z6 | %57
+"_Go now that I got it" E E E/D/ E3/4F3/4 z/ z |"_Ah \n" F3 F3/2 G3/2 | %59
+ A3"_To be struck" A3/2 A3/2 | G6 |"_Ah \n" B6 |$ E6- | E3 F3 | C6- | C6 |$ E6- | E3 F3 | C6- | %69
+ C6 |$ z6 | z6 | z3"_oo oo woh" A,3/2 B,3/2 | F3- F3/2 E3/2- | E3/2 z/ z4 | z6 |$ %76
+ z3"_oo oo woh" A,3/2 B,3/2 | F3- F3/2 E3/2- |"_ooh" E6 | F6 | E6- | E6 | E6 |$ F6 | E6- | E6 | %86
+ E6 | F6 | A6 |"_da da da        da da da" z/ A/A/ A/ z2 B/ B/B/ z/ | z6 |$ %91
+"_Lighting in a bottle" D D D/C/ D3/4C3/4 z/ z | z6 | %93
+"_Go now that I got it" E E E/D/ E3/4F3/4 z/ z |"_Ah \n" F3 F3/2 G3/2 | %95
+ A3"_To be struck" A3/2 A3/2 | G6 |"_Ah \n" B6 |$ E6- | E3 F3 | C6- | C6 |$ E6- | E3 F3 | C6- | %105
+ C6 |] %106
+V:3
+"_Hm" A12- | A6 B6 | F12 | z12 |"_Ah" A12- | A6 B6 |$ F12- | F12 | A12- | A6 B6 |$ F12- | F12 | %12
+"_ooh" A12- | A6- A3 B3 |$ [FA]12- | [FA]12 | A12- | A6- A3 B3 |$ [FA]12- | [FA]12 | %20
+"_dm" A2 A3 A A2 A3 A | c2 c3 c c2 c3 c | G2 G3 G G2 G3 G |$ A2 A3 A A2 A3 A | c2 c3 c G2 G3 G | %25
+"_doo" E6- E3 E3 | F6 E6 | E6- E3 A3 |$ F6 G6 |"_Ah \n" A6- A3 G3 | F6"_To be struck" E3 E3 | E12 | %32
+"_Ah \n" F6 G6 |"_Ah \n" A12- |$ A6 B6 | F12- | F12 | A12- |$ A6 B6 | F12- | F12 | A12- |$ %42
+ A6- A3 B3 |"_ooh" [FA]12- | [FA]12 | A12- |$ A6- A3 B3 | [FA]12- | [FA]12 | %49
+"_dm" A2 A3 A A2 A3 A |$ c2 c3 c c2 c3 c | G2 G3 G G2 G3 G | A2 A3 A A2 A3 A | c2 c3 c G2 G3 G | %54
+ E6- E3 E3 |$ F6 E6 | E6- E3 A3 | F6 G6 |"_Ah \n" A6- A3 G3 | F6"_To be struck" E3 E3 | E12 | %61
+"_Ah \n" F6 G6 |$ A12- | A6 B6 | F12- | F12 |$ A12- | A6 B6 | F12- | F12 |$ z12 | z12 | %72
+ z6"_oo oo woh" A3 B3 | d6- d3 c3- | c3 z z8 | z12 |$ z6"_oo oo woh" A3 B3 | d6- d3 c3- | %78
+"_ooh" c12 | d12 | c12- | c12 | c12 |$ d12 | c12- | c12 | c12 | d12 | f12 | %89
+"_da da da     da da da" z ff f z4 g gg z | z12 |$ z12 |"_doo" E6- E3 A3 | F6 G6 | %94
+"_Ah \n" A6- A3 G3 | F6"_To be struck" E3 E3 | E12 |"_Ah \n" F6 G6 |$ A12- | A6 B6 | F12- | F12 |$ %102
+ A12- | A6 B6 | F12- | F12 |] %106
+V:4
+"_Hm" A,,12- | A,,6 B,,6 | F,,12- | F,,3 z2"_da da va da da va da" F,, F,E,C, E,C,B,, | %4
+"_dm dm dm dm dm dm" A,,2 A,,3 A,, A,,2 A,,3 A,, | A,,2 A,,3 A,, A,,2 A,, B,,2 B,, |$ %6
+ F,,2 F,,3 F,, F,,2 F,,3 F,, | F,,2 F,,3 F,, F,,2 F,,3 F,, | A,,2 A,,3 A,, A,,2 A,,3 A,, | %9
+ A,,2 A,,3 A,, A,,2 A,, B,,2 B,, |$ F,,2 F,,3 F,, F,,2 F,,3 F,, | F,,2 F,,3 F,, F,,2 F,,3 F,, | %12
+ A,,2 A,,3 A,, A,,2 A,,3 A,, | A,,2 A,,3 A,, A,,2 A,, B,,2 B,, |$ F,,2 F,,3 F,, F,,2 F,,3 F,, | %15
+ F,,2 F,,3 F,, F,,2 F,,3 F,, | A,,2 A,,3 A,, A,,2 A,,3 A,, | A,,2 A,,3 A,, A,,2 A,, B,,2 B,, |$ %18
+ F,,2 F,,3 F,, F,,2 F,,3 F,, | F,,2 F,,3 F,, F,,2 F,,3 F,, |"_dm" D,2 D,3 D, D,2 D,3 D, | %21
+ A,2 A,3 A, A,2 A,3 A, | E,2 E,3 E, E,2 E,3 E, |$ D,2 D,3 D, D,2 D,3 D, | A,2 A,3 A, E,2 E,3 E, | %25
+"_doo" A,,6- A,,3 C,3 | D,6 C,6 | A,,6- A,,3 E,3 |$ D,6 E,6 |"_Ah \n" F,6- F,3 C,3 | %30
+ D,6"_To be struck" C,3 A,,3 | G,,6"_Ah" E,6 |"_Ah \n" E,12 |"_dm" A,,2 A,,3 A,, A,,2 A,,3 A,, |$ %34
+ A,,2 A,,3 A,, A,,2 A,, B,,2 B,, | F,,2 F,,3 F,, F,,2 F,,3 F,, | F,,2 F,,3 F,, F,,2 F,,3 F,, | %37
+ A,,2 A,,3 A,, A,,2 A,,3 A,, |$ A,,2 A,,3 A,, A,,2 A,, B,,2 B,, | F,,2 F,,3 F,, F,,2 F,,3 F,, | %40
+ F,,2 F,,3 F,, F,,2 F,,3 F,, | A,,2 A,,3 A,, A,,2 A,,3 A,, |$ A,,2 A,,3 A,, A,,2 A,, B,,2 B,, | %43
+ F,,2 F,,3 F,, F,,2 F,,3 F,, | F,,2 F,,3 F,, F,,2 F,,3 F,, | A,,2 A,,3 A,, A,,2 A,,3 A,, |$ %46
+ A,,2 A,,3 A,, A,,2 A,, B,,2 B,, | F,,2 F,,3 F,, F,,2 F,,3 F,, | F,,2 F,,3 F,, F,,2 F,,3 F,, | %49
+ D,2 D,3 D, D,2 D,3 D, |$ A,2 A,3 A, A,2 A,3 A, | E,2 E,3 E, E,2 E,3 E, | D,2 D,3 D, D,2 D,3 D, | %53
+ A,2 A,3 A, E,2 E,3 E, | A,,6- A,,3 C,3 |$ D,6 C,6 | A,,6- A,,3 E,3 | D,6 E,6 | %58
+"_Ah \n" F,6- F,3 C,3 | D,6"_To be struck" C,3 A,,3 | G,,6 E,6 |"_Ah \n" E,12 |$ %62
+"_dm" A,,2 A,,3 A,, A,,2 A,,3 A,, | A,,2 A,,3 A,, A,,2 A,, B,,2 B,, | F,,2 F,,3 F,, F,,2 F,,3 F,, | %65
+ F,,2 F,,3 F,, F,,2 F,,3 F,, |$ A,,2 A,,3 A,, A,,2 A,,3 A,, | A,,2 A,,3 A,, A,,2 A,, B,,2 B,, | %68
+ F,,2 F,,3 F,, F,,2 F,,3 F,, | F,,2 F,,3 F,, F,,2 F,,3 F,, |$"_ooh\n" A,,12 | B,,12 | F,,12- | %73
+ F,,12 | A,,12 | B,,12 |$ F,,12- | F,,12 |"_ooh" A,,12 | B,,12 | F,,12- | F,,12 | A,,12 |$ B,,12 | %84
+ F,,12- | F,,12 | A,,12 | B,,12 | F,,12- | F,,12 | z12 |$ z12 |"_doo" A,,6- A,,3 E,3 | D,6 E,6 | %94
+"_Ah \n" F,6- F,3 C,3 | D,6"_To be struck" C,3 A,,3 | G,,6 E,6 |"_Ah \n" E,12 |$ %98
+"_dm" A,,2 A,,3 A,, A,,2 A,,3 A,, | A,,2 A,,3 A,, A,,2 A,, B,,2 B,, | F,,2 F,,3 F,, F,,2 F,,3 F,, | %101
+ F,,2 F,,3 F,, F,,2 F,,3 F,, |$ A,,2 A,,3 A,, A,,2 A,,3 A,, | A,,2 A,,3 A,, A,,2 A,, B,,2 B,, | %104
+ F,,2 F,,3 F,, F,,2 F,,3 F,, | F,,2 F,,3 F,, F,,2 F,,3 F,, |] %106

@@ -1,0 +1,105 @@
+X:1
+T:It's Been So Long ENS
+T:The Living Tombstone
+%%score { 1 2 } { 3 4 5 } 6
+L:1/8
+Q:1/4=184
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble nm="Marimba" snm="Mrm."
+V:2 treble nm="Marimba" snm="Mrm."
+L:1/4
+V:3 bass nm="Marimba" snm="Mrm."
+L:1/4
+V:4 bass nm="Marimba" snm="Mrm."
+V:5 treble nm="Vibraphone" snm="Vib."
+V:6 bass-8 nm="Electric Bass" snm="El. B."
+V:1
+!ff!"^Presto" f6 e2 | f6 e2 | e6 d2 | e6 d2 | d6 c2 | B6 c2 | d6 e2 |$ c4 A4 |S!mp! Bfff ff f2 | %9
+ e3 A3 Ad- | d2 d e2 f2 d | ed B4 df- | f2 ^f2 =f2 de- |$ e2 f2 ^f2 =fe- | e2 d6- | %15
+ d2!<(! z4 Ba-!<)! |!mf! a2 f2 e2 da- | a2 f2 e2 db- | b>b a2 ^f=fd^f- |$ f2 =f d3 df- | %20
+ f2 ^f2 =f2 de- | e2 ff ^ff=fe- | e2 d6 | z4 z4 |$!ff! z fff ff f2 | e3 A4 d- | d2 d e2 f2 d | %27
+ ed B4 df- | f2 ^f2 =f2 de- |$ e>f f>f ^f2 =fe- | e2 d6- | d2 z4 Ba- | a2 f2 e2 da- | %33
+ a2 f2 e2 db- |$ b>b a2 ^f=fd^f- | f2 =f d3 df | f2 ^f2 =f2 de- | e2 f2 ^f2 =fe- | e2 d6 |$ %39
+ z4 z2 B2 | d4 e2 c2- | c2 z4 B2 | d2 B2 =B _B2 =d- |$ d2 =B2 BB_BA- | A2 ^F3 FF=F- | %45
+ F2 ^F2 =F2 DE- | E2 D6- |$ D2 z4 B2 | d4 e2 c2- | c2 z4 AB | d2 B2 =B _B2 =d- |$ d2 =B2 B2 _BA- | %52
+ A2 ^F3 FF=F- | F2 ^F2 =F2 DE- | E2 D6 | z8!dacoda! |$ z4 f2 c2 | B>d f>B d>f B>=A | %58
+ A>c ^f>A c>f e>c | d>f a>d f>a e>d |$ c>e a>c b>a ^f>=f | B>d f>B d>f B>=A | A>c ^f>A c>f e>c |$ %63
+ d>f a>d f>a e>d | c>e a>c f>e d>c | B>d f>B d>f B>=A |$ A>c ^f>A c>f e>c | d>f a>d f>a e>d | %68
+ c>e a>e d'>c' b>f |$ B>d f>B d>f B>=A | A>c ^f>A c>f e>c | d>f a>d f>a e>d | c4 F4!D.S.! | z8 | %74
+ z8 |$ z8 | z8 |O!mp![Q:1/4=150] B2 d2 f2 B2 | d2 f6 | =B2 d2 f2 B2 | d2 a6 | f2 a2 d'2 f2 | %82
+ a2 e'6 | f2 a2 d'2 f2 |$[M:2/4] e2 d2 |[M:4/4] B2 d2 f2 B2 | d2 f6 | =B2 d2 f2 B2 | d2 a6 | %89
+ f2 a2 d'2 f2 | a2 e'6 |[Q:1/4=120]"^\n" f2 a2 d'2 f2 |$[Q:1/4=100] e2 d2 B4 |] %93
+V:2
+ F4 | F4 | E4 | E4 | D4 | B,4 | D4 |$ C2 A,2 |!mp! B,/F/F/F/ F/F/ F | E3/2 A,3/2 A,/D/- | %10
+ D D/ E F D/ | E/D/ B,2 D/F/- | F ^F =F D/E/- |$ E F ^F =F/E/- | E D3- | D z2 B,/A/- | %16
+!mf! A F E D/A/- | A F E D/B/- | B3/4 z/4 A ^F/=F/D/^F/- |$ F =F/ D3/2 D/F/- | F ^F =F D/E/- | %21
+ E z z2 | z2 z2 | z2 z2 |$!ff! z/ F/F/F/ F/F/ F | E3/2 A,2 D/- | D D/ E F D/ | E/D/ B,2 D/F/- | %28
+ F ^F =F D/E/ |$ z F ^F =F/E/- | E D3- | D z2 B,/A/- | A F E D/A/- | A F E D/B/- |$ %34
+ B A ^F/=F/D/^F/- | F =F/ D3/2 D/F/- | F ^F =F D/E/- | E F ^F =F/E/- | E D3 |$ z2 z [B,B] | %40
+ [Dd]3 [Cc] | z3 [B,B] | [Dd]2 z z/ [=D=d]/ |$ z3 [B,B] | z [^F^f] z/ F/F/=F/- | F ^F =F D/E/- | %46
+ E D2 z |$ [B,B] [B,B] [Ff] z | [Dd]3 [Cc] | z3 z | [Dd]2 z z/ [=D=d]/ |$ z3 [B,B] | %52
+ z [^F^f] z/ F/F/=F/- | F ^F =F D/E/- | E D2 z | z4 |$ z2 f/>d/ c/>B/ | B, F D B, | A, ^F C E | %59
+ D A F E |$ C A B/>A/ ^F/>=F/ | B, F D B, | A, ^F C E |$ D A F E | C A F/>E/ D/>C/ | B, F D B, |$ %66
+ A, ^F C E | D B F E | C A d/>c/ B/>E/ |$ B, F D B, | A, ^F C E | D A F E | c A F C | z4 | z4 |$ %75
+ z4 | z4 |!mp! B, D F B, | D F2 z | =B, D F _C | D A D2 | ^F4 | G4 | F4 |$[M:2/4] E D | %85
+[M:4/4] B, D F B, | D F2 z | =B, D F _C | D A D2 | ^F4 | G4 | z4 |$ z4 |] %93
+V:3
+!mf! B,, F, D, F, | C, E, F,, C, | B,, F, D, F, | C, E, F,, C, | B,, F, D, F, | C, F, F,, C, | %6
+ B,, F, D, F, |$!>(! C, E, [F,,E,]2!>)! |!mp! [B,,D,]4 | [A,,C,]4 | [D,F,]4 | [B,,E,]4 | %12
+ [D,^F,]4 |$ [C,E,]4 | [B,,D,]4 | z4 |!mf! [B,,D,]4 | [A,,C,]4 | [=D,F,]2 [D,F,]2 |$ [E,^F,]4 | %20
+ [D,^F,]4 | [F,=A,]4 | [B,,D,]2 B,,2 |!ff! B,,2 [B,,,B,,]/[B,,,B,,]/[B,,,B,,]/[B,,,B,,]/ |$ %24
+!f! [B,,B,]2 [B,,B,] [F,,F,] | [A,,A,]2 [A,,A,] [B,,B,] | [D,D]2 [D,D] [B,,B,] | %27
+ [C,C]2 [A,,A,] [F,,F,] | [B,,B,]2 [B,,B,] [E,E] |$ [C,C]2 [C,C] [A,,A,] | [D,D]2 [D,D] [B,,B,] | %31
+ [C,C]2 [A,,A,] [F,,F,] | [B,,B,]2 [B,,B,] [D,D] | [A,,A,]2 [A,,A,] [B,,B,] |$ %34
+ [=D,=D]2 [F,F] [A,A] | [E,E]2 [^F,,^F,] [E,,E,] | [^F,,^F,]2 [B,,B,] [D,D] | %37
+ [F,,F,]2 [A,,A,] [C,C] | [B,,B,]2 [D,D] [F,F] |$ [E,E]2 z [B,,B,] |!mf! B,, B, B,, B, | %41
+ C, C C, C | D, D D, D |$ =D, =D D, D | E, E E, E | ^F, ^F =F, =F | B,, B, B,, B, |$ C, C F, F | %48
+ B,, B, B,, B, | C, C C, C | D, D D, D |$ =D, =D D, D | E, E E, E | ^F, ^F =F, =F | B,, B, B,, B, | %55
+ B,,4 |$ z2 D, G, | B,, B, D, D | A,, A, C, C | D, D F, F |$ E, E F, F | B,, B, D, D | %62
+ A,, A, C, C |$ D, D F, F | E, E A,, A, | B,, B, D, D |$ A,, A, C, C | D, D F, F | E, E F, F |$ %69
+ B,, B, D, D | A,, A, C, C | D, D F, F | [F,,F,]4 | z4 | z4 |$ z4 | z4 |!mp! B,,3 B,,- | B,,4 | %79
+ =B,,3 B,,- | B,,2 D,2 | ^F,,4 | A,,4 | [^G,,^G,]4 |$[M:2/4] [=A,,=A,]2 |[M:4/4] B,,3 B,,- | B,,4 | %87
+ =B,,3 B,,- | B,,2 D,2 | ^F,,4 | A,,4 | z4 |$ z4 |] %93
+V:4
+!mf! z2 [D,F,]2 z2 [D,F,]2 | z2 [C,E,]2 z2 [C,E,]2 | z2 [D,F,]2 z2 [D,F,]2 | %3
+ z2 [C,E,]2 z2 [C,E,]2 | z2 [D,F,]2 z2 [D,F,]2 | z2 [C,E,]2 z2 [C,E,]2 | z2 [D,F,]2 z2 [D,F,]2 |$ %7
+ z2 [C,E,]2 [F,,E,]4 |!mp! B,8 | [F,A,]8 | D8 | [^F,B,]8 | [B,D]8 |$ [=A,C]8 | [F,B,]8 | z8 | %16
+!mf! B,8 | [F,A,]8 | [B,=D]4 [A,D]4 |$ B,8 | [B,D]8 | [F,C]8 | [F,B,]4 C,,4 | C,,4 z4 |$ %24
+!mf! B,,6 F,,2 | A,,6 B,,2 | D,6 B,,2 | C,6 F,,2 | B,,6 E,2 |$ C,6 A,,2 | D,6 B,,2 | C,6 F,,2 | %32
+ B,,6 D,2 | A,,6 B,,2 |$ =D,4 F,4 | E,6 E,,2 | ^F,,6 D,2 | F,,6 C,2 | B,,6 F,2 |$ [E,E]4 z4 | %40
+!mp! B,,B,,B,B, B,,B,,B,B, | C,C,CC C,C,CC | D,D,DD D,D,DD |$ =D,D,=DD D,D,DD | E,E,EE E,E,EE | %45
+ ^F,F,^FF =F,F,=FF | B,,4 B,,4 |$ C,2 C2 F,2 F2 |!mf! B,,B,,B,B, B,,B,,B,B, | C,C,CC C,C,CC | %50
+ D,D,DD D,D,DD |$ =D,D,=DD D,D,DD | E,E,EE E,E,EE | ^F,F,^FF =F,F,=FF | B,,4 B,,4 | B,,4 z4 |$ %56
+ z4 F,>D, C,>B,, | B,,>D, F,>B,, D,>F, B,,>=A,, | A,,>C, ^F,>A,, C,>F, E,>C, | %59
+ D,>F, A,>D, F,>A, E,>D, |$ C,>E, A,>C, B,>A, ^F,>=F, | B,,>D, F,>B,, D,>F, B,,>=A,, | %62
+ A,,>C, ^F,>A,, C,>F, E,>C, |$ D,>F, A,>D, F,>A, E,>D, | C,>E, A,>C, F,>E, D,>C, | %65
+ B,,>D, F,>B,, D,>F, B,,>=A,, |$ A,,>C, ^F,>A,, C,>F, E,>C, | D,>F, A,>D, F,>A, E,>D, | %68
+ C,>E, A,>E, D>C B,>F, |$ B,,>D, F,>B,, D,>F, B,,>=A,, | A,,>C, ^F,>A,, C,>F, E,>C, | %71
+ D,>F, A,>D, F,>A, E,>D, | F,4 F,4 | z8 | z8 |$ z8 | z8 | B,6 B,2- | B,4 z4 | =B,6 B,2- | B,4 D4 | %81
+ ^F,8 | A,8 | [^G,,^G,]8 |$[M:2/4] [=G,,=A,]4 |[M:4/4] B,6 B,2- | B,4 z4 | =B,6 B,2- | B,4 D4 | %89
+ ^F,8 | G,8 | z8 |$ z8 |] %93
+V:5
+!mf! B4 d4 | c4 F4 | B4 d4 | c4 f4 | B4 d4 | c4 F4 | B4 d4 |$ c4 [Ff]4 |!p! [Bf]8 | [Ee]8 | [Aa]8 | %11
+ [^F^f]8 | [Bb]8 |$ [=A=a]8 | [Ff]8 | [Ee]8 |!mf! [FB]8 | [EA]8 | [Bd]4 [Ad]4 |$ [Be]8 | [Bd]8 | %21
+ [ce]8 | [FB]8 |!f! z4 [DB][DB][DB][DB] |$!mf! [B,B]8 | [A,A]8 | [Dd]8 | [Cc]8 | [B,B]8 |$ [Cc]8 | %30
+ [Dd]8 | [Cc]8 | [B,B]8 | [A,A]8 |$ [=D=d]4 [Ff]4 | [Ee]8 | [^F^f]8 | [Ff]8 | [B,B]8 |$ %39
+ [Ee]4 z2 [B,B]2 |!mp! [B,B]4 [B,B]4 | [Cc]4 [Cc]4 | [Dd]4 [Dd]4 |$ [=D=d]4 [Dd]4 | [Ee]4 [Ee]4 | %45
+ [^F^f]4 [=F=f]4 | [B,B]4 [B,B]4 |$!f! B,EBd fBFE |!mf! [B,B]4 [B,B]4 | [Cc]4 [Cc]4 | %50
+ [Dd]4 [Dd]4 |$ [=D=d]4 [Dd]4 | [Ee]4 [Ee]4 | [^F^f]4 [=F=f]4 | [Bb]4 [Bb]4 | B4 z4 |$ %56
+ EDEG D>F G>B | [B,B]4 [Dd]4 | [A,A]4 [Cc]4 | [Dd]4 [Ff]4 |$ [Ee]4 [Ff]4 | [B,B]4 [Dd]4 | %62
+ [A,A]4 [Cc]4 |$ [Dd]4 [Ff]4 | [Ee]4 [A,A]4 | [B,B]4 [Dd]4 |$ [A,A]4 [Cc]4 | [Dd]4 [Ff]4 | %68
+ [Ee]4 [Ff]4 |$ [B,B]4 [Dd]4 | [A,A]4 [Cc]4 | [Dd]4 [Ff]4 | [Cc]4 [Ff]4 | z8 | z8 |$ z8 | z8 | %77
+!p! B6 B2- | B8 | =B6 B2- | B4 [Dd]4 | [^F^f]8 | G8 | z8 |$[M:2/4] z4 |[M:4/4] B6 B2- | B8 | %87
+ =B6 B2- | B4 [Dd]4 | [^F^f]8 | G8 | z8 |$ z8 |] %93
+V:6
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 | z8 |$ %19
+ z8 | z8 | z8 | z4 B,,4 | B,,2 z2 B,,B,,B,,B,, |$!mp! B,,8 | A,,8 | D,8 | C,8 | B,,8 |$ C,8 | D,8 | %31
+ C,8 | B,,8 | A,,8 |$ D,4 F,4 | E,8 | ^F,,8 | F,,8 | B,,8 |$ E,6 z2 | B,,8 | C,8 | D,8 |$ =D,8 | %44
+ E,8 | ^F,4 =F,4 | B,,4 B,,4 |$ C,2 C2 F,2 F2 | B,,4 B,,4 | C,4 C,4 | D,4 D,4 |$ =D,4 D,4 | %52
+ E,4 E,4 | ^F,4 =F,4 | B,,4 B,,4 | B,,8 |$ z4 F,4 | B,,4 D,4 | A,,4 C,4 | D,4 F,4 |$ E,4 F,4 | %61
+ B,,4 D,4 | A,,4 C,4 |$ D,4 F,4 | E,4 A,,4 |!mf! B,,2 D,2 E,2 D,2 |$ z3/2 E,/ A,>E, A,>E E>D | %67
+ D,2 E,2 F,2 E,2 | z3/2 E,/ A,>E, =A,>E E>D |$ B,,2 D,2 E,2 D,2 | z3/2 E,/ A,>E, A,>E E>D | %71
+ B,,2 D,2 E,2 D,2 | z4 z4 | z8 | z8 |$ z8 | z8 |!pp! B,,8- | B,,8 | =B,,8- | B,,4 D,4 | ^F,,8 | %82
+ A,,8 | z8 |$[M:2/4] z4 |[M:4/4] B,,8- | B,,8 | B,,8- | B,,4 D,4 | ^F,,8 | G,,8 | z8 |$ z8 |] %93

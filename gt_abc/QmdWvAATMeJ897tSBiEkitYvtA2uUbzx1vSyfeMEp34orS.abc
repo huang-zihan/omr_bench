@@ -1,0 +1,70 @@
+X:1
+T:Air und Gavotte
+Z:Martin Nitz
+%%score 1 2 3 4 5
+L:1/4
+Q:1/2=76
+M:2/2
+I:linebreak $
+K:G
+V:1 treble nm="Alt-blokfluit 1" snm="A. Blf. 1"
+L:1/8
+V:2 treble nm="Alt-blokfluit 2" snm="A. Blf. 2"
+V:3 treble nm="Tenor-blokfluit" snm="T. Blf."
+V:4 bass+8 nm="Bas-blokfluit" snm="Bs. Blf."
+V:5 bass nm="Viola da gamba" snm="Vla. d. g."
+V:1
+ (d2 d')b | c'4 (d2 c')a |{a} b4 (d2 a)f | g2 fe de c2 | TB2 A!breath!G (d2 d')b | c'4 d2 c'a |$ %6
+ b4 ^c'2 e'c' | d'2 ^c'b ab g2 | f2 bg a2 gf | ef d2 A2 Tc2 | d4 :: a2 Ac | B4 g2 Bd |$ c4 f2 ^df | %14
+ e2 fg fe c'2 | Tc'2 !breath!b2 B2 bg | a4 B2 af | g2 eg f^d e2 |$ b2 c'b agfg | %19
+ !breath!g4 e2 e'c' | d'4 e2 d'b | c'4 f2 c'a | b2 ag af g2 |$ Tf2 e!breath!d d'2 d=f | e4 c'2 dg | %25
+ f2 ae d2 c'a | baga Ta3 g | g4!fine!!fine! :: gf g2 |$ BA B2 dB d2 | G4 gabg | a2 a2 abc'a | %32
+ b2 !breath!g2 gf g2 | BA B2 dc d2 |$ G4 bagf | e2 e2 efge | a2 A2 agfe | d2 d2 defd |$ %38
+ g2 G2 g3 d | g3 a gaga | g4 (ede)f | (fe)fa (^gfg)b |$ e'd'^c'b a2 d'2 | a2 d'2 Tf2 ef | d4 :: %45
+ a3 d' | a3 b | abab |$ Ta4 c'2 b2- | b2 a4 g2- | Tg2 !breath!f2 b3 g' | b3 c' bc'bc' | %52
+ g4 c'bac' |$ b2 e2 f2 ^d2 | e4 BABc | dcde (=fef)g | (fef)b (fef)d' | (ede)d' c'bag |$ %58
+ f2 d2 bagf | e2 e2 efge | agfe d2 g2 | d2 g2 Tb2 ab | g4!D.C.! :| %63
+V:2
+ B b/g/ | a2 A a/f/ | g2 G A | B A B A | !breath!G2 B b/g/ | a2 A a/f/ |$ g2 g e | a g/f/ e ^c | %8
+ d d d d | B B A A | A2 :: A a | a B/A/ B b |$ b c/B/ c B | e ^d e e | e !breath!^d G g | %16
+ g f/e/ f ^d | e G A B/c/ |$ B e e ^d | !breath!B2 B g/e/ | =f2 B b/^g/ | a2 A a | g B e e |$ %23
+ !breath!d2 d d' | c' c/B/ c A | d2 a f | g e d/B/ d | d2 :: g/f/ g |$ B/A/ B d/c/ d | G2 d g- | %31
+ g f/e/ f/g/a/f/ | g !breath!d !tenuto!g .g | !tenuto!B .B !tenuto!d .d |$ G2 z2 | e/d/^c/B/ A A | %36
+ A/B/^c/A/ d2- | d/^c/B/A/ G G |$ G/A/B/G/ g/f/ g | ^c/B/ c e/d/ e | ^c2 !tenuto!c .c | %41
+ !tenuto!d .d !tenuto!d .d |$ e/f/ g f a | f d d ^c/d/ | A2 :: z2 | z2 | z2 |$ z2 a g- | g f2 e- | %50
+ Te !breath!^d e2- | e2 f2 | ^g2 a ^d |$ e G c B | G2 (e g) | (g b) (b d') | d'2 d d- | %57
+ d c/B/ A d |$ d/c/B/A/ G G | G/A/B/G/ c c | c2 B d | B G g f/g/ | d2 :| %63
+V:3
+ G G | d2 d d | d2 d F | D G G F | !breath!D2 G G | d2 d d |$ d2 e ^c | A A A A | A G D D | %9
+ G G F E | F2 :: f d | d e/f/ g e |$ e2 A A | G B A G | !breath!F2 E e | e ^d/f/ B B | %17
+ B c c B/A/ |$ G F F B | G2 z e/g/ | a ^g/a/ e g | e2 d d | d e A A |$ !breath!A2 B G | G2 E A | %25
+ A2 A d | d/c/B/c/ A A/A/ | B2 :: g/f/ g |$ B/A/ B d/c/ d | G A B G | c A d D | G B !tenuto!G .G | %33
+ !tenuto!B .B !tenuto!D .D |$ G/A/B/A/ G/F/E/D/ | ^C e/d/ ^c/B/A/G/ | F/G/A/G/ F G/A/ | %37
+ B d/^c/ B/A/G/F/ |$ E/F/G/F/ G/F/ A | ^c/B/ c e/d/ e | e2 !tenuto!A .A | %41
+ !tenuto!A .A !tenuto!B .B |$ ^c/d/ e f d | d A A G/A/ | F2 :: d/^c/ d | F/E/ F | A/G/ A |$ %48
+ D2 ^d/^c/ d | e/^d/ e A/G/ A | !breath!B2 G/F/G/B/ | B/A/B/e/ e/c/ d | d2 A F |$ G E A B | %54
+ E2 B d | d g g b | b2 B G | c A F G |$ D E/F/ G/F/E/D/ | C G A E | F/E/D/C/ D B | G d d c/d/ | %62
+ B2 :| %63
+V:4
+ G,2- | G, F,/E,/ F, D, | G, G,,/A,,/ B,, C,/A,,/ | B,, C, D, D, | G,, B,,/D,/ G,2- | %5
+ G, F,/E,/ F, D, |$ G, F, E, A, | F, E,/D,/ ^C, A,, | D, G,, F,, B,, | G,, E, A,, A,, | D,2 :: %11
+ D, F, | G, F, E, G,, |$ A,, G,, A,, B,, | C, B,, C, A,, | B,, ^C,/^D,/ E, =D, | ^C, F, ^D, B,, | %17
+ E, C, A,, G,,/F,,/ |$ G,, A,, B,, B,, | E, D/B,/ (C2 | C) B,/A,/ ^G, E, | A,, B,,/C,/ D, F, | %22
+ G, E, C, ^C, |$ D, E,/F,/ G, B,,- | B,, A,,/G,,/ A,,/B,,/ C,- | C, A,, F, D, | G, C, D, D, | %27
+ G,2 :: G,/F,/ G, |$ B,,/A,,/ B,, D,/C,/ D, | G,,2 z2 | z4 | z2 G,/F,/ G, | z4 |$ G,,2 z2 | %35
+ ^C, z z2 | z4 | z4 |$ z2 G,/F,/ G, | ^C,/B,,/ C, E,/D,/ E, | A,,4- | A,,4- |$ %42
+ !breath!A,,2 D,/^C,/ D, | F,/E,/ F, A,,/G,,/ A,, | D,2 :: D/^C/ D | F,/E,/ F, | A,/G,/ A, |$ %48
+ D,2 z2 | z4 | z2 E,/^D,/ E, | G,,/F,,/ G,, B,,/A,,/ B,, | E,2 z2 |$ z4 | z2 G,/F,/ G, | %55
+ B,,/A,,/ B,, D,/C,/ D, | G,,2 z2 | z4 |$ z4 | z4 | z2 G,,/F,,/ G,, | B,,/A,,/ B,, D,/C,/ D, | %62
+ G,,2 :| %63
+V:5
+ G,2- | G, F,/E,/ F, D, | G, G,,/A,,/ B,, C,/A,,/ | B,, C, D, D, | G,, B,,/D,/ G,2 | %5
+ G, F,/E,/ F, D, |$ G, F, E, A, | F, E,/D,/ ^C, A,, | D, G,, F,, B,, | G,, E, A,, A,, | D,2 :: %11
+ D, F, | G, F, E, G,, |$ A,, G,, A,, B,, | C, B,, C, A,, | B,, ^C,/^D,/ E, =D, | ^C, F, ^D, B,, | %17
+ E, C, A,, G,,/F,,/ |$ G,, A,, B,, B,, | E, D/B,/ (C2 | C) B,/A,/ ^G, E, | A,, B,,/C,/ D, F, | %22
+ G, E, C, ^C, |$ D, E,/F,/ G, B,,- | B,, A,,/G,,/ A,,/B,,/ C,- | C, A,, F, D, | G, C, D, D, | %27
+ G,2 :: G,/F,/ G, |$ B,,/A,,/ B,, D,/C,/ D, | G,,2 z2 | z4 | z2 G,/F,/ G, | z4 |$ G,,2 z2 | %35
+ ^C, z z2 | z4 | z4 |$ z2 G,/F,/ G, | ^C,/B,,/ C, E,/D,/ E, | A,,4- | A,,4- |$ %42
+ !breath!A,,2 D,/^C,/ D, | F,/E,/ F, A,,/G,,/ A,, | D,2 :: z2 | z2 | z2 |$ D,2 z2 | z4 | %50
+ z2 E,/^D,/ E, | G,,/F,,/ G,, B,,/A,,/ B,, | E,2 z2 |$ z4 | z2 G,/F,/ G, | B,,/A,,/ B,, D,/C,/ D, | %56
+ G,,2 z2 | z4 |$ z4 | z4 | z2 G,,/F,,/ G,, | B,,/A,,/ B,, D,/C,/ D, | G,,2 :| %63

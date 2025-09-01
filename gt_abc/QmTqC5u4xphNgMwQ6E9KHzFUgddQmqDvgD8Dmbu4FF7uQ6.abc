@@ -1,0 +1,76 @@
+X:1
+T:For Children- Book 2 (after Slovakian Folksongs)
+T:37. On the Banks of the Danube - 38. At Parting
+C:Bartók, Béla
+Z:Oli 2020
+%%score { ( 1 4 ) | ( 2 3 ) }
+L:1/8
+Q:1/4=80
+M:2/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano"
+V:4 treble 
+L:1/4
+V:2 bass 
+V:3 bass 
+L:1/16
+V:1
+"^Molto tranquillo"!p! !3!_E<E(D<C) | !5!c<c(!3!G<F) | !tenuto!C2 !tenuto!C2 | %3
+!<(! !tenuto!!2!!4![_Ac]!tenuto![Ac]!tenuto![Ac]!tenuto!!1!!3![G_B]!<)! | %4
+!mf! (!>!!4!_e/d/c/d/ !1!c<!2!_B) |$"_dim." !1!G<!3!G(!2!G<!1!F) | %6
+"^dolce" (!2!_B/c/e/c/ !1!G<!4!F) |!p! !3!_E<E(D<C) | c<c(G<F) | !tenuto!C2 !tenuto!C2 | %10
+"_cresc." !tenuto!!5!c!tenuto!!5!c!tenuto!!1!!2!!5![DFc]!tenuto!!1!!2!!4![_EG_B] |$ %11
+!mf! (!>!e/d/c/d/ c<_B) |"_dim." G<G(G<F) | (_B/c/d/c/ G<F) |!p! _E<E(E<C) | c<c(G<F) | %16
+ !tenuto!C2 !tenuto!C2 |]$[M:2/4][Q:1/4=60]"^Adagio"!p!!>(! (!1!!2!!5![D-F-c]2 | %18
+ !3![DFG]2!>)! !1!!2!!4![C-DF-A-]2 | [CDFA]2)!>(! ([D-F-c]2 | [DFG]2!>)! [CDFA]2- | %21
+ [CDFA]2)!>(! (!5![F-d]2 | !3![DFG]2!>)! [CEFA]2- | [CEFA]2)!>(! ([E-G-d]2 | %24
+ [EGA]2!>)! !1!!2!!4![DF_B]2- |$ [DFB]2) ([E-Gd]2 | !2![EG]2 !1!!3!!5![_B,FA]2- | %27
+ [B,FA]2)!p!!>(! ([D-F-c]2 | [DFG]2!>)! !3!!5![FA]2- |!<(! [FA]2)!<)!!<(!!>(! (!5![F-A]2!<)!!>)! | %30
+!>(! !4![F-G]2!>)!!<(! [FA]2-)!<)! |!>(! [FA]2!>)!!<(! ([F-A]2!<)! |!>(! [FG]2!>)! [FA]2- |$ %33
+!>(! [FA]2)!>)!!<(! ([F-A]2!<)! |!>(! [FG]2!>)!!<(! [FA]2-!<)! | %35
+!>(!"_poco cresc." [FA]2)!>)!!<(! !2!!3![GA]2-!<)! |!>(! !5![GAd]2!>)!!<(! !3
+1
+!!4![Gc]2-!<)! | %37
+!>(! !2![Gc]2!>)!!mf!!<(! (!2
+1
+!!3![d-e]2!<)! | %38
+!>(!"_dim.  e calando" !5![da]2!>)![Q:1/4=55]"^T" !3
+2
+!!4![de]2- | [de]2[Q:1/4=50]"^T" [de]2-) | %40
+ [de]2 z2 |$"^tranquillo\ndolce\n"!p! (!4!f>gf<e | d<A !tenuto!A2) | (f>gf<e | d<A !tenuto!A2) | %45
+"^più tranquillo"[Q:1/4=40]"^T"!pp!!>(! (!4!C>_B,G,<D)!>)! |!>(! (C>_B,G,<D)!>)! | %47
+!<(! (C>_B,A,<G, | A,<A,!<)!!mp! A,2- | A,4) |] %50
+V:2
+ z2 !arpeggio!!5!!2!!1![C,,G,,_E,]2 | z2 !arpeggio!!5!!2!!1![C,,A,,_E,]2 | %2
+ z2 !arpeggio!!5!!2!!1![C,,G,,_E,]2 | %3
+ !tenuto!!3!!1![_A,C]!tenuto![A,C]!tenuto![A,C]!tenuto!!5!!2![_E,_B,] | _E4 |$ %5
+ z (!5!!3!!1![F,A,_E]2 !3!!2!!1![_A,_B,D]) | !5!!4!!1![G,_B,F]2 ([B,_E]!3!!1![=B,D]) | %7
+ z !arpeggio![_A,,_E,C] z2 | z !arpeggio!!5!!2!!1![_E,,C,G,] z !arpeggio![F,,C,_A,] | %9
+ z !arpeggio![C,G,_E] z2 | z !tenuto!!5!!3!!1![_A,C_E]!tenuto!!2!A,!tenuto!!5!_E, |$ _E4 | %12
+ z ([F,A,_E]2 [_A,_B,D]) | [G,_B,F]2 ([B,_E][=B,D]) | z !arpeggio![_A,,_E,C] z2 | %15
+ z !arpeggio![E,,C,_B,] z !arpeggio![F,,D,_A,] | z [C,,E,G,] z2 |]$[M:2/4] z2 | z4 | z4 | %20
+!mp!"_espr."!>(! (!2!F,>G,F,<C, | !1!D,<!>)!!4!A,, !tenuto!!3!A,,2) |!>(! (F,>G,F,<C, | %23
+ D,<!>)!A,, !tenuto!A,,2) | (!tenuto!!2!C,>_B,,G,,<D,) |$ (!tenuto!!2!C,>_B,,G,,<D,) | %26
+ (!tenuto!C,>_B,,A,,<G,, | !4!A,,<!3!A,, !tenuto!!2!A,,2) | z4 | z4 | z4 | (!tenuto!F,>G,F,<E, | %32
+ D,<A,, !tenuto!A,,2) |$ (F,>G,F,<E, | D,<A,, !tenuto!A,,2) | (C,>_B,,G,,<D,) | (C,>_B,,G,,<D,) | %37
+ (C,>_B,,A,,<G,, | A,,<A,, !tenuto!A,,2) | z4 | z4 |$ !5!!4![A,_B,DF]4- | [A,B,DF]4 | %43
+!>(! (!1!_D2 C2!>)! | B,4) |!ppp! [_E,,_B,,]4- | [E,,B,,]4- | [E,,B,,]4- | %48
+ [E,,B,,]2!ped! (!4!!1![_E,C]2!ped-up! |!ped!!>(! .!3!!1![=E,^C]2 .!5!A,,,2)!ped-up!!>)! |] %50
+V:3
+ x8 | x8 | x8 | x8 | (!>!!1
+2
+!C_B,_A,B, A,2<G,2) |$ x8 | x4 !2
+4
+5
+!G,4 | x8 | x8 | x8 | x8 |$ %11
+ (!>!C_B,_A,B, A,2<G,2) | x8 | x4 G,4 | x8 | x8 | x8 |]$[M:2/4] x4 | x8 | x8 | x8 | x8 | x8 | x8 | %24
+ x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | %43
+ !2
+5
+![G,F]8- | [G,F]8 | x8 | x8 | x8 | x8 | x8 |] %50
+V:4
+ x2 | x2 | x2 | x2 | x2 |$ x2 | x2 | x2 | x2 | x2 | x2 |$ x2 | x2 | x2 | x2 | x2 | x2 |]$ %17
+[M:2/4] x | x2 | x2 | x2 | x2 | x2 | x2 | x2 |$ x2 | x2 | x2 | x (!1!_B, | !2!D _B,- | B,) (_B, | %31
+ D _B,- | B,) (_B, |$ D =B,- | B,) (B, | !2!E !1!D) | z _B | A _B- | B (_B | A _B-) | B x |$ x2 | %42
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 |] %50

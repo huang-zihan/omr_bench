@@ -1,0 +1,13 @@
+X:1
+T:Bang Bangity Bang
+L:1/16
+Q:1/4=112
+M:4/4
+I:linebreak $
+K:Bb
+V:1 bass nm="Piano" snm="Pno."
+V:1
+"^Humorously silly" z F,,.F,,2 |: .B,,4 .F,,4 B,,B,,B,,!>!F,, z F,,F,,F,, | %2
+w: I said|bang, bang, ban- gi- ty bang! I said- a|
+ .B,,2.B,,2 F,,F,,F,,!>!B,, z2 .F,,2.G,,2"^(to be repeated\nuntil you get tired of it)\n \n".A,,2 :| %3
+w: bang bang ban- gi- ty bang! bang bang bang|

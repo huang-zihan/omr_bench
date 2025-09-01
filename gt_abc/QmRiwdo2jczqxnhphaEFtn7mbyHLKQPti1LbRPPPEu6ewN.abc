@@ -1,0 +1,26 @@
+X:1
+T:Title
+%%score 1 2 3
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Part_1"
+V:2 treble-8 nm="Part_2"
+V:3 treble-8 nm="Part_3"
+V:1
+ C4- | C4 | F4- | F2 G2- | G F F2- | F2 E2 | F4 | F4 | F4 | G4 | F4 | F4 | z2 F2- |$ F2 F2- | %14
+ F2 G2 | A4 | A2 G2- | G E F2 | G4 | G4 | F2 G2- | G F E2- | E D D2- | D2 C2 | D4 |$ z2 D2 | %26
+ D2 F2- | F2 G2- | G2 F2- | F2 E2 | F4 | F2 G2- | G F/G/ A2- | A2 G2 | A4 | G4 | z2 F2- |$ F2 G2- | %38
+ G2 A2- | A2 _B2 | A2 G2- | G F E D | C2 F2- | F E/F/ G2- | G A _B2 | A2 G G- | G F F2- | F2 E2 | %48
+ F4 |] %49
+V:2
+ C4 | F4- | F2 A2- | A2 B2 | c2 A2 | G4 | F4 | D4- | D4 | E4 | D4- | D4 | A4 |$ d4 | A2 B2 | %15
+ c2 F2- | F2 G2 | A4 | G2 E2- | E2 C2 | D2 C2 | G4- | G2 D2 | E4 | D4- |$ D4 | d3 c | A2 G2 | %28
+ B2 A2 | G4 | z2 F2 | A2 B2 | c4 | d2 B2 | A c2 d | e2 c2 | d4 |$ A2 B2 | c4 | F2 G2 | A2 _B2 | %41
+ c3 _B | A G F3/2 G/ | A2 _B2 | G4 | F2 C2 | F2 A2 | G4 | F4 |] %49
+V:3
+ G4 | A4 | D3 E | F2 E2 | C2 F2 | C4 | z2 c2 | d3 c | A2 d2- | d B c2 | d4 | A4 | D4 |$ z2 D2- | %14
+ D2 G2 | F4 | D2 E2 | F4 | z2 G2- | G c2 A | _B A c2 | d2 c B- | B A A2- | A2 G2 | A4- |$ A4 | %26
+ D4- | D2 E3/2 F/ | G2 D F | C4 | D3 E | F2 E2 | C2 F2 | D2 G2 | F4 | E4 | D4 |$ F2 E2 | C2 F2 | %39
+ A2 G2 | F2 _E2 | C4 | F G A3/2 _B/ | c2 d2- | d2 _e2 | f2 _e2 | c4 | _B4 | c4 |] %49

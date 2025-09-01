@@ -1,0 +1,25 @@
+X:1
+T:Deilig er jorden
+T:Schlesisk melodi
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 bass nm="Voice"
+V:4 bass 
+V:1
+ E2 E E | (F D) E2 | G G G G | (A F) G2 | B2 (e c) | B2 A G | A2 G2 | F4 |$ B2 c B | (B G) A2 | %10
+ A2 B A | (A F) G G | G G B A | G2 F2 | E4 |] %15
+V:2
+ B,2 C C | (C B,) B,2 | E F E =E | (F D) _E2 | G2 (G A) | E2 D E | (E F) (F E) | D4 |$ E2 E =E | %9
+ F2 F2 | F2 F F | (F D) E E | F E =E F | _E3 D | B,4 |] %15
+V:3
+ G,2 G, G, | (A, F,) G,2 | B, =B, C C | (C B,) B,2 | C2 E2 | B,2 B, B, | (C B,) B,2 | B,4 |$ %8
+ B,2 A, B, | C2 C2 | C2 B, B, | B,2 B, C | D C _D C | B,2 A,2 | G,4 |] %15
+V:4
+ E,2 C, B,, | (A,, B,,) E,2 | E, D, C, _B,, | (A,, B,,) E,2 | E,2 (C B,) | G,2 F, E, | %6
+ (C, D,) (E, G,) | B,4 |$ G,2 A, G, | F,2 F,2 | E,2 D, D, | E,2 E, C, | =B,, C, G,, A,, | %13
+ _B,,2 B,,2 | E,4 |] %15

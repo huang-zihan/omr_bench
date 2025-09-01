@@ -1,0 +1,24 @@
+X:1
+T:Unser Herrscher, 87.87.77
+C:Joachim Neander, 1680
+Z:Public Domain
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ x4 |: [G,C]3/2 [B,D]/ [CE] C | [CE] [CF] [DG] [DG] | [Cc] (B/A/) [DG] [Ge] | [Ad] [Gd] [Ec]2 :| %5
+ [Ge]3/2 [Ge]/ [Gd] (G/F/) |$ [Ec] [Ec] [EB] [EB] | (C3/2 B,/) [CG] [Ec] | [Dd] [DB] [Ec]2 |] %9
+V:2
+ x4 |: x3 C | x4 | x C x2 | x4 :| x3 d |$ x4 | A2 x2 | x4 |] %9
+V:3
+ x4 |: [C,E,]3/2 [G,,G,]/ [C,G,] [E,G,] | [C,G,] [A,,C] [G,,C] [G,B,] | %3
+ [A,C] (G,/F,/) [G,B,] [C,C] | [F,C] [G,B,] [C,C]2 :| [C,C]3/2 [E,C]/ [G,C] [G,B,] |$ %6
+ [A,C] (C,/D,/) [E,A,] [E,^G,] | ([F,A,]3/2 [D,F,]/) [E,G,] A, | [F,A,] G, [C,G,]2 |] %9
+V:4
+ x4 |: x4 | x4 | x C x2 | x4 :| x4 |$ x A, x2 | x3 A, | x G, x2 |] %9

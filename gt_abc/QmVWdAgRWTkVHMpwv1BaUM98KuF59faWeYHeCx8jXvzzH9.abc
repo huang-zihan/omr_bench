@@ -1,0 +1,29 @@
+X:1
+T:NEWBURY QUICKSTEP
+%%score 1 2 3
+L:1/8
+M:6/8
+I:linebreak $
+K:G
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:1
+!p! D | B2 B B2 B | d2 B d2 B | B2 B B2 B | d2 B cBA | G2 G G2 G | c2 c ege | d2 c BAG |$ %8
+ A2 d d2 D |"^cresc." B2 B B2 B | B2 d g2 b | A2 A A2 A | A2 B cBA | G2 G cde | d2 B cBA | %15
+ GBd gdB |$ G2 z z2 :: A |!f! d2 d ^cBc | d2 d d2 ^d | e2 e ^d^cd | e2 e e2 ^e | f2 f ^e^de | %23
+ f2 f g2 =e |$ dfa AB^c | d2 f d2 :: d | b2 a g2 a | b2 c' d'c'b | a2 g f2 g | a2 b c'ba |$ %31
+ b2 a g2 a | b2 c' d'c'b | afd def | g2 b g2 :| %35
+V:2
+!p! D | G2 G G2 G | B2 G B2 G | G2 G G2 G | B2 G AGF | E2 E E2 E | E2 E G2 G | B2 A G2 G |$ %8
+ F2 F F2 D |"^cresc." G2 G G2 G | G2 B D2 G | F2 F F2 F | F2 G AGF | G2 G G2 G | B2 G AGF | %15
+ G2 z G2 z |$ G2 z z2 :: A |!f! F2 F G2 G | A2 G F2 A | G2 G A2 A | B2 A G2 B | ^A2 A B2 B | %23
+ ^A2 B B2 G |$ F2 F G2 G | F2 A F2 :: d | d2 c B2 A | G2 A BAG | c2 B A2 G | F2 G AGF |$ %31
+ d2 c B2 A | G2 A BAG | FAd d^c=c | B2 d B2 :| %35
+V:3
+ z | G,2 G, G,2 G, | G,2 G, G,2 G, | E,2 E, E,2 E, | D,2 D, D,2 D, | E,2 E, E,2 E, | %6
+ C,2 C, C,2 C, | G,2 G, E,2 E, |$ D,2 D, D,2 z | G,2 G, G,2 G, | G,2 G, G,2 G, | D,2 D, D,2 D, | %12
+ D,2 D, D,2 D, | E,2 E, C,2 C, | D,2 D, D,2 D, | G,D,B,, G,,B,,D, |$ G,2 z z2 :: z | %18
+ D,2 D, E,2 E, | F,2 E, D,2 F, | E,2 E, F,2 F, | G,2 F, E,2 G, | F,2 F, G,2 G, | D,2 B, E,2 G, |$ %24
+ A,2 A, A,,2 A,, | D,2 D, D,2 :: z | G,,B,,D, G,B,D | G,2 G, G,,2 G,, | D,,F,,A,, D,F,A, | %30
+ D,2 D, D,2 D, |$ G,,B,,D, G,B,D | G,2 G, G,,2 G,, | D,,F,,A,, D,F,A, | G,2 G, G,2 :| %35

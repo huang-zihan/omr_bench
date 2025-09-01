@@ -1,0 +1,70 @@
+X:1
+T:Gabriel Angelus - Marenzio
+%%score [ 1 2 3 4 ]
+L:1/4
+Q:1/4=200
+M:none
+I:linebreak $
+K:C
+V:1 treble nm="Soprano" snm="S"
+V:2 treble nm="Alto" snm="A"
+V:3 treble-8 nm="Tenor" snm="T"
+V:4 bass nm="Bass" snm="B"
+V:1
+"^Gabriel Angelus""^Luca Marenzio\n(1556-1599)" z8 | z8 | z2 G2 E2 F2 | G2 D2 E4 | D2 (G4 ^F E) |$ %5
+w: ||Lo- cu- tus|est Ma- ri-|ae di\- * *|
+[M:4/2] (^F D G3 F/E/ F2) | G4 z2 B2 | G2 A2 B2 d2 | c4 B4 | d6 B2 |$ d4 e3 e | (d c B A B4) | %12
+w: |cens, lo-|cu- tus est Ma-|ri- ae,|Ga- bri-|el An- ge-|lus * * * *|
+ z2 G2 E2 F2 | G2 G2 A4 | G2 c2 A2 B2 |$ c2 G2 E2 F2 | G2 G2 A4 | G2 c2 A2 B2 | c2 c2 d4 | %19
+w: lo- cu- tus|est mar- ri-|ae, lo- cu- tus|est, lo- cu- tus|est Ma- ri-|ae, lo- cu- tus|est Ma- ri-|
+ c2 (A3 G F E) |$ (^F2 G3 F/E/ F2) | G8 | E4 E4 | E3 E E2 ^F2- | F2 G2 G3 G |$ G8 | A8 | B4 z4 | %28
+w: ae, di\- * * *||cens:|A- ve|gra- ti- a ple\-|* na, Do- mi-|nus|te-|cum:|
+ z2 d3 d c2- | c2 B2 A4 |$ z2 G3 G F2- | F2 E2 G2 D2 | A3 G F2 F2 | (E3 F G A B G | %34
+w: Be- ne- di\-|* cta tu,|be- ne- di\-|* cta tu in|mu- li- e- ri-|bus, * * * * *|
+ A3 G A B c B) |$ (A E G3 ^F F E/F/ | G4) z2 d2- | d c c4 B2 | G2 B3 B (A2- | A G G4) F2 |$ %40
+w: ||* be\-|* ne- di- cta|tu, be- ne- di\-|* * * cta|
+ D2 d2 G2 A2 | (B3 c d3 c | B2[Q:1/4=196] A3[Q:1/4=192] G[Q:1/4=188] G2- | %43
+w: tu in mu- li-|e\- * * *||
+[Q:1/4=184] G2[Q:1/4=181] ^F[Q:1/4=179] E[Q:1/4=176] F2)[Q:1/4=171] F2 |[Q:1/4=170] G8 |] %45
+w: * * * * ri-|bus.|
+V:2
+ D6 B,2 | D4 E3 E | D2 B,2 C2 A,2 | B,2 B,2 C4 | B,4 D4- |$[M:4/2] D8 | G,4 z4 | z4 z2 G2 | %8
+w: Ga- bri-|el An- ge-|lus lo- cu- tus|est Ma- ri-|ae di\-||cens,|lo-|
+ E2 F2 G2 D2 | B,6 G,2 |$ G6 E2 | G4 E3 E | D4 z4 | z2 E2 C2 D2 | E2 E2 F4 |$ E4 z4 | z2 E2 C2 D2 | %17
+w: cu- tus est Ma-|ri- ae,|Ga- bri-|el An- ge-|lus|lo- cu- tus|est Ma- ri-|ae,|lo- cu- tus|
+ E2 E2 F4 | E2 A2 F2 G2 | A2 E2 D2 A,2 |$ z4 D4 | D8 | C4 C4 | ^C3 C C2 D2- | D2 D2 E3 E |$ %25
+w: est Ma- ri-|ae, lo- cu- tus|est Ma- ri- ae|di-|cens:|A- ve|gra- ti- a ple\-|* na, Do- mi-|
+ E6 (G2- | G2 ^F E F4) | G4 z4 | G3 G =F2 E2 | G4 z4 |$ z4 z2 D2- | D D C4 B,2 | D2 A,4 A2- | %33
+w: nus te\-||cum:|Be- ne- di- cta|tu,|be\-|* ne- di- cta|tu in mu\-|
+ A2 (E3 F G2- | G2 F E F2) E2- |$ E2 D2 D4 | z2 G3 G F2 | E2 (G3 F/E/ D2) | z2 D2 G,2 A,2 | %39
+w: * li\- * *|* * * * e\-|* ri- bus,|be- ne- di-|cta tu * * *|in mu- li-|
+ (B,3 C D2) D2 |$ G,2 B,3 B, A,2 | E2 D4 ^F2 | G2 E2 D4- | D4 D4 | D8 |] %45
+w: e\- * * ri-|bus, be- ne- di-|cta tu in|mu- li- e\-|* ri-|bus.|
+V:3
+ z8 | z8 | z8 | z2 G2 E2 F2 | G2 G2 A4- |$[M:4/2][K:treble-8] A2 D2 z2 d2 | B2 c2 d2 B2 | c4 B4 | %8
+w: |||Lo- cu- tus|est Ma- ri\-|* ae, lo-|cu- tus est Ma-|ri- ae,|
+ z4 d4- | d2 B2 d4 |$ B3 B c4 | z2 B4 G2 | B4 c3 c | B2 E2 F2 D2 | G2 G2 F4 |$ G4 A4 | %16
+w: Ga\-|* bri- el|An- ge- lus,|Ga- bri-|el An- ge-|lus lo- cu- tus|est Ma- ri-|ae di-|
+ G2 (c3 B A2) | B2 c2 d4 | c2 (f4 e d | e2) c2 (f e d c) |$ (d2 c B A4) | B8 | G4 G4 | %23
+w: cens, lo\- * *|cu- tus est|Ma- ri\- * *|* ae di\- * * *||cens:|A- ve|
+ A3 A A2 A2- | A2 B2 c3 c |$ c4 B4 | d8 | z2 d3 d c2- | c2 B2 A4 | z2 d3 d c2- |$ c2 B2 d4 | z8 | %32
+w: gra- ti- a ple\-|* na, Do- mi-|nus te-|cum:|Be- ne- di\-|* cta tu,|be- ne- di\-|* cta tu,||
+ z4 z2 d2- | d d c4 B2 | d4 d2 G2 |$ A2 (B3 A A G/A/ | B c d B c2) A2 | G4 d3 d | c2 B2 d2 d2 | %39
+w: be\-|* ne- di- cta|tu in mu-|li- e\- * * * *|* * * * * ri-|bus, be- ne-|di- cta tu in|
+ G4 A4 |$ (B3 c d2) d2 | (G3 A B2) A2 | d2 c2 B4 | A8 | G8 |] %45
+w: mu- li-|e\- * * ri-|bus, * * in|mu- li- e-|ri-|bus.|
+V:4
+ z8 | G,6 E,2 | G,4 A,3 A, | G,4 z4 | z4 D,4- |$[M:4/2] D,2 B,,2 D,4 | E,3 E, D,2 G,2 | %7
+w: |Ga- bri-|el An- ge-|lus,|Ga\-|* bri- el|An- ge- lus lo-|
+ E,2 F,2 G,2 G,2 | A,4 G,4 | G,8- |$ G,4 C,4 | z2 G,4 E,2 | G,4 A,3 A, | G,2 C,2 A,,2 B,,2 | %14
+w: cu- tus est Ma-|ri- ae|di\-|* cens,|Ga- bri-|el An- ge-|lus lo- cu- tus|
+ C,2 C,2 D,4 |$ C,2 E,2 C,2 D,2 | E,2 E,2 F,4 | E,2 A,2 F,2 G,2 | A,2 A,2 _B,4 | A,4 D,4- |$ D,8 | %21
+w: est Ma- ri-|ae, lo- cu- tus|est Ma- ri-|ae, lo- cu- tus|est Ma- ri-|ae di\-||
+ G,,8 | C,4 C,4 | A,,3 A,, A,,2 D,2- | D,2 G,,2 C,3 C, |$ C,4 E,4 | D,8 | G,3 G, F,2 E,2 | G,4 z4 | %29
+w: cens:|A- ve|gra- ti- a ple\-|* na, Do- mi-|nus te-|cum:|Be- ne- di- cta|tu,|
+ G,3 G, F,4 |$ E,2 G,4 D,2 | A,4 G,4 | (F,3 E, D,2) D,2 | A,4 z4 | z2 D,3 D, C,2- |$ C,2 B,,2 D,4 | %36
+w: be- ne- di-|cta tu in|mu- li-|e\- * * ri-|bus,|be- ne- di\-|* cta tu|
+ G,4 C,2 D,2 | (E,3 F, G,2) G,2 | C,2 G,3 G, F,2 | E,4 D,4 |$ z2 G,3 G, F,2 | E,2 G,4 D,2 | %42
+w: in mu- li-|e\- * * ri-|bus, be- ne- di-|cta tu,|be- ne- di-|cta tu in|
+ G,,2 A,,2 (B,,3 C, | D,4) D,4 | G,,8 |] %45
+w: mu- li- e\- *|* ri-|bus.|

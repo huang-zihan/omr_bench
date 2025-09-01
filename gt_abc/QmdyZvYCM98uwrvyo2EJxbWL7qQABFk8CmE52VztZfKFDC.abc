@@ -1,0 +1,171 @@
+X:1
+T:Viva la Vida
+%%score 1 2 3 4 5 6
+L:1/8
+M:4/4
+I:linebreak $
+K:none
+V:1 treble transpose=-2 nm="Sopransaxophon" snm="S.sax."
+V:2 treble transpose=-9 nm="Altsaxophon" snm="A. Sax."
+V:3 treble transpose=-9 nm="Altsaxophon" snm="A. Sax."
+V:4 treble transpose=-14 nm="Tenorsaxophon" snm="T. Sax."
+V:5 treble transpose=-14 nm="Tenorsaxophon" snm="T. Sax."
+V:6 treble transpose=-21 nm="Baritonsaxophon" snm="Bar. Sax."
+V:1
+[K:G] (!>!gf)(!>!gf) (!>!gf).g(!>!g | f)(!>!gf).g (!>!gf)(!>!gf) | (!>!gf)(!>!gf) (!>!gf).g(!>!g | %3
+ f)(!>!gf).g (!>!gf)(!>!gf) |$ (!>!gf)(!>!gf) (!>!gf).g(!>!g | f)(!>!gf).g (!>!gf)(!>!gf) | %6
+!>(! f g3 z4!>)! | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | F7 (E | E8) | F7 (E | E8) |$ %20
+ g7 (f | f8) | g7 (f |!>(! f8)!>)! | (!>!gf)(!>!gf) (!>!gf).g(!>!g |$ f)(!>!gf).g (!>!gf)(!>!gf) | %26
+ (!>!gf)(!>!gf) (!>!gf).g(!>!g | f)(!>!gf).g (!>!gf)(!>!gf) | (!>!gf)(!>!gf) (!>!gf).g(!>!g |$ %29
+ f)(!>!gf).g (!>!gf)(!>!gf) | BAG(G G) z{/^A} (B=A) | G !>!G3 z eee | e6 B(!>!d |$ d4) z ddd | %34
+ d3 G d2 c!>!B | z2 z B BBB(!>!B | B6) c(A | A4) z G !tenuto!G2 |$ (BA)G(G G)G{/^A}(B=A) | %39
+ G G3 z4 | !tenuto!G2 !tenuto!G2 (GF)G(!>!F | F8) |${/c} !tenuto!d2 !tenuto!d2 (dB)d(!>!B | %43
+ B2) E(!>!F F) !>!G3 |{/d} !tenuto!e2 !tenuto!e2 (ed)e(!>!d |$ d2) A(!>!B B) !>!c2 D | %46
+{/c} (!tenuto!dB) !tenuto!d2 (dB)d(!>!B | B) E2 (!>!F F) !>!G3 | %48
+ !tenuto!G2 !tenuto!G2 (GF)F(!>!c |$ c) !>!c2 (!>!c c4) | z8 | z4 BBBB | B6 c(!>!A |$ A4) z2 (AG) | %54
+ F F3 B2 FG | G4 z4 | F F3 B2 FG |$ G4 z4 | !trill(!Tc7 (!trill(!!>!TB!trill)! | B8) | c7 (!>!B |$ %61
+ B8) | c7 (!>!B | B8) | z !>!c2 !tenuto!c .c2 .c2 |$ z (Bd)(!>!g g2) f(!>!e | (e4) e3) d | %67
+ z (Bd)(g g2) fd | (d4 d3) !>!B |$ z (Bd)(!>!g g2) f(!>!e | (e4) e3) !>!d | %71
+ z (Bd)(!>!g g2) f(!>!d | (d4) d3) !>!B |$ z8 |{/d} !tenuto!e2 !tenuto!e2 (ed)e(!>!d | %75
+ d2) A(!>!B B) !>!c3 |{/c} !tenuto!d2 !tenuto!d2 (dB)d(!>!B |$ B2) E(!>!F F) !>!G3 | %78
+{/d} !tenuto!e2 !tenuto!e2 (ed)e(!>!d | d2) A(!>!B B) !>!c2 D |$ %80
+{/c} (!tenuto!dB) !tenuto!d2 (dB)d(!>!B | B) E2 (!>!F F) !>!G2 z | %82
+ !tenuto!e2 !tenuto!e2 (ed)e(!>!f | f) !>!f2 (!>!f f4) |$ .d2 .d2 .d2 !tenuto!d(!>!c | c) B3 bbbb | %86
+ b6 c'(a | a4) z2 (ag) |$ f f3 b2 f(g | g8) | z4 (B4 | (f8) | (f8) | f8) | z4 (B4 | (f8) |$ f8) | %97
+ !fermata!d8 |] %98
+V:2
+[K:D] .A2 .A2 .A2 !tenuto!A!>!A | z !>!A z !tenuto!A .A2 .A2 | .A2 .A2 .A2 !tenuto!A!>!A | %3
+ z !>!A z !tenuto!A .A2 .A2 |$ .A2 .A2 .A2 !tenuto!A!>!A | z !>!A z !tenuto!A .A2 .A2 | %6
+ .A2 .A2 .A2 !tenuto!A!>!A | z !>!A z2 z4 | z8 |$ z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | c7 (B | B8) | %18
+ c7 (B | B8) |$ d'7 (c' | c'8) | d'7 (c' |!>(! c'8)!>)! | (!>!dc)(!>!dc) (!>!dc).d(!>!d |$ %25
+ c)(!>!dc).d (!>!dc)(!>!dc) | (!>!dc)(!>!dc) (!>!dc).d(!>!d | c)(!>!dc).d (!>!dc)(!>!dc) | %28
+ (!>!dc)(!>!dc) (!>!dc).d(!>!d |$ c)(!>!dc).d (!>!dc)(!>!dc) | c2 z2 z4 | z8 | %32
+ .A2 .A2 .A2 !tenuto!A!>!e |$ z !>!e z !tenuto!e .e2 .e2 | .d2 .d2 .d2 !tenuto!d!>!A | %35
+ z !>!A z !tenuto!A .A2 .A2 | z8 | z4 z A !tenuto!A2 |$ (dc)B(B B)B{/c}(dc) | B B3 z2 z d | %40
+{/a} !tenuto!b2 !tenuto!b2 (ba)b(!>!a | a2) e(!>!f f) !>!g3 |$ %42
+{/g} !tenuto!a2 !tenuto!a2 (af)a(!>!f | f2) B(!>!c c) !>!d3 | %44
+{/a} !tenuto!b2 !tenuto!b2 (ba)b(!>!a |$ a2) e(!>!f f) !>!g2 A | %46
+{/g} (!tenuto!af) !tenuto!a2 (af)a(!>!f | f) B2 (!>!c c) !>!d3 | %48
+ !tenuto!d2 !tenuto!d2 (dc)c(!>!g |$ g) !>!g2 (!>!g g4) | z8 | z8 | d7 (!>!c |$ c4) z4 | z8 | z8 | %56
+ z8 |$ z8 | (!>!d'c')(!>!d'c') (!>!d'c').d'(!>!d' | c')(!>!d'c').d' (!>!d'c')(!>!d'c') | %60
+ (!>!d'c')(!>!d'c') (!>!d'c').d'(!>!d' |$ c')(!>!d'c').d' (!>!d'c')(!>!d'c') | %62
+ (!>!d'c')(!>!d'c') (!>!d'c').d'(!>!d' | c')(!>!d'c').d' (!>!d'c')(!>!d'c') | %64
+ z !>!a2 !tenuto!a .a2 .a2 |$ z (fa)(!>!d' d'2) c'(!>!b | (b4) b3) a | z (fa)(d' d'2) c'a | %68
+ (a4 a3) !>!f |$ z (fa)(!>!d' d'2) c'(!>!b | (b4) b3) !>!a | z (fa)(!>!d' d'2) c'(!>!a | %72
+ (a4) a3) !>!f |$ z8 |{/a} !tenuto!b2 !tenuto!b2 (ba)b(!>!a | a2) e(!>!f f) !>!g3 | %76
+{/g} !tenuto!a2 !tenuto!a2 (af)a(!>!f |$ f2) B(!>!c c) !>!d3 | %78
+{/a} !tenuto!b2 !tenuto!b2 (ba)b(!>!a | a2) e(!>!f f) !>!g2 A |$ %80
+{/g} (!tenuto!af) !tenuto!a2 (af)a(!>!f | f) B2 (!>!c c) !>!d2 z | %82
+ !tenuto!b2 !tenuto!b2 (ba)b(!>!c' | c') !>!c'2 (!>!c' c'4) |$ .a2 .a2 .a2 !tenuto!a(!>!g | %85
+ g) f3 z4 | .a2 .a2 .a2 !tenuto!a!>!a | z !>!a z !tenuto!a .a2 .a2 |$ .a2 .a2 .a2 !tenuto!a!>!a | %89
+ z !>!a z !tenuto!a .a2 .a2 | (a8 | (a8) | (a8) | a6) (fg) | (a8 | (a8) |$ a6) (e'2 | %97
+ !trill(!!fermata!Tc'8!trill)!) |] %98
+V:3
+[K:D] .G2 .G2 .G2 !tenuto!G!>!G | z !>!G z !tenuto!G .G2 .G2 | z8 | z8 |$ %4
+ .G2 .G2 .G2 !tenuto!G!>!G | z !>!G z !tenuto!G .G2 .G2 | z8 | z8 | .A2 .A2 .A2 !tenuto!A!>!A |$ %9
+ z !>!A z !tenuto!A .A2 .A2 | .A2 .A2 .A2 !tenuto!A!>!A | z !>!A z !tenuto!A .A2 .A2 | %12
+ .A2 .A2 .A2 !tenuto!A!>!A | z !>!A z !tenuto!A .A2 .A2 |$ .A2 .A2 .A2 !tenuto!A!>!A | %15
+ z !>!A z !tenuto!A .A2 .A2 | (G8 | G8) | (F8 | F8) |$ z8 | z8 | z8 | z2 z f f2 f2 | f6 g(!>!e |$ %25
+ e4) z e2 A | e2 (ed) ee(fe) | cB z2 ffff | f6 g(e |$ e4) z2 dd | fed(d d) z{/^e} (f=e) | %31
+ d !>!d3 z bbb | b6 f(!>!a |$ a4) z aaa | a3 d a2 g!>!f | z2 z f fff(!>!f | f6) g(e | %37
+ e4) z d !tenuto!d2 |$ (fe)d(d d)d{/^e}(f=e) | d d3 z4 | !tenuto!d2 !tenuto!d2 (dc)d(!>!c | c8) |$ %42
+ !tenuto!f2 !tenuto!f2 (fd)f(!>!d | d2) B(!>!c c) !>!d3 | !tenuto!d2 !tenuto!d2 (dc)d(!>!d |$ %45
+ d2) c(!>!d d) !>!e2 A | (!tenuto!fd) !tenuto!f2 (fd)f(!>!d | d) B2 (!>!c c) !>!d3 | %48
+ !tenuto!B2 !tenuto!B2 (BA)B(!>!e |$ e) !>!e2 (!>!e e4) | !tenuto!f2 !tenuto!f2 !tenuto!f2 f(!>!e | %51
+ e) !>!d3 z4 | .A2 .A2 .A2 !tenuto!A!>!A |$ z !>!A z !tenuto!A .A2 .A2 | %54
+ .A2 .A2 .A2 !tenuto!A!>!A | z !>!A z !tenuto!A .A2 .A2 | .A2 .A2 .A2 !tenuto!A!>!A |$ %57
+ z !>!A z !tenuto!A .A2 .A2 | !trill(!Tg7 (!trill(!!>!Tf!trill)! | f8) | g7 (!>!f |$ f8) | %62
+ g7 (!>!f | f8) | z !>!g2 !tenuto!g .g2 .g2 |$ z8 | .a2 .a2 .a2 !tenuto!a!>!g | %67
+ z !>!g z !tenuto!g .g2 .g2 | .f2 .f2 .f2 !tenuto!f!>!a |$ z !>!a z !tenuto!a .a2 .a2 | %70
+ .a2 .a2 .a2 !tenuto!a!>!g | z !>!g z !tenuto!g .g2 .g2 | .f2 .f2 .f2 !tenuto!f!>!d |$ %73
+ z (fa)(!>!d' d'4) | !tenuto!d2 !tenuto!d2 (dc)d(!>!c | c8) | !tenuto!f2 !tenuto!f2 (fd)f(!>!d |$ %77
+ d2) B(!>!c c) !>!d3 | !tenuto!d2 !tenuto!d2 (dc)d(!>!d | d2) c(!>!d d) !>!e2 A |$ %80
+ (!tenuto!fd) !tenuto!f2 (fd)f(!>!d | d) B2 (!>!c c) !>!d2 z | !tenuto!g2 !tenuto!g2 (dc)d(!>!g | %83
+ g) !>!g2 (!>!g g4) |$ .c2 .c2 .c2 !tenuto!c(!>!d | d4) z4 | d7 (c | c4) z4 |$ z8 | z8 | ((B8 | %91
+ B6) e2 | d6 (AG) | F8 | ((B8) | B6)) e2 |$ d8 | !fermata!e8 |] %98
+V:4
+[K:G] .G2 .G2 .G2 !tenuto!G!>!A | z !>!A z !tenuto!A .A2 .A2 | .B2 .B2 .B2 !tenuto!B!>!B | %3
+ z !>!B z !tenuto!B .B2 .B2 |$ .G2 .G2 .G2 !tenuto!G!>!A | z !>!A z !tenuto!A .A2 .A2 | %6
+ .B2 .B2 .B2 !tenuto!B!>!B | z !>!B z2 z4 | .G2 .G2 .G2 !tenuto!G!>!c |$ %9
+ z !>!c z !tenuto!c .c2 .c2 | .B2 .B2 .B2 !tenuto!B!>!B | z !>!B z !tenuto!B .B2 .B2 | %12
+ .G2 .G2 .G2 !tenuto!G!>!c | z !>!c z !tenuto!c .c2 .c2 |$ .B2 .B2 .B2 !tenuto!B!>!B | %15
+ z !>!B z !tenuto!B .B2 .B2 | .d2 .d2 .d2 !tenuto!d!>!d | z !>!d z !tenuto!d .d2 .d2 | %18
+ .d2 .d2 .d2 !tenuto!d!>!d | z !>!d z !tenuto!d .d2 .d2 |$ .d2 .d2 .d2 !tenuto!d!>!c | %21
+ z !>!c z !tenuto!c .c2 .c2 | .d2 .d2 .d2 !tenuto!d!>!d | z !>!d z2 z4 | d7 (!>!d |$ d4) z4 | z8 | %27
+ z8 | d7 (!>!d |$ d4) z4 | z8 | z4 z ggg | g7 (!>!g |$ g4) z bbb | b3 d b2 a!>!d | %35
+ z2 z d ddd(!>!d | d7) (c | c4) z4 |$ z8 | z8 | .d2 .d2 .d2 !tenuto!d!>!d | %41
+ z !>!d z !tenuto!d .d2 .d2 |$ .d2 .d2 .d2 !tenuto!d!>!d | z !>!d z !tenuto!d .d2 .d2 | %44
+ .d2 .d2 .d2 !tenuto!d!>!d |$ z !>!d z !tenuto!d .d2 .d2 | .d2 .d2 .d2 !tenuto!d!>!d | %47
+ z !>!d z !tenuto!d .d2 .d2 | !>!eee!>!e ee!>!ee |$ !>!fff!>!f ff!>!ff | z8 | z4 bbbb | %52
+ b6 c'(!>!a |$ a4) z2 (ag) | f f3 b2 fg | g4 z4 | f f3 b2 fg |$ g4 z4 | .c2 .c2 .c2 !tenuto!c!>!B | %59
+ z !>!B z !tenuto!B .B2 .B2 | .c2 .c2 .c2 !tenuto!c!>!B |$ z !>!B z !tenuto!B .B2 .B2 | %62
+ .c2 .c2 .c2 !tenuto!c!>!B | z !>!B z !tenuto!B .B2 .B2 | z !>!g2 !tenuto!g .g2 .g2 |$ z8 | %66
+ .g2 .g2 .g2 !tenuto!g!>!a | z !>!a z !tenuto!a .a2 .a2 | .f2 .f2 .f2 !tenuto!f!>!g |$ %69
+ z !>!g z !tenuto!g .g2 .g2 | .g2 .g2 .g2 !tenuto!g!>!a | z !>!a z !tenuto!a .a2 .a2 | %72
+ .f2 .f2 .f2 !tenuto!f!>!e |$ z (Bd)(!>!g g4) | .d2 .d2 .d2 !tenuto!d!>!d | %75
+ z !>!d z !tenuto!d .d2 .d2 | .d2 .d2 .d2 !tenuto!d!>!d |$ z !>!d z !tenuto!d .d2 .d2 | %78
+ .d2 .d2 .d2 !tenuto!d!>!d | z !>!d z !tenuto!d .d2 .d2 |$ .d2 .d2 .d2 !tenuto!d!>!d | %81
+ z !>!d z !tenuto!d .d2 .d2 | !tenuto!g2 !tenuto!g2 (ed)e(!>!a | a) !>!a2 (!>!a a4) |$ z8 | %85
+ z4 bbbb | b6 c'(a | a4) z2 (ag) |$ f f3 b2 f(g | g8) | z4 (B4 | (f8) | (f8) | f8) | z4 (B4 | %95
+ (f8) |$ f8) | !fermata!d8 |] %98
+V:5
+[K:G] (!>!gf)(!>!gf) (!>!gf).g(!>!g | f)(!>!gf).g (!>!gf)(!>!gf) | (!>!gf)(!>!gf) (!>!gf).g(!>!g | %3
+ f)(!>!gf).g (!>!gf)(!>!gf) |$ (!>!gf)(!>!gf) (!>!gf).g(!>!g | f)(!>!gf).g (!>!gf)(!>!gf) | %6
+!>(! f g3 z4!>)! | z2 z!f! !tenuto!B !tenuto!B2 !tenuto!B2 | B6 c(A |$ A4) z !>!A2 D | %10
+ !tenuto!A2 (AG) !tenuto!B2 D(E | E)BBB BB !tenuto!B2 | B6 c(A | A4) z !>!A2 D |$ %14
+ !tenuto!A2 !tenuto!A2 !tenuto!A2 (BG) | (F E3) z4 | .G2 .G2 .G2 !tenuto!G!>!A | %17
+ z !>!A z !tenuto!A .A2 .A2 | .D2 .D2 .D2 !tenuto!D!>!B | z !>!B z !tenuto!B .B2 .B2 |$ %20
+ .G2 .G2 .G2 !tenuto!G!>!A | z !>!A z !tenuto!A .A2 .A2 | .B2 .B2 .B2 !tenuto!B!>!B | %23
+ z !>!B z2 z4 | .G2 .G2 .G2 !tenuto!G!>!c |$ z !>!c z !tenuto!c .c2 .c2 | %26
+ .B2 .B2 .B2 !tenuto!B!>!B | z !>!B z !tenuto!B .B2 .B2 | .G2 .G2 .G2 !tenuto!G!>!c |$ %29
+ z !>!c z !tenuto!c .c2 .c2 | .B2 .B2 .B2 !tenuto!B!>!B | z !>!B z !tenuto!B .B2 .B2 | %32
+ .G2 .G2 .G2 !tenuto!G!>!c |$ z !>!c z !tenuto!c .c2 .c2 | .D2 .D2 .D2 !tenuto!D!>!B | %35
+ z !>!B z !tenuto!B .B2 .B2 | .G2 .G2 .G2 !tenuto!G!>!d | z !>!d z !tenuto!d .d2 .d2 |$ %38
+ .D2 .D2 .D2 !tenuto!D!>!B | z !>!B z !tenuto!B .B2 .B2 | .G2 .G2 .G2 !tenuto!G!>!c | %41
+ z !>!c z !tenuto!c .c2 .c2 |$ .G2 .G2 .G2 !tenuto!G!>!B | z !>!B z !tenuto!B .B2 .B2 | %44
+ .G2 .G2 .G2 !tenuto!G!>!c |$ z !>!c z !tenuto!c .c2 .c2 | .G2 .G2 .G2 !tenuto!G!>!B | %47
+ z !>!B z !tenuto!B .B2 .B2 | !>!GGG!>!G GG!>!GG |$ !>!AAA!>!A AA!>!cc | !>!ddd!>!d ddd(!>!B | %51
+ B) !>!B3 z4 | .G2 .G2 .G2 !tenuto!G!>!c |$ z !>!c z !tenuto!c .c2 .c2 | %54
+ .G2 .G2 .G2 !tenuto!G!>!B | z !>!B z !tenuto!B .B2 .B2 | .G2 .G2 .G2 !tenuto!G!>!B |$ %57
+ z !>!B z !tenuto!B .B2 .B2 | (!>!ed)(!>!ed) (!>!ed).e(!>!e | d)(!>!ed).e (!>!ed)(!>!ed) | %60
+ (!>!ed)(!>!ed) (!>!ed).e(!>!e |$ d)(!>!ed).e (!>!ed)(!>!ed) | (!>!ed)(!>!ed) (!>!ed).e(!>!e | %63
+ d)(!>!ed).e (!>!ed)(!>!ed) | z !>!A2 !tenuto!A .A2 .A2 |$ z (Bd)(!>!g g2) c(B | (B4) B3) c | %67
+ z (Bd)(c c2) cB | (B4 B3) B |$ z (Bd)B B3 (B | (B4) B3) !>!c | z (Bd)(!>!c c2) cB | %72
+ (B4 B3) !>!B |$ z (Bd)(!>!e e4) | .G2 .G2 .G2 !tenuto!G!>!c | z !>!c z !tenuto!c .c2 .c2 | %76
+ .G2 .G2 .G2 !tenuto!G!>!B |$ z !>!B z !tenuto!B .B2 .B2 | .G2 .G2 .G2 !tenuto!G!>!c | %79
+ z !>!c z !tenuto!c .c2 .c2 |$ .G2 .G2 .G2 !tenuto!G!>!B | z !>!B z !tenuto!B .B2 .B2 | %82
+ .d2 .d2 .d2 !tenuto!d!>!c | z !>!c z !tenuto!c .c2 .c2 |$ .B2 .B2 .B2 !tenuto!B!>!d | %85
+ z !>!B z !tenuto!B .B2 .B2 | .G2 .G2 .G2 !tenuto!G!>!c | z !>!c z !tenuto!c .c2 .c2 |$ %88
+ .G2 .G2 .G2 !tenuto!G!>!B | z !>!B z !tenuto!B .B2 .B2 | z8 | (c8 | B8) | G8 | z8 | (c8 |$ %96
+ B6) (c2 | !fermata!B8) |] %98
+V:6
+[K:D] .G2 .G2 .G2 !tenuto!G!>!A | z !>!A z !tenuto!A .A2 .A2 | .D2 .D2 .D2 !tenuto!D!>!B | %3
+ z !>!B z !tenuto!B .B2 .B2 |$ .G2 .G2 .G2 GA | z !>!A z !tenuto!A .A2 .A2 | %6
+ .D2 .D2 .D2 !tenuto!D!>!B | z !>!B z2 z4 | .G2 .G2 .G2 !tenuto!G!>!A |$ %9
+ z !>!A z !tenuto!A .A2 .A2 | .D2 .D2 .D2 !tenuto!D!>!B | z !>!B z !tenuto!B .B2 .B2 | %12
+ .G2 .G2 .G2 !tenuto!G!>!A | z !>!A z !tenuto!A .A2 .A2 |$ .D2 .D2 .D2 !tenuto!D!>!B | %15
+ z !>!B z !tenuto!B .B2 .B2 | .G2 .G2 .G2 !tenuto!G!>!A | z !>!A z !tenuto!A .A2 .A2 | %18
+ .D2 .D2 .D2 !tenuto!D!>!B | z !>!B z !tenuto!B .B2 .B2 |$ .G2 .G2 .G2 !tenuto!G!>!A | %21
+ z !>!A z !tenuto!A .A2 .A2 | .D2 .D2 .D2 !tenuto!D!>!B | z !>!B z !tenuto!B .B2 .B2 | %24
+ .G2 .G2 .G2 !tenuto!G!>!A |$ z !>!A z !tenuto!A .A2 .A2 | .D2 .D2 .D2 !tenuto!D!>!B | %27
+ z !>!B z !tenuto!B .B2 .B2 | .G2 .G2 .G2 !tenuto!G!>!A |$ z !>!A z !tenuto!A .A2 .A2 | %30
+ .D2 .D2 .D2 !tenuto!D!>!B | z !>!B z !tenuto!B .B2 .B2 | .G2 .G2 .G2 !tenuto!G!>!A |$ %33
+ z !>!A z !tenuto!A .A2 .A2 | .D2 .D2 .D2 !tenuto!D!>!B | z !>!B z !tenuto!B .B2 .B2 | %36
+ .G2 .G2 .G2 !tenuto!G!>!A | z !>!A z !tenuto!A .A2 .A2 |$ .D2 .D2 .D2 !tenuto!D!>!B | %39
+ z !>!B z !tenuto!B .B2 .B2 | !>!GGG!>!G GG!>!GG | !>!A,A,A,!>!A, A,A,!>!A,A, |$ %42
+ !>!DDD!>!D DD!>!DB, | !>!B,B,B,!>!B, B,B,!>!B,B, | !>!GGG!>!G GG!>!GA, |$ %45
+ !>!A,A,A,!>!A, A,A,!>!A,A, | !>!DDD!>!D DD!>!DB, | !>!B,B,B,!>!B, B,B,!>!B,B, | %48
+ !>!GGG!>!G GG!>!GG |$ !>!A,A,A,!>!A, A,A,!>!EE | !>!FFF!>!F FFF(!>!B, | B,)B,B,B, !>!B,B,!>!B,B, | %52
+ !>!GGG!>!G GG!>!GA, |$ !>!A,A,A,!>!A, A,A,!>!A,A, | !>!DDD!>!D DD!>!DB, | %55
+ z !>!B,2 !tenuto!B, .B,2 .B,2 | !>!DDD!>!D DD!>!DB, |$ z !>!B,2 !tenuto!B, .B,2 .B,2 | %58
+ .G2 .G2 .G2 !tenuto!G!>!B, | z !>!B, z !tenuto!B, .B,2 .B,2 | .G2 .G2 .G2 !tenuto!G!>!B, |$ %61
+ z !>!B, z !tenuto!B, .B,2 .B,2 | .G2 .G2 .G2 !tenuto!G!>!B, | z !>!B, z !tenuto!B, .B,2 .B,2 | %64
+ z !>!A,2 !tenuto!A, .A,2 .A,2 |$ z8 | !>!GG!>!GG !>!GGG!>!A, | A,A,A,A, !>!A,A,!>!A,A, | %68
+ !>!DDDD !>!DDD(!>!B, |$ B,)B,B,B, !>!B,B,!>!B,B, | !>!GG!>!GG !>!GGG!>!A, | %71
+ A,A,A,A, !>!A,A,!>!A,A, | !>!DD!>!DD !>!DDD!>!B, |$ B,B,B,B, !>!B,B,!>!B,B, | %74
+ !>!GG!>!GG !>!GGG!>!A, | A,A,A,A, !>!A,A,!>!A,A, | !>!DD!>!DD !>!DDD!>!B, |$ %77
+ B,B,B,B, !>!B,B,!>!B,B, | !>!GG!>!GG !>!GGG!>!A, | A,A,A,A, !>!A,A,!>!A,A, |$ %80
+ !>!DD!>!DD !>!DDD!>!B, | B,B,B,B, !>!B,B,!>!B,B, | !>!GGG!>!G GG!>!GG | %83
+ !>!A,A,A,!>!A, A,A,!>!EE |$ !>!FFF!>!F FFF(!>!B, | B,)B,B,B, !>!B,B,!>!B,B, | %86
+ !>!GGG!>!G GG!>!GA, | !>!A,A,A,!>!A, A,A,!>!A,A, |$ !>!DDD!>!D DD!>!DB, | %89
+ z !>!B,2 !tenuto!B, .B,2 .B,2 | (G6 G2) | (A8 | A8) | B8 | (G6 G2) | (A8 |$ A8) | !fermata!B8 |] %98

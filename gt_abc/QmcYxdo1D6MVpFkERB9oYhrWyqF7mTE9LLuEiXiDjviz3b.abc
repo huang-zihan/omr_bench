@@ -1,0 +1,25 @@
+X:1
+T:Pokémon Center Theme
+C:GoldenClef
+Z:Game Freak/Nintendo, Pokémon is a trademark of Game Freak/Nintendo.
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=133
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"^Vivace" (dAd) (.a2 .g2) (f | e c3) z4 | (cAc) (.f2 .e2) (c | d f3) z4 | (dAd) (.a2 .g2) f |$ %5
+ e c3 z4 | (cAc) (.f2 .e2) (c | d f3) z4 | f4 a4 | (gagf) e4 |$ c4 e4 | (fgfe) d4 | f4 a4 | %13
+ (gfga) b4 |$ (a2 gf) g4 | (fgfe)"^Repeat as many times as needed." d4 :| %16
+V:2
+ [D,F,][^E,F,][D,F,]F, D,[F,A,][G,B,][F,A,] | [E,B,]A,[E,G,][F,A,] [E,A,][F,A,][E,G,][B,,A,] | %2
+ [E,A,][E,A,][E,A,]A, E,[A,B,]A,G, | F,A,[F,B,][A,C] [F,D][A,C]B,[E,A,] | %4
+ [D,F,][^E,F,][D,F,]F, D,[F,A,][G,B,][F,A,] |$ [E,B,]A,[E,G,][F,A,] [E,A,][F,A,][E,G,][B,,A,] | %6
+ [E,A,][E,A,][E,A,]A, E,[A,B,]A,G, | [D,F,]E,D,E, [D,F,][D,G,][E,A,][E,B,] | %8
+ F,[E,A,][D,F,][D,A,] [E,F,][F,A,][F,G,]A, | [G,B,]B,[G,B,]B, [E,G,][F,B,]G,[A,B,] |$ %10
+ [E,G,][F,G,]E,[E,G,] [C,E,][D,G,]E,G, | F,[G,A,][F,A,][A,B,] [F,A,]A,[^G,A,]A, | %12
+ [F,D][A,C][F,A,]A, [F,A,][A,B,][F,C][A,D] | [G,E][B,D][G,C]B, [G,B,][B,C][G,D][B,E] |$ %14
+ [E,C][G,B,][E,A,]G, [E,G,][G,A,][E,B,]G, | [F,A,]A,F,A, [D,F,][E,G,]F,G, :| %16

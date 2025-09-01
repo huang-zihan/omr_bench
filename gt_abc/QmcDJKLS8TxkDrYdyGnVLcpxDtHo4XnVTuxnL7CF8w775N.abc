@@ -1,0 +1,31 @@
+X:1
+T:G Major Samuel Holyoke, 1791
+T:Isaac Watts, 1711 (Hymn 38, Book 3)    66. 66. 44. 44.
+T:Westford Transcribed from The Worcester Collection, 1792.
+%%score [ 1 2 3 ]
+L:1/8
+Q:1/4=90
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Tr." snm="Tr."
+V:2 treble-8 nm="T." snm="T."
+V:3 bass nm="B." snm="B."
+L:1/4
+V:1
+ G2 | d2 de/f/ g3 f/e/ | d3 d ec Ac | B2 TA2 G2 z D |$ GB Ac Be d^c |$ d3 d B2 e2 | dc BA G3 z |: %7
+w: 1.~Al-|migh- ty~ _ _ God! to *|thee Be end- * less *|ho- nors done, The|un- * di- * vi- * ded *|three, And the my-|ste- * rious * one.|
+w: 2.~I|give im- * * mor- tal *|praise To God * the *|Fa- ther's love, For|all * my * com- * forts *|here, And bet- ter|hopes * a- * bove:|
+!p! z2 G2 c3 B | A3 G c2 c2 |${c} B4 z2!f! G2 |$ d3 e d3 e | B2 TA2 G4 :| %12
+w: Where rea- son|fails With all her|powers, There|faith pre- vails, And|love a- dores.|
+w: He sent his|own E- ter- nal|Son To|die for sins That|man had done.|
+V:2
+ B2 | B2 Bc/d/ e3 d/c/ | B3 B/A/ Gg fe | d2 Tc2 B2 z A |$ Bd ce dg fe |$ f3 f d2 g2 | fe dc B3 z |: %7
+w: 3.~To|God the~ _ _ Son be- *|longs Im- * mor- * tal *|glo- ry too, Who|bought * us * with * his *|blood From ev- er-|las- * ting * woe:|
+w: 4.~To|God the~ _ _ Spi- rit's *|name Im- * mor- * tal *|wor- ship give, Whose|new- * cre- * a- * ting *|power Makes the dead|sin- * ner * live:|
+!p! z2 B2 e3 d | d3 B g>f e2 |${e} d4 z2!f! g2 |$ B3 c B3 g | d2 Tc2 B4 :| %12
+w: And now he|lives, And now * he|reigns, And|sees the fruit Of|all his pains.|
+w: His work com-|pletes The great * de-|sign, And|fills the soul~ With|joy di- vine.|
+V:3
+ G, | G, G, C, F, | G, G, C C | D D, G, z/ A,/ |$ D, F, G, A, |$ D D, G, C, | D, D, G,,3/2 z/ |: %7
+!p! z G, C, ^C, | D,3/2 E,/ C, C, |$ G,2 z!f! G, |$ G, F, G,3/2 C/ | D D, G,2 :| %12

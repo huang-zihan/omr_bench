@@ -1,0 +1,30 @@
+X:1
+T:Title
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Midi_20"
+V:2 treble 
+V:3 bass nm="Midi_20"
+V:4 bass 
+V:1
+"^Hushed was the evening hymn""^James Drummond Burns\n(1823-64)" z"^Samuel (6 6. 6 6. 8 8.)""^Sir Arthur Sullivan\n(1842-1900)" F F A | %1
+ G3/2 F/ G B | A ^G A d | (d2 c) ||$ d | B A G A | F ^G A B | c3 B | A3 ||$ A | e3/2 c/ A G | %11
+ F G A D | D B A G | F3 E | D4 |] %15
+V:2
+ z D D D | C3/2 C/ C C | D3/2 D/ D D | E3 ||$ D | D D D C | D E E F | E2 ^G2 | A3 ||$ A | %10
+ =G3/2 G/ F E | D C D D | D D ^D E | =D2 C2 | D4 |] %15
+V:3
+ z A, A, F, | A,3/2 A,/ A, A, | A,3/2 A,/ A, ^G, | A,3 ||$ A, | G, A, B, A, | A, B, A, A, | %7
+ A,2 D2 | C3 ||$ %9
+"^1. Hushed was the evening hymn,\n    The temple courts were dark,\n    The lamp was burning dim\n    Before the sacred ark,\n    When suddenly a voice Divine\n    Rang though the silence of the shrine.\n\n2. The old man, meek and mild,\n    The priest of Israel, slept;\n    His watch the temple child,\n    The little Levite, kept;\n    And what to Eli's sense was sealed\n    The Lord to Hannah's son revealed." A, | %10
+ C3/2 C/ D A, | %11
+"^5. O give me Samuel's mind,\n    A sweet unmurmuring faith,\n    Obedient and resigned\n    To Thee in life and death,\n    That I may read, with childlike eyes,\n    Truths that are hidden from the wise." A, A, A, =C | %12
+"^3. O give me Samuel's ear,\n    The open ear, O Lord,\n    Alive and quick to hear\n    Each whisper of Thy word,\n    Like him to answer at Thy call,\n    And to obey Thee first of all.\n\n4. O give me Samuel's heart,\n    A lowly heart, that waits\n    Where in Thy house Thou art,\n    Or watches at Thy gates\n    By day and night, a heart that still\n    Moves at the breathing of Thy will." B, B, B, B, | %13
+ A,2 G,2 | F,4 |] %15
+V:4
+ z D, D, A,, | E,3/2 E,/ A,, G, | F,3/2 F,/ F,, B,, | A,,3 ||$ F, | G, F, E, A,, | D, D, C, D, | %7
+ E,2 E,2 | A,,3 ||$ A, | A, A,, B,, C, | D, E, F, F, | G, G, F, E, | A,2 A,,2 | D,4 |] %15

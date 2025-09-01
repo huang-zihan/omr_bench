@@ -1,0 +1,28 @@
+X:1
+T:Die Zufriedenheit
+C:Mozart (1756-1791)
+C:KV 349
+Z:Johann Martin Miller (1750-1814)
+Z:by Mutopia - Scritto con MuseScore, un software libero e gratuito: http://musescore.org/it
+%%score [ 1 2 ]
+L:1/8
+Q:3/8=40
+M:6/8
+I:linebreak $
+K:G
+V:1 treble nm="Oboe"
+V:2 treble nm="Mandolino"
+V:1
+ z6 | z6 | z6 | z6 |$ z6 | z2 z z2 |S d | (dB) G (Ec) A | (Fd) c B2 B | (Ad) A{A} (GF) E |$ %10
+w: ||||||Was|frag' * ich viel * nach|Geld * und Gut, wenn|ich * zu- frie- * den|
+ D2 z z2 d | A2 A (BA) B | c2 d (ec) A | F2 F (GA) B |$ D2 z z2 d | (BG) B (cA) d | (dB) d e2 e | %17
+w: bin! Gibt|Gott mir nur * ge\-|sun\- des Blut, * so|hab' ich fro- * hen|Sinn und|sing' * aus dank- * ba\-|rem * Ge\- müt mein|
+ (dB) B (EA) d |$ (G3 (G)B) A | G2 z z2 z | z6 | z6 | z2 z z2!D.S.! |] %23
+w: Mor- * gen und * mein|A _ _ bend\-|lied.||||
+V:2
+ [Bg][Bg][db] [Bg]2 z | [Af][Af][ca] [Af]2 z | B/d/g/[Bg]/[Bg]/[Bg]/ A/d/f/[Af]/[Af]/[Af]/ | %3
+ B/d/g/[Bg]/[Bg]/[Bg]/ A/d/f/[Af]/[Af]/[Af]/ |$ g/f/e/d/c/B/ [ce]z[Af] | [Bg][Bg][Bg] [Bg]2 | z | %7
+ BDG B,EA | DFA GBd | FAd EG^c |$ D/F/G/A/B/^c/ d z z | CEA DE^G | CEA CEA | CDF B,DG |$ %14
+ D/F/G/A/B/^c/ d/A/G/F/E/D/ | GDG ADA | BGB cGc | BGD CEA |$ EGB DFA | %19
+ [B,G]/d/g/[Bg]/[Bg]/[Bg]/ A/d/f/[Af]/[Af]/[Af]/ | B/d/g/[Bg]/[Bg]/[Bg]/ A/d/f/[Af]/[Af]/[Af]/ | %21
+ g/f/e/d/c/B/ [ce]z[Af] | [Bg][Bg][Bg] [Bg]2 |] %23

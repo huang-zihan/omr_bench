@@ -1,0 +1,47 @@
+X:1
+T:James Gibb editions
+T:Ave Maria - Bottazzo
+%%score { 1 | 2 } 3
+L:1/4
+Q:1/4=72
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Soprano I" snm="S"
+V:2 treble 
+V:3 treble nm="Alto" snm="A"
+V:1
+"^poco andante""^Ave Maria""^Luigi Bottazzo\n (1845-1924)"!pp! A2 d A | A2 A2 | (d B) c e | %3
+w: A- ve Ma-|ri- a,|gra\- * ti- a|
+ d2 c z | z4 |!f! f2 d B | (B A ^G2) | F3/2 z/!f! c c |$[M:4/4] (e2 d) B | c (A/B/) c d | %10
+w: ple- na:||Do- mi- nus|te\- * *|cum, be- ne-|di\- * cta|tu in * mu- li-|
+ (e2 d) B |"^," c A (B/c/) (d/e/) | f3 e | g3 f | d d (e/d/) (c/B/) |$ ^A2 c3/2 !fermata!z/ | %16
+w: e\- * ri-|bus, et be\- * ne\- *|di- ctus|fru- ctus|ven- tris tu\- * i *|Je- sus.|
+"^piu mosso"!f![Q:1/4=80] ^d2 f d | c2 B (B- | B c) (=d/e/ f) | e e e f | g2 f (e/d/) | %21
+w: San- cta Ma-|ri- a, Ma\-|* * ter * *|De- i, o- ra,|o- ra pro *|
+ !^!e2 d c/B/ |$[Q:1/4=80][Q:1/4=80] B3/2 A/ A2 | (A/B/)c/d/ e g | (g2 f) d | e2 d z | (d3 e) | %27
+w: no- bis pec- ca-|to- ri- bus|nunc * et in ho- ra|mor\- * tis|no- strae.|A\- *|
+ f3- f/ z/ |!p! (B3 c) | !fermata!d4 |] %30
+w: men, *|A\- *|men.|
+V:2
+!pp! F2 F E | F2 F2 | F2 G B | B2 ^A z |!f! c2 ^A F | (F B) F F | (^E F2 E) | F3/2 z/!f! A A |$ %8
+w: A- ve Ma-|ri- a,|gra- ti- a|ple- na:|Do- mi- nus,|Do\- * mi- nus|te\- * *|cum, be- ne-|
+[M:4/4] (B2 A) A | A A A A | (B c A) A |"^," A A A (A/B/) | (c d) B2 | (d e) c2 | B B B G |$ %15
+w: di\- * cta|tu in mu- li-|e\- * * ri-|bus, et be- ne\- *|di\- * ctus|fru\- * ctus|ven- tris tu- i|
+ F2 ^A3/2 !fermata!z/ |!f! B2 B B | (=G F) F z | G2 (A3/2 B/) | c c z2 | (B c) (d/c/) (B/A/) | %21
+w: Je- sus.|San- cta Ma-|ri\- * a,|Ma- ter *|De- i,|o\- * ra * pro *|
+ !^!B2 A G/F/ |$ G3/2 G/ G2 | F G/A/ B (e/d/) | (c2 d) d | (d c) d z | z B3 | A3- A/ z/ | z!p! G3 | %29
+w: no- bis pec- ca-|to- ri- bus|nunc et in ho- ra *|mor\- * tis|no\- * strae.|A-|men, *|A-|
+ !fermata!F4 |] %30
+w: men.|
+V:3
+!pp! D2 B, C | D2 D2 | (B, D) E G | (F ^E) F z | z4 |!f! D2 B, D | (C D B, C) | F3/2 z/!f! F F |$ %8
+w: A- ve Ma-|ri- a,|gra\- * ti- a|ple\- * na:||Do- mi- nus|te\- * * *|cum, be- ne-|
+[M:4/4] (G2 F) D | E (C/D/) E F | (G2 F) D |"^," E C (D/E/) (F/G/) | (A B) G2 | (B c) A2 | %14
+w: di\- * cta|tu in * mu- li-|e\- * ri-|bus, et be\- * ne\- *|di\- * ctus|fru\- * ctus|
+ (B/A/) (G/F/) G E |$ F2 F3/2 !fermata!z/ |!f! B,2 ^D F | E2 ^D z | E2 (F =D) | A A z2 | %20
+w: ven\- * tris * tu- i|Je- sus.|San- cta Ma-|ri- a,|Ma- ter *|De- i,|
+ (E A) (B/A/) (G/F/) | !^!G2 F E/D/ |$ C3/2 C/ C2 | D E/F/ (G/F/) E | (A2 B) F | G A D z | z2 G2 | %27
+w: o\- * ra * pro *|no- bis pec- ca-|to- ri- bus|nunc et in ho\- * ra|mor\- * tis|no\- * strae.|A-|
+ F3- F/ z/ | z2!p! E2 | !fermata!D4 |] %30
+w: men, *|A-|men.|

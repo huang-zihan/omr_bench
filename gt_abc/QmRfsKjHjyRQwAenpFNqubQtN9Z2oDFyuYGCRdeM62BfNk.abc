@@ -1,0 +1,20 @@
+X:1
+T:Parting Glass
+C:Traditional
+L:1/8
+Q:1/4=80
+M:4/4
+I:linebreak $
+K:Emin
+V:1 treble 
+V:1
+"Em" G2 E2 E2 DE |"G" G2 G2"D" A2 GA |"Em" B2 B2 BAGA |"D" B2 D2 D2 BA"Em" G2 E2 E2 DE | %4
+"G" G2 G2"D" A2 GA |"Em" B2 e2"D" dBAB |"Em" G2 E2 E2 z2 ||$"G" dBde d3 d |"G" dBde d3 B | %9
+"Em" c2 B2 A2 GA |"D" B2 D2 D2 BA |"Em" G2 E2 E2 DE |"G" G2 G2"D" A2 GA |"Em" B2 e2"D" dBAB | %14
+"Em" G2 E2 E2 ||$[K:Amin]"Am" c2 A2 A2 GA |"C" c2 c2"G" d2 cd |"Am" e2 e2 edcd | %18
+"G" e2 G2 G2 ed"Am" c2 A2 A2 GA |"C" c2 c2"G" d2 cd |"Am" e2 a2"G" gede |"Am" c2 A2 A2 z2 ||$ %22
+"C" gega g3 g |"C" gega g3 e |"Am" f2 e2 d2 cd |"G" e2 G2 G2 ed |"Am" c2 A2 A2 GA | %27
+"C" c2 c2"G" d2 cd |"Am" e2 a2"G" gede |$"Am" c2 A2 A2 |[K:Bmin]"Bm" d2 B2 B2 AB | %31
+"D" d2 d2"A" e2 de |"Bm" f2 f2 fede |"A" f2 A2 A2 fe"Bm" d2 B2 B2 AB |"D" d2 d2"A" e2 de | %35
+"Bm" f2 b2"A" afef |$"Bm" d2 B2 B2 z2 ||$"D" afab a3 a |"D" afab a3 f |"Bm" g2 f2 e2 de | %40
+"A" f2 A2 A2 fe |"Bm" d2 B2 B2 AB |"D" d2 d2"A" e2 de |"Bm" f2 b2"A" afef |$"Bm" d2 B2 B2 | %45

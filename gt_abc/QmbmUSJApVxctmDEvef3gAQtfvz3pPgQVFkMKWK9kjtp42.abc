@@ -1,0 +1,10 @@
+X:1
+T:Naboclish
+L:1/8
+M:6/8
+I:linebreak $
+K:Bmin
+V:1 treble 
+V:1
+ B2 c d2 e | fed c3 | B2 c d2 e | (f2 g) fdB | B2 c2 d2 e | fed c3 | A2 B c2 d | (e2 f) ecA :: c |$ %9
+ BGB def | gfe dcB | eAA A2 ^d | eAA A2 c |: BGB =def | gfe ded | dGG G2 ^c |$ dGG G2 :| %17

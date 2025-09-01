@@ -1,0 +1,12 @@
+X:1
+T:Muzzle Hill
+L:1/8
+M:2/4
+I:linebreak $
+K:A
+V:1 treble 
+V:1
+ c2"^tr" BA | a2"^tr" gf | ecBA | GABG | E2 (3ABc | B2 (3Bcd | cAac |"^tr" c2 B2 | c2"^tr" BA | %9
+ a2"^tr" gf | ecBA |$ GABG | E2 (3ABc | B2 (3Bcd | cABG A2 [A,A]2 :: e2 (3cBA | defd | BcdB | %18
+ GABG | E2 (3ABc | BcdB |$ cAac |"^tr" c2 B2 | e2 (3cBA | defd | BcdB | GABG | E2 (3ABc | BcdB | %29
+ cABG | A2 [A,A]2 :| %31

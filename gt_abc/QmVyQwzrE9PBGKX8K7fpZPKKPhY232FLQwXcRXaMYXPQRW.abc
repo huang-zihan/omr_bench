@@ -1,0 +1,23 @@
+X:1
+T:Finale
+C:Toby Fox
+L:1/4
+Q:1/4=190
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble nm="Violin" snm="Vln."
+V:1
+"^A=446 Hz"!mp! .A A/B/ .c .A | .B B/c/ .G .E | .A A/B/ .c .a | g e B G |$ .A A/B/ .c .A | %5
+ .B B/c/ .G .E | .=A A/B/ .c .f | =e g f2 |$!<(! .A A/B/ .c .A | .B B/c/ .G .E | .A A/B/ .c .a | %11
+ g e B G |$ .A A/B/ .c .A | .B B/c/ .G .E | .=A A/B/ .c .f | =e g f2!<)! |:$!f! .A A/B/ .c .A | %17
+ .B B/c/ .G .E | .A A/B/ .c .a | g e B G |$ .A A/B/ .c .A | .B B/c/ .G .E | .=A A/B/ .c .f | %23
+ =e g f2 :|$!mf! z2 F2 | A2 c2 | [GB]4 | G2 E2 | [FA]4- | [FA]4 | =A4- | A4 |$ z2 F2 | A2 c2 | %34
+ [ce]4 | B2 G2 | [FA]4- | [FA]4 |!mp!!<(! .=a a/b/ .c' .f' | =d'2 .c'/.c'/.c'/.c'/!<)! |$ %40
+!f! .a a/b/ .c' .a | .b b/c'/ .g .e | .a a/b/ c'/a/c'/a'/ | g' e' b e' |$ a a/e'/ .f' .c' | %45
+ .b b/c'/ .b .a | .b b/c'/ .b .a | b2 c'2 |$ a/f/a/b/ .c' .a | .b b/c'/ .g .e | %50
+ .a a/b/ c'/a/c'/a'/ | g' e' b g |$ a a/e'/ .f' .c' | .b b/c'/ .b .a | .b b/c'/ .b .a | b2 c'2 |:$ %56
+ a/f/a/b/ .c' .a | b/g/b/c'/ .g .e | .a a/b/ c'/a/c'/a'/ | g' e' b e' |$ f' c'/e'/ .f' .c' | %61
+ .b b/c'/ .b .a | f/a/b/c'/ e'/c'/b/a/ | b2 c'2 :|$!>(! .a a/b/ .c' .a | .b b/c'/ .g .e | %66
+ .a a/b/ c'/a/c'/a'/ | g' e' b e' | a a/e'/ .f' .c' |$ .b b/c'/ .b .a | .b b/c'/ .b .a | %71
+ b2 c'2!>)! | z4 |] %73

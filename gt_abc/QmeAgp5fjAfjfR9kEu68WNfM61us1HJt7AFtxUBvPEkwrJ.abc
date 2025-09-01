@@ -1,0 +1,37 @@
+X:1
+T:Den Mun Är Tyst, 87.87.88.77
+C:German, 16th Century
+Z:Public Domain
+Z:Courtesy of the Cyber Hymnal™
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=108
+M:2/4
+I:linebreak $
+K:F
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ z [CF] | [DF] C | [DF] [EG] | [FA] [FB] | [FA]2- | [FA] [Gc] | [FA] F | [GB] [FA] | G2 | F2- | %10
+ F [CF] | [DF] C | [DF] [EG] | [FA] [FB] | [FA]2- | [FA] [Gc] |$ [FA] F | [GB] [FA] | G2 | F2- | %20
+ F [Fc] | [Fd] [GB] | [Gc] [FA] | [FB] [DG] | [EA]2- | [EA] [FA] | [FB] [EG] | [EA] [DF] | %28
+ [DG] [CE] | [CF]2- | [CF] C | [DF] [EG] |$ [FA] [GB] | G2 | [FA]2- | [FA] [Gc] | [FA] F | %37
+ [GB] [FA] | G2 | !fermata!F2 |] %40
+V:2
+ x2 | x C | x2 | x2 | x2 | x2 | x F | x2 | (F E) | F2- | F x | x C | x2 | x2 | x2 | x2 |$ x F | %17
+ x2 | (F E) | F2- | F x | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x C | x2 |$ x2 | (F E) | %34
+ x2 | x2 | x F | x2 | (F E) | F2 |] %40
+V:3
+ z [F,A,] | [D,A,] [E,G,] | [D,A,] [C,C] | [F,C] [B,,D] | [F,C]2- | [F,C] [E,C] | [F,C] [B,D] | %7
+ [G,D] [D,D] | ([B,,D] [C,C]) | [F,A,]2- | [F,A,] [F,A,] | [D,A,] [E,G,] | [D,A,] [C,C] | %13
+ [F,C] [B,,D] | [F,C]2- | [F,C] [E,C] |$ [F,C] [B,D] | [G,D] [D,D] | ([B,,D] [C,C]) | [F,A,]2- | %20
+ [F,A,] [F,A,] | B, [G,D] | [E,C] [F,C] | [D,B,] [B,,D] | [A,,^C]2- | [A,,C] [F,^C] | %26
+ [D,B,] [E,B,] | [^C,A,] [D,A,] | [B,,G,] [C,G,] | [F,A,]2- | [F,A,] [F,A,] | [D,A,] [C,C] |$ %32
+ [F,C] B, | ([B,,D] [C,C]) | [F,C]2- | [F,C] [E,C] | [F,C] [B,D] | [G,D] [D,D] | ([B,,D] [C,C]) | %39
+ !fermata![F,A,]2 |] %40
+V:4
+ x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 |$ x2 | x2 | x2 | %19
+ x2 | x2 | B, x | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 | x2 |$ x2 | x2 | x2 | x2 | x2 | x2 | %38
+ x2 | x2 |] %40

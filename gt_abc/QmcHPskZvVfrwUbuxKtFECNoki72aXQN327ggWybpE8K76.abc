@@ -1,0 +1,57 @@
+X:1
+T:Dangerous - David Guetta + David Garett
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=190
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+ z2 | (EBAB) (GBFB) | (EBAB) (GBFB) | (EBAB) (GBFB) | (EBAB) (GBFB) | (EBAB) (GBFB) |$ %6
+ (EBAB) (GBFB) | (Ebab) (gbfb) | (ebab) (gbfb) | (ec'bc') (ac'gc') |$ (ebab) (gbfb) | %11
+ (ebab) (gbfb) | (egfg) (egdg) | (cede) (ceBe) | (Aede) (ceBe) |$ (FeFe) (FeFe) | [^D^d]8 || %17
+ z4 B2 BB | E2 z B2 B B2 | E2 z B2 B2 B- | BA G2 A2 GA- | A z B2 BB E2 |$ z B2 B B2 E2 | %23
+ z B2 B2 B2 A | G2 A2 G A2 .[eg] | .[fa] [fa]2 [fa]2 [eg]2 [gb]- | [gb] .[fa]2 [eg] .[fa]2 z2 | %27
+ !>!e'3 .d' b2 z .[eg] | .[fa] [fa]2 [fa]2 [eg]2 [gb]- |$ [gb]2 .[fa]2 .[eg] [fa]2 z | %30
+ [gb]2 [fa]2 .[eg] [fa]3 | [gb]2 [fa]2 .[eg] [fa]3 | [fa]4 z4 | [Bd]4 [Ge]4 | [Bg]4 [df]4 || %35
+S .[Bg].[Bg].[Bg].[Bg] [Bg]2 .[Af][Af]- | [Af].[Ge] [Ge]4 z2 |$ %37
+ .[ca].[ca].[ca].[ca] [ca]2 .[Bg][Bg]- | [Bg].[Af] [Af]4 z2 | %39
+ .[Bg].[Bg].[Bg].[Bg] [Bg]2 .[Af][Af]- | [Af].[Ge] [Ge]4 z2 | %41
+ .[ca].[ca].[ca].[ca] [ca]2 .[Bg][Bg]- | [Bg].[Af] [Af]4 z2 | [Ee]4 [Gg]4 |$ .[Aa]2 [Bb]4 [Aa]2- | %45
+ [Aa]2 z2 [Af]2 .[Af][Af]- | [Af].[Ge] [Ge]4 [Ge]2 | [Ee]4 [Gg]4 | .[Aa]2 [Bb]4 [Aa]2- | %49
+ [Aa]2 z2 [Af]2 .[Af][Af]- | [Af].[Ge] [Ge]4 z2 ||O z4 [gb]2 .[gb][gb]- |$ %52
+ [gb] [eg]3 [gb]2 .[gb][gb]- | [gb] [eg]3 [gb]2 [gb]2 | [gb]2 .[fa] [eg]2 .[fa]2 .[eg] | %55
+ [fa]3 z [gb]2 .[gb][gb]- | [gb] [eg]3 [gb]2 .[gb][gb]- | [gb] [eg]3 [gb]2 [gb]2 | %58
+ [gb]2 .[fa] [eg]2 .[fa]2 .[eg] |$ [fa]3 z [eg]2 .[fa][fa]- | [fa] .[fa]2 .[eg]2 [gb]3 | %61
+ [fa]2 .[eg] [fa]4 z | !>!e'3 .d' b2 z [eg]- | [eg].[fa] [fa]2 .[fa]2 .[eg]2 | %64
+ [gb]3 [fa]2 .[eg] [fa]2- | [fa]2 z !>!e'3 d'b- |$ b z [eg]2 .[fa] [fa]2 [fa]- | %67
+ [fa] [eg]2 [gb]3 .[fa]2 | .[eg] [fa]2 [gb]3 [fa]2 | .[eg] [fa]2 [gb]3 [fa]2- | %70
+ [fa].[eg] .[fa]2 [fa]4 | [bd']4 [ge']4- | [ge']4 [e'g']4 | [d'f']8 | z8!D.S.! ||$O e'4 g'4 | %76
+ a'2 b'4 a'2- | a'2 z2 f'2 f'f'- | f'e' e'4 e'2 | e'4 g'4 | a'2 b'4 a'2- | a'2 z2 f'2 f'f'- | %82
+ f'e' e'2 z2 [gb] z |$ [gb]2 [fa]2 .[eg] [eg]2 z | [gb]2 [fa]2 .[eg] [eg]2 z | %85
+ .[eg].[fa].[fa].[fa] [fa] [eg]2 [fa]- | [fa]2 z4 [gb]2 | [fa]2 .[eg] [eg]2 z [fa]2 | %88
+ [fa]2 .[eg] [eg]2 z .[eg].[fa] | .[fa].[fa][fa] [eg]2 [fa]3 |$ [Aa]2 [Aa]2 [Gg] [Ee]2 z | %91
+ [Aa]2 [Aa]2 [Gg] [Ee]2 z | [Aa]2 [Gg] [Aa]2 [Gg] [Bb]2- | [Bb]4 z4 |: %94
+ .[Bg].[Bg].[Bg].[Bg] [Bg]2 .[Af][Af] | [Af].[Ge] [Ge]4 z2 | %96
+ .[ca].[ca].[ca].[ca] [ca]2 .[Bg][Bg] |$ [Bg].[Af] [Af]4 z2 :| e'4 g'4 | a'2 b'4 a'2- | %100
+ a'2 z2 f'2 f'f'- | f'e' e'4 e'2 | e'4 g'4 | a'2 b'4 a'2- | a'2 z2 f'2 f'f'- |$ f'e' e'4 z2 | %106
+ EBAB GBFB | cGFG EGDG | CcBc AcGc | FBAB GBFB |$ EBAB GBFB | cGFG EGDG | CcBc AcGc | FBAB GBFB | %114
+ FBAB GBFB | !fermata!E8 |] %116
+V:2
+ z2 | [E,B,]8- | [E,B,]8- | [E,B,]8 | z8 | z8 |$ z8 | z B,A,B, G,B,F,B, | E,6 z D, | C,6 D,2 |$ %10
+ D,8 | B,4 B,,4 | C,4 z2 B,,2 | A,,8- | A,,8 |$ B,,8- | B,,8 || z8 | [E,G,B,]8 | [C,E,G,]8 | %20
+ [C,E,A,]8 | [D,F,A,]8 |$ [E,G,B,]8 | [C,E,G,]8 | [C,E,A,]8 | [D,F,A,]8 | [E,G,B,]8 | [C,E,G,]8 | %28
+ [D,F,A,]8 |$ [E,G,B,]8 | [C,E,G,]8 | [C,E,A,]8 | [D,F,A,]8 | D,4 E,4 | G,4 F,4 || [E,G,B,]8 | %36
+ [C,E,G,]8 |$ [C,E,A,]8 | [D,F,A,]8 | [E,G,B,]8 | [C,E,G,]8 | [C,E,A,]8 | [D,F,A,]8 | [E,G,B,]8 |$ %44
+ [C,E,G,]8 | [D,F,A,]8- | [D,F,A,]8 | [E,G,B,]8 | [C,E,G,]8 | [D,F,A,]8- | [D,F,A,]8 || z8 |$ %52
+ [E,G,B,]8 | [C,E,G,]8 | [C,E,A,]8 | [D,F,A,]8 | [E,G,B,]8 | [C,E,G,]8 | [C,E,A,]8 |$ [D,F,A,]8 | %60
+ [E,G,B,]8 | [C,E,G,]8 | [C,E,G,]8 | [D,F,A,]8 | [E,G,B,]8 | [C,E,G,]8 |$ [D,F,A,]8 | [E,G,B,]8 | %68
+ [C,E,G,]8 | [C,E,A,]8 | [D,F,A,]8 | D4 E4- | E4 G4 | F8 | z8 ||$[K:treble] [EGB]8 | [CEG]8 | %77
+ [DFA]8- | [DFA]8 | [EGB]8 | [CEG]8 | [DFA]8- | [DFA]8 |$[K:bass] [E,G,B,]8 | [C,E,G,]8 | %85
+ [C,E,A,]8 | [D,F,A,]6 [E,G,B,]2- | [E,G,B,]6 [C,E,G,]2- | [C,E,G,]6 [D,F,A,]2- | [D,F,A,]8 |$ %90
+ [E,G,B,]8 | [C,E,G,]8 | [D,F,A,]8- | [D,F,A,]4 z4 |: [E,G,B,]8 | [C,E,G,]8 | [C,E,A,]8 |$ %97
+ [D,F,A,]8 :|[K:treble] [EGB]8 | [CEG]8 | [CEA]8 | [DFA]8 | [EGB]8 | [CEG]8 | [CEA]8 |$ [DFA]8 | %106
+[K:bass] [E,G,B,]8 | [C,E,G,]8 | [C,E,A,]8 | [D,F,A,]8 |$ [E,G,B,]8 | [C,E,G,]8 | [C,E,A,]8 | %113
+ [D,F,A,]8- | [D,F,A,]8 | [E,G,B,]8 |] %116

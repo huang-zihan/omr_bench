@@ -1,0 +1,51 @@
+X:1
+T:Title
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Grand Piano"
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ D3 z | G- [D,B,DG-] [G,B,DG] z | [CG] [F,A,CF] [F,A,CF] z | [B,E] [G,B,D] [G,B,D] z | D3 z |$ %5
+w: Ira~B.~Wilson|||||
+ G3[K:bass] z | d F ^c d | [DFB]3[K:bass] z | [Fc]2 .[Fd] .[CA] |$ [B,E] [B,D] [_B,^C] [=B,D] | %10
+w: |||||
+ z2 G/G/A/_B/ | [^DB]3 z | B- [DEB-] [DEB] z | A3 z |$ [CFB] A/>d/ [FB] [CFA] | %15
+w: |||||
+ [G,D] (3d/d/d/ .d .d | d2 ^c2 | c4 | z2 B G |$ B- [GB-]/>[GB-]/ [GB-] [GB] | [Fd] c B A | %21
+w: ||||||
+ [Fd] c B A | [GB]2 z2 | [GBd]3 z |$ d2 ^c2 | c4 | z2 B G | B- [GB-]/>[GB-]/ [GB-] [GB] | %28
+w: |||||||
+ A- [CEGA-] [CEGA] [G_Bf] |$ d- [GBd-] [^GBd] [EBe]/>B/ | [EAd] [Ec] [DB] [CDA] | %31
+w: |||
+ [B,D]- [B,-D-Bd] [B,DBdg] z |] %32
+w: |
+V:2
+ B, B, B, E/>F/ | [G,B,D] z z2 | x4 | x4 | [G,B,] B, [G,B,] z |$ %5
+ [G,B,D][K:bass] [D,B,D] [G,B,D] z | x4 | z[K:bass] F, B,, z | x4 |$ x4 | E4 | x4 | [DE] z z2 | %13
+ [G,^CE] [G,CE] [G,CE] z |$ x4 | [B,G]3 z | z A z A | z A/>A/ [DF] [DF] | %18
+ [B,DB] [B,B] [CE]/->[CEA]/ [C^D]/->[CDA]/ |$ [B,D] z z2 | x4 | x4 | z B, [G_Be] [EGB^c] | %23
+ z B,/>B,/ B, B, |$ z A z A | z A/>A/ [DF] [DF] | [B,DB] [B,B] [CE]/->[CEA]/ [C^D]/->[CDA]/ | %27
+ [B,D] z z2 | [EG] z z2 |$ [GB] z z2 | x4 | [G,G] G2 z |] %32
+V:3
+ [G,,G,] [D,,D,] [G,,G,] z | G,, D,, G,,[K:treble] B/>G/ | A,, D, D,[K:treble] A/>F/ | %3
+ G,, D, D, (3B,/C/^C/ | G,, D,, G,,[K:treble] E/>F/ |$ G,, D,, G,,[K:treble] A/>B/ | %6
+ F,, [F,B,D] F,, [F,_B,E] | [B,,B,] F,, B,,, z | A,, z/[K:treble] B/ z/ c/ z/ F/ |$ G,, D, E, D, | %10
+ z G, z2 | [B,,F,] F, ^D, B,, | [^G,,^G,] [E,,E,] [G,,G,][K:treble] c/>B/ | A,, A,, A,, E/>E/ |$ %14
+ D, [CDF] [D,D] [D,,D,] | G,,[K:treble] (3D/D/D/ D .D | z F z G | z D/>D/ [D,,D,]2 | %18
+ [G,,D,] [G,,^D,] [G,,E,] [G,,D,] |$ [G,,D,] [D,G,B,D]/>[D,G,B,D]/ [D,G,B,D] [D,G,B,D] | %20
+ [A,,A,][K:treble] [EF] [DF] [CF] | [A,,A,][K:treble] [EF] [DF] [CF] | [G,,G,] [D,G,] [G,,G,] G, | %23
+ G,, [D,G,]/>[D,G,]/ [D,G,] [D,G,] |$ z F z G | z D/>D/ [D,,D,]2 | %26
+ [G,,D,] [G,,^D,] [G,,E,] [G,,D,] | [G,,D,] [D,G,B,D]/>[D,G,B,D]/ [D,G,B,D] [D,G,B,D] | %28
+ C, A, A, z/ z/4[K:treble] e/4 |$ D, [=F,,=F,] [E,,E,] [^G,,^G,] | z [A,C] D,2 | G,, D, G,, z |] %32
+V:4
+ x4 | x3[K:treble] x | x3[K:treble] x | x4 | x3[K:treble] x |$ x3[K:treble] x | x4 | x4 | %8
+ z D,[K:treble] A, D, |$ x4 | C, z/ F/ E, [C,E,] | x4 | x3[K:treble] x | x4 |$ x4 | %15
+ x[K:treble] x3 | [D,,D,]2 [E,,E,]2 | [F,,F,]2 z2 | x4 |$ x4 | x[K:treble] x3 | x[K:treble] x3 | %22
+ x4 | x4 |$ [D,,D,]2 [E,,E,]2 | [F,,F,]2 z2 | x4 | x4 | z2 z ^C,[K:treble] |$ x4 | %30
+ [A,,A,] z/ z/4 E/4 z D,, | x4 |] %32

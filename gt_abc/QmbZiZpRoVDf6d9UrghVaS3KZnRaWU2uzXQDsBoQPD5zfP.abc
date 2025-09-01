@@ -1,0 +1,20 @@
+X:1
+T:Jupiter
+%%score { 1 | 2 }
+L:1/8
+M:3/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+L:1/4
+V:1
+ z4 GB | c2 ce d>B | ef e2 d2 | cd c2 B2 | G4 GB | c2 ce d>B | ef g2 g2 | gf e2 f2 | e4 bg |$ %9
+ f2 f2 eg | f2 B2 bg | f2 f2 gb | c'4 c'd' | e'2 d'2 c'2 | b2 e'2 g2 | fe f2 g2 | b4 gb | %17
+ c'2 c'e' d'>b |$ e'f' e'2 d'2 | c'd' c'2 b2 | g4 gb | c'2 c'e' d'>b | e'f' g'2 g'2 | %23
+ g'f' e'2 f'2- | f'6 | z6 | z6 | z6 |$ z6 | z6 | z6 | z6 |] %32
+V:2
+ z2 G, | A,2 B, | G,2 G, | A,2 B,- | B, C B, | A,2 B, | G,2 E,/G,/ | G, A, G,/F,/ | E,2 G, |$ %9
+ B,2 C | D2 G, | B,2 E | A, G, F, | E, G, A, | B, A, G, | F, F, G, | F E D | A,2 B, |$ G,2 G, | %19
+ A,2 B,- | B, C B, | A,2 B, | G,2 E,/G,/ | G,/F,/ E, F,- | F,3 | z3 | z3 | z3 |$ z3 | z3 | z3 | %31
+ z3 |] %32

@@ -1,0 +1,75 @@
+X:1
+T:Ye glittering toys of earth, adieu
+C:Thomas Clark
+Z:p50, A Fifth Set of
+Z:Psalm and Hymn Tunes,
+Z:London: [c1809]
+%%score [ 1 2 3 4 ]
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="SOPRANO" snm="S."
+V:2 treble nm="ALTO" snm="A."
+V:3 treble-8 transpose=-12 nm="TENOR" snm="T."
+V:4 bass nm="BASS" snm="B."
+V:1
+ G | (d/c/d/e/ d)c B3 G | c2 e2 d2 z d | (cA)(BG) c2 B2 |$ Ad^cd e2 c2 | !fermata!d3 B c2 A2 | %6
+w: Je-|sus, _ _ _ _ to mul- ti-|tudes un- known, O|name _ di- * vine- ly|sweet, O name di- vine- ly|sweet! Je- sus, in|
+w: Ye|glitt- * * * * ’ring toys of|earth, a- dieu, A|no- * bler _ choice be|mine, a no- bler choice be|mine; A re- al|
+w: Be|gone, _ _ _ _ un- wor- thy|of my cares, Ye|spe- * cious _ baits of|sense, ye spe- cious baits of|sense: In- es- ti-|
+ B2 G2 d2 c2 | B2 z G ABcd |$ e=fed c2 B2 | !fermata!A3 A d2 B2 | G2 c2 F2 d2 | G2 e2 (dA)(Bc) |$ %12
+w: thee, in thee a-|lone, Wealth, ho- nour, plea- sure|meet, wealth, ho- nour, plea- sure|meet, Je- sus, in|thee, in thee a-|lone, Wealth, ho- * nour, _|
+w: prize at- tracts my|view, A trea- sure all di-|vine, a trea- sure all di-|vine, A re- al|prize at- tracts my|view, A trea- * sure _|
+w: ma- ble worth ap-|pears, The pearl of price im-|mense, the pearl of price im-|mense, In- es- ti-|ma- ble worth ap-|pears, The pearl _ of _|
+ B2 A2 G4 |] %13
+w: plea- sure meet.|
+w: all di- vine.|
+w: price im- mense.|
+V:2
+ z | z GGF G3 G | G2 G2 G2 z G | D2 D2 F2 G2 |$ FFED G2 E2 | !fermata!F3 G G2 F2 | G2 D2 D2 D2 | %7
+w: |Je- sus, to mul- ti-|tudes un- known, O|name di- vine- ly|sweet, O name di- vine- ly|sweet! Je- sus, in|thee, in thee a-|
+w: |Ye glitt- ’ring toys of|earth, a- dieu, A|no- bler choice be|mine, a no- bler choice be|mine; A re- al|prize at- tracts my|
+w: |Be gone, un- wor- thy|of my cares, Ye|spe- cious baits of|sense, ye spe- cious baits of|sense: In- es- ti-|ma- ble worth ap-|
+ D2 z G =FFGG |$ GGG=F E2 E2 | !fermata!E3 D D2 D2 | E2 E2 D2 D2 | G2 G2 D2 (DE) |$ D2 C2 B,4 |] %13
+w: lone, Wealth, ho- nour, plea- sure|meet, wealth, ho- nour, plea- sure|meet, Je- sus, in|thee, in thee a-|lone, Wealth, ho- nour, _|plea- sure meet.|
+w: view, A trea- sure all di-|vine, a trea- sure all di-|vine, A re- al|prize at- tracts my|view, A trea- sure _|all di- vine.|
+w: pears, The pearl of price im-|mense, the pearl of price im-|mense, In- es- ti-|ma- ble worth ap-|pears, The pearl of _|price im- mense.|
+V:3
+ z | z BGA (B d2) B | c2 c2 B2 z B | A2 d2 d2 d2 |$ d2 z A BBAA | !fermata!A3 d e2 d2 | %6
+w: |Je- sus, to mul- * ti-|tudes un- known, O|name di- vine- ly|sweet, O name di- vine- ly|sweet! Je- sus, in|
+w: |Ye glitt- ’ring toys _ of|earth, a- dieu, A|no- bler choice be|mine, a no- bler choice be|mine; A re- al|
+w: |Be gone, un- wor- * thy|of my cares, Ye|spe- cious baits of|sense, ye spe- cious baits of|sense: In- es- ti-|
+ d2 B2 G2 A2 | B2 z c cde=f |$ edcB A2 ^G2 | !fermata!A3 F G2 B2 | c2 c2 A2 G2 | B2 c2 (BA) G2 |$ %12
+w: thee, in thee a-|lone, Wealth, ho- nour, plea- sure|meet, wealth, ho- nour, plea- sure|meet, Je- sus, in|thee, in thee a-|lone, Wealth, ho- * nour,|
+w: prize at- tracts my|view, A trea- sure all di-|vine, a trea- sure all di-|vine, A re- al|prize at- tracts my|view, A trea- * sure|
+w: ma- ble worth ap-|pears, The pearl of price im-|mense, the pearl of price im-|mense, In- es- ti-|ma- ble worth ap-|pears, The pearl _ of|
+ G2 F2 G4 |] %13
+w: plea- sure meet.|
+w: all di- vine.|
+w: price im- mense.|
+V:4
+ z | z G,,"^6"B,,"^7"D, G,3"^42" =F, |"^6" E,2 C,2 G,2 z G, |"^65" F,2 G,2"^43" A,2 G,2 |$ %4
+w: |Je- sus, to mul- ti-|tudes un- known, O|name di- vine- ly|
+w: |Ye glitt- ’ring toys of|earth, a- dieu, A|no- bler choice be|
+w: |Be gone, un- wor- thy|of my cares, Ye|spe- cious baits of|
+ D,2 z"^6" F,"^6" G,E,"^#"A,A,, | !fermata!D,3 G, C,2 D,2 | G,2 G,,2"^6" B,,2"^7" D,2 | %7
+w: sweet, O name di- vine- ly|sweet! Je- sus, in|thee, in thee a-|
+w: mine, a no- bler choice be|mine; A re- al|prize at- tracts my|
+w: sense, ye spe- cious baits of|sense: In- es- ti-|ma- ble worth ap-|
+ G,2 z"^6" E, =F,"^64"F,"^6"E,"^4§"D, |$ %8
+w: lone, Wealth, ho- nour, plea- sure|
+w: view, A trea- sure all di-|
+w: pears, The pearl of price im-|
+"^Notes:The order of staves in the source is Tenor - [Alto] - Air - [Bass], with the alto part printed in the treble clef an octave abovesounding pitch.Only the first verse of text is given in the source: subsequent verses have here been added editorially." C,"^6T"B,,C,"^6§"D,"^64" E,2"^5#" E,2 | %9
+w: meet, wealth, ho- nour, plea- sure|
+w: vine, a trea- sure all di-|
+w: mense, the pearl of price im-|
+"^Should earth’s vain treasures all depart,Of this dear gift possess’d,I’d clasp it to my joyful heart,And be for ever bless’d.Dear sov’reign of my soul’s desires,Thy love is bliss divine;Accept the wish that love inspires,And bid me call thee mine." !fermata!A,,3 D,"^6" B,,2 G,,2 | %10
+w: meet, Je- sus, in|
+w: vine, A re- al|
+w: mense, In- es- ti-|
+ C,2 A,,2 D,2"^6" B,,2 | E,2 C,2 (G,"^6"F,)(G,C,) |$"^64" D,2"^75" D,2 G,,4 |] %13
+w: thee, in thee a-|lone, Wealth, ho- * nour, _|plea- sure meet.|
+w: prize at- tracts my|view, A trea- * sure _|all di- vine.|
+w: ma- ble worth ap-|pears, The pearl _ of _|price im- mense.|

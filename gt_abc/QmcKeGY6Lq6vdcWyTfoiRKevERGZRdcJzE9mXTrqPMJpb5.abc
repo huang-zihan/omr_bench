@@ -1,0 +1,13 @@
+X:1
+T:Rowen
+L:1/4
+M:3/2
+I:linebreak $
+K:C
+V:1 treble 
+V:1
+ c d || e3 | c d | e c3 | A B | c A3 | G F | E ^D3 | ^F B | A G2 | G c/ | d/ e | d c3 | E ^F | %14
+ G B3 | A B |$ A G4 | G2 | e3 | c d | e c3 | A B | c A3 | G F | E ^D3 | ^F B | A G2 | G c/ | d/ e | %29
+ d c3 | E ^F | G B3 |$ A B | A G4 | G A | _B3 | A B | c A4 | A =B | c3 | e d | A B4 | c d | e3 | %44
+ f e | d c3 | A F | D G | A B |$ c e | d c4 | G A | _B3 | A B | c A4 | A =B | c3 | e d | A B4 | %59
+ c d | e3 | f e | d c3 | A F | D G | A B |$ c e | d c4 | c2 || %69

@@ -1,0 +1,39 @@
+X:1
+T:C minor                 Amos Pilsbury, 1799
+T:Charles Wesley, 1747         886. 886.
+T:Rhode Island
+T:Transcribed from The United States Sacred Harmony, 1799.
+%%score [ 1 2 3 4 ]
+L:1/4
+Q:1/4=120
+M:2/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Tr." snm="Tr."
+V:2 treble nm="C." snm="C."
+V:3 treble-8 nm="T." snm="T."
+V:4 bass nm="B." snm="B."
+V:1
+"^1. Thou great mysterious God unknown, Whose love hath gent – ly   led  me  on    E’en     from  my  in   –   fant    days,     Mine  in–most\n2.     If      I   have on – ly known  thy fear,  And  followed with an  heart  sin–cere    Thy      drawings   from     a   –  bove,   Now, now  the" c2 | %1
+ c c | c B | G G | G2 | (e d) | c c | B c/d/ | e e | d2 | G2 | c c | d/c/ =B | c2 | z G |:$ B B |$ %16
+"^1.  soul  ex  –   pose  to     view,   And  tell  me    if         I         ne–ver    knew    Thy    jus – ti  –  fy    –    ing      grace.      Mine\n2.  far – ther    grace  be – stow,   And   let  my  sprinkled  conscience  know   Thy  sweet  for – gi   –    ving     love.      Now," B e | %17
+ B B | B G | e e | e d/c/ | B B | B2 | G2 | c c | d/c/ =B |1 c2 | z G :|2 c2- | c2 |] %30
+V:2
+"^3. Short of thy love  I  would  not stop,   A       stranger   to      the      gospel   hope,  The     sense  of   sin        for   –  given,     I  would not,\n4.   If  now the  wit–ness  were  in  me,   Would  he  not  tes  –  ti   –   fy   of   thee     In       Je  –  sus    re    –  con   –  ciled?    And should I" [EG]2 | %1
+ E E | E E | G G | G2 | (D E) | F F | G/F/ E/D/ | C C | [B,D]2 | [CE]2 | G F | G G | G2 | z E |:$ %15
+ G G |$ %16
+"^3. Lord,  my   soul   de  – ceive,  Without  thy  in  –  ward   witness    live,    That    an –  te – past        of      heaven.           I\n4.  not  with   faith  draw   nigh,  And bold–ly  Ab –   ba       Fa– ther   cry,      I     know   my–self         thy     child.         And" G B | %17
+ G G | G E | E E | G G/F/ | E E | D2 | [CE]2 | G F | F/>E/ D |1 [CE]2 | z E :|2 [CE]2- | [CE]2 |] %30
+V:3
+"^5. Ah   ne–ver  let    thy   servant  rest,   Till       of  my  part  in  Christ  possessed     I              on  thy  mer  –   cy     feed,      Un–wor – thy\n6.  O   may   I   cast  my   rags  a – side,   My     fil–thy  rags   of  vir–tuous  pride,   And        for  ac – cep – tance  groan;    My works and" E2 | %1
+ G G | G E/<G/ | B B | B2 | (G B) | c c | e/d/ c/B/ | G G | F2 | (E3/2 F/) | G c | B/>c/ d/>c/ | %13
+ c2 | z c |:$ e e |$ %16
+"^5. of   the  crumbs   that    fall,   Yet  raised  by  him   who   died  for    all        To     eat    the    child  –  ren’s   bread.        Un–\n6. right–eous–ness   dis–claim, With  all    I      have,   or      can,   or   am,      And  trust   in    grace       a    –    lone.          My" e g/>f/ | %17
+ e e/>f/ | e B | c c | e/d/ c/B/ | G G | F2 | E2 | G c | B/>c/ d/>c/ |1 c2 | z c :|2 c2- | c2 |] %30
+V:4
+"^7. What–e’er obstructs thy pardoning love,  Or   sin, or  right–eous–ness  re–move,   Thy     glo– ry   to         dis   –   play,     Mine heart of\n8.    Fa – ther,  in  me  re  –  veal   thy  Son, And  to  my  inmost  soul  make  known   How  mer–ci– ful        thou       art,        The  se –cret" E,2 | %1
+ C, C, | C, E, | B,, B,, | B,,2 | [B,,E,]2 | [C,F,] [C,F,] | E, F, | G, E, | B,,2 | C,2 | E, F, | %12
+ G, G, | C,2 | z G, |:$ E, E, |$ %16
+"^A folk hymn (Jackson 1953a, No. 89, David Music 1995).\nArranged by B. C. Johnston, 2017.   \n   1. Measure 5 changed from two quarter notes to a half note and a new measure, to eliminate fermata at the ends of the first two lines.   \n   2. Measure 11, \nCounter\n: first note changed from A to G.    \n   3. Grace notes following converted to sixteenth notes in Tenor, measures 13 and 26.   \n   4. Measure 27: original has a quarter note, changed to a half note, one measure added to accommodate the repeat.""^7. un –  be   –  lief  con – vince, And now ab–solve   me   from   my  sins,    And  take  them   all        a     –     way.        Mine\n8.  of     thy     love  re   –  veal,    And  by thine  hal–lowing  Spi–rit dwell     For  – ev –  er       in        my       heart.        The" E, B,, | %17
+ E, E, | E, E, | C, C, | G, F, | E, E, | B,,2 | C,2 | C, F, | E,/F,/ G, |1 C,2 | z G, :|2 C,2- | %29
+ C,2 |] %30

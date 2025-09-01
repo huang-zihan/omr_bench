@@ -1,0 +1,30 @@
+X:1
+T:Salus Mortalium, 88.84.8
+C:Gesangbuch (Erfurt, German
+Z:Public Domain
+Z:Courtesy of the Cyber Hymnal™
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=117
+M:3/4
+I:linebreak $
+K:G
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ [Fd] | [DB]2 [DG] | [FA]2 [GB] | ([Ac] [GB]) [FA] | G2 [Gd] | [Ge]2 [Fd] | c2 [GB] | A2 z ^G | %8
+ [EA]2 D | [G,E]2 [CF] | G2 [FA] | [GB]2 [Gc] |$ d2 [Fc] | ([GB] A/G/) [FA] | G2 D | [CE]2 [CF] | %16
+ G2 [Dd] | [DB] (A/G/ [FA]) | G2 |] %19
+V:2
+ x | x3 | x3 | x3 | G2 x | x3 | (G A) x | E E2 x | x2 D | x3 | (B, E) x | x3 |$ (G F) x | x E x | %14
+ G2 D | x3 | B, E x | x D x | G2 |] %19
+V:3
+ [D,A,] | [G,B,]2 [B,,D] | D2 [B,,D] | ([A,,E] D) C | [G,,B,]2 [G,B,] | (C B,) [D,A,] | %6
+ ([E,E] [F,D]) [G,D] | [A,C] [E,B,]2 x | [A,,C]2 [D,F,] | G,2 [A,,A,] | (G, B,) [D,D] | D2 [E,E] |$ %12
+ [D,A,]2 [A,,C] | ([B,,D] [E,B,]) [D,C] | [G,B,]2 [B,,D] | G,2 [A,,A,] | [E,G,]2 [F,A,] | %17
+ [G,B,] ([B,,D] [D,C]) | [G,,B,]2 |] %19
+V:4
+ x | x3 | (D, C,) x | x D,2 | x3 | C,2 x | x3 | x4 | x3 | (C, B,,) x | E,2 x | (G, F,) x |$ x3 | %13
+ x3 | x3 | (C, B,,) x | x3 | x3 | x2 |] %19

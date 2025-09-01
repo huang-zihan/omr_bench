@@ -1,0 +1,11 @@
+X:1
+T:Halfe Hannikin  (F)
+L:1/8
+M:6/8
+I:linebreak $
+K:F
+V:1 treble 
+V:1
+|:"F" A>Bc c2 B | A>BA"C7" G2"^(F)" F |"F" A>Bc c>BA |"C7" G>FE"F" F3 ::"F" A3"Bb" B3 | %5
+"F" A3"C7" G2"^(F)" F |"F" A>GA"Bb" B2 A |"C7" G>FE"F" F3 |$"F" A>GA"Bb" B>AB | %9
+"F" A>GA"C7" G2"^(F)" F |"F" A>GA"Bb" B2 A |"C7" G>FE"F" F3 :| %12

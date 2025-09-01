@@ -1,0 +1,12 @@
+X:1
+T:Frogs' Frolic
+L:1/8
+M:6/8
+I:linebreak $
+K:Emin
+V:1 treble 
+V:1
+{F} EDE G2 E | B2 E G2 E | F2 D DFA | ABA AFD |${F} EDE G2 E | B2 E G2 A | (Bc)B (AG)F | %7
+ BGE E2 z :|${f} (gb)g e2 f | (gb)g e2 g | (fa)f d2 e | (fa)f d2 f |${f} (gb)g e2 f | (gb)g e2 f | %14
+ (gfe) (bge) | (ef)e e2 f |${f} (gb)g e2 f | (gb)g e2 g | (fa)f d2 e | (fa)f d2 f |$ (efg) (fga) | %21
+ (gab) e2 B | (Bc)B AGF | BGE E2 z |] %24

@@ -1,0 +1,18 @@
+X:1
+T:Miss Agnes Ross's Reel
+C:William Marshall
+%%score { 1 2 }
+L:1/8
+M:2/2
+I:linebreak $
+K:D
+V:1 treble 
+V:2 bass 
+L:1/4
+V:1
+ F | DATFA DATFA | E=c-cG TE2 (CE) | DATFA DATFA | Ed-dA TF2 E :| (f | d)fdf dfA(f |$ %7
+ =c)def g2 (a/g/f/e/) | d.fdf dfAf | defg a2 (b/a/g/f/) | dfdf dfAf | =cdef g2 (a/g/f/e/) |$ %12
+ afge fdec | dABG TF2 E |] %14
+V:2
+ z/ | D, D, D, D, | C, C, C, C, | D, D, D, D, | A, A,, D, D,/ :| z/ | D, D, D, D, |$ A, A, A, A, | %8
+ D, D, D, D, | D, D, D, D, | D, D, D, D, | A, A, A, A, |$ F, E, D, C, | A, A,, D, D,/ |] %14

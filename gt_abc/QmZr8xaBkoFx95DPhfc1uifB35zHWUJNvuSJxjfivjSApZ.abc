@@ -1,0 +1,17 @@
+X:1
+T:"O'Connell's Lamentation'      (air)         0028
+C:After Sg't.  J. O'Neill
+C:mournfully
+L:1/8
+Q:1/4=60
+M:6/8
+I:linebreak $
+K:C
+V:1 treble 
+V:1
+"^vb" e | A2 (d/c/) (AGE) | (Gcd) (ea^f) |({a} gec) (dcA) | (GE^F) G2 E | (Adc) (AGE) | %6
+ (c>de/^f/)({a} gea) |$ gec dcA | G3 G2 || (e/^f/) | (g^f/a/f/) (g>bag) | (f/e/d/e/f/d/) e2 A | %12
+ (c/B/c/d/e/^f/) g>(ec/A/) | GE(c/A/) GEG |$ .A(A/B/c/A/) .B(B/c/d/B/) | .c(c/d/e/^f/) gea | %16
+ gec dcA | A3 A2 || (A/B/) | cE^F G2 (A/B/) | (c/A/c/d/e/^f/) gea |$ %21
+ (g/f/e/g/f/e/) (d/f/e/d/c/B/) | cE^F G2 (A/B/) | cD^F G2 (A/B/) | (c/B/c/d/e/^f/) gea | gec dcA | %26
+ A3 A2 |] %27

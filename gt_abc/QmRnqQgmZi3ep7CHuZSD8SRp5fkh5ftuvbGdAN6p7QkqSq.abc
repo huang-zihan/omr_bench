@@ -1,0 +1,79 @@
+X:1
+T:Title
+L:1/8
+Q:1/4=240
+M:4/4
+I:linebreak $
+K:C
+V:1 treble 
+V:1
+ z2 z4 B,,2- | B,,2 z2 B,,2- B,, z | z4 C4- | C8- | C2- [G,-C]2 [G,D-]2 D2- | D8 | %6
+ D2- [D-E]2 [D-E]2 [DE-]2 | E8- | E4- [D-E] D2- [CD]- |$ [CD]2- [C-D] C4- C- | C4- C2- C z | %11
+ z z2 C4- C- | C8- | [G,-C] G,2- [G,D-] D4- | D4- D2- DD- | D- [D-E]2 [DE-] E4- | E8- |$ %17
+ E4- E2 D2- | [C-D]4 C4- | C8 | z [A,-A_d'-]2 [A,-d'] [A,C-] C2- C- | C8- | %22
+ C2- C- [G,C]2- [G,-CD-][G,D-]D- | D8- | [G,-D]G,- [G,-E]2 G,- [G,-E]2 [G,E-] | E8- |$ E8- | %27
+ [C-E] C4- C2- C- | C4- C2- [A,-C-A^c'-][A,-Cc'-] | [^F,-G,-A,-c'][F,G,-A,] G,4- G,2- | %30
+ G,4- G,2- G,-[G,A,A^c']- | [G,A,-Ac'-][A,-C-c'][A,C-] C4- C- | C8- |$ %33
+ [G,-A,-CA^c'-]2 [G,A,-c'][G,-A,] G,4- | G,8- | G,2- [G,A,A_d']2- [G,A,-Ad'][A,C-] C2- | C8- | %37
+ C8- | C D2- D- [DE-]2 [CD-E-][DE]- |$ [DE]2- [DE-]E- [D-E] [DE]2- [DE-] | [D-E] D4- D2- D- | %41
+ D D2- D- [CD]-[C-^CD] [CD]2- | [CD-E-][DE-] [D-E]2 D2- DD- | D2- [DE-]2 [D-E] D2- D- |$ %44
+ D D2- D- [DE-]2 [CD-E-]2 | [D-E] D4- D2 D- | D2- [C-D]C- [CD-] D2- [DE]- | %47
+ [DE-] [D-E]2 D2- D D2- | [DE-]2 [F,E-]2 E- [DE-]2 E- |$ E2- E E4- E- | E E2- [D-E] D2- DD- | %51
+ D4- D2- D-[CD]- | [C-D] [CD]2 [CD-] [CD]-[CD-E-] [DE]2 | E2 [^DE-] E4- E- | E2 E4- E-[E-F-c'] |$ %55
+ [EF]-[^D-EF][DE-] E2- E- [C-E]2 | C8- | C4- C2 z2 | z C2- [CE-] E2- [E-G]2 | %59
+ [E-G]2 [EG]2- [G,-EG][G,G-] G2- | [^F-G][FG-] G4- [GA-]A- |$ A2- A[^DE-] E4- | %62
+ E4- E2- E-[A,EA^c']- | [A,-E-Ac'][A,D-E] D2- [D-E] [DE]2- [D-E] | [DE-] E4- E2- E | D4 D4- | %66
+ D- [CD]2- [C-D] C4- |$ C4- [^F,C-][G,-C][G,-C_E][G,D]- | [G,D-] [DE]2- [DE-] [D-E] D2- D- | D8- | %70
+ D2- [DG]2- [DG-]G-[B,-G]B,- | B,8- | B,8- |$ %73
+ B,-[G,B,-][A,-B,-A-^c'][A,-B,Ac'] [A,B,-]2 [B,B]-[B,C-B] | C8- | C8- | C4- C2- [CE-]2 | %77
+ E-[E-G] [E-G]2 [EG-]4 | G2- G z G4- | [GA-] A2- A- [^D-A][DE-] E2- |$ E8- | %81
+ [A,-E-A^c'-][A,-E-c'][A,-CD-_E-E][A,D-E] [D-=E]2 DE- | [^DE-] E4- E2- [C=D-E-] | %83
+ [DE]2- [CDE-]2 [D-E] D2- D- | D- [C-D]2 C4- C- | C4- [G,C]2- [G,CD-]2 |$ [DE-]2 [D-E]2 D4- | D8- | %88
+ [DG-]2 G2- G- [B,-G]2 B,- | B,8- | B,8- | %91
+ [G,B,]-[G,A,-B,A-^c'][C,-A,-A_d'][C,A,-B,-] [A,B,-][B,B-][C-B]C- | C8- | C8- | C4- C-[CE-] E2- |$ %95
+ [E-F-a'] [EF-]2 F G4- | [GB] [Gc]2 G2- [F-G] F2 | E2- E- [EF]2- [EF-]FG- | %98
+ G2- G- [Gc-]2 [G-c] G2 | F-[^DF-][E-F] E2- [EF]2- [EF-] |$ F-[FG-] G2- G- [Gc-]2 [G-c] | %101
+ G-[EF-G]F-[^D-F] [DE-] [CE]2 [DE-] | E2- E E2- E-[^D-E][DE-] | E-[^DE] E2 E-[D-E][DE-]E- |$ %104
+ E- [EF]2- [EF-] [FG-] G2- G- | [Gc-]c-[^Fc] G2- [=F-G][^DF-][E-F] | E2- [EF]2- [EF-]F-[FG-]G- | %107
+ G2- [Gc-]c G2- [EF-G]F- |$ F E2- E- [EF]2- [EF-][FG-] | G2- G-[Gc-] c2 G2- | %110
+ [F-G][F,F]-[F,E-F] E2 E2- E | [^DE-] E2- E [DE-] E2 [DE]- | [DE] E2- E- [CE]2- [C-E]C- |$ C8- | %114
+ [^F,C]-[F,G,-C-][G,C]-[G,-CD-] [G,D-] D2- D- | D4- D D2- D- | [DE]-[D-^DE][DE-]E [DE-] E2- E- | %117
+ E8- | E2- E- [^C-D-E]2 [CD-] [=C-D-c']2 |$ [C-D] C4- C2- C- | C8- | C [Cc']2- [C-c'] C4- | %122
+ C4- C-[^F,C]-[F,G,-C-][G,C]- | [G,-CD-][G,D-] D4- D2- | D2 D2- [D-E]2 D-[DE-] | %125
+ [^DE] E4- E2- E- |$ E4- E2- E-[DE]- | [DE]-[C-D-E] [CD]2- [C-D] C2- C- | C4- C2- [A,-C-A^c']2 | %129
+ [A,-C][A,C-c'-][C-c'] [C-c']2 C2- C- | C4- [^F,C]-[F,G,-C-] [G,C]2- |$ [G,C-D-][CD-] D4- D2- | %132
+ D2- [F,G,D]-[F,-G,-D^D] [F,G,E]2 E-[C,E]- | [C,E-]2 E4- E2- | E4- [E-G]4 | [E^F] G4- G2- G- | %136
+ [G-g]4 G-[Gg-][G,-A,-_B,g^c'-][G,A,Ac']- |$ [^F,-G,A,-Ac'][F,-G,-A,][F,G,-] G,4- G,- | %138
+ G,4- G,2- G,-[G,A,A^c']- | [G,-A,-Ac'-][G,A,-c'][A,C-] C4- C- | C4- C2- C-[G,A,C^c']- | %141
+ [G,A,CAc']-[^F,G,A,-CAc'][G,-A,] G,4- G,- |$ G,4- G,2- G,-[G,A,^c']- | %143
+ [G,-A,-Ac'][G,A,-][A,C-=c'-] [C-c']2 C2- C- | C8- | C4 D2- D-[DE]- | [DE-][D-E] D2- D[D-_E] D2- | %147
+ [DE-]2 [DE]2- [D-E] D2- D- |$ D2 D2- D-[CD]-[C-D_E-][CD-E] | D- [DE-]2 [D-E]2 D2- D | %150
+ D2- [DE-]2 [D-E]2 D2 | z D-[D-^D] [DE-]2 [=D-E] D2- | D4- D2 D2- |$ %153
+ [CD]-[_B,C-D] [CD-]2 [D-^DE-][DE-]E-[=D-E] | D2- D D2- [D-E]2 D | E-[^DE-] E2 E4 | %156
+ [^DE-] E4 E2- [=DE]- | [D-E]D D4- D2- |$ D-[C-Dc'-][C-c'] [CD-]2 [CD]2- [CD-E-] | %159
+ [DE] [^DE-]2 [CE]- [C,-CE]C, E2- | E2 E4- [EF]-[EFc']- | [EFc'] E4- [C-_DE] C2- | C8- | %163
+ C4- C C2- C |$ E2- [E-G]2 [E-G]2 [E-G]2 | [EG-] G2- G G4- | G A4- [^DE-A] E2- | %167
+ E4- E2- [A,E]-[A,-E-A-^c'] | [A,-EA][A,D-]D- [DE]2 E2 E- | E E4- [D-E]2 D- |$ D D4- D- [CD]2- | %171
+ [C-D] C4- C2- C- | C2- [G,C]2- [G,-CD-][G,D-] [DE-]2 | [D-E]2 D4- D2- | D4- [DG-]2 G2- | %175
+ [B,-G] B,4- B,2- B,- | B,8- |$ B,2 ^A,[=A,A^c']- [A,-^A,Ac'-][A,-B,-c'][A,B,-][B,C-B] | %178
+ [B,C-c'-][C-c'] C4- C2- | C8- | C4- C2- [CE-]2 | [E-G]2 [E-G]2 [E-G]2 [EG-]G- | G2 G4- [EGA-]A- | %183
+ A2 z E4- E- |$ E4- E- [A,-EA^c']2 [A,D-] | D- [D-E]2 [D^D-E-] [DE-][DEe']-[F,DEe']E- | %186
+ E2- E- [D-E]2 D2- [^CD-] | D4- [CD]2- [C-D]C- | C4- C2- [^F,C-][G,C]- |$ %189
+ [G,-C_E-][G,-D-E][G,D-] [D=E-]2 [D-E]2 D- | D8- | D2- [DG-]2 G2- [B,-CG]B,- | B,8- | %193
+ B,4- B,2- B,[A,-^c'] | [A,-A]2 [A,B,-][B,B]- [B,C-B] C2- C- | C8- |$ C4- C G2- G | %197
+ E4- [EG-]2 [E-G]E- | E2- [CE] D2- [CD]2- [CD]- | [CDG-][^DG-][E-G] E2- E- [EG-]2 | %200
+ [^D-E-G][DE-] E2- E-[=D-E]D-[CD]- |$ [CD]- [CDG-]2 [^D-G] [DE-] E2- [EG]- | [EG-]G E4- [D-E]2 | %203
+ D2- [CD]2- [C-D] C2- C- | C8- | C2- C- [CG-]2 [^D-E-G][DE-]E- |$ E2 G-[^DG-] [E-G] E2- E- | %207
+ [D-E]2 [CD]2- [CD]-[CDG-]G-[^DE-G] | E2- E-[EG]- [C,-EG-][C,E-G] E2- | %209
+ E-[C_EE-][D-E]D- [CD]-[_B,C-D-] [CDG-]2 |$ [E-G] E2- E- [EG-]2 [E-G]E- | E2- [D-E] D4- [CD]- | %212
+ [C-D] C4- C2- C- | C8 | D2- [DE]-[D^DE-] [=D-E] D2- D | D2- [DE]2- [DE-][D-E] D2- |$ %216
+ D4- [C-D] [CD-]2 [CD]- | [C-D][CD-]D- [DE-]2 [DE]2- [D-E] | %218
+ [D-E][DE-][D-E][F,D]- [F,DE-]E- [DE]2- | [DE-]2 [D-E]D- [DE-]2 [CD-E]D- | D4- D2 D2- |$ %221
+ [C-D]2 [CD-]D- [C-DE-][CE-] [DE]2- | [DE]2 [CD-] D2- [DE-][^D-E][DE-] | %223
+ E-[DE-]E[^DE-] E2- E[DE-] | E4 E2- [D-E]D- | D2 D4- D2- |$ [C-D]2 [CD-]D D2- [CD-E-][D-E] | %227
+ [DE]2 [^DE-] E2 E2- E- | E E4- [EF-]FE- | E4 C4- | C8- | C2- C [C-c']2 [CE-]E-[EG]- |$ %232
+ [EG]4- [E-G][EG-] G2- | G G4- [GA-]2 A- | A E4- E2- E- | %235
+ E2- E-[A,-EA-] [A,-A][A,D-][F,D]-[F,D-E-] | [D-E][D^D-E-][DE-] [C,E]2 E2- E- |$ %237
+ E-[D-E] D2- D[^CD-] D2- | D- [CD]2- [C-D] C4- | C2- C-[^F,C] G,2- [G,D-]D- | [DE-]2 [D-E] D4- D- | %241
+ D4- D2- D-[DG-] | G2- G-[B,-G] B,4- | B,8- |$ B,4 [A,-A^c']2 [A,B,-]2 | [B,B] C4- C2- C- | C8- | %247
+ C4- C z z2 |] %248

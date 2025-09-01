@@ -1,0 +1,48 @@
+X:1
+T:Title
+L:1/8
+Q:1/4=105
+M:4/4
+I:linebreak $
+K:C
+V:1 perc nm="Drumset" snm="D. Set"
+K:none
+I:percmap A A 41 normal
+I:percmap F F 35 normal
+I:percmap ^a a 49 x
+I:percmap ^b b 55 x
+I:percmap ^e e 46 x
+I:percmap ^f f 51 x
+I:percmap ^g g 42 x
+I:percmap c c 38 normal
+I:percmap e e 47 normal
+V:1
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | F2 F2 F2 F2 | F2 F2 F2 F2 | F2 F2 F2 F2 | %13
+ F2 F2 F2 F2 |$ F2 F2 F2 F2 | F2 F2 F2 F2 | F2 F2 F2 F2 | F2 F2 F2 F^e | F^gF^g F^gF^g | %19
+ F^gF^g F^gF^e | F^gF^g F^gF^g |$ F^gF^g F^gF^e | F^gF^g F^gF^g | F^gF^g F^gF^e | F^gF^g F^gF^g | %25
+ F^gF^g F^e [Fc]/c/c/c/ |$ [F^a]^g[Fc]^g F^g[Fc]^g | F^g[Fc]^g F^e[Fc]^g | F^g[Fc]^g F^g[Fc]^g | %29
+ F^g[Fc]^g F^e [Fc]c/c/ | F^g[Fc]^g F^g[Fc]^g |$ F^g[Fc]^g F^e[Fc]^g | F^g[Fc]^g F^g[Fc]^g | %33
+ F^g[Fc]^g F^e [Fc]/c/c/c/ | F^gc^g F^gc^g | F^gc^g F^gc^e |$ F^gc^g F^gc^g | F^gc^g F^g/^g/ c^e | %38
+ F^g[Fc]^g F^g[Fc]^g | F^g[Fc]^g F^g[Fc]^e | F^g[Fc]^g F^g[Fc]^g |$ F^g[Fc]^g F^g/c/ [Fc]^e | %42
+ [Fc^g]^g[Fc^g]^g [Fc^g]^g[Fc^g]^g | [Fc^g]^g[Fc^g]^g [Fc^g]^g[Fc^g]^e | %44
+ [Fc^g]^g[Fc^g]^g [Fc^g]^g[Fc^g]^g | [Fc^g]^g[Fc^g]^g [Fc^g]^g[Fc^g]^g |$ %46
+ [Fc^g]^g[Fc^g]^g [Fc^g]^g[Fc^g]^g | [Fc^g]^g[Fc^g]^g [Fc^g]^g[Fc^g][F^g] | %48
+ [Fc^g]^g[Fc^g]^g [Fc^g]^g[Fc^g]^g | [Fc^g][F^g][Fc^g]^g [Fc^b]c/c/ [Fc]/c/c/c/ | %50
+ [F^a]^g[Fc]^g F^g[Fc]^g |$ F^g[Fc]^g F^g[Fc]^g | F^g[Fc]^g F^g[Fc]^g | F^g[Fc]^g F^e [Fc]c/c/ | %54
+ F^g[Fc]^g F^g[Fc]^g | F^g[Fc]^g F^e[Fc]^g |$ F^g[Fc]^g F^g[Fc]^g | F^g[Fc]^g F^e [Fc]/c/c/c/ | %58
+ [F^b]^g[Fc^g]^g [F^g]^g[Fc^g]^g | [F^g]^g[Fc^g]^g [F^g]^g[Fc^g]^g | %60
+ [F^g]^g[Fc^g]^g [F^g]^g[Fc^g]^g |$ [F^g]^g[Fc^g]^g [F^g]^g/c/ [Fc^g]^g | %62
+ [F^a]^g[Fc^g]^g [F^g]^g[Fc^g]^g | [F^g]^g[Fc^g]^g [F^g]^g[Fc^g]^g | %64
+ [F^g]^g[Fc^g]^g [F^g]^g[Fc^g]^g | [F^g]^g[Fc^g]^g [F^a]c/c/ [Fc]/c/c/c/ |$ [F^a]cFc FcFc | %67
+ FcFc FcF[c^e] | FcFc FcFc | FcFc FcF[c^e] | FcFc FcFc | FcFc FcF[c^e] |$ FcFc FcFc | %73
+ FcFc Fc F^a/^a/ | ^a2 z2 z4 | z2 z z z ^a-^a^a | ^a2 z2 z4 | z z z2 z z ^a^a | ^a2 c2 z2 c2 |$ %79
+ z2 c2 z2 c2 | [FAc][FAc][FAc][FAc] [FAc][FAc][FAc][FAc] | %81
+ [Fc][Fc][Fc][Fc] [FAc][Fc]/c/ [Fc]/e/[FA]/c/ | [F^a]^f[Fc^f]^f [F^f]^f[Fc^f]^f | %83
+ [F^f]^f[Fc^f]^f [F^f]^f[Fc^f]^f | [F^f]^f[Fc^f]^f [F^f]^f [Fc^f]^f/^f/ |$ %85
+ [F^f]^f[Fc^f]^f [F^f]^f [Fc^f]^f/c/ | [F^f]^f[Fc^f]^f [F^f]^f[Fc^f]^f | %87
+ [F^f]^f/^f/ [Fc^f]^f [F^f]^f[Fc^f]^f | [F^f]^f[Fc^f]^f [F^f]^f[Fc^f]^f | %89
+ [F^f]^f/^f/ [F^f]^f [F^f]c/e/ [Fc]/c/c/c/ |$ [F^a]^f[Fc^f]^f [F^f]^f[Fc^f]^f | %91
+ [F^f]^f[Fc^f]^f [F^f]^f[Fc^f]^f | [F^f]^f[Fc^f]^f [F^f]^f [Fc^f]^f/^f/ | %93
+ [F^f]^f[Fc^f]^f [F^f]^f [Fc^f]c/c/ | [F^f]^f[Fc^f]^f [F^f]^f [Fc^f]^f/^f/ |$ %95
+ [F^f]^f[Fc^f]^f [F^f]^f[Fc^f]^f | [F^f]^f/^f/ [Fc^f]^f [F^f]^f[Fc^f]^f | %97
+ [F^f]/c/^f [Fc^f][F^f] [F^f]c/c/ [Fc]/c/c/c/ | [F^a]2 z2 z4 |] %99

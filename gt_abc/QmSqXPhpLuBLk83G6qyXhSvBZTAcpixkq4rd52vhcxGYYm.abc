@@ -1,0 +1,11 @@
+X:1
+T:The Exile's Jig
+L:1/8
+M:9/8
+I:linebreak $
+K:Emin
+V:1 treble 
+V:1
+|: edB B2 A G2 A | B2 d d2 B def | edB B2 A G2 E | E2 e e2 d efg | edB B2 A G2 A |$ B2 d d2 B def | %6
+ e2 f gfe fed | B2 e e2 d efg :: e2 f gfe fed | BAB d2 B def |$ e2 f gfe fed | B2 e e2 d efg | %12
+ agf gfe fed | BAB d2 B def | edB B2 A G2 E |$ E2 e e2 d efg :| %16

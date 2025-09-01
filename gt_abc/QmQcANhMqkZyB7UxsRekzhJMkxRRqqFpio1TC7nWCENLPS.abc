@@ -1,0 +1,50 @@
+X:1
+T:A mi Tirsi
+C:Giovanni Ghizzolo
+%%score [ 1 2 ] { 3 | 4 }
+L:1/8
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Soprano" snm="S"
+V:2 bass nm="Bass" snm="B"
+V:3 treble nm="BC" snm="BC"
+L:1/4
+V:4 bass 
+V:1
+"^Editor: André Vierendeels (16/11/08)\nContinuo: André Vierendeels""^Source  Madrigali et Arie---Libro secondo---Venetia---A.Raveraij.1609." z2 B4 B2 | %1
+w: A mi|
+ B4 B3 B |"^MADRIGALE" c4 c2 f2- | f2 _ed cB c2- | c2 d2 G4- |$ G2 A2 A4 |$ G8 :: z4 d4- | %8
+w: Tir- si'e nel'|nie- ghi, ma-|* nel bel vi- so tuo|_ me l'a-|* pri'e spie-|ghi.|O|
+ d2 AB c2 _e2 | d8 |[M:3/2] c8 G4 | A8 A4 | B8 c4"^-" |$[M:4/4] d4 d2 e2- |$ e2 AB c4- | c6 d2 | %16
+w: _ che ne- gar men-|da|de la|do- ve'in|bel pa-|ro- le er-|* go'e do- len-|* te|
+ A8 | A4 B4 | =B2 BB c4- | cdAB c4 |$ B4 =B4 | A4 z4 | z2 =B4 _BB | A4- AGcB | A8 | A2 GA E4 |$ %26
+w: co-|re lan-|* gu'e lan- guen-|* do'il suo lan- guir|non ta-|ce|lan- gu'e lan-|guen- * do'il suo lan-|guir|non _ _ ta-|
+ D4 z2 d2- | d2 cB c3 B | B4 B2 d2 | A2 B2 c4- | c2 B2 A4 | G8 :| %32
+w: ce se-|* gno'e di cor fe-|ri- to e|vol- to'in- ce-|* ne- ri-|to.|
+V:2
+ G,6 F,2 | _E,4 E,2 D,2 | F,4 F,4 | B,4 A,G,F,E, | F,4 z2 G,2 |$ C,3 B,, D,4 |$ G,,8 :: B,,8 | %8
+w: A mi|Tir- si'e nel'|nie- ghi,|ma- nel bel vi- so|tuo me|l'a- pri'e spie-|ghi.|O|
+ D,E, F,4 C,2 | G,8 |[M:3/2] C,8 C,4 | F,8 E,4 | D,8 C,4 |$[M:4/4] B,,4 B,,4 |$ F,6 A,,B,, | %15
+w: che ne- gar men-|da|de la|do- ve'in|bel pa-|ro- le|er- go'e do-|
+ C,4 =B,,4 | D,8 | D,8 | z2 E,4 _E,E, | D,4- D,C,F,E, |$ D,4"^#" E,4 | A,,4 B,,4 | %22
+w: len- te|co-|re|lan- gu'e lan-|guen- * do'il suo lan-|guir non|ta- ce|
+ =B,,2 B,,B,, C,4- | C,D,A,,B,, C,4- | C,4 B,,4 | A,,8"^#" |$ D,8 | %27
+w: lan- gu'e lan- guen-|* do'il suo lan- guir|_ non|ta-|ce|
+ B,,2 C,D, F,2 F,,2"^Note: original keys: Ut 1st, Fa 4rth" | B,,4 B,,4 | F,4 E,2 F,2 | %30
+w: se- gno'e di cor fe-|ri- to|e vol- to'in-|
+ G,2 D,2 D,4 | G,,8 :| %32
+w: ce- ne- ri-|to.|
+V:3
+ [DGB]4 | [_EGB]4 | [FAc]4 | [DFB]4 | [FAc]2 [DGB]2 |$ [EGc] A G ^F |$ [DG=B]4 :: [DFB]4 | %8
+ [DFA]2 [Ad] [Ac_e] | [Gc]2 [DG=B]2 |[M:3/2] [EGc]6 | [FAc]4 [Gc]2 | [D^FA]4 [EGc]2 |$ %13
+[M:4/4] [CFB]4 |$ [FAc]4 | [EGc]2 [DG]2 | [D-^FA-]4 | [D^FA]2 [DGB]2 | [G=B]2 [DGc]2 | %19
+ [DFA]2 [FAc]2 |$ [FB]2 [E^G=B]2 | [EA^c]2 [FB]2 | [DG]2 E2 | [DF]2 [EG]2 | [EA]2 [DG]2 | %25
+ E2 [^CA]2 |$ [D^FA]4 | [DB] [Ec] [FAc]2 | [DFB]2 [DG]2 | [FAc] [DB] [Gc] [FAc] | %30
+ [EGc] [GB] [^FA] [Fc]"^7" | [DG=B]4 :| %32
+V:4
+ G,6 F,2 | _E,4 E,2 D,2 | F,4 F,4 | B,4 A,G,F,E, | F,4 z2 G,2 |$ C,3 B,, D,4 |$ G,,8 :: B,,8 | %8
+ D,E, F,4 C,2 | G,8 |[M:3/2] C,12 | F,8 E,4 | D,8 C,4 |$[M:4/4] B,,8 |$ F,6 A,,B,, | C,4 =B,,4 | %16
+ D,8 | D,8 | z2 E,4 _E,2 | D,4- D,C,F,E, |$ D,4 E,4 | A,,4 B,,4 | =B,,4 C,4- | C,D,A,,B,, C,4- | %24
+ C,4 B,,4 | A,,8 |$ D,8 | B,,2 C,D, F,2 F,,2 | B,,4 B,,4 | F,4 E,2 F,2 | G,2"^4" D,2 D,4 | G,,8 :| %32

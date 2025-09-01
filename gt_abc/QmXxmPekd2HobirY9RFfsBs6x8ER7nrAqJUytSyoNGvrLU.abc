@@ -1,0 +1,48 @@
+X:1
+T:Eversummer Island
+C:Sochi Terada
+%%score { 1 | 2 | 3 }
+L:1/16
+Q:1/4=80
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+L:1/8
+V:3 bass 
+V:1
+ GBdD GB z2 z8 | gbd'd gb z2 z8 | GBdD GB z2 z8 | gbd'd gb z2 z8 | [EGB]4 GB z2 z8 |$ %5
+ [=EGB]4 GB z2 z8 | z4 dcBG F z z2 dcBGF z z2 z4 | G2B z d2GB2d z G B2c2 | d2G z z2 z2 B2G2B2G2 |$ %9
+ c2G2 z4 z4 [Ff]2[Gg]2 | z8 z8 | G2B z d2GB2d z G B2c2 | d2G z z2 z2 B2G2B2G2 | %13
+ c2G2 z4 z4 [Ff]2[Gg]2 |$ z16 | z16 | d'd'gg bbgg d'd'gg bbgg |$ d'd'gg bbgg d'd'gg bbd'd' | %18
+ d''d'g'g b'bg'g d''d'g'g b'bg'g |$ d''d'g'g b'bg'g d''d'g'g b'bd''d' | %20
+ d''d'g'g b'bg'g d''d'g'g b'bg'g |$ d''d'g'g b'bg'g d''d'g'g b'bd''d' | z16 | z16 |$ z16 | z16 | %26
+ z16 |$ z16 |] %28
+V:2
+ z8 | z4 z2 D2 | z8 | z4 z2 D2 | z8 |$ z4 z2 D2 | z8 z4 | z8 | z4 z2 D2 |$ z8 | z4 z2 D2 | z8 | %12
+ z4 z2 D2 | z2 z z/ C/ z4 |$ z8 | z8 | z8 |$ z8 |!f! GB/ z/ dG/Bd/ z/ G/ Bc |$ %19
+!ff! [Dd][Gg] z z [Bb][Gg][Bb][Gg] |!ff! [cc'][Gg] z2 z2 [Ff][Gg] |$ z8 | z8 | z8 |$ z8 | z8 | %26
+ z8 |$ z8 |] %28
+V:3
+!ped! [E,,G,,B,,]4 D,4 G,4 B,4!ped-up! |!ped! [G,,B,,D,]4 G,4 B,4 z4!ped-up! | %2
+!ped! [E,,G,,B,,]4 D,4 G,4 B,4!ped-up! |!ped! [G,,B,,D,]4 G,4 B,4 z4!ped-up! | %4
+!ped! [E,,G,,B,,]4 D,4 G,4 B,4!ped-up! |$!ped! [G,,B,,D,]4 G,4 B,4 z4!ped-up! | %6
+!ped! [C,^D,F,]4 z4 [B,,C,F,]4 z4 z8!ped-up! |!ped! [E,,G,,B,,]4 ^D,2G,2 B,2G,2E,2B,,2!ped-up! | %8
+!ped! [G,,B,,D,]4 G,4 B,4 z4!ped-up! |$!ped! [E,,G,,B,,]4 ^D,2G,2 B,2G,2E,2B,,2!ped-up! | %10
+!ped! [G,,B,,D,]4 G,4 B,4 z4!ped-up! |!ped! [E,,G,,B,,]4 ^D,2G,2 B,2G,2E,2B,,2!ped-up! | %12
+!ped! [G,,B,,D,]4 G,4 B,4 z4!ped-up! |!ped! [C,^D,F,]4 C,D,F, z B,2G,2E,2B,,2!ped-up! |$ %14
+!ped! [E,,G,,B,,]4 G,,B,,D,G, D,B,,G,,B,, D,G,B, z!ped-up! | %15
+!ped! [G,,B,,D,]4 G,,B,,D,G, D,B,,G,,B,, D,G,B, z!ped-up! | %16
+!ped! [E,,G,,B,,]4 G,,B,,D,G, D,B,,G,,B,, D,G,B, z!ped-up! |$ %17
+!ped! [G,,B,,D,]4 G,,B,,D,G, D,B,,G,,B,, D,G,B, z!ped-up! | %18
+!ped! [E,,G,,B,,]4 G,,B,,D,G, D,B,,G,,B,, D,G,B, z!ped-up! |$ %19
+!ped! [G,,B,,D,]D,C,B,, G,,B,,D,G, D,B,,G,,B,, D,G,B, z!ped-up! | %20
+!ped! [E,,G,,B,,]G,D,B,, G,,B,,D,G, D,B,,G,,B,, D,G,!mf![C,^D,F,]2-!ped-up! |$ %21
+!mf!!ped! [C,D,F,]2[C,^D,F,]2 C,D,F, z F,D,C,D, G, z z2!ped-up! | %22
+ [E,,G,,B,,]4!ped! G,,B,,D,G, D,B,,G,,B,, D,G,B, z!ped-up! | %23
+!ped! [G,,B,,D,]4 G,,B,,D,G, D,B,,G,,B,, D,G,B, z!ped-up! |$ %24
+!mp!!ped! [E,,G,,B,,]4 G,,B,,D,G, D,B,,G,,B,, D,G,B, z!ped-up! | %25
+!ped! [G,,B,,D,]4 G,,B,,D,G, D,B,,G,,B,, D,G,B, z!ped-up! | %26
+!ped! [E,,G,,B,,]4 G,,B,,D,G, D,B,,G,,B,, D,G,B, z!ped-up! |$ %27
+!p! [C,^D,F,]4 C,D,F, z F,D,C,D, G, z z2 |] %28

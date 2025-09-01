@@ -1,0 +1,14 @@
+X:1
+T:Gypsy Princess
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble 
+V:1
+ GA | B2 B2 B2 B2 | ABAG E2 D2 | G3 B d3 B | dedB AGGA | B2 BB B2 BB | ABAG E2 D2 | G3 B dedB |1$ %8
+ A2 G2 G2 :|2 A2 G2 G2 Bc || d3 e g3 e | dedB AGBc | d3 e g3 e | dedB A2 Bc | d3 e g3 e |$ %15
+ dedB A2 G2 | G3 B dedB |1 A2 G2 G2 Bc :|2 A2 G2 G4 ||[K:A] c2 c2 c2 c2 | BcBA F2 E2 | A3 c e3 c |$ %22
+ efec BAAB | c2 cc c2 cc | BcBA F2 E2 | A3 c efec |1 B2 A2 A2 AB :|2 B2 A2 A2 cd || e3 f a3 f |$ %29
+ efec BAcd | e3 f a3 f | efec B2 cd | e3 f a3 f | efec B2 A2 | A3 c efec |1 B2 A2 A2 cd :|2$ %36
+ B2 A2 A2 AB || x8 | %38

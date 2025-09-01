@@ -1,0 +1,12 @@
+X:1
+T:Proposal [1], The
+L:1/8
+M:4/4
+I:linebreak $
+K:Dmin
+V:1 treble 
+V:1
+"^Slow" fe | d{ed}c A>G FGAB | c{dc}=B cd c2 fe | d{ed}^c A>G FGAG | A<d d{ed}c d2 fe |$ %5
+ d{ed}c A>G FGAB | c{dc}=B cd c2 fg | a{ba}f gz/e/ f{gf}d ez/c/ | A<d d{ed}^c d2 || de |$ %10
+ f{gf} dz/e/ fagf | e{fe} dz/e/ fagf | e{fe}d cz/d/ efge | f{gf}e dz/e/ fagf |$ e{fe}d ^ce d2 de | %15
+{g} fede .fagf |{f} ed^cd .egfe | .fagf egfe | d^cde f2 || %19

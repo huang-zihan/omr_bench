@@ -1,0 +1,14 @@
+X:1
+T:Yankee Doodle
+L:1/8
+Q:1/4=150
+M:4/4
+I:linebreak $
+K:D
+V:1 treble 
+V:1
+|:"D""^A" d2 ef d2"A" cA |"D" d2 ef d2"A" cA |"D" d2 ef"G" gfed |"A" cABc"D" d2 d2 :: %4
+"G""^B" B=cBA B^cdB |"D" ABAG FG A2 |$"G" B=cBA B^cde |"D" fd"A"ec"D" d2 d2 :: %8
+[K:C]"Dm""^C Key Change!" defd"Am" cAAc |"G" BGGB"Am" cAAc |"Dm" defd"Am" cAAe |$ %11
+"Dm" fd"A"ec"Dm" d2 d2 ::"F""^D" A_BAG A=BcA |"G" GAGF"Em" EFGE |"F" A_BAG A=BcA | %15
+"Dm" fd"A"ec"Dm" d2 d2 :| %16

@@ -1,0 +1,16 @@
+X:1
+T:Et lys imot mørketida
+L:1/4
+Q:1/4=100
+M:3/4
+I:linebreak $
+K:A
+V:1 treble nm="Alt" snm="A."
+V:1
+ x2 x | A,3 | C2 B, | A,3 | C3 | D3 | E3 | D2 z | (E3 | E3) | D2 C | B,3 | D3 | E2 D | C E A | %15
+ G2 =G |$ F2 A | G F E | A G A | A3 | F3 | ^E3 | F G F | E2 C | D3 | E2 D | C E2 | E2 z | F2 A | %29
+ G3 | E2 G | F2 E |$ (D3 | D3) | D (C2 | C2) z | E E E | E E E | D D D/C/ | B,2 C/C/ | D D D | %41
+ E E D | C E A | G2 =G | F F A |$ G F E | A G A | A2 A | F F F | ^E E3/2 E/ | F G F | E2 C | %52
+ D D D | E E D | C E E | E E z/ E/ | F2 A |$ G2 z/ E/ | E2 G | F2 z/ E/ | D D D | D2 D | D (C2 | %63
+ C2) z | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 |$ z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | %82
+ z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 |$ z3 | z3 | z3 | z3 | z3 | z3 | z3 |] %98

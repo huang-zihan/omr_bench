@@ -1,0 +1,35 @@
+X:1
+T:Binks no Sake
+C:One Piece
+L:1/8
+Q:1/2=84
+M:6/8
+I:linebreak $
+K:none
+V:1 treble transpose=-9 nm="Saxofón contralto" snm="Sax. Ctrl."
+V:1
+[K:C] z3 g2 G | ^f2 G =f3 | e2 z2 z c- | c2 d e z2 | d2 z2 z A- | A3 z z2 | z3 c3 | c2 d _e3 | %8
+ e3 .c z G- | G2 A GAc |$ d3 _e2 d | _e2 d c2 z | c2 z _BAG | E2 D C2 z |{/f} ^f{/a}dA{/F} ^F z F | %15
+ G z G c2 z | B3 A z G- | G3 z z2 |${/F} ^FdF GeG | ^GfG A^fA | .B3 B3 | B3 d2 z |[K:C] e.g.g g3- | %23
+ g3 a2 g | e3 g3- | g3 z z2 | e.g.g g3- | g3 a2 g |$ e3 c3- | c3 z z2 | e.g.g g3- | g3 a2 g | %32
+ e3 g3- | g3 z z2 | e.g.g g3- | g3 a2 g | e3 c3- | c3 z z2 |!f! ^GA c3 c |${/d} _ed c3 c | %40
+{/_e} dcA dcA | G4 z2 | g2 e d2 c | A2 B c2 z | g2 e d2 c | A2 c G z2 | A2 c G z G | A2 B c2 f |$ %48
+ e z e d2 c | d4 z2 | g2 e d2 c | A2 B c2 z | g2 e d2 c | A2 c G z2 | A2 c G z G | A2 B c2 f | %56
+ e2 c d z d | c4 z2 |$ g2 e d2 c | A2 B c2 z | g2 e d2 c | A2 c G z2 | A2 c G z G | A2 B c2 f | %64
+ e z e d2 c | d4 z2 | g2 e d2 c | A2 B c2 z |$ g2 e d2 c | A2 c G z G | A2 c G z G | A2 B c2 f | %72
+ e2 c d z d | c4 z2 | z3 c2 A | c2 d _e3 | e3 .c z G- |$ G2 A GAc | d3 _e2 d | _e2 d c2 z | %80
+ c2 z _BAG | E2 D C2 z |{/f} ^f{/a}dA{/F} ^F z F | G z G c2 z |$ B3 A z G- | G3 z z2 | %86
+{/F} ^FdF GeG | ^GfG A^fA | .B3 B3 | B3 d2 z | e.g.g g3- | g3 a2 g | e3 g3- | g3 z z2 |$ %94
+ e.g.g g3- | g3 a2 g | e3 c3- | c3 z z2 | e.g.g g3- | g3 a2 g | e3 g3- | g3 z z2 | e.g.g g3- | %103
+ g3 a2 g | e3 c3- |$ c3 z z2 | g2 e d2 c | A2 B c3 | g2 e d2 c | A2 c G3 | A2 c G2 G | A2 B c2 f | %112
+ e2 e d2 c | d4 z2 | g2 e d2 c | A2 B c3 |$ g2 e d2 c | A2 c G2 z | A2 c G2 G | A2 B c2 f | %120
+ e2 c d2 d | c4 z2 |!ff! g2 e d2 c | A2 B c2 z | g2 e d2 c | A2 c G z2 |$ A2 c G z G | A2 B c2 f | %128
+ e z e d2 c | d4 z2 | g2 e d2 c | A2 B c2 z | g2 e d2 c | A2 c G z2 | A2 c G z G | A2 B c2 f |$ %136
+ e z e d z d | c4 z2 | e.g.g g3- | g3 a2 g | e3 g3- | g3 z z2 | e.g.g g3- | g3 a2 g | e3 c3- | %145
+ c3 z z2 | e.g.g g3- |$ g3 a2 g | e3 g3- | g3 z z2 | e.g.g g3- | g3 a2 g | e3 c3- | c3 z z2 | %154
+!mf! g2 e d2 c | A2 B c2 z | g2 e d2 c | A2 c G2 z |$ A2 c G z G | A2 B c2 f | e z e d2 c | d4 z2 | %162
+ g2 e d2 c | A2 B c2 z | g2 e d2 c | A2 c G z2 | A2 c G z G | A2 B c2 f |$ e2 c d z d | c4 z2 | %170
+ g2 e d2 c | A2 B c2 z | g2 e d2 c | A2 c G z2 | A2 c G z G | A2 B c2 f | e z e d2 c | d4 z2 |$ %178
+ g2 e d2 c | A2 B c2 z | g2 e d2 c | A2 c G z G | A2 c G z G | A2 B c2 f | e2 c d z d | c4 z2 | %186
+ e.g.g g3- | g3 a2 g |$ e3 g3- | g3 z z2 | e.g.g g3- | g3 a2 g | e3 c3- | c3 z z2 | e.g.g g3- | %195
+ g3 a2 g | e3 g3- | g3 z z2 | e.g.g g3- | g3 a2 g |$ e3 c3- | c3 z z2 |] %202

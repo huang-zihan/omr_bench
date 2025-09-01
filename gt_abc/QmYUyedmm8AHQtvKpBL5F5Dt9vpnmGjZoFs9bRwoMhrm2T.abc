@@ -1,0 +1,10 @@
+X:1
+T:[Untitled Tune]
+L:1/8
+M:6/8
+I:linebreak $
+K:D
+V:1 treble 
+V:1
+ d2 d c2 d | efe efg | d2 d c2 d | ecA A2 A | d2 d c2 d | efd efg | agd gec | d2 d d3 ||$ %8
+ f2 f fdf | g2 g geg | f2 f fdf | ecA A2 g | faf def | gbg efg | agd bec | d2 d d2 |] %16

@@ -1,0 +1,73 @@
+X:1
+T:O Sacrum Convivium
+C:Richard Farrant
+%%score 1 [ 2 3 4 ]
+L:1/4
+Q:1/4=144
+M:2/2
+I:linebreak $
+K:G
+V:1 treble nm="Sopran"
+V:2 treble nm="Alt" snm="A."
+V:3 treble-8 nm="Tenor" snm="T."
+V:4 bass nm="Bass" snm="B."
+V:1
+!p! G4 | (G3 A) | B2 A2 | G2 c2 | A4 | z2 A A |$ (B ^c) d2 | d2 ^c2 | d4 | (d2 c2) | B3 B | %11
+w: O|sa- *|crum con-|vi- vi-|um,|in quo|Chri- * stus|su- mi-|tur,|re- *|co- li-|
+ A2 G2 |$ (A B c2) | (B2 A2) | G2 B B | A2 G2 | (A2 F2) | !fermata!G4 |$!mf!!<(! G3 A | B2 c2!<)! | %20
+w: tur me-|mo- * *|ri- *|a pas- si-|o- nis|e- *|jus,|mens im-|ple- tur|
+ B3 B | B2!f! (B c) | d2 B2 |!<(! e3 e!<)! |$!>(! d4-!>)! | d4 | z4 | z2!mf! G2"^cresc." | d2 d2 | %29
+w: gra- ti-|a, im- *|ple- tur|gra- ti-|a,|_||fu-|tu- rae|
+ c2 B A |$ B4 | G4 | z2!f! (G2 | c2) c2 | B2 A2 |"^dim." (G2 A2) |$ F2!p! (B2 | E F) G2 | F2 G2 | %39
+w: glo- ri- ae|no-|bis,|no-|* bis|pi- gnus|da- *|tur, no-|* * bis|pi- gnus|
+ (A2 F2) | G2 z2 | z4 |$ z4 | z2!mf! G2"^cresc." | d2 d2 | c2 B A | B4 | G4 |$ z2!f! (G2 | c2) c2 | %50
+w: da- *|tur,|||fu-|tu- rae|glo- ri- ae|no-|bis,|no-|* bis|
+ B2 A2 |"^dim." (G2 A2) | F2!p! (B2 | E F) G2 |$ %54
+w: pi- gnus|da- *|tur, no-|* * bis|
+"^rall. - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -" F2 G2 | %55
+w: pi- gnus|
+ (A2 F2) | G4- | G4 |] %58
+w: da- *|tur.|_|
+V:2
+!p! D4 | (E3 F) | G2 F2 | E3 G | F4 | z2 F F |$ G2 F2 | A2 (A G) | F4 | (D2 E F) | G3 G | F2 E2 |$ %12
+w: O|sa- *|crum con-|vi- vi-|um,|in quo|Chri- stus|su- mi- *|tur,|re- * *|co- li-|tur me-|
+ (F2 G2) | (G2 E2) | E2 G G | F2 E2 | (E2 D C) | !fermata!B,4 |$!mf!!<(! D2 D2 | G2 G2!<)! | G3 G | %21
+w: mo- *|ri- *|a pas- si-|o- nis|e- * *|jus,|mens im-|ple- tur|gra- ti-|
+ G2!f! G2 | G2 G2 |!<(! G3 G!<)! |$!>(! F4!>)! | z4 | z2!mf! E"^cresc." F | G2 G2 | F2 E D | %29
+w: a, im-|ple- tur|gra- ti-|a,||et fu-|tu- rae|glo- ri- ae|
+ (E2 F2) |$ G4 | z4 | z2!f! (G2 | E2) D2 | D2 F2 |"^dim." E4 |$ D2!p! (D2 | C2) (B, C) | D2 D2 | %39
+w: no- *|bis,||no-|* bis|pi- gnus|da-|tur, no-|* bis _|pi- gnus|
+ (E2 D2) | B,2 z2 | z4 |$ z2!mf! E"^cresc." F | G2 G2 | F2 E D | (E2 F2) | G4 | z4 |$ z2!f! (G2 | %49
+w: da- *|tur,||et fu-|tu- rae|glo- ri- ae|no- *|bis,||no-|
+ E2) D2 | D2 F2 |"^dim." E4 | D2!p! (D2 | C2) (B, C) |$ D2 D2 | (E2 D2) | B,4- | B,4 |] %58
+w: * bis|pi- gnus|da-|tur, no-|* bis _|pi- gnus|da- *|tur.|_|
+V:3
+!p! B4 | (B3 d) | d2 d2 | B2 e2 | d4 | z2 d d |$ d2 d2 | e2 e2 | d4 | (B2 c2) | d3 d | d2 B2 |$ %12
+w: O|sa- *|crum con-|vi- vi-|um,|in quo|Chri- stus|su- mi-|tur,|re- *|co- li-|tur me-|
+ (d2 e2) | (d2 c2) | B2 d d | d2 B2 | (c2 A2) | !fermata!G4 |$!mf!!<(! B3 c | d2 e2!<)! | d3 d | %21
+w: mo- *|ri- *|a pas- si-|o- nis|e- *|jus,|mens im-|ple- tur|gra- ti-|
+ d2!f! (d c) | B2 B2 |!<(! c3 c!<)! |$ A2!mf! A"^cresc." A | B2 B2 | A2 B d | (c B) (A G) | A2 B2 | %29
+w: a, im- *|ple- tur|gra- ti-|a, et fu-|tu- rae|glo- ri- ae|no- * bis _|pi- gnus|
+ c4 |$ d2!f! B2 | e2 e2 | d2 c B | A2 A2 | G2 d2 |"^dim." (B2 c2) |$ A2!p! G2- | G2 G2 | A2 B2 | %39
+w: da-|tur, fu-|tu- rae|glo- ri- ae|no- bis|pi- gnus|da- *|tur, no-|* bis|pi- gnus|
+ A4 | G2!mf!"^cresc." G2 | B2 B2 |$ A2 B d | (c B) (A G) | A2 B2 | c4 | d2!f! B2 | e2 e2 |$ %48
+w: da-|tur, fu-|tu- rae|glo- ri- ae|no- * bis _|pi- gnus|da-|tur, fu-|tu- rae|
+ d2 c B | A2 A2 | G2 d2 |"^dim." (B2 c2) | A2!p! G2- | G2 G2 |$ A2 B2 | A4 | G4- | G4 |] %58
+w: glo- ri- ae|no- bis|pi- gnus|da- *|tur, no-|* bis|pi- gnus|da-|tur.|_|
+V:4
+!p! G,4 | (E,3 D,) | G,2 D,2 | E,2 C,2 | D,4 | z2 D, D, |$ G,2 B,2 | A,2 A,2 | D,4 | (B,2 A,2) | %10
+w: O|sa- *|crum con-|vi- vi-|um,|in quo|Chri- stus|su- mi-|tur,|re- *|
+ G,3 G, | D,2 E,2 |$ (D,2 C,2) | (G,2 A,2) | E,2 B,, B,, | D,2 E,2 | (C,2 D,2) | !fermata!G,,4 |$ %18
+w: co- li-|tur me-|mo- *|ri- *|a pas- si-|o- nis|e- *|jus,|
+!mf!!<(! G,2 G,2 | G,2 E,2!<)! | G,3 G, | G,2!f! G,2 | G,2 G,2 |!<(! C,3 C,!<)! |$ %24
+w: mens im-|ple- tur|gra- ti-|a, im-|ple- tur|gra- ti-|
+ D,2!mf! D,"^cresc." D, | G,2 G,2 | F,2 E, D, | E,2 E,2 | D,2 (C, B,,) | A,,4 |$ G,,2!f! G,2 | %31
+w: a, et fu-|tu- rae|glo- ri- ae|no- bis|pi- gnus _|da-|tur, fu-|
+ C2 C2 | B,2 A, G, | G,2 F,2 | G,2 D,2 |"^dim." (E,2 A,,2) |$ D,2!p! (G,2 | C,2) E,2 | D,2 B,,2 | %39
+w: tu- rae|glo- ri- ae|no- bis|pi- gnus|da- *|tur, no-|* bis|pi- gnus|
+ (C,2 D,2) | G,,2!mf!"^cresc." G,,2 | G,2 G,2 |$ F,2 E, D, | E,2 E,2 | D,2 (C, B,,) | A,,4 | %46
+w: da- *|tur, fu-|tu- rae|glo- ri- ae|no- bis|pi- gnus _|da-|
+ G,,2!f! G,2 | C2 C2 |$ B,2 A, G, | G,2 F,2 | G,2 D,2 |"^dim." (E,2 A,,2) | D,2!p! (G,2 | %53
+w: tur, fu-|tu- rae|glo- ri- ae|no- bis|pi- gnus|da- *|tur, no-|
+ C,2) E,2 |$ D,2 B,,2 | (C,2 D,2) | G,,4- | G,,4 |] %58
+w: * bis|pi- gnus|da- *|tur.|_|

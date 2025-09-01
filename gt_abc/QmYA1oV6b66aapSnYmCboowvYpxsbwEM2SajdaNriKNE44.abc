@@ -1,0 +1,95 @@
+X:1
+T:Dorian Mode on C
+%%score 1 2 3 4 ( 5 6 )
+L:1/8
+Q:1/4=100
+M:3/4
+I:linebreak $
+K:C
+V:1 treble-8 nm="Acoustic Guitar" snm="Guit."
+V:2 treble nm="Organ" snm="Org."
+V:3 treble-8 nm="Electric Guitar" snm="El. Guit."
+V:4 bass transpose=-12 nm="Electric Bass" snm="El. B."
+V:5 perc nm="Drumset" snm="D. Set"
+K:none
+I:percmap A A 41 normal
+I:percmap ^b b 52 x
+I:percmap c c 40 normal
+I:percmap d d 45 normal
+I:percmap e e 47 normal
+I:percmap f f 48 normal
+V:6 perc 
+K:none
+I:percmap F F 36 normal
+I:percmap ^D D 44 x
+V:1
+!pp!!ped! A,A ce cA!ped-up! |!ped! [E,B,]^G Be BG!ped-up! |!ped! A,A ce cA!ped-up! | %3
+!ped! [E,B,]^G de dG!ped-up! |:!ped! A,A ce cA!ped-up! |$!ped! CG ce cG!ped-up! | %6
+!ped! DA df dA!ped-up! |!ped! FA cf cA!ped-up! |!ped! A,A ce cA!ped-up! |!ped! CG ce cG!ped-up! | %10
+!ped! E,^G Be BG!ped-up! |$!ped! E^G de dG!ped-up! |!ped! A,A ce cA!ped-up! | %13
+!ped! CG ce cG!ped-up! |!ped! DA df dA!ped-up! |!ped! FA cf cA!ped-up! |$!ped! A,A ce cA!ped-up! | %17
+!ped! [E,B,]^G Be BG!ped-up! |!ped! A,A ce cA!ped-up! |!ped! [E,B,]^G de dG!ped-up! :| %20
+!ped! A,A ce cA!ped-up! |$!ped! CG ce cG!ped-up! |!ped! DA df dA!ped-up! |!ped! FA cf cA!ped-up! | %24
+!ped! A,A ce cA!ped-up! |!ped! CG ce cG!ped-up! |!ped! E,^G Be BG!ped-up! |$ %27
+!ped! E^G de dG!ped-up! |!ped! A,A ce cA!ped-up! |!ped! CG ce cG!ped-up! |!ped! DA df dA!ped-up! | %31
+!ped! FA cf cA!ped-up! |$!ped! A,A ce cA!ped-up! |!ped! [E,B,]^G Be BG!ped-up! | %34
+!ped! A,A ce cA!ped-up! |!ped! [E,B,]^G de d!ped-up!G |:!ped! A,A ce cA!ped-up! |$ %37
+!ped! CG ce cG!ped-up! |!ped! DA df dA!ped-up! |!ped! FA cf cA!ped-up! |!ped! A,A ce cA!ped-up! | %41
+!ped! CG ce cG!ped-up! |!ped! E,^G Be BG!ped-up! |$!ped! E^G de dG!ped-up! | %44
+!ped! A,A ce cA!ped-up! |!ped! CG ce cG!ped-up! |!ped! DA df dA!ped-up! |!ped! FA cf cA!ped-up! |$ %48
+!ped! A,A ce cA!ped-up! |!ped! [E,B,]^G Be BG!ped-up! |!ped! A,A ce cA!ped-up! | %51
+!ped! [E,B,]^G de dG!ped-up! :|!ped! A,A ce cA!ped-up! |$!ped! CG ce cG!ped-up! | %54
+!ped! DA df dA!ped-up! |!ped! FA cf cA!ped-up! |[Q:1/4=90]!ped! A,A ce cA!ped-up! | %57
+!ped! [E,B,]^G Be BG!ped-up! |!ped! A,A ce cA!ped-up! |$!ped! [E,B,]^G de dG!ped-up! | %60
+!ped! !arpeggio![A,EAce]6- | [A,EAce]6 | !arpeggio![A,EAce]6!ped-up! |] %63
+V:2
+ z6 | z6 | z6 |!p! z4 E2 |: A4 e2 |$ e4 c2 | d4 A2 | c4 a2 | a4 a2 | g4 d2 | e6- |$ e4 a2 | a4 a2 | %13
+w: |||There|is a|house in|New Or-|leans, they|call the|rise- ing|sun.|* It's|been the|
+w: |||My|moth- er|was a|tail _|or She|sewed my|new blue|jeans|* My|fathe- er|
+ g2 e2 c2 | d2 A2 A2 | c4 A2 |$ A4 c2 | B4 ^G2 | A6- | A4 ^G2 :| A4 GA |$ ce gc AG | d2 ad g2 | %23
+w: ru- in of|many a poor|boy. And|God I|know I'm|one.|||||
+w: was _ a|gam- ble- ing|man way|down in|New Or-|leans|||||
+ fa cd fd | A2 cA GE | cB Ae cG | E^G Be ^gB |$!pp! e2 ^g2 e2 | a6 | c'6 | d'6 | f'6 |$ a6 | b6 | %34
+w: |||||||||||
+w: |||||||||||
+ A2 cA cA | EB cA!p! ^G2 |: A4 e2 |$ e4 c2 | d4 A2 | c4 aa | a4 a2 | g4 d2 | e6- |$ e4 aa | a4 a2 | %45
+w: |* * * * The|On- ly|thing a|gambl- er|needs is a|suit- case|and a|trunk.|* and the|on- ly|
+w: ||Moth er|tell your|ch- ild-|ren not to|do the|things I've|done.|* and *|live your|
+ g2 e2 c2 | d2 A2 AA | c4 AA |$ A4 cB | B4 ^G2 | A6- | A6 :| a4 a2 |$ g2 e2 c2 | d2 A2 AA | c4 AA | %56
+w: ti- me that|he is sat- is|fied is *|when he is|on a|drunk...||||||
+w: l- ife in|sin and mis- er|y in the|house of the|ris- ing|sun...||||||
+ A4 cB | B4 ^G2 | A6- |$ A6 | EA ce ac' | a6 |!pp! a6 |] %63
+w: |||||||
+w: |||||||
+V:3
+!mp! [EA]6 | [E^G]6 | [EA]6 | [E^G]6 |: [EA]6 |$ [CG]6 | [DA]6 | [CF]6 | [EA]6 | [CG]6 | [E^G]6 |$ %11
+ [E^G]6 | [EA]6 | [CG]6 | [DA]6 | [CF]6 |$ [EA]6 | [E^G]6 | [EA]6 | [E^G]6 :| [EA]6 |$ [CG]6 | %22
+ [DA]6 | [CF]6 | [EA]6 | [CG]6 | [E^G]6 |$!f! e^g b d'2 g | ac'/e'/- e'/g/e ae | gc ec Gc | %30
+ dc A2 cA | Pf2 Pc'2 AG |$ A4 ec | B2 eB ^GE | A6- | A4!mp! ^G2 |: [EA]6 |$ [CG]6 | [DA]6 | [CF]6 | %40
+ [EA]6 | [CG]6 | [E^G]6 |$ [E^G]6 | [EA]6 | [CG]6 | [DA]6 | [CF]6 |$ [EA]6 | [E^G]6 | [EA]6 | %51
+ [E^G]6 :|!p! [EA]6 |$ [CG]6 | [DA]6 | [CF]6 | [EA]6 | [E^G]6 | [EA]6 |$ [E^G]6 |!ped! [EA]6 | %61
+ z6!ped-up! |!pp! A6 |] %63
+V:4
+!mp! A,,6 | E,6 | A,,6 | ^G,E, D,B,, E,,^G,, |: A,,6 |$ C,6 | D,6 | F,6 | A,,6 | C,6 | %10
+ ^G,E, B,,E, B,,^G,, |$ ^G,E, D,B,, E,,^G,, | A,,6 | C,6 | D,6 | F,6 |$ C,6 | B,,6 | A,,6 | %19
+ ^G,E, D,B,, E,,^G,, :| A,,6 |$ C,6 | D,6 | F,6 | A,,6 | C,6 | ^G,E, B,,E, B,,^G,, |$ %27
+ ^G,E, D,B,, E,,^G,, | A,,6 | C,6 | D,6 | F,6 |$ C,6 | B,,6 | A,,6 | ^G,E, D,B,, E,,^G,, |: A,,6 |$ %37
+ C,6 | D,6 | F,6 | A,,6 | C,6 | E,6 |$ ^G,E, D,B,, E,,^G,, | A,,6 | C,6 | D,6 | F,6 |$ C,6 | B,,6 | %50
+ A,,6 | ^G,E, D,B,, E,,^G,, :|!p! A,,6 |$ C,6 | D,6 | F,6 | C,6 | B,,6 | A,,6 |$ %59
+ ^G,E, D,B,, E,,^G,, |!ped! A,,6 | A,,6-!ped-up! | A,,6 |] %63
+V:5
+!p! [Ac]^b ^b^b [c^b][c^b] | x6 | x6 | [Ac]^b ^b^b/c/ c/[c^b]/c/c/ |: [Ac]^b ^b^b [c^b][c^b] |$ %5
+ x6 | x6 | x6 | x6 | x6 | x6 |$ [Ac]^b ^b^b/c/ c/[c^b]/c/c/ | [Ac]^b ^b^b [c^b][c^b] | x6 | x6 | %15
+ x6 |$ x6 | x6 | x6 | [Ac]^b ^b^b/c/ c/[c^b]/c/c/ :| [Ac]^b ^b^b [c^b][c^b] |$ x6 | x6 | x6 | x6 | %25
+ x6 | x6 |$ [Ac]^b ^b^b/c/ c/[c^b]/c/c/ | [Ac]^b ^b^b [c^b][c^b] | x6 | x6 | x6 |$ x6 | x6 | x6 | %35
+ [Ac]^b ^b^b/c/ c/[c^b]/c/c/ |: [Ac]^b ^b^b [c^b][c^b] |$ x6 | x6 | x6 | x6 | x6 | x6 |$ %43
+ [Ac]^b ^b^b/c/ c/[c^b]/c/c/ | [Ac]^b ^b^b [c^b][c^b] | x6 | x6 | x6 |$ x6 | x6 | x6 | %51
+ [Ac]^b ^b^b/c/ c/[c^b]/c/c/ :| [Ac]^b ^b^b [c^b][c^b] |$ x6 | x6 | x6 | x6 | x6 | x6 |$ %59
+ [Ac]^b ^b^b/c/ c/[c^b]/c/c/ | [Ac]^b ^b^b/f/ f/e/d/c/ | [Ac]^b ^b^b/f/ f/e/d/c/ | c6 |] %63
+V:6
+ F^D ^D^D ^D^D | x6 | x6 | F^D ^D^D ^D^D |: F^D ^D^D ^D^D |$ x6 | x6 | x6 | x6 | x6 | x6 |$ %11
+ F^D ^D^D ^D^D | F^D ^D^D ^D^D | x6 | x6 | x6 |$ x6 | x6 | x6 | F^D ^D^D ^D^D :| F^D ^D^D ^D^D |$ %21
+ x6 | x6 | x6 | x6 | x6 | x6 |$ F^D ^D^D ^D^D | F^D ^D^D ^D^D | x6 | x6 | x6 |$ x6 | x6 | x6 | %35
+ F^D ^D^D ^D^D |: F^D ^D^D ^D^D |$ x6 | x6 | x6 | x6 | x6 | x6 |$ F^D ^D^D ^D^D | F^D ^D^D ^D^D | %45
+ x6 | x6 | x6 |$ x6 | x6 | x6 | F^D ^D^D ^D^D :| F^D ^D^D ^D^D |$ x6 | x6 | x6 | x6 | x6 | x6 |$ %59
+ F^D ^D^D ^D^D | F^D ^D^D ^D^D | F^D ^D^D ^D^D | F6 |] %63

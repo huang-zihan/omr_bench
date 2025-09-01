@@ -1,0 +1,23 @@
+X:1
+T:Op.2543
+C:Yohei Kato * 加藤 洋平
+Z:Yohei Kato * 加藤 洋平 2019
+%%score { 1 | 2 }
+L:1/16
+Q:1/4=40
+M:2/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+L:1/4
+V:1
+"^山吹色：Yellow Ocher"!mf! cBAB G2F2 | E2A2 G4 | F2A2 E2D2 | CDEF G4 | AGFE G2F2 | cBAG A2E2 | %6
+ FEDF GFEG | AGFA G4 ||$[K:A]"^柑子色（こうじいろ）：Yellow Orange" ABcd e2G2 | A2F2 G4 | D2E2 G2A2 | %11
+ dcBA G4 | ABcd e2G2 | FGAB c2G2 | dcBA Gfed | cBAF G4 | A8 |] %17
+V:2
+ [C,E,G,] [B,,D,G,] | [C,E,A,] [E,G,B,] | [F,A,C] [E,G,C] | [C,F,A,] [B,,D,G,] | %4
+ [G,,C,E,] [B,,D,G,] | [C,E,A,] [E,G,B,] | [C,F,A,] [C,E,G,] | [A,,C,F,] [B,,D,G,] ||$ %8
+[K:A]"_Groningen, 05:37, Friday, 12/27/2019" [C,E,A,] [E,G,B,] | [F,A,C] [E,G,C] | %10
+ [D,F,A,] [C,E,A,] | [D,F,A,] [E,G,B,] | [C,E,A,] [B,,E,G,] | [A,,C,F,] [C,E,G,] | %14
+ [D,F,A,] [C,E,A,] | [D,F,A,] [E,G,B,] | [E,A,C]2 |] %17

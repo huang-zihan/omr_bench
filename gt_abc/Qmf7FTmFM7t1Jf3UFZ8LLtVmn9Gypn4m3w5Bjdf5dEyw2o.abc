@@ -1,0 +1,14 @@
+X:1
+T:Strath Connan
+L:1/8
+M:6/8
+I:linebreak $
+K:D
+V:1 treble 
+V:1
+ e/d/ | c2 A AAA | ecA Bcd | c2 A AAA | e3 e2 d | c2 A AAA | ecA Bcd | B<Bg gfg |$ d3 d2 e/d/ | %9
+ c2 A AAA | ecA Bcd | c2 A AAA | e2 a2 d | c2 A AAA | ecA Bcd | B<Bg gfg |$ d3 d2 || e/d/ | %18
+ c2 e aga | c2 e ede | c2 e aga | e3 e2 d | c2 e aga | c2 e e>de | B<Bg gfg |$ d3 e2 d | c2 e aga | %27
+ c2 e e>de | c2 e aga | e3 g3 | agf g2 e | fed c2 A | B<Bg gfg | d3 d2 |:$ e/d/ | c2 A AAA | %36
+ AAA AAA | c2 A AAA | e3 e2 g |1 c2 A AAA | AAA AAA | B2 G GGG | d3 d2 :|2$ agf g2 e | fed c2 A | %45
+ B<Bg gfg | d3 d2 || %47

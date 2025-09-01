@@ -1,0 +1,59 @@
+X:1
+T:The Lord Will Appear
+C:Edmund Simon Lorenz
+Z:Public Domain
+Z:Courtesy of the Cyber Hymnal™
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=83
+M:6/8
+I:linebreak $
+K:D
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^Duet" D/[CE]/ | [DF][DF][DF] [DF][EG][FA] | [GB][FA][^E^G] [FA][DF][FA] |$ %3
+w: 1.~As the|light- ning’s bright flash in the|east- ern ho- ri- zon Sweeps|
+w: 2.~Oh, who|then shall go for- ward in|tri- umph to meet Him; And|
+w: 3.~Oh, the|child- ren of faith who a-|wait His ap- pear- ing Shall|
+ [GB][GB][GB] [Bd][Ac][GB] | [GB][FA][^E^G] [FA]2 D/[C=E]/ | [DF][DF][DF] [DF][EG][FA] |$ %6
+w: o- ver the sky when a|storm draw- eth near; So the|peo- ple of earth shall a-|
+w: who shall be scat- tered like|ter- ri- fied flocks? Who shall|lift up glad voic- es with|
+w: joy in His pre- sence and|bask in His love; For their|souls have been washed in the|
+ [GB][FA][^E^G] [FA][DF][Fd] | [Ec][Ac][Ac] [^Gc][Fd][Ec] | [DB][Ec][DB] [CA]2 || %9
+w: wake to the com- ing Of|Him who will soon in His|glo- ry ap- pear.|
+w: prais- es to greet Him, And|who for a shel- ter will|cry to the rocks?|
+w: blood of His ran- som, And|fit- ted through Him for the|glo- ry a- bove.|
+"^Refrain" D/[CE]/ |$ [DF] [FA]4 [GB] | [FA] [EG]4 [CE]/[DF]/ | [EG] [GB]4 [Ac] |$ %13
+w: ||||
+w: Then be|watch- ing and|wait- ing, Then be|watch- ing and|
+w: ||||
+ [GB] [FA]4 [DF]/[EG]/ | [FA][Fd][Fd] [Fd]2 [FA]/[Fd]/ | [Gc][GB][G^A] !fermata![GB]2 [GB]/[GB]/ |$ %16
+w: |||
+w: wait- ing, For we|know not the hour when He|com- eth in power! Then be|
+w: |||
+ [FA][Fd][GB] [FA][DF]D | [DF][DF][CE] D2 |] %18
+w: ||
+w: watch- ing and wait- ing, the|Lord will ap- pear!|
+w: ||
+V:2
+ D/ x/ | x6 | x6 |$ x6 | x5 D/ x/ | x6 |$ x6 | x6 | x5 || D/ x/ |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ %16
+ x5 D | x3 D2 |] %18
+V:3
+ z | F,,D,D, F,,D,D, | F,,D,D, F,,D,D, |$ G,,G,G, G,,G,G, | D,,D,D, D,,2 z | D,,D,D, D,,D,D, |$ %6
+w: |~ ~ ~ ~ ~ ~|~ ~ ~ ~ ~ ~|~ ~ ~ ~ ~ ~|~ ~ ~ ~|~ ~ ~ ~ ~ ~|
+ D,,D,D, D,,D,D, | E,,E,E, E,,E,E, | E,,E,E, A,,2 || [D,F,]/[D,G,]/ |$ %10
+w: ~ ~ ~ ~ ~ ~|~ ~ ~ ~ ~ ~|~ ~ ~ ~|Then be|
+ [D,A,][D,D][D,D] [D,D][D,D][D,D] | [A,,C][A,,C][A,,C] [A,,C]2 [A,,A,]/[A,,A,]/ | %12
+w: watch- ing and wait- ing, the|Lord will ap- pear! Then be|
+ [A,,A,][A,,A,][A,,A,] [A,,A,][A,,C][A,,E] |$ [D,D][D,D][D,D] [D,D]2 [D,A,]/[D,A,]/ | %14
+w: watch- ing and wait- ing, the|time may be near! * *|
+ [D,D][D,A,][D,A,] [D,A,]2 [D,D]/[D,D]/ | [G,E][G,D][G,C] !fermata![G,D]2 [G,D]/[G,D]/ |$ %16
+w: ||
+ [D,D][D,D][D,D] [D,D][D,A,][F,A,] | A,A,[A,,G,] [D,F,]2 |] %18
+w: ||
+V:4
+ x | x6 | x6 |$ x6 | x6 | x6 |$ x6 | x6 | x5 || x |$ x6 | x6 | x6 |$ x6 | x6 | x6 |$ x6 | %17
+ A,A, x3 |] %18

@@ -1,0 +1,37 @@
+X:1
+T:Jesus das zarte Kindelein
+C:André Vierendeels
+Z:©
+%%score [ 1 2 3 ]
+L:1/4
+Q:1/4=102
+M:3/4
+I:linebreak $
+K:F
+V:1 treble nm="Tenor 1" snm="T 1"
+V:2 treble-8 nm="Tenor 2" snm="T 2"
+V:3 bass nm="Bass" snm="B"
+V:1
+ z z G |"^1)" G2 B | A2 G | F2 G | A2 A |$ A2 B | c2 d | =B A2 | G2 G | A2 B | c2 B |$ A F2 | %12
+w: Je-|sus das|zar- te|Kin- de-|lein, wol-|te dem|G'sätz ge-|hör- sam|seyn, und|opf- fren|sein er-|stes Blut.|
+w: Grosz|war dein|De- muth|Je- su|Christ, grosz|dein Ge-|duld, und|Lie- be|ist, wel-|che so|früh, so|herz- lich|
+ G2 c | c2 d | f2 e | d ^c2 |$ d2 d | e2 d | c2 A | B3 | A2 G |$ A2 A | A2 B | c2 d | =B A2 | G3 |] %26
+w: Am ach-|ten Tag|der Be-|schney- dung|gut, O|Gött- li-|ches Blut,|O|thew- res|Werth, be-|spreng uns|und die|gan- tze|Erd|
+w: litt ein|so schmertz-|li- che|Mund und|Schnitt, dein|gros- se|Weisz- heid|hie|uns _|zeigt be-|schnei- den|un- ser|Ney- lig-|keit.|
+V:2
+"^1)" G3 |"^2)" E2 D | F2 D | C2 E | D2 F |$ E2 G | E2 A | D F2 | D2 D | F2 G | G2 D |$ F D2 | %12
+w: Je-|sus das|zar- te|Kin- de-|lein, wol-|te dem|G'sätz ge-|hör- sam|seyn, und|opf- fren|sein er-|Am Blut.|
+w: Be-|schnei- den|wil ich|Haupt und|Hirn, mein|Haar, mein|An- ge-|sicht, und|Stirn, Au-|gen; Na-|sen, Oh-|ren und|
+ D2 E | G2 F | A2 G | F E2 |$ A2 G | G2 D | E2 F | D3 | D2 D |$ F2 D | E2 D | E2 F | D G ^F | G3 |] %26
+w: Am ach-|ten Tag|der Be-|schney- dung|gut, O|Gött- li-|ches Blut,|O|thew- res|Werth, be-|spreng uns|und die|gan- * tze|Erd.|
+w: Mund, die|Leff- tzen,|Zähn, Zun-|gen, und|Schlund, die|Händ, und|Fin- ger|all|dar- *|bey, da-|mit ich|dein Nach-|fol- * ger|sey.|
+V:3
+"^3)""^1)""^4)" G,3 | C,2 G,, | D,2 G,, | A,,2 C, | D,2 D, |$ A,,2 G,, | C,2 D, | G,, D,2 | %8
+w: Je-|sus das|zar- te|Kin- de-|lein, wol-|te dem|C'sätz ge-|höt- sam|
+w: Be-|schnei- den|wil ich|auch mit|Lust, mein|Rüc- ken,|Ma- gen,|Bauch, und|
+ G,,2 G,, | D,2 G,, | C,2 G,, |$ D, D,2 | G,,2 C, | E,2 D, | A,,2 C, | D, A,,2 |$ D,2 G,, | %17
+w: seyn, unf|opf- fren|sein er-|Am Blut.|Am ach-|ten Tag|der Be-|schney- dung|gut O|
+w: Brust, Lung,|Le- ber,|Hertz, Miltz,|Schenc- kel,|Fusz, Kley-|der, Ge-|sell- schaft|mein ge-|niesz, und|
+ C,2 G,, | C,2 D, | G,,3 | D,2 G,, |$ D,2 D, | A,,2 G,, | C,2 D, | G,, D,2 | G,,3 |] %26
+w: Gött- li-|ches Blut,|O|thew- res|Werth, be-|spreng uns|und ie|gan- tze|Erd.|
+w: Kurtz- weil|wil ich|schnei-|den ab|al- lein|dich su-|chen bisz|_ ins|Grab.|

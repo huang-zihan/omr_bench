@@ -1,0 +1,17 @@
+X:1
+T:North Cuntry tune, A
+L:1/8
+Q:3/4=80
+M:9/4
+I:linebreak $
+K:G
+V:1 treble 
+V:1
+ G2 | B d3 g2 BcdB g2 d2 B2 G2 | BcdB g2 BcdB g2 g4 A2 | BcdB d2 BcdB g2 d2 B2 G2 |$ %4
+ e3 c e2 e2 B2 d2 f4 A2 :: B2 e2 ef g3 f e2 d2 B2 G2 | B2 d2 ef g3 f e2 f4 A2 |$ %7
+ B2 d2 ef g3 f e2 d2 BcdB | e2 cdec d2 BcdB f4 A2 :: BcdB d2 BcdB g2 d2 B2 G2 |$ %10
+ BcdB d2 BcdB g2 f4 A2 | BcdB d2 BcdB g2 d3 B d2 | e3 c e2 d3 B d2 f4 A2 ::$ %13
+ G2 g2 B2 g3 B g2 c2 g2 B2 | G2 g2 B2 g3 B g2 A2 f2 A2 | G2 g2 B2 g3 B g2 B2 f2 B2 | %16
+ A2 f2 A2 f3 A g2 f4 A2 ::$ d4 _ed edcB g2 d2 B2 G2 | d4 _ed edcB g2 f4 A2 | %19
+ d4 _ed edcB g2 d2 B2 d2 |$ e2 c2 e2 d2 B2 d2 f4 A2 :: B2 d2 g2 g2 efge g2 G2 g2 | %22
+ B3 d g2 g2 efge f4 A2 |$ B2 d2 g2 g2 efge d2 BcdB | e2 cdec d2 BcdB f4 A2 :| %25

@@ -1,0 +1,12 @@
+X:1
+T:Irish Air in the Poor Soldier [2]
+L:1/8
+M:6/8
+I:linebreak $
+K:D
+V:1 treble 
+V:1
+ d/e/ | fdB AGF | Eee e2 d/e/ | fdB AFA | Bdd d2 d/e/ | fdB AGF | Eee e2 d/e/ | fdB AFA |$ %8
+ Bdd d2 :: f/e/ | dfa dfa | dfa a3/2g/4f/e/ | dfa dfa | bee e2 f/e/ | dfa dfa |$ %15
+ dd'b{!fermata!a} !fermata!a>ba/g/ | fdB AGF | Eee e2 d/e/ | fdB AFA | Bdd d2 F | GGG FFF | %21
+ Egf{f} e2 d/e/ |$ fdB AFA | Bdd d2 :| %24

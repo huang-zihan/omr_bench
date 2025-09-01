@@ -1,0 +1,13 @@
+X:1
+T:I shall leave this country and go along with you to wander
+L:1/8
+Q:1/4=112
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble 
+V:1
+"^Allegretto" E>G | B2 (Bc) (BG) F>G | B>c ee{def} e3 c | (BG) (ec) (BG) F>G | (EDEF) G2 e>d | %5
+ c>d BG FA GF |$ (E>DE)F g2 (ed) | c2{c} (BG) B2 (GE) | (TF4 E2) || E>G | (Be) (ce) (BG) F>G | %11
+ E2 E2 E2 (EG) | (B>c B)G (Bc) ef |$ g>f eg f2 ef | g>f eg fe ce | (cB) (eG) B2 e>d | c2 BG B2 GE | %17
+ TF4 E2 || %18

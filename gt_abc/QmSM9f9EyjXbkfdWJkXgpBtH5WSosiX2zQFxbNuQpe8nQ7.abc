@@ -1,0 +1,11 @@
+X:1
+T:prova1
+L:1/16
+M:2/4
+I:linebreak $
+K:C
+V:1 bass nm="Piano" snm="Pno."
+V:1
+ A,,A,,A,,A,, C,,4 | B,,B,,B,,B,, G,,2G,,2 | A,4 F,4 | E,2E,2 E,E,E,E, | B,,4 D,4 | B,,4 G,,4 | %6
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %25
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 |] %32

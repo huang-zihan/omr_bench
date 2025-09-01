@@ -1,0 +1,15 @@
+X:1
+T:Green Sleeves
+L:1/16
+M:6/8
+I:linebreak $
+K:G
+V:1 treble-8 nm="古典吉他" snm="Guit."
+V:1
+ e4 | gE,GBad bE,GBc'b | aDAdfA dDAdef | [E,g]BfBeB [B,^d]F^cFdF | eE,GBeB [E,GBe]4 z2 |$ e2 | %6
+ gE,BdaB bE,GBc'b | aDAdfA dDAdef | gCEGeB eC^dCeC | fB,FA^dA [B,B]4 z2 |$ e2 | gE,GBad bE,GBc'b | %12
+ aDAdfA dDAdef | [E,g]BfBeB [B,^d]F^cFdF | eE,GBeB [E,GBe]4 z2 |$ %15
+ [bd']GGG[bd']G [bd']G[a^c']G[gb]G | [fa]DDD[df]D [Ad]DDDef | [eg]BBBeB eB^dBeB | %18
+ [df]FFF^dF [B,B]4 z2 |$ [bd']GGG[bd']G [bd']G[a^c']G[gb]G | [fa]DDD[df]D [Ad]DDDef | %21
+ [eg]B[df]B[ce]B [B^d]B,[A^c]B,[Bd]B, | [Be]3/2 z/ E,B,EG B z !arpeggio![E,GBe]4 |$ z12 | z12 | %25
+ z12 | z12 | z12 | z12 | z12 | z12 | z12 | z12 |] %33

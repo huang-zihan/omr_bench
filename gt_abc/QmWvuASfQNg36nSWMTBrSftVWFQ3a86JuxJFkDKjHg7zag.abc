@@ -1,0 +1,44 @@
+X:1
+T:Si vaga e la mia fiamma
+C:Ruggiero Giovanelli
+Z:©
+%%score [ 1 2 3 ]
+L:1/8
+Q:1/4=90
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Soprano 1" snm="S 1"
+L:1/4
+V:2 treble nm="Soprano 2" snm="S 2"
+V:3 treble-8 nm="Tenor" snm="T"
+V:1
+"^1)" g2 f2 | e2 d2 | c2 c/d/e/f/ | g3/2 f/4e/4 d2 |$ e2 z d- | d c2 B- | B A2 G- | G A2 B- | %8
+w: Si va-|ga'e la|mia fiam- * * *||ma, che|_ piu mi|_ strug- ge|_ quan- to|
+w: E si|so- a-|ve'il lac- * * *||cio, ch'in|_ ser- vi-|* tu con-|* ten- to'e|
+ B c2 d- |$ d g/f/ e/d/c/B/ | A/B/c/d/ e/f/ g- | g f/e/ d2 | e4 ::$ z B2 c- | c B2 c- | c B A2 | %16
+w: _ men m'in-|* fiam- * * * * *|||ma,|ne prov'|_ al- tro|_ do- lo-|
+w: _ lie- to|_ giac- * * * * *|||cio,|e li-|* ber- ta|_ piu go-|
+ ^G2 z B- | B c2 d- |$ d e2 f | g d2 e- | e f g2- | g2 ^f2 | g4 :| %23
+w: re, che|_ non ve-|* der ogn'|hor cre- scer|_ l'ar- do-||re.|
+w: do, quan-|* to piu|_ av- vin-|to son nel|_ ca- ro|_ no-|do.|
+V:2
+"^2)""^1)" z2 G2 AGAB | c2 c2 B2 B2 | cdef g3 f | e3 d/c/ B4 |$ c4 B4 | A4 G4 | F4 E4 | E4 F4 | %8
+w: Si va- * * *|* ga'e la mia|fiam- * * * * *||ma, che|piu mi|strug- ge|quan- to|
+w: Si dol- * * *|* ce la fe-|ri- * * * * *||ta, che|sol da|lei mi|ri- co-|
+ G4 A4 |$ B4 c4 | c4 c4 | B2 c4 B2 | c8 ::$ z2 ^G4 A2- |"^-natural" A2 ^G4 G2 | A2 B2 c4 | B8 | %17
+w: men m'in-|fiam ma|men, m'in-|fiam- * *|ma,|ne pro-|* vo al-|tro do- lo-|re,|
+w: nos- co'in|vi- ta,|ri- co-|nos- co'in vi-|ta,|e cio|_ sol è'l|mi- o ma-|le,|
+ G4 A4 |$ B4 c2 c2 | d4 B4 | c2 c2 d3 c/B/ | A8 | G8 :| %23
+w: che non|ve- der ogn'|hor cre-|scer l'ar- do- * *||re.|
+w: non ha-|ver mil- le|co- ri'|a'un si bel _ _|stra-|le.|
+V:3
+"^3)" z4 z2 d2 |"^1)""^4)" edef g2 G2 | ABcd ef g2- | g2 g2 g4 |$ c4 g4 | f4 e4 | d4 c4 | c4 d4 | %8
+w: Si|va- * * * * ga'e|la _ _ _ _ _ _|_ mia fiam-|ma, che|piu mi|strug- ge|quan- to|
+w: A-|mor _ _ _ _ io|ti _ _ _ _ _ _|_ rin- gra-|tio, d'o-|gni tua|pe- na,|d'o- gni|
+ e4 f4 |$ gfed cBAG | FGAB cdef | g8 | c8 ::$ e8 | e4 e4 | A2 ^G2 A4 | e8 | e4 f4 |$ g4 a2 a2 | %19
+w: men m'in-|fiam- * * * * * * *|||ma,|no|pro- 'vo'al-|tro do- lo-|re,|che non|ve- der ogn'|
+w: s'af- fan-|no'e _ _ _ _ _ _ _|_ _ _ _ _ _ _ _|stra-|tio,|puoi|ben far-|mi mo- ri-|re,|tant' al-|ta'è la ca-|
+ g4 G4 | A4 B4 | ^c4 d4 | G8 :| %23
+w: hor cre-|scer l'ar-|do- *|re.|
+w: gion del|mio mar-|ti- *|re.|

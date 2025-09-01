@@ -1,0 +1,59 @@
+X:1
+T:jg
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=142
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+|:!p! .[Ac]2 .[Ac]2 z .[Ac] z .[Ac] | z .[Ac] z .[Ac] z !tenuto!A.[Ad] z | %2
+ .[Ac]2 .[Ac]2 z .[Ac] z .[Ac] | z .[Ac] z .[Ac] z !tenuto!A.[Ad] z | %4
+ .[Ac=e]2 .[Ace]2 z .[Ace] z .[Ace] |$ z .[Ac=e] z .[Ace] z .[Ac].[ce] z | %6
+ .[^G=B]2!>(! .[GB]2 z .[GB] z .[GB]!>)! | z!pp! !tenuto!A.^G z z4 | %8
+!p! .[Ac]2 .[Ac]2 z .[Ac] z .[Ac] | z .[Ac] z .[Ac] z !tenuto!A.[Ad] z |$ %10
+ .[Ac]2 .[Ac]2 z .[Ac] z .[Ac] | z .[Ac] z .[Ac] z !tenuto!A.[Ad] z | %12
+ .[Ac=e]2 .[Ace]2 z .[Ace] z .[Ace] | z .[Ac=e] z .[Ace] z .[Ac].[ce] z | %14
+ .[^G=B]2!>(! .[GB]2 z .[GB] z .[GB]!>)! |$ z !tenuto!A.^G z2!mp! (dcd) | %16
+ !tenuto!.d2 !tenuto!.A2 (cddc) | !tenuto!.d2 !tenuto!.A2 (cddc) | %18
+ !tenuto!.d2 !tenuto!.A2!>(! (cddc)!>)! | !tenuto!.A2 !tenuto!.A2 z2!<(! (Ac)!<)! |$ %20
+!mp! !tenuto!.=e2 !tenuto!.e2 (dddc) | !tenuto!.=e2 !tenuto!.e2 (dddc) | %22
+ !tenuto!.=e2 !tenuto!.e2 (dddc) | !tenuto!.=e2 !tenuto!.e2!>(! z2 (!fermata!d>!fermata!c)!>)! | %24
+"_rit." !fermata!=B8 | !fermata!A8 |$!ppp! (A^G/) !breath!z/!mp! (A=e-) eA_e=e | dc(A=e-) eA_e=e | %28
+ dc(A=e- eA_e=e | dc)(A=e- eA_e=e) |$ (dc)(da- ad^ga | gf)(da- ad^ga | gf)(=e=b- be^ge) | %33
+ z!pp! d z6 :|$!mp! z2 z =e _e=e_e=e | z2 z =e _e=e_e=e | z2 z =e _e=e_e=e | z =e_e=e _e=edc |$ %38
+ d8- | d8 | =e8- | e8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %57
+ z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |] %70
+V:2
+|: .[A,,=E,]2 .[A,,E,]2 .[A,,E,] z .[A,,E,] z | .[A,,=E,] z .[A,,E,] z .[A,,E,] z !>!.[A,,D,] z | %2
+ .[A,,=E,]2 .[A,,E,]2 .[A,,E,] z .[A,,E,] z | .[A,,=E,] z .[A,,E,] z .[A,,E,] z !>!.[A,,D,] z | %4
+ .[A,,=E,]2 .[A,,E,]2 .[A,,E,] z .[A,,E,] z |$ .[A,,=E,] z .[A,,E,] z .[A,,E,] z !>!.[A,,E,] z | %6
+ .[^G,,=B,,]2 .[G,,B,,]2 .[G,,B,,] z .[G,,B,,] z | z8 | %8
+ .[A,,=E,]2 .[A,,E,]2 .[A,,E,] z .[A,,E,] z | .[A,,=E,] z .[A,,E,] z .[A,,E,] z !>!.[A,,D,] z |$ %10
+ .[A,,=E,]2 .[A,,E,]2 .[A,,E,] z .[A,,E,] z | .[A,,=E,] z .[A,,E,] z .[A,,E,] z !>!.[A,,D,] z | %12
+ .[A,,=E,]2 .[A,,E,]2 .[A,,E,] z .[A,,E,] z | .[A,,=E,] z .[A,,E,] z .[A,,E,] z !>!.[A,,E,] z | %14
+ .[^G,,=B,,]2 .[G,,B,,]2 .[G,,B,,] z .[G,,B,,] z |$ z8 | %16
+ !^![A,,=E,]3 !tenuto!.[A,,A,]3 !tenuto!.[A,,A,]2 | %17
+ !^![A,,=E,]3 !tenuto!.[A,,A,]3 !tenuto!.[A,,A,]2 | %18
+ !^![A,,=E,]3 !tenuto!.[A,,A,]3 !tenuto!.[A,,A,]2 | (A,=E,A,=B, C=EDC) |$ %20
+ !^![D,A,]3 !tenuto!.[D,D]3 !tenuto!.[D,D]2 | !^![D,A,]3 !tenuto!.[D,D]3 !tenuto!.[D,D]2 | %22
+ !^![=E,=B,]3 !tenuto!.[E,=E]3 !tenuto!.[E,E]2 | .!^![=E,^G,=E]2 .!^![E,G,E]2 z2 =B,,>A,, | ^G,,8 | %25
+ z8 |$ z2!p! !>!!tenuto![A,,=E,][A,,E,] [A,,E,]!>!!tenuto![A,,E,][A,,E,][A,,E,] | %27
+ !>!!tenuto![A,,=E,][A,,E,]!>!!tenuto![A,,E,][A,,E,] [A,,E,]!>!!tenuto![A,,E,][A,,E,][A,,E,] | %28
+ !>!!tenuto![A,,=E,][A,,E,]!>!!tenuto![A,,E,][A,,E,] [A,,E,]!>!!tenuto![A,,E,][A,,E,][A,,E,] | %29
+ !>!!tenuto![A,,=E,][A,,E,]!>!!tenuto![A,,E,][A,,E,] [A,,E,]!>!!tenuto![A,,E,][A,,E,][A,,E,] |$ %30
+ !>!!tenuto![A,,=E,][A,,E,]!>!!tenuto![D,A,][D,A,] [D,A,]!>!!tenuto![D,A,][D,A,][D,A,] | %31
+ !>!!tenuto![D,A,][D,A,]!>!!tenuto![D,A,][D,A,] [D,A,]!>!!tenuto![D,A,][D,A,][D,A,] | %32
+ !>!!tenuto![D,A,][D,A,]!>!!tenuto![=E,=B,][E,B,] [E,B,]!>!!tenuto![E,B,][E,B,][E,B,] | %33
+ [=E,=B,][E,B,][E,B,][E,B,] [E,B,][E,B,][E,B,][E,B,] :|$ %34
+ !>!!tenuto![A,,=E,][A,,E,][A,,E,]!>!!tenuto![A,,E,] [A,,E,][A,,E,]!>!!tenuto![A,,E,][A,,E,] | %35
+ !>!!tenuto![A,,=E,][A,,E,][A,,E,]!>!!tenuto![A,,E,] [A,,E,][A,,E,]!>!!tenuto![A,,E,][A,,E,] | %36
+ !>!!tenuto![A,,=E,][A,,E,][A,,E,]!>!!tenuto![A,,E,] [A,,E,][A,,E,]!>!!tenuto![A,,E,][A,,E,] | %37
+ !>!!tenuto![A,,=E,][A,,E,][A,,E,]!>!!tenuto![A,,E,] [A,,E,][A,,E,]!>!!tenuto![A,,E,][A,,E,] |$ %38
+ !>!!tenuto!D,[D,A,][D,A,]!>!!tenuto!D, [D,_A,][D,=A,]!>!!tenuto![D,G,][D,F,] | %39
+ !>!!tenuto!D,[D,A,][D,A,]!>!!tenuto!D, [D,_A,][D,=A,]!>!!tenuto![D,G,][D,F,] | %40
+ !>!!tenuto!=E,[E,=B,][E,B,]!>!!tenuto!E, [E,^G,]E,-!>!!tenuto!E,D,- | %41
+ !>!!tenuto!D, z z z z z z z | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %55
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |] %70

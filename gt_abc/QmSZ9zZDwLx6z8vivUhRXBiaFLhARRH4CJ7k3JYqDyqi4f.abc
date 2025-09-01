@@ -1,0 +1,65 @@
+X:1
+T:São Paulo
+C:Vincent Mango
+Z:Max Eibeck
+%%score ( 1 2 )
+L:1/16
+Q:1/4=78
+M:4/4
+I:linebreak $
+K:C
+V:1 perc nm="Schlagzeug" snm="Schlgz."
+K:none
+I:percmap F F 36 normal
+I:percmap ^a a 49 x
+I:percmap ^e e 46 x
+I:percmap ^g g 42 x
+I:percmap _f f 53 diamond
+I:percmap c c 38 normal
+I:percmap f f 48 normal
+V:2 perc 
+K:none
+I:percmap F F 36 normal
+I:percmap c c 38 normal
+V:1
+ z16 | z16 | ^a z _f/_f/_f/_f/ _f/ z z/ _f z _f_f_f2 _f2_f_f | %3
+ _f z _f/_f/_f/_f/ _f/ z/ z _f z _f_f_f2 _f4 |$ ^a2_f2[c_f]2 z2 _f2_f2 [c_f] z _f2 | %5
+ ^a2_f2[c_f]2^a2 _fc_f2 [c_f] z _f2 |$ ^a2_f2[c_f]2^a2 _fc_f2 [c_f] z _f2 | %7
+ ^a2_f2[c_f]2^a2 _f2_f2 cc/f/c/c/c/f/ |$ %8
+"^Verse 1" [F^a]^g^g^g [c^g]^g[F^g]^g ^g[F^g][F^g]^g [c^g]^g^g^e | %9
+ [F^g]^g^g[F^g] [c^g]^g[F^g]^g ^g[F^g][F^g]^g [c^g]^g^g^e | %10
+ [F^g]^g^g[F^g] [c^g]^g[F^g]^g ^g[F^g][F^g]^g [c^g]^g^g^e |$ %11
+ [F^g]^g^g[F^g] [c^e] z [F^e] z ^eF[F^e] z cc/c/f/c/c/c/ | ^a2_f2[c_f]2^a2 _fc_f2 [c_f] z _f2 |$ %13
+ ^a2_f2[c_f]2^a2 _fc_f2 [c_f] z _f2 | ^a2_f2[c_f]2^a2 _fc_f2 [c_f] z _f2 |$ %15
+ ^a2_f2[c_f]2^a2 _f2_f2 cc/f/c/c/c/f/ | %16
+"^Verse 2" [F^a]^g^g^g [c^g]^g[F^g]^g ^g[F^g][F^g]^g [c^g]^g^g^e | %17
+ [F^g]^g^g[F^g] [c^g]^g[F^g]^g ^g[F^g][F^g]^g [c^g]^g^g^e |$ %18
+ [F^g]^g^g[F^g] [c^g]^g[F^g]^g ^g[F^g][F^g]^g [c^g]^g^g^e | %19
+ [F^g]^g^g[F^g] [c^e] z [F^e] z ^eF[F^e] z cc/c/f/c/c/c/ |$ %20
+"^Chorus" ^a2_f2[c_f]2^a2 _fc_f2 [c_f] z _f2 | ^a2_f2[c_f]2^a2 _fc_f2 [c_f] z _f2 |$ %22
+ ^a2_f2[c_f]2^a2 _fc_f2 [c_f] z _f2 | ^a2_f2[c_f]2^a2 _fc_f2 [c_f] z _f2 |$ %24
+ ^a2_f2[c_f]2^a2 _fc_f2 [c_f] z _f2 | ^a2_f2[c_f]2^a2 _fc_f2 [c_f] z _f2 |$ %26
+ ^a2_f2[c_f]2^a2 _fc_f2 [c_f] z _f2 | ^a2_f2[c_f]2^a2 _fc_f2 cc/c/f/c/c/c/ |$ %28
+"^Bridge" ^a z _f/_f/_f/_f/ _f/ z z/ _f z _f_f_f2 _f2_f_f | %29
+ _f z _f/_f/_f/_f/ _f/ z/ z _f z _f_f_f2 _f4 |$ ^a z _f/_f/_f/_f/ _f/ z z/ _f z _f_f_f2 _f2_f_f | %31
+ _f z _f/_f/_f/_f/ _f/ z/ z _f z _f_f_f2 _f4 | ^a4 z4 z8 | z16 | z16 | z16 |$"^Chorus" z16 | z16 | %38
+ z16 | z16 |$ ^a2_f2[c_f]2^a2 _f2_f2 [c_f] z _f2 | ^a2_f2[c_f]2^a2 _f2_f2 [c_f] z _f2 | %42
+ ^a2_f2[c_f]2^a2 _f2_f2 [c_f] z _f2 |$ ^a2_f2[c_f]2^a2 _f2_f2 cc/c/c/c/c/c/ | %44
+ ^a2_f2[c_f]2^a2 _fc_f2 [c_f] z _f2 |$ ^a2_f2[c_f]2^a2 _fc_f2 [c_f] z _f2 | %46
+ ^a2_f2[c_f]2^a2 _fc_f2 [c_f] z _f2 |$ ^a2_f2[c_f]2^a2 _fc_f2 [c_f] z _f2 | %48
+ ^a2_f2[c_f]2^a2 _fc_f2 [c_f] z _f2 |$ ^a2_f2[c_f]2^a2 _fc_f2 [c_f] z _f2 | %50
+ ^a2_f2[c_f]2^a2 _fc_f2 [c_f] z _f2 |$ ^a2_f2[c_f]2^a2 _fc_f2 [c_f]c/c/f/f/f/f/ | ^a4 z4 z8 |] %53
+V:2
+ x16 | x16 | F4 x12 | F4 z4 z8 |$ F z2 F z2 F z2 FF z2 F z F | F z2 F z2 F z z z FF z FFF |$ %6
+ F z2 F z2 F z z z FF z F z F | F z2 F z2 F z2 FF z z z z z |$ x16 | x16 | x16 |$ x16 | %12
+ F z2 F z2 F z z z FF z F z F |$ F z2 F z2 F z z z FF z F z F | F z2 F z2 F z z z FF z F z F |$ %15
+ F z2 F z2 F z2 FF z z z z z | x16 | x16 |$ x16 | x16 |$ F z2 F z2 F z z z FF z F z F | %21
+ F z2 F z2 F z z z FF z F z F |$ F z2 F z2 F z z z FF z F z F | F z2 F z2 F z z z FF z F z F |$ %24
+ F z2 F z2 F z z z FF z F z F | F z2 F z2 F z z z FF z F z F |$ F z2 F z2 F z z z FF z F z F | %27
+ F z2 F z2 F z z z FF z z z z |$ F4 x12 | F4 z4 z8 |$ F4 x12 | F4 z4 z8 | F4 z4 z8 | x16 | x16 | %35
+ x16 |$ F2F2F2F2 F2F2F2F2 | F2F2F2F2 F2F2F2F2 | F2F2F2F2 F2F2F2F2 | F2F2F2F2 FFFF c4 |$ %40
+ F z2 F z2 F z2 FF z2 F z F | F z2 F z2 F z2 FF z2 F z F | F z2 F z2 F z2 FF z2 F z F |$ %43
+ F z2 F z2 F z2 FFF2 z z z | F z2 F z2 F z z z FF z F z F |$ F z2 F z2 F z z z FF z F z F | %46
+ F z2 F z2 F z z z FF z F z F |$ F z2 F z2 F z z z FF z F z F | F z2 F z2 F z z z FF z F z F |$ %49
+ F z2 F z2 F z z z FF z F z F | F z2 F z2 F z z z FF z F z F |$ F z2 F z2 F z z z FF z z z z | %52
+ x16 |] %53

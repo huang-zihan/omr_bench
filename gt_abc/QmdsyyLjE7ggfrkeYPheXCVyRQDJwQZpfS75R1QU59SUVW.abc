@@ -1,0 +1,12 @@
+X:1
+T:Venetian Ambassador
+L:1/8
+M:6/8
+I:linebreak $
+K:Bb
+V:1 treble 
+V:1
+ b | b2 B B2 f2 | f2 F F2 f | f>gf g>ab | a>gf f2 b | b2 B B2 f2 | f2 F F2 f | f>gf g g2 | %8
+ (f3- f2) :| g |$ g2 e e2 B | BGE E2 B | e>fg f>ga | g>ag/e/ f3 | gee e2 B | BGE E2 B | e>fe f f2 | %17
+ e3- e2 g |$ gee c2 f | fcB A2 f | BBB B2 B | fff f2 f | bbb b2 B | f2 d f2 f | bff d>cB | %25
+ B3- B2 || %26

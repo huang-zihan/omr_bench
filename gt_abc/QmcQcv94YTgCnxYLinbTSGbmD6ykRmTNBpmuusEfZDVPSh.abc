@@ -1,0 +1,25 @@
+X:1
+T:Title
+%%score [ ( 1 2 ) ( 3 4 ) ]
+L:1/4
+Q:1/4=108
+M:4/4
+I:linebreak $
+K:E
+V:1 treble nm="Midi_20"
+V:2 treble 
+V:3 bass nm="Midi_20"
+V:4 bass 
+V:1
+"^Almsgiving (L.M.)""^O Lord, how joyful 'tis to see""^S. S. Wesley\n(1810-1876)""^John Chandler\n(1806-76)" B | %1
+ G e B A/G/ | G F E A | G c B E | A G F || B | c d e G | A B c B | A G F G/A/ | G F E |] %10
+V:2
+ D | B, C E E | E D E E | E E E E | F E D || D | E F E E | E E E E | D E E E | E D E |] %10
+V:3
+"^1. O Lord, how joyful ’tis to see\nThe brethren join in love to Thee!\nOn Thee alone their heart relies\nTheir only strength Thy grace supplies.\n\n2. How sweet within Thy holy place\nWith one accord to sing Thy grace,\nBesieging Thine attentive ear\nWith all the force of fervent prayer!\n\n3. O may we love the house of God,\nOf peace and joy the blest abode;\nO may no angry strife destroy\nThat sacred peace, that holy joy." F, | %1
+ G, G, B, C | B, B,/A,/ G, A, | B, E, B, G, | B, B, B, || %5
+"^4. The world without may rage, but we\nWill only cling more close to Thee,\nWith hearts to Thee more wholly giv’n,\nMore weaned from earth, more fixed on heav’n.\n\n5. Lord, shower upon us from above\nThe sacred gift of mutual love;\nEach other’s wants may we supply,\nAnd reign together in the sky.\n\n6. Praise God, from Whom all blessings flow,\nPraise Him, all creatures here below,\nPraise Him above, angelic host,\nPraise Father, Son and Holy Ghost." B, | %6
+ B, B, B, =D | C B, A, B, | B, B, C A, | B, B,/A,/ G, |] %10
+V:4
+ B,, | E, C, G,, A,, | B,, B,, E, C, | B,, A,, G,, C, | D, F, B,, || B, | B, A, G, E, | %7
+ F, G, A, G, | F, E, A,, C, | B,, B,, E, |] %10

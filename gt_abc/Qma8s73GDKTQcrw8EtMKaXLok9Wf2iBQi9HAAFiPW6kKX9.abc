@@ -1,0 +1,30 @@
+X:1
+T:Red
+C:@nicthamesdrums
+L:1/16
+Q:3/8=140
+M:12/8
+I:linebreak $
+K:C
+V:1 perc stafflines=1 nm="Snare Line " snm="S. L."
+K:none
+I:percmap E B 60 normal
+V:1
+ !/!E2!/!E2!/!E2!ff! !>!E2E2E2{/E} !>!E2!>(!{/E}!>!E2{/E}!>!E2!>)! !/!E2!/!E2!/!E2 | %1
+w: l r l R l r L L L r l r|
+ !>!E2E2E2{/E} !>!E2!>(!{/E}!>!E2{/E}!>!E2!>)! EEEEEE !tenuto!E!tenuto!EEEEE |$ %2
+w: L r l R R R r l r l r l r l r r l l|
+ !/!!>!E2!/!!>!E2!>(!!/!!>!E2 !/!!>!E2!/!!>!E2!/!!>!E2!>)! E2E2E2{/E} E2{/E}E2{/E}E2 | %3
+w: R L R L R L r l r l r l|
+!mp!{/E} !>!E2!<(!{/E}!>!E2{/E}!>!E2{/E} !>!E2{/E}!>!E2{/E}!>!E2{/E} !>!E2{/E}!>!E2{/E}!>!E2{/E} !>!E2{/E}!>!E2{/E}!>!E2!<)! |$ %4
+w: R L R L R L R L R L R L|
+ !^!E6!fff! !^![EEEE]6 !^![EE]6 !^![EE]6 |!ff! !>!EEEEEE !>!EEEEEE EEEE!>!EE EEE!>!E!>!EE |$ %6
+w: R B B B|R l r r l l R l r r l l r r l l R l l r r L R l|
+ EEEEEE EEE!>!EEE EEE!>!EEE EEEEEE |$ %7
+w: l r r l l r r l l R l r r l l R l r r l l r r l|
+[M:15/8] E!>!EEEEE!>!E!>!EEEEEEEEEEE(2:3:2!^!E2{/E}!^!E2{/E}(2:3:2!^!E2{/E}!^!E2 |$ %8
+w: l R l l r r L R l l r r l l r r l l R L R L|
+[M:4/4][Q:1/4=130]!ff!{/E} !>!E!>(!{/E}!>!E{/E}!>!E{/E}!>!E!>)!!mp!{/E} !>!E2!ff!{/E}!>!E!>(!{/E}!>!E{/E} !>!E{/E}!>!E!>)!!mp!{/E}!>!E2!ff! !>!E/!>!E/!>(!!>!E/!>!E/!>!E/!>!E/!>!E/!>!E/!>)! | %9
+w: R R R R R L L L L L R L R L R L R L|
+ E2E"^R.H. 180"E EE"^R.H.\nSpida"(3EEE EEEE !>!E4 |!fff! !^![EE]4 z4 z8 |] %11
+w: r r l l l r l l r l r l R||

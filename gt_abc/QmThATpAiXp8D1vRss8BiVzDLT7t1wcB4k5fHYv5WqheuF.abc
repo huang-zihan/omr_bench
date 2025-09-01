@@ -1,0 +1,78 @@
+X:1
+T:TYPE TITLE HERE
+C:Kandanda Kandanda
+Z:Kandanda Kandanda
+Z:copyright@KandandaK - 2019... K.K prints Musescore
+%%score [ ( 1 2 ) ( 3 4 ) ]
+L:1/8
+Q:1/8=140
+M:6/8
+I:linebreak $
+K:A
+V:1 treble nm="S\nA"
+V:2 treble 
+V:3 bass nm="T\nB"
+V:4 bass 
+V:1
+ CEF/F/ E/E/E/E/A/A/ | AGF E3 | ccd/d/ c/c/c/c/B/B/ |$ AAG F3 | (F2 A) ccB | A2 G A3 :: %6
+w: ||||||
+w: Za- zi la- ku- ku- ta kwa Mu- le- na|mwa- li- fa- si.|Za- zi la- ka- ta- ha mwa- na Mu- li-|mu mwa- ma- lu|za- * zi la- ma-|u- ngu- lo.|
+w: |* * * .||. * * *|||
+ z z z z z z |$ c2 B A3 :: ccd/d/ cc/c/B/B/ | AA/G/F E3 | F3 Ec/c/B/B/ |$ A2 G A3 :| z z z z z z | %13
+w: |||||||
+w: |mwa- ma- lu.|U- ta- ha ku- to'- nge- la ba- ha-|e kwa- * ha- e,|ba- ba- la- te- le- la|Ngu- nya- na.||
+w: |. * *||||. * *||
+ z z z c/c/c z | z z z c2 A/A/ |$ B2 F F3 | EAc/c/ BA/A/G | A3 ccA/A/ | B2 F F3 | EAc/c/ BA/F/G |$ %20
+w: |||||||
+w: tu- me- lo|za- zi la|Mu- le- na|li- su- te- le- zi fa- ka- u-|fi. Na- ko- ya- ma-|u- ngu- lo|Je- su wa- ta- ha mwa- li- fa-|
+w: ||. * *|||||
+ !fermata!A3 z z z | z z z c2 B | c3 z z z | z z z c2 B |$ A3 ccA/A/ | B2 F F3 | EAc/c/ BAG | %27
+w: |||||||
+w: si|ba- la-|t'wa,|wo- ta-|ha. seo mo- ya u-|bu- le- la|ya- na- ni- ze- be a- u-|
+w: .||||. * * * *|||
+ A3 ccA/A/ | B2 F F3 |$"^Kabunya (slower)" (EA)c BA/F/G | A6 |] %31
+w: ||||
+w: twe. za- zi li- fa-|ka- u- fi.|Za- * zi la Mu- * le-|na.|
+w: ||. * * * * * *||
+V:2
+ CEF/F/ E/E/E/E/A/A/ | AGF E3 | AAB/B/ A/A/A/A/G/G/ |$ FFE C3 | D3 EAG | F2 E E3 :: %6
+w: ||||||
+w: ||||||
+ C/C/ED/D/ C/C/EA |$ A2 G E3 :: AAB/B/ AA/A/G/G/ | FF/E/D C3 | D3 EA/A/G/G/ |$ F2 E E3 :| x6 | %13
+w: |||||||
+w: A- mu- bo- ne Mu- le- na ki- yo|||||||
+ x3 A/A/A z | z C/C/E A2 E/E/ |$ F2 D C3 | CEA/A/ FF/F/E | E3 AAE/E/ | F2 D C3 | CEA/A/ GF/D/E |$ %20
+w: |||||||
+w: |ya- lu- na * * *||||||
+ E3 x3 | x3 A2 G | A3 x3 | x3 A2 G |$ E3 AAE/E/ | F2 D C3 | CEA/A/ FFE | E3 AAE/E/ | F2 D C3 |$ %29
+w: |||||||||
+w: |||||||||
+ CEA FFE | E6 |] %31
+w: ||
+w: ||
+V:3
+ z z z z z z | z z z ECA, | EEF/F/ E/E/E/E/D/D/ |$ CCB, A,3 | B,3 EED | C2 B, C3 :: z z z z z z |$ %7
+w: |||||||
+ E2 D C3 :: EEF/F/ EE/E/D/D/ | CC/B,/A, A,3 | B,3 CE/E/E/D/ |$ C2 B, C3 :| A,C,/C,/E, A,E,/C,/A,, | %13
+w: |||||Lu- i- tu- ki- se ba- ke- twa|
+ C,/C,/E,A, E/E/E z | z z z E2 C/C/ |$ D2 A, A,3 | A,CE/E/ DC/C/B, | C3 EEC/C/ | D2 A, A,3 | %19
+w: lu- bu- lu- ke * * *||||||
+ A,CE/E/ DC/B,/B, |$ C3 E/E/ED/D/ | C/C/B,A, E2 D | C2 z E/E/ED/D/ | C/C/B,A, C2 B, |$ C3 EEC/C/ | %25
+w: |* Lu- a- mbu- ke za|mwa- li- fa- si * *|* lu- yo- ke- na mwa-|mu- nzi wa- le * *||
+ D2 A, A,3 | A,CE/E/ DCB, | C3 EEC/C/ | D2 A, A,3 |$ A,CE DCB, | C6 |] %31
+w: ||||||
+V:4
+ x6 | x3 A,,C,E, | A,,A,,B,,/B,,/ C,/C,/C,/C,/B,,/B,,/ |$ A,F,E, (A,,C,)E, | (D,F,)D, A,,C,D, | %5
+w: |Za- zi- le'||||
+ (A,F,)E, [A,,A,]3 :: x6 |$ (A,C,)E, A,,3 :: A,C,D,/F,/ C,/E,/C,/C,/B,,/B,,/ | %9
+w: ||||
+ A,,A,,/B,,/A,, (A,,C,)E, | (D,F,)D, A,,C,/C,/E,/G,/ |$ F,2 E, A,,3 :| A,C,/C,/E, A,E,/C,/A,, | %13
+w: ||||
+ C,/C,/E,A, A,,/A,,/A,,C,/E,/ | A,, z z A,,2 A,,/A,,/ |$ D,2 A,, A,,3 | E,C,E,/A,/ F,E,/C,/E, | %17
+w: * * * * * * * ya- lu-|na * * *|||
+ A,3 A,,A,,A,,/A,,/ | D,2 A,, A,,3 | E,C,E,/A,/ F,A,/F,/E, |$ !fermata!A,,3 z z z | z z z A,2 E, | %22
+w: |||||
+ A,,3 z z z | z z z A,2 E, |$ (A,C,)E, A,,A,,A,,/A,,/ | D,2 A,, A,,3 | E,C,E,/A,/ F,E,/C,/E, | %27
+w: |||||
+ (A,C,)E, A,,A,,A,,/A,,/ | D,2 A,, (A,,C,)E, |$ (E,C,)E,/A,/ F,E,/C,/E, | [A,,A,]6 |] %31
+w: ||||

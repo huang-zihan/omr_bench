@@ -1,0 +1,11 @@
+X:1
+T:Scotch Tune,A. JBa.24
+L:1/8
+Q:1/2=80
+M:4/4
+I:linebreak $
+K:E
+V:1 treble 
+V:1
+"^see note" B2 E/F/G B>GE>G | A>FD>F d>FD>F |$"^1" B>GE>G e2 g/a/b | g>ef>d e/e/e e2 ::$ %4
+ e>gf>e B/B/B ec | d>ef>d d/d/d fd |$ egf>e d>BA>F | G>BA>F E/E/E E2 | %8

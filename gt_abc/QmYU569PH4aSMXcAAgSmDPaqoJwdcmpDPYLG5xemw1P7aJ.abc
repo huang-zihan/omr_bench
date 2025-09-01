@@ -1,0 +1,27 @@
+X:1
+T:Title
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=87
+M:6/8
+I:linebreak $
+K:G
+V:1 treble nm="Grand Piano"
+V:2 treble 
+V:1
+ B_B=B dBG | [EA][EG][CE] [B,D]3 | DGA Bdd | edB [FA]3 | B_B=B dBG |$ [EA][EG]E D3 | dde d<G[EGc] | %7
+w: Mary~Hubbert~Munford * * * * *|||||||
+ [DGB]<[DGB][CFA] [B,DG]3 | [A,DF][A,DF][B,G] [CFA]<[Fd][Fc] | B<BA G3 |$ %10
+w: |||
+ [Ge][Ge][Ge] [Gd][DGB][CFA] | [B,EG][^CEA][CGB] [DFA]3 | DGA BAG | [EA][EG]E D3 | dde d<G[EGc] |$ %15
+w: |||||
+ [DGB]<[DGB][CFA] [B,DG]3 |] %16
+w: |
+V:2
+ [G,DG][G,^CG][G,DG] [G,B,G][G,DG][K:bass][G,B,D] | [C,C][C,C][C,G,] [G,,G,]3 | %2
+ [G,B,][K:treble][G,B,D][G,CD] [G,DG][G,B,G][G,B,G] | [G,CG][G,B,G][G,DG] [D,D]3 | %4
+ [G,DG][G,^CG][G,DG] [G,B,G][G,DG][K:bass][G,B,D] |$ [C,C][C,C][E,G,C] [G,B,]3 | %6
+ [G,B,G][G,B,G][G,CG] [G,B,G]<[G,B,][K:bass]C, | D,<D,D, G,,3 | D,D,D, D,<[D,C][D,D] | %9
+ [G,DG]<[G,DG][K:bass][G,CD] [G,B,D]3 |$ [C,C][C,C][E,C] [G,B,]G,D, | E,A,,A,, D,3 | %12
+ [G,B,][K:treble][G,B,D][G,CD] [G,DG][G,CD][G,B,D] | [C,C][C,C][E,G,C] [G,B,]3 | %14
+ [G,B,G][G,B,G][G,CG] [G,B,G]<[G,B,][K:bass]C, |$ D,<D,D, G,,3 |] %16

@@ -1,0 +1,11 @@
+X:1
+T:Aarne Tarvaisen masurkka
+L:1/8
+M:3/4
+I:linebreak $
+K:Dmin
+V:1 treble 
+V:1
+"Dm" A>B AG FE | D>d d2 d2 |"A7" A>^c c2 c2 |"Dm" A>d d2 d2 |"Dm" A>B AG FE | D>d d2 d2 | %6
+"A7" A>^c c2 cA |"Dm" d2 d4 ::$"Dm"{e} f>e d2 d^c |"A7" e2 A4 | a2 g2 ge |"Dm" a>f d3 e | %12
+"Dm" f>e d2 d=c |"Gm" B>A G2 F2 |"A7" E>A A2 A^c |"Dm" d2 d4 :| %16

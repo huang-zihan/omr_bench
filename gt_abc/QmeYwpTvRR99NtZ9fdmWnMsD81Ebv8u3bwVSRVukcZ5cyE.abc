@@ -1,0 +1,31 @@
+X:1
+T:Mossleigh, 76.76 D
+C:Howard Augustus Crosbie (1844-1918)
+Z:Public Domain
+Z:Courtesy of the Cyber Hymnal™
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=115
+M:4/4
+I:linebreak $
+K:C
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ [EG] | [Ge] [Ee] [Fd] [FG] | [Fd]2 [Ec] [Ec] | [Fc] [FB] [EA] [E^G] | [EA]3 [FG] | %5
+ [Ee] [Ge] [Fd] [FG] | [Fd]2 [Ec] [EB] | [EA] E [EG] [^D^F] | E3 [B,E] | %9
+ [C^F]3/2 [CF]/ [DF] [DA] |$ [DA]2 [DG] [DB] | [EB]3/2 [Ec]/ [Ed] [EB] | [Ec]3 [Ec] | %13
+ [Ac]3/2 [Ac]/ [GB] [FA] | [EG]2 [EA] [^CE] | [DG]3/2 [DF]/ [B,E] [B,D] | C4 |] %17
+V:2
+ x | x4 | x4 | x4 | x4 | x4 | x4 | x E x2 | E3 x | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 | C4 |] %17
+V:3
+ [C,C] | [C,C] [C,G,] [B,,G,] [B,,G,] | [G,,B,]2 [C,C] [A,,C] | [D,D] [D,D] [E,C] [E,B,] | %4
+ [A,,C]3 [B,,D] | [C,C] [C,G,] [B,,G,] [B,,G,] | [G,,B,]2 [A,,C] [B,,G,] | %7
+ [C,A,] [C,A,] [B,,B,] [B,,A,] | [E,G,]3 [E,G,] | [D,A,]3/2 [D,A,]/ [D,A,] [D,C] |$ %10
+ [G,C]2 [G,B,] G, | [E,^G,]3/2 [E,A,]/ [E,B,] [E,G,] | [A,,A,]3 [A,C] | %13
+ [F,C]3/2 [F,C]/ [F,C] [F,C] | [C,C]2 [A,,^C] [A,,A,] | [D,A,]3/2 [D,A,]/ [G,,G,] [G,,F,] | %16
+ [C,E,]4 |] %17
+V:4
+ x | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |$ x3 G, | x4 | x4 | x4 | x4 | x4 | x4 |] %17

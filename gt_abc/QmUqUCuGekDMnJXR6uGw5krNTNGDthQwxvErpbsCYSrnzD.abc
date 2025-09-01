@@ -1,0 +1,54 @@
+X:1
+T:noch titellos
+C:Fabian Reiß
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=96
+M:4/4
+I:linebreak $
+K:E
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"^\n\n" z8!f! |:!mf! z8 | z8 ::$ ([GBe]2 [GBc]2) ([Acf]2 [FAc]2) | [GB][GB] [EG]2 [FA][FA] [Ac]2 | %5
+ z8 |$ ([EGB]2 [GBe]2) ([Acf]2 [cfa]2) | [GB][GB] [Be]2 [ce][ce] [Ac]2 | z8 ::$ %9
+ EG EG({/A} Bc d/c/B/G/) | EB EB({/c} dB G/F/G/E/) | (FGAB dc (3BAG) |$ (F4 [EFA]4) | (F4 [FGB]4) | %14
+ (CE F/G-G/ ABcd |$ ec B/A-A/ GFED | CE F/A-A/ GF E2) | z8 |1$ (3F2 E2 [Gd]2 (3F2 G2 [Ac]2 | z8 :|2 %20
+ (3F2 E2 [Gd]2 (3F2 E2 [EG]2 |!<(! z8!<)! |:$!f! F/f/F/e/ F/d/F/c/ F/B/F/A/ F/G/F/E/ | %23
+ F/G/F/A/ F/B/F/c/ F/d/F/e/ F/f/F/g/ |$ (3gfe (3fed (3edc (3dcB |!>(! (3cBA (3BAG (3AGF (3GFE!>)! | %26
+!mf! (D4 [EF]4) |$ ([CE]4 [EFA]4) | [GB]2 [Ac]4 [Ad]2 | [Gc]2 [Bd]4 [ce]2 |$ %30
+ [Bd]2 [Ac]2 [GB]2 [DG]2 | z8 :|$ (3[EG]2 B2 [EG]2 (3[FA]2 c2 [FA]2 | %33
+ (3[GB]2 d2 [GB]2 (3[Ac]2 e2 [Ac]2 | (3[Bd]2 f2 [Bd]2 (3[ce]2 g2 [ce]2 |$ %35
+ (3[df]2 [Bd]2 [GB]2 (3[FA]2 [EG]2 [DF]2 |: (3[GB]2 [eg]2 [ac']2- [ac']4 | %37
+ (3[eg]2 [ac']2 [e'g']2- [e'g']4 |$!8va(! (3[gb]2 [e'g']2 [a'c'']2- [a'c'']4!8va)! | %39
+ [gb][fa] [eg]/[fa]/[eg] [df][ce] [Bd]/[Ac]/[GB] | [FA][GB] (3[Ad][Gc][FB] (3[EA]2 [EG]2 [EF]2 |$ %41
+ (F4 [EFA]4) | (F4 [FGB]4) :| (D4 [EF]4) |$ ([CE]4 [EFA]4) | (G4 [FGB]4) | (G4 [GAc]4) |$ %47
+ (E4 [FG]4) |!>(! A/F/- F- F2 E2 D2 | z8!>)!!p! | %50
+[Q:1/4=96]"_poco ritardando" z8[Q:1/4=93][Q:1/4=90][Q:1/4=87][Q:1/4=84][Q:1/4=81][Q:1/4=78][Q:1/4=75] |] %51
+V:2
+ [E,,E,][=G,B,E][=G,,G,][G,B,E] [F,,F,][G,B,E][B,,B,] z |: E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | %2
+ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] ::$ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | %4
+ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] |$ %6
+ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | %8
+ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] ::$ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | %10
+ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] |$ %12
+ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | %14
+ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] |$ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | %16
+ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] |1$ %18
+ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] :|2 %20
+ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] |:$ %22
+ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] |$ %24
+ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | %26
+ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] |$ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | %28
+ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] |$ %30
+ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] :|$ %32
+ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | %34
+ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] |$ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] |: %36
+ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] |$ %38
+ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | %40
+ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] |$ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | %42
+ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] :| E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] |$ %44
+ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | %46
+ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] |$ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | %48
+ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] | %50
+ E,[G,B,]C,[G,B,] F,[A,C]C,[A,C] |] %51

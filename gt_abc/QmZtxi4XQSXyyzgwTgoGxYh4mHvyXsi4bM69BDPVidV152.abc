@@ -1,0 +1,32 @@
+X:1
+T:Georgia Jubilee
+C:Sidney Bechet
+%%score ( 1 2 )
+L:1/8
+Q:1/4=180
+M:4/4
+I:linebreak $
+K:G
+V:1 treble-8 nm="Acoustic Guitar" snm="Guit."
+V:2 treble-8 
+L:1/4
+V:1
+{/ef} g"^Intro."e^c_B G"^Light Jazz lilt."E^C_B, | G,_B,^CE G_B^ce | %2
+ [cdf] [cdf]2 [cdf] [cdf]2 [cdf]2 | [df]7 D |:$O B d6 ^d |{/^d} e g6 a | _bgag bgag- | g4 z2 ef | %8
+ ge^c_B GBfe | d_B=B=c- c B3 |$ ^cegb- b4 | z dcd b a3 | B d6 ^d |{/^d} e g6 a | _bgag bgag- | %15
+ g4 z2 ef |$ ge^c_B GBfe | d_B=B=c- c B3 | EGEG B2 BG- |1 G7 A :|2 G2 [Bg]2 [Bg]2 [Bg]2!fine! || %21
+ [^G^g] [Aa]2 A- A2 B2 |$ z2 z c Bce=g | ^g a2 A- A4 | =B,=CE=G =cc B2 | A3 B A_AGE | %26
+ B,CEG (3A2 c2 B2 | A7 e- |$ e3 d cBAG | [^G^g] [Aa]2 A- A2 B2 | z2 z c Bceg | [^G^g] [Aa]2 A- A4 | %32
+ =B,=CEG =cc B2 | A c2 _A- A c3 |$ g^de=f- [_B^cf]2 e2 | AcAc e2 e2 | c7 B | %37
+ [Cc] [B,d]2 [Ce]- [Ce]2 z c | [Ce] [D=f]2 [Eg]- [Eg]2 z e | [dg]a_ba g=fed |$ %40
+ [Cc] [_B,_B]2 [B,B]- [B,B] [A,A]2 c |:{/c} (dc) A2 (dc) A2 | ^d e2 c- c2 c2 | %43
+{/c} ((dc)) A2 ((dc)) A2 | ^d e2 c- c2 c2 |{/c} ((dc)) A2 ((dc)) A2 |$ ^d e2 g- g2 a2 |1 %47
+ bg!0!e!0!B ^ABgf || e^de=f- f e3 :|2 [cec']4 [A=fc']4 ||O [gc']8!D.C.! |] %51
+V:2
+ x4 | x4 | D z D z | [DA]3 z |:$ G, [DG] G, [DG] | C G C G | G2 z2 | G, [DB] G, [GB] | E2 z2 | %9
+ G, D G, D |$ A, A A, A | D D D A | G, [DG] G, [DG] | C G C G | G2 z2 | G, [DB] G, [GB] |$ E2 z2 | %17
+ G, D G, D | C E D F |1 G, D G, z :|2 G, D G, z || z D G, =F |$ G, =F G, F | [CG] E C E | G,2 C E | %25
+ G, =F G, B, | G, B, G, =F | C E C E |$ C E C E, | z D G, =F | G, =F G, F | C E C E | G,2 C E | %33
+ =F, =F F, F |$ C G E E, | F, F G, D | C G C z | x4 | x4 | G2 z2 |$ x4 |: =F, =F F, F | C G C G | %43
+ =F, =F F, F | C G C G | =F, =F F, F |$ C G C G |1 E,4 || E,4 :|2 G2 =F2 || %50
+ [Gc]2"^Back to bar 5" !-(!c7/4 !-)!G,/4 |] %51

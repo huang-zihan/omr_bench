@@ -1,0 +1,11 @@
+X:1
+T:Roxburgh Castle
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble 
+V:1
+|:"^A" BA | G2 GB dBGB | c2 ce dBGB | c2 ec B2 dB | A2 A2 A2 BA | G2 GB dBGB | c2 ce dBGB |$ %7
+ gfge dcBA | G2 F2 G2 ::"^B" d2 | gdBd edBd | gdBd edBd | c2 ec B2 dB | A2 A2 A2 BA |$ G2 GB dBGB | %15
+ c2 ce dBGB | gfge dcBA | G2 F2 G2 :| %18

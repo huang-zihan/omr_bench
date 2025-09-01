@@ -1,0 +1,14 @@
+X:1
+T:Silverton Polka
+C:Trad. ed. Barry Callaghan
+L:1/16
+M:2/4
+I:linebreak $
+K:G
+V:1 treble 
+V:1
+ def | g2G2 G2Bc | dedc B2AB | c2E2 E2AG | FGAF Ddef | g2G2 G2Bc | dedc B2AB | c2E2 AGFE |$ %8
+ D2G2 G :: z GE | D2G2 BAGF | E2c2 c4 | E2c2 cBAc | e2d2 B4 | D2G2 BAGF | E2c2 c4 | dgfe dcBG |$ %17
+ A2A2 G :: z GE | D2-D2- DGFG | E2-E2- E2AG | F2F2 FDEF | GFGA BAGE | D2-D2- DGFG | E2-E2- E2AG |$ %25
+ F2F2 FDEF | G2B2 G :: DGA | B2-B2{c} BDGA | B2-B2{c} BDGA | Bgfe dcBG | AGAB ADGA |$ %32
+ B2-B2{c} BGAB | c2-c2 cABc | dgfe dcBG | A2A2 G :| x8 | %37

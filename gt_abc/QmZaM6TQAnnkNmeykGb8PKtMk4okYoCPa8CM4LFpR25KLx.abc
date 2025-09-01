@@ -1,0 +1,36 @@
+X:1
+T:Amazing Grace— How Sweet the Sound
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="SOPRANO ALTO"
+L:1/8
+V:2 treble 
+V:3 bass nm="TENOR BASS"
+V:4 bass 
+V:1
+ D2 | G4 BG | B4 A2 | G4 E2 | D4 |$ D2 | G4 BG | B4 A2 | d6- | d4 B2 | (d3 B) dB | G4 |$ D2 | %13
+w: 1.A-|maz- ing _|grace how|sweet the|sound|that|saved a _|wretch like|me!|_ I|once * was *|lost|but|
+w: 2.'Twas|grace that _|taught my|heart to|fear,|and|grace my _|fears re-|lieved;|_ how|pre- * cious *|did|that|
+w: 3.Through|ma- ny _|dan- gers,|toils and|snares,|I|have al- *|rea- dy|come,|_ 'tis|grace * hath *|taught|me|
+w: 4.The|Lord has _|pro- mised|good to|me,|His|word my _|hope se-|cures,|_ He|will * my *|shield|and|
+w: 5.Yes,|when this _|flesh and|heart shall|fail,|and|mor- tal _|life shall|cease,|_ I|shall * pos- *|sess,|with-|
+w: 6.The|earth shall _|soon dis-|solve like|snow,|the|sun for- *|bear to|shine,|_ but|God, * who *|called|me|
+ (E3 G) GE | D4 D2 | G4 BG | B4 A2 | G6- | G4 x2 |] %19
+w: now * am *|found, was|blind but *|now I|see.|_|
+w: grace * ap- *|pear the|hour- I *|first be-|lieved!|_|
+w: safe * thus *|far, and|grace will *|lead me|home.|_|
+w: por- * tion *|be as|long as *|life en-|dures.|_|
+w: in * the *|veil, a|life of *|joy and|peace.|_|
+w: here * be- *|low, will|be for- *|ev- er|mine.|_|
+V:2
+ B, | B,2 D | D2 C | B,2 C | B,2 |$ B, | B,2 D | D2 D | D3- | D2 D | D2 D | D2 |$ D | (C3/2 D/) C | %14
+ B,2 D | B,2 D | G2 F | D3- | D2 x |] %19
+V:3
+ G, | D,2 G, | G,2 F, | G,2 G, | G,2 |$ G, | D,2 G, | G,2 F, | G,3- | G,2 G, | (B,3/2 G,/) B,/G,/ | %11
+ G,2 |$ G, | G,2 E,/G,/ | G,2 G, | G,2 G,/B,/ | D2 C | B,3- | B,2 x |] %19
+V:4
+ G,, | G,,2 G,,/B,,/ | D,2 D, | E,2 C, | G,,2 |$ G,, | G,,2 G,,/B,,/ | D,2 C, | B,,3- | B,,2 G,, | %10
+ G,2 G, | B,,2 |$ B,, | (C,3/2 B,,/) C, | G,,2 B,, | E,2 D, | D,2 D, | G,3- | G,2 x |] %19

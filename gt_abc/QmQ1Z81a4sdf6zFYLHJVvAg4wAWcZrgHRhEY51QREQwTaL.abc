@@ -1,0 +1,125 @@
+X:1
+T:好大的雾
+T:胡杨 曲
+T:范波 词
+%%score ( 1 2 ) { ( 3 5 ) | 4 } 6 7
+L:1/4
+Q:1/4=123
+M:4/4
+I:linebreak $
+K:D
+V:1 treble-8 nm="Electric Guitar" snm="El. Guit."
+V:2 treble-8 
+V:3 treble nm="Piano, piano copy" snm="Pno."
+V:5 treble 
+L:1/8
+V:4 bass 
+V:6 bass transpose=-12 nm="Electric Bass" snm="El. B."
+V:7 perc nm="Drumset" snm="Drs."
+K:none
+I:percmap F F 36 normal
+I:percmap ^a a 49 x
+I:percmap ^e e 46 x
+I:percmap ^g g 42 x
+I:percmap c c 38 normal
+L:1/8
+V:1
+ z4 | z4 |:"D" z z z z |"A" z/ A/ A/ c/ c/ e/ e/ g/ |"D" a z z z |"Bm" z z z z |$ %6
+"Am" z/ =c/ c/ e/ e/ g/ g/ =c'/ |"Bm" b z z z |"Em" z G B d |"A" f e c A |"A" z z z3/2 z/ |$ %11
+"A" z"D" z z2 |"D" [Ada] z"D" [Ada]"A" [Aea] |"D" [Ada] z z2 |"D" [Adf]4 |"D" z f e d |"C#Fm" A4 |$ %17
+"C#Fm" z e c A |"G" B4 |"G" z d g d' |"A" b4 |"A" e/"D" f"G" g/ z/"G" b/"A" a |$"D" [Ad]4 | %23
+"D" d2 =c2 |"G" g4 |"C" z e d =c |"C" G4 |"C" z e d =c |$"A" c2 A2 |"D" d4 |"Bm" F/ B/ d/ f/- f2 | %31
+"Bm" F/ B/ d/ f/- f2 |"A" A2 e2 |"A" z/ A/ A/ c/ c/ e/ e/ g/ |$"Bm" F/ B/ d/ f/- f2 | %35
+"Bm" F/ B/ d/ f/- f2 |"A" e/ e e/ c/ c c/ |"A" B/ A A/ A2 |"C#Fm" [FAc]/ [FAc] [FAc]/ [FAc]2 | %39
+"Bm" [Bdf]/ [Bdf] [Bdf]/ [Bdf]2 |$"A" [Ace]/ [Ace] [Ace]/ [Ace]2 |"D" [Adf] f' e' d' | %42
+"A" [Ace]/ [Ace] [Ace]/ [Ace]2 |"C#Fm" [Acf]/ [Acf] [Acf]/ [Acf]2 | %44
+"A" [ce] z/"D" [df]/- [df]"A" [eg] |"D" [fa] d c3/2 B/ ::$"D" z z z z | %47
+"A" z/ A/ A/ c/ c/ e/ e/ g/ |"D" a z z z |"Bm" z z z z |"Am" z/ =c/ c/ e/ e/ g/ g/ =c'/ |$ %51
+"Bm" b z z z |"Em" z G B d |"A" f e c A |"A" z z z3/2 z/ |"A" z"D" z z2 |$ %56
+"D" [Ada] z"D" [Ada]"A" [Aea] |"D" [Ada] z z2 :|"D" z z z z |"A" z/ A/ A/ c/ c/ e/ e/ g/ | %60
+"D" a z z z |$"Bm" z z z z |"Am" z/ =c/ c/ e/ e/ g/ g/ =c'/ |"Bm" b z z z |"Em" z G B d | %65
+"A" f e c A |$"A" z z z3/2 z/ |"A" z"D" z z2 |"D" [Ada] z"D" [Ada]"A" [Aea] |"D" [Ada] z z2 |] %70
+V:2
+ x4 | x4 |: x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | %19
+ x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | %38
+ x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | d x3 ::$ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ %56
+ x4 | x4 :| x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |] %70
+V:3
+ z4 | z d c3/2 B/ |:"D" A F, A, D |"A" z/ A,/A,/C/ C/E/E/G/ |"D" A d c A |"Bm" B F, A, D |$ %6
+"Am" =C/C/C/E/ E/G/G/=c/ |"Bm" B G B d |"Em" f G, B, D |"A" F E C A, |"A" A e c3/2 A/ |$ %11
+"A" e z/"D" d/- d2 |"D" [A,DA] z"D" [A,DA]"A" [A,EA] |"D" [A,DA] z z2 |"D" [A,DF] z [DF] z | %15
+"D" z F E D |"C#Fm" A,4 |$"C#Fm" z E C A, |"G" B,4 |"G" z D G d |"A" B4 |"A" E/ F G/ z/ B/ A |$ %22
+"D" [A,D]4 |"D" d2 =c2 |"G" g4 |"C" z e d =c |"C" G4 |"C" z e d =c |$"A" c2 A2 |"D" d4 | %30
+"Bm" F/B/d/f/- f2 |"Bm" F/B/d/f/- f2 |"A" A2 e2 |"A" z/ A/A/c/ c/e/e/g/ |$"Bm" F/B/d/f/- f2 | %35
+"Bm" F/B/d/f/- f2 |"A" e/ e e/ c/ c c/ |"A" B/ A A/ A2 |"C#Fm" [FA]/ F F/ F2 |"Bm" [Bd]/ B B/ B2 |$ %40
+"A" [ce]/ e e/ e2 |"D" [df] f' e' d' |"A" a4- |"C#Fm" a4 |"A" [ce] z/ [df]/- [df] [eg] | %45
+"D" [fa] d c3/2 B/ ::$"D" A F, A, D |"A" z/ A,/A,/C/ C/E/E/G/ |"D" A d c A |"Bm" B F, A, D | %50
+"Am" =C/C/C/E/ E/G/G/=c/ |$"Bm" B G B d |"Em" f G, B, D |"A" F E C A, |"A" A e c3/2 A/ | %55
+"D" e z/ d/- d2 |$"D" [A,DA] z [A,DA] [A,EA] |"D" [A,DA] d c3/2 B/ :|"D" A F, A, D | %59
+"A" z/ A,/A,/C/ C/E/E/G/ |"D" A d c A |$"Bm" B F, A, D |"Am" =C/C/C/E/ E/G/G/=c/ |"Bm" B G B d | %64
+"Em" f G, B, D |"A" F E C A, |$"A" A e c3/2 A/ |"D" e z/ d/- d2 |"D" [A,DA] z [A,DA] [A,EA] | %69
+"D" [A,DA] z z2 |] %70
+V:4
+ z4 | z4 |: D,,4 | A,,4 | D,,4 | B,,4 |$ A,,4 | B,,4 | E,,4 | A,,4 | A,,4 |$ A,,4 | D,, z D,, A,, | %13
+ D,, z D,, z | D,,2 A, z | D,,4 | F,,4 |$ F,,4 | G,,4 | G,,4 | A,,4 | A,,2 z2 |$ D,,4 | D,,4 | %24
+ G,,4 | ^B,,4 | ^B,,4 | ^B,,4 |$ A,,4 | D,,4 | B,,4 | B,,4 | A,,4 | A,,4 |$ B,,4 | B,,4 | A,,4 | %37
+ A,,4 | F,,4 | B,,4 |$ A,,4 | D,, z z2 | A,,/ A,, A,,/ A,,2 | A,,/ A,, A,,/ A,,2 | %44
+ A,, z/ A,,/- A,, A,, | D,, z z2 ::$ D,,4 | A,,4 | D,,4 | B,,4 | A,,4 |$ B,,4 | E,,4 | A,,4 | %54
+ A,,4 | D,,4 |$ D,, z D,, A,, | D,, z z2 :| D,,4 | A,,4 | D,,4 |$ B,,4 | A,,4 | B,,4 | E,,4 | %65
+ A,,4 |$ A,,4 | D,,4 | D,, z D,, A,, | D,, z D,,2 |] %70
+V:5
+ x8 | x8 |: x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x4 z4 | x8 |$ x8 | %18
+ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | %37
+ x8 | x8 | x8 |$ x8 | x8 | [Ace] [Ace]2 [Ace] [Ace]4 | [Acf] [Acf]2 [Acf] [Acf]4 | x8 | d2 x6 ::$ %46
+ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 :| x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | %65
+ x8 |$ x8 | x8 | x8 | x8 |] %70
+V:6
+ z4 | z4 |:"D" D, D, D, A,, |"A" A,, A,, A,, E, |"D" D, D, D, A,, |"Bm" B,, B,, B,, F,, |$ %6
+"Am" A,, A,, A,, =C, |"Bm" B,, B,, B,, F,, |"Em" E, E, E, B,, |"A" A,, A,, A,, E, | %10
+"A" A,, A,, A,, E, |$"A" A,,"D" A,, D, D, |"D" D, z"D" D,"A" A,, |"D" D, z A,, z | %14
+"D" D, D, D, A,, |"D" D, D, D, A,, |"C#Fm" F, F, F, C, |$"C#Fm" F, F, F, C, |"G" G, G, G, D, | %19
+"G" G, G, G, D, |"A" A,, A,, A,, E, |"A" E,/ F, G,/ z/ B,,/ A,, |$"D" D, D, D, A,, | %23
+"D" D, D, D, A,, |"G" G, G, G, D, |"C" =C,2 z =G,, |"C" =C, C, C, =G,, |"C" =C, C, C, =G,, |$ %28
+"A" A,, A,, A,, E, |"D" D, D, D, A,, |"Bm" B,,3/2 B,,/ B,, F,, |"Bm" B,,3/2 B,,/ B,, F,, | %32
+"A" A,, A,, A,, E, |"A" A,, A,, A,, E, |$"Bm" B,,3/2 B,,/ B,, F,, |"Bm" B,,3/2 B,,/ B,, F,, | %36
+"A" A,, A,, A,, E, |"A" A,, A,, A,, E, |"C#Fm" F,,/ F,, F,,/ F,,2 |"Bm" B,,/ B,, B,,/ B,,2 |$ %40
+"A" A,,/ A,, A,,/ A,,2 |"D" D, z z2 |"A" A,,/ A,, A,,/ A,,2 |"C#Fm" F,,/ F,, F,,/ F,,2 | %44
+"A" A,, z/ D,/- D, E, |"D" D, z z2 ::$"D" D, D, D, A,, |"A" A,, A,, A,, E, |"D" D, D, D, A,, | %49
+"Bm" B,, B,, B,, F,, |"Am" A,, A,, A,, =C, |$"Bm" B,, B,, B,, F,, |"Em" E, E, E, B,, | %53
+"A" A,, A,, A,, E, |"A" A,, A,, A,, E, |"D" A,, A,, D, D, |$"D" D, z D, A,, |"D" D, z z2 :| %58
+"D" D, D, D, A,, |"A" A,, A,, A,, E, |"D" D, D, D, A,, |$"Bm" B,, B,, B,, F,, | %62
+"Am" A,, A,, A,, =C, |"Bm" B,, B,, B,, F,, |"Em" E, E, E, B,, |"A" A,, A,, A,, E, |$ %66
+"A" A,, A,, A,, E, |"D" A,, A,, D, D, |"D" D, z D, A,, |"D" D, z A,, z |] %70
+V:7
+[K:C] ^g2 ^g2 ^g2 ^g2 | ^g8 |: [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g | [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g | %4
+ [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g | [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g |$ %6
+ [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g | [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g | %8
+ [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g | [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g | %10
+ [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g |$ [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g | %12
+ [F^a] z z [c^g]/[c^g]/ [F^a][c^g] [Fc^a]/[Fc^g]^g/ | [Fc^a]2 z2 F2 z2 | %14
+ [F^g]^g[Fc^g]^g [F^g]^g[Fc^g]^g | [F^g]^g[Fc^g]^g [F^g]^g[Fc^g]^g | %16
+ [F^g]^g[Fc^g]^g [F^g]^g[Fc^g]^g |$ [F^g]^g[Fc^g]^g [F^g]^g[Fc^g]^g | %18
+ [F^g]^g[Fc^g]^g [F^g]^g[Fc^g]^g | [F^g]^g[Fc^g]^g [F^g]^g[Fc^g]^g | %20
+ [F^g]^g[Fc^g]^g [F^g]^g[Fc^g]^g | [F^a][Fc^a] z [Fc^a] z [Fc^e][Fc^a]^g |$ %22
+ [F^g]^g[Fc^g]^g [F^g]^g[Fc^g]^g | [F^g]^g[Fc^g]^g [F^g]^g[Fc^g]^g | %24
+ [F^g]^g[Fc^g]^g [F^g]^g[Fc^g]^g | [F^g] z z2 z2 [Fc^g]^g | [F^g]^g[Fc^g]^g [F^g]^g[Fc^g]^g | %27
+ [F^g]^g[Fc^g]^g [F^g]^g[Fc^g]^g |$ [F^g]^g[Fc^g]^g [F^g]^g[Fc^g]^g | %29
+ [F^g]^g[Fc^g]^g [F^g] z [Fc^g] z | [F^e] [c^e]2 [F^e] [F^e] z [Fc^e] z | %31
+ [F^e] [c^e]2 [F^e] [F^e] z [Fc^e] z | [F^g]^g[Fc^g]^g [F^g]^g[Fc^g]^g | %33
+ [F^g]^g[Fc^g]^g [F^g]^g[Fc^g]^g |$ [F^e] [c^e]2 [F^e] [F^e] z [Fc^e] z | %35
+ [F^e] [c^e]2 [F^e] [F^e] z [Fc^e] z | [F^g]^g[Fc^g]^g [F^g]^g[Fc^g]^g | %37
+ [F^g]^g[Fc^g]^g [F^g]^g[Fc^g]^g | [F^a] [c^e]2 [F^e] [F^e] z [F^e]2 | %39
+ [F^a] [c^e]2 [F^e] [F^e] z [F^e]2 |$ [F^a] [c^e]2 [F^e] [F^e] z [F^e]2 | [F^a] z z2 z4 | %42
+ [F^a] [c^e]2 [F^e] [F^e] z [Fc^e] z | [F^a] [c^e]2 [F^e] [F^e] z [Fc^e] z | %44
+ [F^a] z2 [F^a] z z [Fc^a] z | [F^a] z z2 z4 ::$ [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g | %47
+ [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g | [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g | %49
+ [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g | [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g |$ %51
+ [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g | [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g | %53
+ [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g | [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g | %55
+ [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g |$ [F^a] z z [c^g]/[c^g]/ [F^a][c^g] [Fc^a]/[Fc^g]^g/ | %57
+ [Fc^a]2 z2 z2 z2 :| [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g | [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g | %60
+ [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g |$ [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g | %62
+ [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g | [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g | %64
+ [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g | [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g |$ %66
+ [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g | [F^e]^g[Fc^g]^g [F^g]^g[Fc^g]^g | %68
+ [F^a] z z [c^g]/[c^g]/ [F^a][c^g] [Fc^a]/[Fc^g]^g/ | [Fc^a]2 z2 F2 z2 |] %70

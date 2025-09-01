@@ -1,0 +1,11 @@
+X:1
+T:Schaufelstiel
+L:1/8
+Q:1/8=320
+M:3/4
+I:linebreak $
+K:C
+V:1 treble 
+V:1
+"^slow" G3 B d2 | G3 B d2 |[M:2/4] [ce]4 [Ac]4 | [Bd]4 [GB]4 |[M:3/4] G3 B d2 | G3 B d2 | %6
+[M:2/4] c4 A4 | G8 ::"^faster" e4 e4 | d4 d4 | c4 c4 | B4 d4 | e4 e4 |$ d4 d4 | c4 c4 | B8 :| %16

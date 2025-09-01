@@ -1,0 +1,56 @@
+X:1
+T:Title
+C:Composer
+%%score ( 1 2 ) { 3 | 4 }
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+L:1/4
+V:3 treble nm="Piano" snm="Pno."
+V:4 bass 
+L:1/4
+V:1
+|: z CGE A3 E | GCEA- AGEC | z CGE A3 E | FDFA- AFED |$ z [FB]2 [FB] [FA]2 [FA]2 | FB,DF z FGA | %6
+ z [FB]2 [FB] [FA]2 [FA]2 | ECDE- EDEF |$ z CGE A3 E | GCEA- AGEC | c c2 c [B_c]2 [Bc]2 | %11
+ [Ac]FAc- c=BcB |$ !>![_Ec]2 !>![Ec]4 z2 | !>![=EG]2 !>![EG]4 z2 |!<(! z (G2 ^G .[FA]2) .[FB]2 | %15
+ !>!.[Ec]2!<)! z2 !>!.[EGc]2 z2!D.C.! :|$"^Mississippi Rag" e2 e2 z B e2 | B e2 B c2 A2 | %18
+ d2 d2 dcBA | G2 G2 A2 G2 |$ g2 g2 z B g2 | d f2 d e2 d2 | d2 d2 z G d2 | G c2 G B2 A2 |$ %24
+ B2 B2 z F d2 | F A2 F B2 F2 | A2 A2 z E A2 | E G2 E A2 G2 |$ g2 g2 z B g2 | B f2 B e2 d2 | %30
+ d2 d2 z G d2 | G c2 G B2 A2 | a2 a2 z e a2 | f a2 f af a2 |$ e g2 g [fa]2 [fa]2 | %35
+ [ec']2 z2 [egc']2 z2 ::[K:F][M:4/4][K:treble]"^Smoky Mokes" C2 C4 D2 | E2 F2 G2 A2 | %38
+ B B2 B [F=B]2 [FB]2 | [Ec]2 c2 c2 c2 |$ c e2 d c2 B2 | A c2 B A2 G2 | F A2 G F2 D2 | C8 | %44
+ F E2 ^D E2 G2 | c8 |$ G F2 E F2 A2 | c6 c2 | c e2 d c2 B2 | A c2 B A2 G2 | F A2 G F2 D2 | C8 |$ %52
+ D3 F F3 G | ABAF D2 z2 | C C2 C D2 E2 | F2 z2 [Acf]2 z2 :| z8 | z8 | z8 | z8 | z8 | z8 |$ z8 | %63
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |] %72
+V:2
+|: x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 :|$ x4 | x4 | %18
+ x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 :: %36
+[K:F][M:4/4][K:treble] x4 | x4 | G2 z2 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | %50
+ x4 | x4 |$ x4 | x4 | x4 | x4 :| x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 | x4 | %69
+ x4 | x4 | x4 |] %72
+V:3
+|: [CEG]8 | z8 | z z z2 [A,CEG]4 | [DFA]8 |$ [GBdf]8 | z8 | z8 | [CEG]8 |$ z8 | z8 | %10
+ z z z2 [CEGB]4 | [FAc]8 |$ [^FAc]8 | [CEG]8 | [GBdf]8 | [CEG]8 :|$ [EGB]4 z4 | z z z2 [Ace]4 | %18
+ z8 | z8 |$ z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 | z8 |$ z8 | z8 :: %36
+[K:F][M:4/4] z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 | z8 |$ %52
+ z8 | z8 | z8 | z8 :| z8 | z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %71
+ z8 |] %72
+V:4
+|: C, [E,G,] G,, [E,G,] | C, [E,G,] G,, [E,G,] | C, [E,G,] ^C, [G,A,] | D, [F,A,] A,, [F,A,] |$ %4
+ D, G, G,, G, | D, G, G,, G, | D, G, G,, G, | C, [E,G,] G,, z |$ C, [E,G,] G,, [E,G,] | %9
+ C, [E,G,] G,, [E,G,] | C, D, E, C, | F, C, F, z |$ !>![^F,A,] !>![F,A,]2 z | %13
+ !>![G,C] !>![G,C]2 z | (G, G,,) G, G,, | !>!.C, z [C,G,] z :|$ E E z/ B,/ E | B,/ E B,/ C A, | %18
+ D z [D,^F,C]2 | [G,B,] z z2 |$ D, [F,G,B,] G,, [F,G,B,] | D, [F,G,B,] G,, [F,G,B,] | %22
+ C, [E,G,C] G,, [E,G,C] | C, [E,G,C] G,, [E,G,C] |$ D, [F,G,B,] G,, [F,G,B,] | %25
+ D, [F,G,B,] G,, [F,G,B,] | C, [E,G,C] G,, [E,G,C] | C, [E,G,C] G,, [E,G,C] |$ %28
+ D, [F,G,B,] G,, [F,G,B,] | D, [F,G,B,] G,, [F,G,B,] | C, [E,G,C] G,, [E,G,C] | %31
+ C, [E,G,C] G,, [E,G,C] | ^C, [G,A,^C] A,, [G,A,C] | D, [F,A,D] D, [F,A,D] |$ %34
+ G,, [E,G,C] G,, [F,G,] | [C,G,] z [C,,C,] z ::[K:F][M:4/4] z2 z =B, | _B, A, G, F, | E,2 D, _D, | %39
+ C, z z2 |$ G, [B,C] C, [B,C] | E, [B,C] C, [B,C] | F, [A,C] C, ^G, | [F,A,] C, D, C, | %44
+ [G,B,] C, [G,B,] C, | [E,B,] C, D, C, |$ [F,A,] C, [F,A,] C, | [F,A,] E, F, ^F, | %48
+ G, [B,C] C, [B,C] | E, [B,C] C, [B,C] | F, [A,C] C, ^G, | [F,A,] =G, F, E, |$ %52
+ D, [F,A,] D, [F,A,] | D, [F,A,] D, [F,A,] | [E,B,]2 [C,B,]2 | [F,A,] C, [F,,F,] z :| z4 | z4 | %58
+ z4 | z4 | z4 | z4 |$ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 |] %72

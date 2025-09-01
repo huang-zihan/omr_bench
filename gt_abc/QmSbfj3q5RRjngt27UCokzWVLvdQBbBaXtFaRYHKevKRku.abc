@@ -1,0 +1,54 @@
+X:1
+T:Eternal God, Celestial King
+C:Daniel Brink Towner, 1907
+Z:Public Domain
+Z:Courtesy of the Cyber Hymnal™
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=105
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ E2 | [EA]2 [EG]2 [EB]2 [EA]2 | [Ed]3 [Ac] [GB]2 [EA]2 | (GA) ([GB][Ac]) [GB]2 [EG]2 |$ %4
+w: 1.~E-|ter- nal God, ce-|les- tial King, Ex-|alt- * ed * be Thy|
+w: 2.~My|heart is fixed on|Thee, my God; I|rest * my * hope on|
+w: 3.~With|those who in Thy|grace a- bound, To|Thee * I’ll * raise my|
+ [=DA]2 [DF]2 !fermata!E2 E2 | [EA]2 [EG]2 [EB]2 [EA]2 | [Ed]3 [Ac] [GB]2 ([Ac][Bd]) |$ %7
+w: glor- ious name; Let|hosts in Heav’n Thy|prais- es sing, And *|
+w: Thee a- lone; I’ll|spread Thy sac- red|truths a- broad; To *|
+w: thank- ful voice Till|ev- ery land the|earth a- round Shall *|
+ e3 [Fd] (cBA)[Gd] | [Ac]2 [EB]2 !fermata![EA]3 ||"^Refrain" [DE] | [CA]3 [EA] [GB]3 [GB] |$ %11
+w: saints on earth * * Thy|love pro- claim!|||
+w: all man- kind * * Thy|love make known.|A-|wake, my tongue! a-|
+w: hear, and in * * Thy|name re- joice.|||
+ [Ac]2 ([EB][FA]) [GB]2 (cd) | [ce]2 [Ac]2 [Bd]2 [GB]2 | [Ac]2 ([EB][FA]) [GB]3 E | %14
+w: |||
+w: wake, my * lyre! With *|morn- ing’s ear- liest|dawn a- * rise, To|
+w: |||
+ (z EE)A (z EE)B x2 |$ z [EB][FA] [GB]2 ([Ac][Bd]) x | e3 [Fd] (cBA)[Gd] | %17
+w: |||
+w: * * songs * * of|* * joy my *|soul in- spire, * * And|
+w: |||
+ [Ac]2 [EB]2 !fermata![EA]2 |] %18
+w: |
+w: swell your mus-|
+w: |
+V:2
+ E2 | x8 | x8 | E2 x6 |$ x4 E2 E2 | x8 | x8 |$ (cGA) E3 x2 | x7 || x | x8 |$ x6 A2 | x8 | x7 E | %14
+ A3 B3 x4 |$ (c2 A) x5 | (cGA) E3 x2 | x6 |] %18
+V:3
+ E,2 | [A,C]2 B,2 [G,D]2 [A,C]2 | B,3 [A,E] [E,D]2 [E,C]2 | (B,C) (DE) [E,D]2 [E,B,]2 |$ %4
+ [B,,B,]2 [B,,A,]2 !fermata![E,G,]2 E,2 | [A,C]2 B,2 [G,D]2 [A,C]2 | B,3 [A,E] E2 E2 |$ %7
+ E3 [E,B,] (A,DC)[E,B,] | [E,E]2 [E,D]2 !fermata![A,,C]3 || z | z A,A, z2 ([E,E][E,E]) z |$ %11
+ z [A,E] ([G,E][F,=D]) [E,_D]2 (CB,) | (A,C) [A,E]2 [E,E]2 [E,E]2 | [A,E]2 ([G,E][F,=D]) [E,E]3 D | %14
+ (z C) (z D) x6 |$ (z [G,E][F,=D]) E2 E2 x | E3 [D,A,] (A,DC)[E,B,] | %17
+ [E,E]2 [E,D]2 !fermata![A,,C]2 |] %18
+V:4
+ E,2 | x2 B,2 x4 | B,3 x5 | E,2 E,2 x4 |$ x6 E,2 | x2 B,2 x4 | B,3 (E, D,) (C,B,,) x |$ %7
+ (A,,C,D,) E,3 x2 | x7 || x | x (A,A,) x5 |$ x6 A,2 | A,2 x6 | x8 | (C3 A, A,) (D3 E,E,) |$ %15
+ (E2 A,) x (E,=D,) (C,B,,) | (A,,B,,C,) E,3 x2 | x6 |] %18

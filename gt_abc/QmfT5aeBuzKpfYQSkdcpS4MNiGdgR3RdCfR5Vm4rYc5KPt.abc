@@ -1,0 +1,70 @@
+X:1
+T:Amy Winehouse
+C:Mark Ronson ft. Amy Winehouse
+%%score 1 2 3 4 5
+L:1/8
+Q:1/4=106
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble transpose=-2 nm="B♭ Trumpet" snm="B♭ Tpt."
+V:2 treble transpose=-14 nm="Tenor Saxophone" snm="T. Sax."
+V:3 treble transpose=-21 nm="Baritone Saxophone" snm="Bar. Sax."
+V:4 treble nm="Violin 1" snm="Vln. 1"
+V:5 treble nm="Violin 2" snm="Vln. 2"
+L:1/4
+V:1
+[K:F] z8 | z8 | z8 | z8 ||"^Verse 1" z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 ||$"^Pre-Chorus" d8 | %13
+ c6 z2 | d6 e2 | c6 z2 | d8 | c6 z2 |$ e8- | e6 z2 ||"^Chorus" z A z A ((A/B))c/ z2 | %21
+ z A z A ((A/B))c/ z2 | z B z B ((B/c))d/ z2 | z B z B ((B/c))d/ z2 |$ z A z A ((A/B))c/ z2 | %25
+ z A z A ((A/B))c/ z2 | z B z B ((B/c))d/ z2 | z B z B ((B/c))d/ z2 ||"^Verse 2" z8 |$ z8 | z8 | %31
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 |$ z8 ||"^Pre-Chorus" d8 | c6 z2 | %46
+ d6 e2 | c6 z2 |$ d8 | c6 z2 | e4 f4 | g6 z2 ||"^Chorus" z A z A (A/B)c/ z2 |$ z A z A (A/B)c/ z2 | %54
+ z B z B (B/c)d/ z2 | z B z B (B/c)d/ z2 | z A z A (A/B)c/ z2 |$ z A z A (A/B)c/ z2 | %58
+ z B z B (B/c)d/ z2 | z B z B (B/c)d/ z2 ||"^Verse 3" z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 || %68
+"^Pre-Chorus" d8 | c6 z2 | d6 e2 | c6 z2 |$ d8 | c6 z2 | e4 f4 | g6 z2 || %76
+"^Chorus" z A z A (A/B)c/ z2 | z A z A (A/B)c/ z2 |$ z B z B (B/c)d/ z2 | z B z B (B/c)d/ z2 | %80
+ z A z A (A/B)c/ z2 | z A z A (A/B)c/ z2 |$ z B z B (B/c)d/ z2 | z B z B (B/c)d/ z2 || %84
+ z c z c (c/d)e/ z2 | z c z c (c/d)e/ z2 |$ z d z d (d/e)f/ z2 | z d z d (d/e)f/ z2 | e8 |] %89
+V:2
+[K:F] z8 | z8 | z8 | z8 || z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 ||$ f8 | e6 z2 | f6 g2 | e6 z2 | %16
+ f8 | e6 z2 |$ g8- | g6 z2 || z c z c ((c/d))e/ z2 | z c z c ((c/d))e/ z2 | z d z d ((d/e))f/ z2 | %23
+ z d z d ((d/e))f/ z2 |$ z c z c ((c/d))e/ z2 | z c z c ((c/d))e/ z2 | z d z d ((d/e))f/ z2 | %27
+ z d z d ((d/e))f/ z2 || z8 |$ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | %42
+ z8 |$ z8 || f8 | e6 z2 | f6 g2 | e6 z2 |$ f8 | e6 z2 | g8- | g6 z2 || z c z c (c/d)e/ z2 |$ %53
+ z c z c (c/d)e/ z2 | z d z d (d/e)f/ z2 | z d z d (d/e)f/ z2 | z c z c (c/d)e/ z2 |$ %57
+ z c z c (c/d)e/ z2 | z d z d (d/e)f/ z2 | z d z d (d/e)f/ z2 || z8 | z8 | z8 | z8 |$ z8 | z8 | %66
+ z8 | z8 || f8 | e6 z2 | f6 g2 | e6 z2 |$ f8 | e6 z2 | g8- | g6 z2 || z c z c (c/d)e/ z2 | %77
+ z c z c (c/d)e/ z2 |$ z d z d (d/e)f/ z2 | z d z d (d/e)f/ z2 | z c z c (c/d)e/ z2 | %81
+ z c z c (c/d)e/ z2 |$ z d z d (d/e)f/ z2 | z d z d (d/e)f/ z2 || z e z e (e/f)g/ z2 | %85
+ z e z e (e/f)g/ z2 |$ z f z f (f/g)a/ z2 | z f z f (f/g)a/ z2 | g8 |] %89
+V:3
+[K:C] z8 | z8 | z8 | z8 || z8 | z8 | z8 | z8 | z8 | z8 | z8 | z4 z2 z E ||$ F z z2 z2 z F | %13
+ E z z2 z2 z E | F z z2 z2 z G | E z z2 z2 z E | F z z2 z2 z F | E z z2 z4 |$ G8- | G6 z2 || %20
+ z E z E (((((E/F)))))G/ z2 | z E z E (((((E/F)))))G/ z2 | z D z D ((((((D/E))))))F/ z2 | %23
+ z D z D (((((D/E)))))F/ z2 |$ z E z E (((E/F)))G/ z2 | z E z E ((E/F))G/ z2 | z D z D D/EF/ z2 | %27
+ z D z D D/EF/ z2 || z8 |$ z8 | z8 | z8 | z8 | z8 | z8 | z4 z2 z G | C z z2 z2 z G | %37
+ C z z2 z2 z C |$ D z z2 z2 z C | D z z2 z2 z G | C z z2 z2 z G | C z z2 z2 z C | D z z2 z2 z C |$ %43
+ D z z2 z2 z E || F z z2 z2 z F | E z z2 z2 z E | F z z2 z2 z G | E z z2 z2 z E |$ F z z2 z2 z F | %49
+ E z z2 z4 | G8- | G6 z2 || z E z E E/FG/ z2 |$ z E z E E/FG/ z2 | z D z D D/EF/ z2 | %55
+ z D z D D/EF/ z2 | z E z E E/FG/ z2 |$ z E z E E/FG/ z2 | z D z D D/EF/ z2 | z D z D D/EF/ z2 || %60
+ z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 || F z z2 z2 z F | E z z2 z2 z E | F z z2 z2 z G | %71
+ E z z2 z2 z E |$ F z z2 z2 z F | E z z2 z4 | G8- | G6 z2 || z E z E E/FG/ z2 | z E z E E/FG/ z2 |$ %78
+ z D z D D/EF/ z2 | z D z D D/EF/ z2 | z E z E E/FG/ z2 | z E z E E/FG/ z2 |$ z D z D D/EF/ z2 | %83
+ z D z D D/EF/ z2 || z G z G G/AB/ z2 | z G z G G/AB/ z2 |$ z F z F F/GA/ z2 | z F z F F/GA/ z2 | %88
+ B,8 |] %89
+V:4
+ z8 | z8 | z8 | z8 || z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 ||$ z8 | z8 | z8 | z8 | z8 | z8 |$ z8 | %19
+ z8 || G8- | G8 | F8- | F8 |$ G8- | G8 | F8- | F4 ecBF || G8- |$ G4 B2 G2 | F8- | F4 E2 F2 | G8- | %33
+ G4 B2 c2 | F8 | B2 c2 e2 f2 | g8- | g4 b2 g2 |$ f8- | f4 e2 f2 | g8- | g4 b2 c'2 | f8 |$ %43
+ E2 F2 G2 B2 || c8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z4 z B c/d/e/f/ || g8- |$ g4 e'c'bg | f8- | %55
+ f4 Bcef | g8- |$ g4 e'c'bg | f8- | f4 BcBF || G2 z2 z4 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 || z8 | %69
+ z8 | z8 | z8 |$ z8 | z8 | z8 | z8 || z8 | z8 |$ z8 | z8 | z8 | z8 |$ z8 | z8 || z8 | z8 |$ z8 | %87
+ z8 | z8 |] %89
+V:5
+ z4 | z4 | z4 | z4 || z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 ||$ z4 | z4 | z4 | z4 | z4 | z4 |$ z4 | %19
+ z4 || G4- | G4 | F4- | F4 |$ G4- | G4 | F4- | F3 E/F/ || G4- |$ G2 B G | F4- | F2 E F | G4- | %33
+ G2 B c | F4 | B c e f | g4- | g2 b g |$ f4- | f2 e f | g4- | g2 b c' | f4 |$ B c G F || E4 | z4 | %46
+ z4 | z4 |$ z4 | z4 | z4 | z4 || z4 |$ z4 | z4 | z4 | z4 |$ z4 | z4 | z4 || z4 | z4 | z4 | z4 |$ %64
+ z4 | z4 | z4 | z4 || z4 | z4 | z4 | z4 |$ z4 | z4 | z4 | z4 || z4 | z4 |$ z4 | z4 | z4 | z4 |$ %82
+ z4 | z4 || z4 | z4 |$ z4 | z4 | z4 |] %89

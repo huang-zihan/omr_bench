@@ -1,0 +1,42 @@
+X:1
+T:Title
+%%score ( 1 2 ) { 3 | 4 }
+L:1/8
+Q:1/4=86
+M:6/8
+I:linebreak $
+K:G
+V:1 treble nm="Grand Piano, Soprano"
+V:2 treble 
+V:3 bass nm="Choir Pad, Waiting for Me"
+V:4 bass 
+V:1
+ D[DG]>[DG] [DG][DG][DA] | [GB][Gd]>[Gd] [Gd] [Gd]2 | [GB][Ac]>[Ac] [Ac][GB][GA] | %3
+w: By~John~Robson~Sweney * * * * *|||
+ G[FA]>[FA] [FA] [FA]2 |$ D[DG]>[DG] [DG][DG][DA] | [GB][Gd]>[Gd] [Gd] [Gd]2 | %6
+w: |||
+ [GB][EA][Ec] [Ge][Gd]>[GB] | z6 | z A2- A3/2 z/ z |$ z G2- G2- G/ z/ | z c2- c3/2 z/ z | %11
+w: |||||
+ z d2- d2- d/ z/ | z [^DB]2- [DB]2 [DA] | [^DF] [FA]2- [FA] [EG]2 |$ [EG] [^CG]2- [CG]2 [CF] | %15
+w: ||||
+ [^CE] [DA]2- [DA]3/2 z/ z | z [B,D]2- [B,D]2 [CE] | [CF] [B,G]2- [B,G]2- [B,G]/ z/ | %18
+w: |||
+ z [CA]2- [CA]2 [B,G] | [CA] [DB]2- [DB]2- [DB]/ z/ |$ [=FB] [Ec]2- [Ec]2 [Ed] | %21
+w: |||
+ [Ge] [Gd]2- [Gd] G2 | [GA] [GB]2- [GB] [FB]2 | [FA] [DG]2- [DG]3- | [DG]3 z3 |] %25
+w: ||||
+V:2
+ x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | [DG]D[^CE] [=CF] [B,G]2- | [B,G]DD DDD |$ BDD D D2 | %10
+ z EE EEd | eGG G G2 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 |] %25
+V:3
+ B,B,>B, B,B,C | DB,>B, B, B,2 | DD>D DDC | B,D>D D D2 |$ C[K:bass]B,>B, B,B,C | DB,>B, B, B,2 | %6
+ DCC CB,>D | B,F,G, A, G,2- | G,F,F, F, .F,2 |$ z B,B, B, B,2 | z G,G, G, .G,2 | z B,B, B, B,2 | %12
+ z F,F, F,F,F, | B,B,B, B, B,2 |$ z A,A, A,A,A, | A,F,F, F, F,2 | z G,G, G, G,2 | z D,D, D, D,2 | %18
+ z F,F, F, .F,2 | z G,G, G, G,2 |$ G,G,G, G,G,G, | CB,B, B,[K:treble] ^C2 | ^CDD DD[K:bass]D | %23
+ C B,2- B,3- | B,3 z3 |] %25
+V:4
+ G,G,>G, G,G,G, | G,G,>G, G, G,2 | G,F,>F, F,G,G, | G,D,>D, D, D,2 |$ F,G,>G, G,G,G, | %5
+ G,G,>G, G, G,2 | G,C,C, C,G,>G, | G,D,D, D, G,,2- | G,,D,D, D, .D,2 |$ z G,G, G, G,2 | %10
+ z C,C, C, .C,2 | z G,G, G, G,2 | z B,,B,, B,,B,,B,, | B,,E,E, E, E,2 |$ z E,E, E,E,E, | %15
+ E,D,D, D, D,2 | z6 | z G,,G,, G,, G,,2 | z D,D, D, .D,2 | z6 |$ z C,C, C,C,C, | C,G,G, G, E,2 | %22
+ E,D,D, D,D,D, | D, [G,,G,]2- [G,,G,]3- | [G,,G,]3 z3 |] %25

@@ -1,0 +1,39 @@
+X:1
+T:--
+C:--
+Z:--
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=150
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+!f! [gc']2 eB G4 | B2 .b.c .c e2 !^!g | .f.b.g.e .d2 !tenuto!B2 | G2 A2 .F!tenuto!E C2 | %4
+ !tenuto!D2 !tenuto!G2 !tenuto!B2!>(! !tenuto!c2!>)! |!p! [df]4 [ce]4 | [Bd]4 [FA]4 | %7
+!f! g4 fd c2 |$ .B>!tenuto!A G4 .A!tenuto!e | g4 .e>!tenuto!B G2 | AB d4 .c!tenuto!G | B>d a6 | %12
+[Q:1/4=135] g2 d/.F/B d2 .G/.E/B | f2 c4 .d/.A/.c/.F/ | .G.B d2 .G.d/.G/ e2 |$ %15
+ f2 .d/.f/.c .e/.B/.g/.d.A/.f | a2 e/.G/c e2 .A/.F/c | g2 d4 .e/.B/.d/.G/ | .A.c e2 .A.e/.A/ f2 | %19
+ a2 .c/.e/.B .d/.A/.f/.c.G/ z |$[Q:1/4=80] B2 G2 d2 A2 | B2 c2 e2 !tenuto!g!tenuto!e | %22
+ d2 B2 !tenuto!G!tenuto!e !tenuto!c/!tenuto!G/ z | f2 A2 c2 eG | A2 f!tenuto!B/!tenuto!F/ b4 | %25
+ B4 d2 A2 | f4 G2 B2 | d4 A2 f2 | %28
+ !tenuto!e!tenuto!B!tenuto!d!tenuto!e !breath!!fermata!c4{!fermata!e} |$ %29
+[Q:1/4=135] .f.c .e.b/.d/ .B .e2 .c | .d.f/.c/ d2 .e/.B/.f .d.B | d2 .f/.c/.a .e/.c/.f d2 | %32
+ e2 a2 .f/.d.B/ .g.e/.A/ | B2 .f.d .f/.d/.e/4.d/4.B/ e2 | g4 d2 B2 |$ A2 d2 f4 | %36
+[Q:1/4=80] d2 B2 !tenuto!e!tenuto!c B2 | B2 d2 A2 !tenuto!d!tenuto!B | %38
+ c2 f2 d2 !tenuto!c!tenuto!A | B2 !tenuto!e!tenuto!B d2 g2 | !tenuto!d!tenuto!g d2 f2 c2 | %41
+ !tenuto!d!tenuto!g c2 A2 !tenuto!Be | d2 B2 !tenuto!f!tenuto!c g2 |$[Q:1/4=70] e2 c2 A2 g2- | %44
+ g2 c2 !tenuto!e!tenuto!G c2 | g4 e2 c2 | e4 d2 f2 | a2 f2 e2 !tenuto!d!tenuto!b | %48
+[Q:1/4=65] B4 d2 A2 | B2 e2 G4 | f4 !tenuto!d!tenuto!B!tenuto!G!tenuto!!fermata!B{!fermata!A} |] %51
+V:2
+!mp! [E,,B,,D,]8 | [B,,E,G,]8 | [D,F,A,]8 | [E,G,B,]8 | [G,CE]8 |!mf! C,2 G,2 .F,.E,.D,.C, | %6
+ .D,.F,.G,.E, D,4 |!mp! [F,,A,,C,]8 |$ [G,,B,,D,]8 | [F,,C,E,]8 | [G,,D,F,]8 | %11
+ [A,,E,G,]4!<(! D>B, A,2-!<)! | A,4!>(! [B,,F,A,]4!>)! | [C,G,B,]8 | [B,,F,A,]8 |$ [A,,E,G,]8 | %16
+ [G,,D,F,]8 | [F,,C,E,]8 | [E,,B,,D,]8 | [A,,C,G,]6 [B,,D,A,]2 |$ [D,F,B,]8 | [A,,C,G,]8 | %22
+ [B,,E,G,]8 | [A,,D,F,]4 [B,,D,G,]4 | [B,,D,F,]8 | [B,,F,B,]8 | [A,,C,F,]8 | [D,F,A,]8 | %28
+ [B,,D,G,]8 |$ [B,,E,G,]2 [B,,D,A,]6 | [B,,D,G,]8 | [C,F,A,]8 | [B,,D,A,]8 | [A,,D,F,]8 | %34
+ [B,,D,B,]8 |$ [B,,D,G,]6 [D,G,B,]2 | [B,,D,G,]8 | [G,,B,,F,]8 | [A,,D,F,]8 | %39
+ [B,,E,G,]4 [C,F,A,]4 | [A,,E,G,]8 | [B,,F,A,]8 | [A,,C,G,]8 |$ [C,E,G,]8 | [B,,E,G,]8 | %45
+ [C,F,A,]8 | [B,,E,A,]8 | [C,F,B,]8 | [B,,D,F,]8 | [B,,E,G,]8 | [B,,F,A,]8 |] %51

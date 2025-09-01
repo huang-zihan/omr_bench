@@ -1,0 +1,81 @@
+X:1
+T:Nesse pas chose dure
+C:Nicolas Gombert
+%%score [ 1 2 [ 3 4 ] 5 ]
+L:1/4
+Q:1/4=120
+M:2/2
+I:linebreak $
+K:F
+V:1 treble nm="Soprano" snm="S"
+V:2 treble nm="Alto" snm="A"
+V:3 treble-8 nm="Tenor 1" snm="T 1"
+V:4 treble-8 nm="Tenor 2" snm="T 2"
+V:5 bass nm="Bass" snm="B"
+V:1
+ z2 G2 | B3 A | B c d c | d c/B/ A2 | G2 z2 |$ z4 | A2 B2- | B A B c | d c/B/ A2 | %9
+w: N'es-|se pas|cho- se du- *||re,||n'es- se|_ pas cho- se|du- * * *|
+"^b" G3/2 F/4E/4 F/G/ A- |$"^#" A/G/ G2 F |$ G2 z G | G G c B | A2 z A | A A d3/2 c/ |$ %15
+w: ||re, sans|es- tre'ay- mé, d'ay-|mer, sans|es- tre'ay- mé, _|
+ B A B A/G/ | B/c/ d2 c |$ d4- | d2 z G | G G c3/2 A/ | B/c/ d2 c | d2 A A |$ c B2 A- |$ %23
+w: _ d'ay- * * *||mer,|_ sans|es- tre'ay- mé, _|_ _ d'ay- *|mer, le mar-|tir que j'en-|
+ A/F/ G A2 | F2 z2 | z4 | z A A c | B A F G |$ A2 z A |$ G G F3/2 G/ | A B G2 | F f2 d | e c z B- | %33
+w: * * * du-|re,||le mar- tir|que j'en- du- *|re, le|mar- tir que _|_ j'en- du-|re m'est trop|plus, _ m'est|
+ B G A F- |$ F G2 E |$ F D/E/ F/G/ E- |"^b" E/F/ G3/2 F/ F | G d2 B | c A2 B- | B G A F- |$ %40
+w: _ trop plus, _|_ m'est trop|plus, _ _ _ _ _|_ _ _ _ qu'ay-|mer m'est trop|plus, _ _|_ _ qu'ay- mer|
+ F G2 E |"^b""^b" F D/E/ F/G/ E- | E/F/ G3/2 F/ F | G4- | G4- | G4 |] %46
+w: _ m'est trop|plus, _ _ _ _ _|_ _ _ _ qu'ay-|mer.|_||
+V:2
+ D2 _E2- | E D _E F | G F/E/ D E | D G3/2 E/ F | G G2 F |$"^b" G F/E/ D G- | G/E/ F G2 | D2 G2- | %8
+w: N'es- se|_ pas _ se-|du- * * * *||re, [n'es- se|pas _ _ _ _|_ _ _ _|* cho-|
+ G G E F | G2 z2 |$ z2 z D |$ D D G3/2 F/ | E D E F- | F E/D/ E2 | F2 z D |$ D D G2- | G F E2 |$ %17
+w: * se du- *|re,]|sans|es- tre'ay- mé, _|_ d'ay- * *||mer sns|es- tre'ay- mé,|_ _ d'ay-|
+ F2 z D | D D G3/2 F/ |"^b""^-natural" E D E A- | A/F/ G A2 | F3/2 F/ F A |$ G F3/2 D/ E |$ %23
+w: mer, sans|es- tre'ay- mé, _|_ d'ay- * *||mer, le mar- tir|que j'en- * *|
+ F D2 C | A, F F A |"^b" G F3/2 D/ E | F D C2 | z4 |$ z A A c |$ B G A2 | D2 z2 | A2 F G | %32
+w: du- * *|re, le mar- tir|que j'en _ _|du- * re,||le mar- tir|que j'en- du-|re|m'est trop plus|
+ E2 F D- | D E C D- |$ D B, C2 |$ A,2 z G- |"^b" G E F D- | D B2 G | A3/2 F/ A G- | %39
+w: _ _ _||* * qu'ay-|mer, mest|_ trop plus _|_ _ _||
+"^b" G/E/ G F3/2 D/ |$"^b""^b" F E3/2 C/ E | D2 z G- |"^b" G E F D- |"^b" D E2 C |"^b" D2 E2 | %45
+w: |* * * qu'ay-|mer, m'est|_ trop plus _|_ _ _|* qu'ay-|
+ D4 |] %46
+w: mer.|
+V:3
+ z4 | z4 | G2 B A | B c d2 | B B3/2 c/ d |$ c2 B A/G/ | A2 G g- | g f _e2 | d2 z c |"^b" e2 d c |$ %10
+w: ||N'es- se pas|cho- se du-|re,- [n'es- * *|se pas _ _|cho se du-||re,] sans|es- tre'ay- mé,|
+"^b" e2 d2 |$ B3/2 G/ G G | c B A d- | d c/B/ c2 | A2 z2 |$ z4 | z2 z A |$ A A d3/2 c/ | %18
+w: d'ay- *|mer, sans es- tre'ay-|mé, d'ay- * *||mer,||le|mar- tir que j'en-|
+ B3/2 A/ G2 | z g a2 | f d e2 | d3/2 d/ d f |$ e d B c |$ d B A2- | A2 F2 | G A B G | F2 z f | %27
+w: du- * re,|sans es-|tre'ay- mé, d'ay-|mer, le mar- tir|que j'en- du- *||||re, que|
+"^b" d f3/2 e/ d- |$ d c A2 |$ z d d f- |"^b" f/e/ d3/2 B/ c | d d2 B | c A2 G | g g f3/2 d/ |$ %34
+w: j'en- du- * *|* * re,|le mar- tir|_ _ que j'en- du-|re m'est trop|plus qu'ay- mer,|m'est trop plus _|
+"^b""^b" f e3/2 c/ e |$"^b" d f/e/ d c | B G d2 | B2 g2 | e f2 d | e2 c d- |$ d B c2 | %41
+w: _ _ _ _||* * qu'ay-|mer, m'est|trop plus _|_ _ _||
+"^b" A f/e/ d c | B G d2 | B2 c c | B2 c2 | B4 |] %46
+w: |||* qu'ay-|mer.|
+V:4
+ z4 | z4 | z4 | z4 | G2 B2- |$ B A B c | d2 G2 | z d2 c | B G A2 | B c A2 |$ B c A2 |$ G2 z2 | z4 | %13
+w: ||||N'es- se-|_ pas cho- se|du- re,|[n'es- se|pas cho- se|du- * *||re,]||
+ A3 A | d3/2 c/ B A |$ B d3/2 B/ c | d2 A2 |$ d3/2 c/ B A | G B2 c- | c B A2 | d B c2 | A4 |$ z4 |$ %23
+w: sans es-|tre'ay- * * mé,|d'ay- * * *||||||mer,||
+ d d f e | d3/2 c/ B A | B d2 c | A4 | z2 d d |$ f e d/ c A/ |$ B2 A d- | d/c/ B2 A/G/ | A2 z2 | %32
+w: le mar- tir que|j'en- * * du-||re,|le mar-|tir que j'en- * *|du- * *||re|
+ z2 d2 | B c2 A |$ B2 G A |$ A F B G- | G/A/B/G/ A2 | G2 z2 | z2 d2 | B c2 A |$ B2 G A- | %41
+w: m'est|trop plus _|_ _ _||* * * * qu'ay-|mer,|m'est|trop plus _|_ _ _|
+ A F B G- | G/A/B/G/ A2 | G4- | G4- | G4 |] %46
+w: |* * * * qu'ay-|mer.|_||
+V:5
+ z4 | z4 | z4 | z2 D,2 | _E,3 D, |$"^b""^b" E, F, G, F,/E,/ |"^b" D, F, E,2 | D,2 z2 | z G,2 F, | %9
+w: |||N'es-|se pas|cho- se du- * *||re,|sans es-|
+"^b" E, C, D, F, |$"^b" E, C, D,2 |$ G,4 | z4 | z4 | D,2 D, D, |$"^#" G, F, _E,2 | D,2 z2 |$ %17
+w: tre'ay- mé, d'ay- *||mer,|||sans es- tre'ay-|mé d'ay- *|mer,|
+ D,2 D, D, |"^b" G,3/2 F,/ E,3/2 D,/ | C, G,2 F, | B,2 A,2 | D,4 |$ z4 |$ z4 | D,2 D, F, | %25
+w: sans es- tre'ay-||mé, d'ay- *||mer,|||le mar- tir|
+"^b" E, D, B,, C, |"^b" D,3/2 E,/ F,2 | G, F, B,2 |$ A,2 F,2 |$ G,2 D,3/2 E,/ | %30
+w: que j'en- du- *|||||
+"^b""^b""^b""^b" F, G, E,2 | D,2 z2 | A,2 F, G,- | G, E, F,2 |$"^b" D, E,2 C, |$ D,2 B,, C, | %36
+w: |re|m'est trop plus|_ _ _|||
+"^b""^b" E,2 D,2 | G,2 z2 | A,2 F, G,- |"^b" G, E, F,2 |$"^b" D, E,2 C, | D,2 B,, C, | %42
+w: * qu'ay-|mer,|m'est trop plus|_ _ _|||
+"^b""^b" E, E, D,2 | z2 C,2 |"^b" G,2 E, C, | G,4 |] %46
+w: * qu'ay- mer,|m'est|trop plus qu'ay-|mer.|

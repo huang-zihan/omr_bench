@@ -1,0 +1,59 @@
+X:1
+T:Waiting for the King
+C:Edmund Simon Lorenz
+Z:Public Domain
+Z:Courtesy of the Cyber Hymnal™
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=93
+M:4/4
+I:linebreak $
+K:D
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+L:1/4
+V:1
+ [FA]>[DF] [CE]>D [Fd]2 [FA]2 | [GB]>[Ge] [Gd]>[GB] [FA]4 | [EG]>[EG] [EG]>[CA] [DF]2 [Fd]2 |$ %3
+w: 1.~Wait- ing for His com- ing,|toil- ing as I wait;|But a hum- ble work- er,|
+w: 2.~Tho’ my lot be wea- ry—|toil- ing since the spring,|Yet a time of rest- ing|
+w: 3.~Toil- ing in the morn- ing,|’neath the sun- bright ray;|Toil- ing still when ev- ening|
+ [Ec]>[DB] [CA]>[D^G] [CA]4 | [FA]>[DF] [CE]>D [Fd]2 [FA]2 | [GB]>[Ge] [Gd]>[GB] [FA]4 |$ %6
+w: in His vast es- tate;|Yet my sin- gle tal- ent|must not i- dle lie,|
+w: com- eth with my king;|Now the whit- ened har- vest|waits the will- ing hand,|
+w: draws his cur- tains gray;|Yet though of- ten trou- bled—|wea- ry of earth’s guile,|
+ [GB]>[Ac] [Bd]>[GB] [FA][DF]D[DE] | [DF]2 [CE]2 D4 || %8
+w: He will ask the in- crease of me|by and by.|
+w: And the call for reap- ers sound- eth|through the land.|
+w: All will be for- got- ten, when I|see His smile.|
+"^Refrain" [FA]>[Fd] [Fd]>[Fd] [Ge]>[Gd] [Gd]>[GB] |$ [FA]2 [DF]2 [FA]4 | %10
+w: ||
+w: Wait- ing for the com- ing of the|King of kings!|
+w: ||
+ [EG]>[EG] [EG]>[EG] [EG]2 [CA]2 | [DF]>[DF] [DF]>[CE] [DF]4 | %12
+w: ||
+w: Be it soon or late, I’m|work- ing as I wait;|
+w: ||
+ [FA]>[Fd] [Fd]>[Fd] [Ge]>[Gd] [Gd]>[GB] |$ [FA]2 [DF]2 [FA]4 | [GB]>[Ge] [Ge]>[Ge] [Fd]2 [Ec]2 | %15
+w: |||
+w: How my heart re- joic- es, of His|glo- ry sings,|Wait- ing for the King of|
+w: |||
+ [Fd]6 z2 |] %16
+w: |
+w: kings.|
+w: |
+V:2
+ x7/2 D/ x4 | x8 | x8 |$ x8 | x7/2 D/ x4 | x8 |$ x6 D x | x4 D4 || x8 |$ x8 | x8 | x8 | x8 |$ x8 | %14
+ x8 | x8 |] %16
+V:3
+ [D,D]>[D,A,] [D,G,]>[D,F,] [D,A,]2 [D,D]2 | [G,D]>[G,B,] [G,B,]>[G,D] [D,D]4 | %2
+ [A,,C]>[A,,C] [A,,C]>[A,,A,] [D,A,]2 [D,A,]2 |$ [E,A,]>[E,^G,] [E,A,]>[E,B,] [A,,A,]4 | %4
+ [D,A,]>[D,A,] [D,G,]>[D,F,] [D,A,]2 [D,D]2 | [G,D]>[G,B,] [G,B,]>[G,D] [D,D]4 |$ %6
+ [G,D]>[G,D] [G,D]>[G,D] [D,D][D,A,][F,A,][G,B,] | A,2 [A,,G,]2 [D,F,]4 || %8
+ [D,D]>[D,A,] [D,A,]>[D,A,] [G,B,]>[G,B,] [G,B,]>[G,D] |$ [D,D]2 [D,A,]2 [D,D]4 | %10
+ [A,,C]>[A,,C] [A,,C]>[A,,C] [A,,C]2 [A,,A,]2 | [D,A,]>[D,A,] [D,A,]>[A,,A,] [D,A,]4 | %12
+ [D,D]>[D,A,] [D,A,]>[D,A,] [G,B,]>[G,B,] [G,B,]>[G,D] |$ [D,D]2 [D,A,]2 [D,D]4 | %14
+ [G,D]>[G,B,] [G,B,]>[G,B,] A,2 [A,,A,]2 | [D,A,]6 z2 |] %16
+V:4
+ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | A, x3 || x4 |$ x4 | x4 | x4 | x4 |$ x4 | x2 A, x | x4 |] %16

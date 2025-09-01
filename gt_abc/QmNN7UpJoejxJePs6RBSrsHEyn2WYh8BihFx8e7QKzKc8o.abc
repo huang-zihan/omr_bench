@@ -1,0 +1,27 @@
+X:1
+T:Battle Creek, 11.11.11.11
+C:James Edson White, 1882
+Z:Public Domain
+Z:Courtesy of the Cyber Hymnal™
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ [CE] | [CE]2 [DF] [CE] | [EA]2 [Ec]2 | [EB] [EB] [EA] [EB] | [Ec]3 [Ec] | [Fd]2 [DF] [DF] | %6
+ [CE]2 [EA]2 | [EG] [FA] [EG] [=DF] | E3 B, | [CE] [DF] [CE] [EA] |$ [EA]2 [EG]2 | %11
+ [EB] [EB] [EA] [EB] | [Ec]4 | [Fd] [Fd] [DF] [DF] | [CE]2 [EA]2 | [Ec] [Ed] [Ec] [DB] | [CA]3 |] %17
+V:2
+ x | x4 | x4 | x4 | x4 | x4 | x4 | x4 | E D C x | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 | x3 |] %17
+V:3
+ [A,,A,] | [A,,A,]2 [A,,A,] [A,,A,] | [A,,C]2 [A,,A,]2 | [E,G,] [E,G,] [C,A,] [E,G,] | A,3 A, | %5
+ [D,A,]2 [D,A,] [D,A,] | [A,,A,]2 [A,,C]2 | [B,,B,] [B,,B,] [B,,B,] [B,,A,] | (G, B, A, G,) | %9
+ [A,,A,] [A,,A,] [A,,A,] [A,,C] |$ [E,C]2 [E,B,]2 | [E,G,] [E,G,] [C,A,] [E,G,] | A,4 | %13
+ [D,A,] [D,A,] [D,A,] [D,A,] | [A,,A,]2 [A,,C]2 | [E,A,] [E,B,] [E,A,] [E,G,] | [A,,A,]3 |] %17
+V:4
+ x | x4 | x4 | x4 | A,3 A, | x4 | x4 | x4 | E,3 x | x4 |$ x4 | x4 | A,4 | x4 | x4 | x4 | x3 |] %17

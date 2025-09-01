@@ -1,0 +1,12 @@
+X:1
+T:Three Times Three
+L:1/8
+M:2/2
+I:linebreak $
+K:F
+V:1 treble 
+V:1
+"F" f2 f2"Bb" defd |"C7" cdcB"F" A2 F2 |"F" f2 f2"Bb" d2 ef |"G7" gagf"C7" ecde | %4
+"F" f2 f2"Bb" defd |"C7" cdcB"Dm" A2 F2 |$"Bb" defd"C7" efge |"F" f2 a2 f2 z2 |] %8
+"F" a2 a2"Dm" f2 ga |"Gm" gagf"C" e2 c2 |"F" a2 a2"Dm" f2 ga |"Gm" bag^f"C" gedc |$ %12
+"F" a2 a2"Dm" f2 ga |"G7" gagf"C" e2 c2 |"Bb" defd"C7" efge |"F" f2 a2 f2 z2 |] %16

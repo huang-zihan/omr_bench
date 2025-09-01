@@ -1,0 +1,26 @@
+X:1
+T:Coblentz, 87.87.77
+C:Joachim Neander, Alpha und Omega, 1680
+Z:Public Domain
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+M:none
+I:linebreak $
+K:C
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ [EA] [E^G] [CA] [FB] | [Ec] [Ec] (E/^D/) E | [EA] [EG] [DF] [CE] | [CD] [B,D] C2 | %4
+ [EA] (E/D/) [CA] [FB] | [Ec] [^Dc] [EB] E |$ [EA] [EG] [CF] [CE] | [A,D] [B,D] C2 | %8
+ [Ec] [Ec] [FB] (E/D/) | C (z/ A/) [B,^G]2 | [CE] [C^F] [D^G] [EA] | A [E^G] [EA]2 |] %12
+V:2
+ x4 | x2 B E | x4 | x2 C2 | x ^G x2 | x3 E |$ x4 | x2 C2 | x3 B | A3/2 D x3/2 | x4 | A x3 |] %12
+V:3
+ [A,C] [E,B,] [F,A,] [D,G,] | [C,G,] [A,,A,] (^G,/^F,/) [E,G,] | [A,,C] [C,C] (A,/B,/) [E,C] | %3
+ [F,A,] G, [C,E,]2 | [A,,C] [E,B,] [F,A,] [D,G,] | [E,G,] [^F,A,] [G,B,] [E,^G,] |$ %6
+ [A,,C] [E,B,] [F,A,] [C,G,] | [D,F,] [G,,G,] [C,E,]2 | [C,G,] [A,,A,] [D,A,] [E,G,] | %9
+ ([F,A,]/[E,G,]/) [D,F,] E,2 | [C,A,] [A,,C] [B,,B,] [C,A,] | [D,B,] [E,B,] [A,,C]2 |] %12
+V:4
+ x4 | x2 E, x | x2 D, x | x G, x2 | x4 | x4 |$ x4 | x4 | x4 | x2 E,2 | x4 | x4 |] %12

@@ -1,0 +1,22 @@
+X:1
+T:piano 2
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=125
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"^\n" cAdG BGdA | FBG z AdAc | AFG z ABce | d2 Bc A2 cG | cA c2 G2 dB | d2 c2 cBAG |$ A,4 A,4 | %7
+ Aege AcdB | Ad B2 Gd A2 | d A2 c BG A2 | cBG z dAFG | A2 cB GFcA |$ A z Gd A2 z d | z2 Bc A2 z z | %14
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 | z8 | %33
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 | z8 | %52
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 |] %69
+V:2
+ E,4 G,4 | F,4 E,4 | G,4 D,4 | E,4 C,4 | E,4 G,4 | F,2 E,2 G,4 |$ ECB,C DB,CA, | A,4 G,4 | %8
+ F,4 E,4 | D,4 E,4 | D,4 E,4 | G,4 F,4 |$ D,4 F,4 | A2 z2 E,4 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %21
+ z8 | z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %40
+ z8 | z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %59
+ z8 | z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 |] %69

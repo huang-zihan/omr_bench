@@ -1,0 +1,21 @@
+X:1
+T:Title
+%%score 1 2
+L:1/4
+Q:1/4=140
+M:3/2
+I:linebreak $
+K:Ab
+V:1 treble nm="Grand Piano, Unnamed-000"
+V:2 bass nm="Choir Pad, Evan, CM"
+V:1
+ [CE]2 [CE] [CA] [Ec]2 | [DB]2 [CA] [DF] [CE]2 | [CE]2 [CE] [CA] [Cc]2 | [CA]2 [EB]4 |$ %4
+w: By~William~Henry~Havergal,~1847 * * *||||
+ [Ed]2 [Ec] [DB] [CA]2 | [EB]2 [Ec] [EA] [DF]2 | [B,E]2 [CE] [CA] [Ec]2 | [DB]2 [CA]4- | %8
+w: ||||
+ [CA]2 z2 z2 |] %9
+w: |
+V:2
+ [A,,A,]2 [A,,A,] [A,,A,] [A,,A,]2 | [E,G,]2 [F,A,] [D,A,] [A,,A,]2 | [A,,A,]2 [A,,A,] A, [F,A,]2 | %3
+ [F,A,]2 [E,G,]4 |$ [G,B,]2 A, [E,G,] [F,A,]2 | [E,G,]2 A, [C,A,] [D,A,]2 | %6
+ [E,G,]2 [A,,A,] [F,A,] [E,A,]2 | [E,G,]2 [A,,A,]4- | [A,,A,]2 z2 z2 |] %9

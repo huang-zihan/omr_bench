@@ -1,0 +1,12 @@
+X:1
+T:COTILLION No. 5. tune 4
+L:1/8
+M:6/8
+I:linebreak $
+K:D
+V:1 treble 
+V:1
+ G | FGE D2 A, | D2 E F2 D | DFA dfa | agf efg | fge d2 A | d2 e fef | gfg eba |$ gfe d2 |] %9
+ !fermata!A | dcd BGB | BdB AFA | (A>d)A G2 F | EFD ABc | dcd BGB | BdB AFA |$ BdA GAF | %17
+ EFD A2!D.C.! |] A | ABA (c<e)e | (B<d)d (c<e)e | (e<a)a (^g<b)b | Bed c2 A | ABA (c<e)e |$ %24
+ (B<d)d (c<e)a | fdB ecA | dB^G A2!D.C.! |] %27

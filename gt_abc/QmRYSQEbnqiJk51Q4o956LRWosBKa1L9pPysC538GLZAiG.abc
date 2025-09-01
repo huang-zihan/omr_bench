@@ -1,0 +1,60 @@
+X:1
+T:Banjo Twang
+C:By Charles Drumheller.
+Z:Copyright 1893 by Charles Drumheller.
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=190
+M:4/4
+I:linebreak $
+K:G
+V:1 bass nm="Piano" snm="Pno."
+V:2 bass 
+L:1/4
+V:1
+"^Moderato."!f!{/^A,} (B,4 B,,) z z2 |{/^A,} (B,4 B,,) z z2 |!p!{/^A,} B, z B,, z B, z B,, z | %3
+ (B,4 B,,) z z2 |$!f!{/^A,} (B,4 B,,) z z2 |{/^A,} (B,4 B,,) z z2 | %6
+!p!{/^A,} B, z B,, z B, z B,, z | (B,4 B,,) z z2 ||$ %8
+[K:treble]"^Banjo Twang."!p![Q:1/4=220] z2 (3DB,G, z2 [F,CD]2 | z2 (3DB,G, z2 [G,CE]2 | %10
+ z2 (3DB,G, z2 [F,CD]2 | z2 [G,B,D]2 [G,B,D]2 [G,B,D]2 |$!p! z2 (3DB,G, z2 [F,CD]2 | %13
+ z2 (3DB,G, z2 [G,CE]2 | z2 (3DB,G, z2 [F,CD]2 | z2 [G,B,D]2 [G,B,D]2 z D |:$ %16
+[M:4/4]!f!"^Danse Negre." G2 (BG) (AGEG) | (DG) z A G2 z B | (dg) z e d2 B2 | (A^GAB) A2 z D | %20
+ G2 (BG) (AGEG) | (DG) z A G2 z B |$ (dg) z e dBGB |!<(! .A2 .[CDF]2 !>![B,DG]2!<)! z2 :: %24
+!f! (e^def) (ag) z e | (dg) z e (dBGB) |!<(! (c!>!d)(B!>!d) (A!>!d)(G!>!d) | %27
+ (F!>!d)(E!>!d) D!<)! z!f! !>![Fd] z |$!p! G2 (BG) (AGEG) | (DG) z A G2 z B | (dg) z e dBGB | %31
+ .A2 .[CDF]2!f! .[B,DG]2 z2 :|$ (E^DEF) (GFGA) | (Be) z d B2 G2 | (FB) z A F2 ^D2 | %35
+ (EB) z A G2 B,2 |$ (E^DEF) (GFGA) | (Be) z d B2 G2 | (FB) z A F2 ^D2 | E2 z2 z2 B2 | %40
+ (e^def) (gfga) |$ be' z d' b2 g2 | fb z a f2 ^d2 | eb z a g2 B2 | (e^def) (gfga) | %45
+ be' z d' b2 g2 | fb z a f2 ^d2 | e2 z2 !fermata![DFd]2 z2 ||$!p! (E^DEF) (GFGA) | (Be) z d B2 G2 | %50
+ (FB) z A F2 ^D2 | (EB) z A G2 B,2 | (E^DEF) (GFGA) | (Be) z d B2 G2 | (FB) z A F2 ^D2 | %55
+ E2 z2 z2 B2 ||$!f! (e^def) (gfga) | be' z d' b2 g2 | fb z a f2 ^d2 | eb z a g2 B2 | %60
+ (e^def) (gfga) | be' z d' b2 g2 | fb z a f2 ^d2 | e2 z2 !fermata![DFd]2 z2 ||$ G2 (BG) (AGEG) | %65
+ (DG) z A G2 z B | (dg) z e d2 B2 | (A^GAB) A2 z D | G2 (BG) (AGEG) | (DG) z A G2 z B | %70
+ (dg) z e dBGB |$!<(! .A2 .[CDF]2!f! !>![B,DG]2!<)! z2 ||"^Banjo Twang."!p! z2 (3DB,G, z2 [F,CD]2 | %73
+ z2 (3DB,G, z2 [G,CE]2 | z2 (3DB,G, z2 [F,CD]2 | z2 [G,B,D]2 [G,B,D]2 [G,B,D]2 | %76
+ z2 (3DB,G, z2 [F,CD]2 |$ z2 (3DB,G, z2 [G,CE]2 | z2 (3DB,G, z2 [F,CD]2 | %79
+ [G,B,D]2 [A,CF]2!f! !>![B,DG]2 z2 |] %80
+V:2
+!ped!{/^A,,} (B,,2 B,,,/)!ped-up! z/ z |!ped!{/^A,,} (B,,2 B,,,/)!ped-up! z/ z | %2
+{/^A,,} B,,/ z/ B,,,/ z/ B,,/ z/ B,,,/ z/ | (B,,2 B,,,/) z/ z |$ %4
+!ped!{/^A,,} (B,,2 B,,,/)!ped-up! z/ z |!ped!{/^A,,} (B,,2 B,,,/)!ped-up! z/ z | %6
+{/^A,,} B,,/ z/ B,,,/ z/ B,,/ z/ B,,,/ z/ | (B,,2 B,,,/) z/ z ||$"^Staccato." G,, z A,, z | %9
+ B,, z C, z | D, z D,, z | G,, z z2 |$ G,, z A,, z | B,, z C, z | D, z D,, z | G,, z x2 |:$ %16
+[M:4/4] G,, [G,B,] D, [G,B,] | G,, [G,B,] D, [G,B,] | G,, [G,B,] D, [G,B,] | %19
+ E, [G,A,^C] D, [F,A,=C] | G,, [G,B,] D, [G,B,] | G,, [G,B,] D, [G,B,] |$ G,, [G,B,] D, [G,B,] | %23
+ C, D, [G,,G,] z :: C, [E,G,C] C, [E,G,C] | G,, [G,B,] D, [G,B,] | %26
+!ped! [C,C] [B,,B,] [A,,A,] [G,,G,] | [F,,F,] [E,,E,] [D,,D,]/ z/ [D,A,C]/!ped-up! z/ |$ %28
+ G,, [G,B,] D, [G,B,] | G,, [G,B,] D, [G,B,] | G,, [G,B,] D, [G,B,] | C, D, [G,,G,] z :|$ %32
+ G,, [G,B,] D, [G,B,] | G,, [G,B,] D, [G,B,] | B,, [F,A,] B,, [F,A,] | E, [G,B,] E, G, |$ %36
+ E, [G,B,] E, [G,B,] | E, [G,B,] E, [G,B,] | B,, [F,A,] B,, [F,A,] | E, [G,B,] [G,B,] z | %40
+ E, [G,B,] E, [G,B,] |$ E, [G,B,] E, [G,B,] | B,, [^D,F,A,] B,, [D,F,A,] | E, [G,B,] E, [G,B,] | %44
+ E, [G,B,] E, [G,B,] | E, [G,B,] E, [G,B,] | B,, [^D,F,A,] B,, [D,F,A,] | %47
+ [E,G,B,] z !fermata![C,A,C] z ||$ G,, [G,B,] D, [G,B,] | G,, [G,B,] D, [G,B,] | %50
+ B,, [F,A,] B,, [F,A,] | E, [G,B,] E, G, | E, [G,B,] E, [G,B,] | E, [G,B,] E, [G,B,] | %54
+ B,, [F,A,] B,, [F,A,] | E, [G,B,] [G,B,] z ||$ E, [G,B,] E, [G,B,] | E, [G,B,] E, [G,B,] | %58
+ B,, [^D,F,A,] B,, [D,F,A,] | E, [G,B,] E, [G,B,] | E, [G,B,] E, [G,B,] | E, [G,B,] E, [G,B,] | %62
+ B,, [^D,F,A,] B,, [D,F,A,] | [E,G,B,] z !fermata![C,A,C] z ||$ G,, [G,B,] D, [G,B,] | %65
+ G,, [G,B,] D, [G,B,] | G,, [G,B,] D, [G,B,] | E, [G,A,^C] D, [F,A,=C] | G,, [G,B,] D, [G,B,] | %69
+ G,, [G,B,] D, [G,B,] | G,, [G,B,] D, [G,B,] |$ C, D, [G,,G,] z ||"^Staccato." G,, z A,, z | %73
+ B,, z C, z | D, z D,, z | G,, z z2 | G,, z A,, z |$ B,, z C, z | D, z D,, z | %79
+!ped! G,, [D,,D,] [G,,,G,,]!ped-up! z |] %80

@@ -1,0 +1,17 @@
+X:1
+T:The Machine without Horses
+%%score 1 2
+L:1/8
+M:6/8
+I:linebreak $
+K:G
+V:1 treble 
+V:2 bass 
+V:1
+ G>AB/c/ dBG | Gge dBG | cec BdB | ABG FED | G>AB/c/ dBG | Ggf efg | afd ge^c |$ d3 D3 :| dBd dBd | %9
+ cAc cAc | Bdg dBG | ABG FED | dBd dBd | Bdg dBG | cAF G3 |$ dBd dBd | cAc cAc | Bdg dBG | %18
+ ABG FED | GDG BGB | dBd g2 d | efg agf | g3 G3 :| %23
+V:2
+ G,3 G,3 | G,3 G,3 | C,3 G,3 | D,3 D,3 | G,3 G,3 | G,3 G,3 |"^6/4" A,3"^5" ^A,,3 |$ D,3 D,,3 :| %8
+"^7" D,3 D,3 | G,3 G,3 | D,3 D,3 | G,3 G,3 |"^7" D,3 D,3 | G,3 G,3 | D,3 G,D,B,, |$ G,,3 G,,3 | %16
+"^7" D,3 D,3 | G,3 G,3 | D,3 D,3 | G,3 G,3 | G,3 G,3 | C3 D2 D, | G,3 G,,3 :| %23

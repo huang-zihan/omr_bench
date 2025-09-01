@@ -1,0 +1,60 @@
+X:1
+T:Ich glaub und darum rede ich (a 4v)
+C:Benedictus Ducis
+Z:©
+%%score [ 1 2 3 4 ]
+L:1/4
+Q:1/4=120
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Soprano" snm="S"
+V:2 treble nm="Alto" snm="A"
+V:3 treble-8 nm="Tenor" snm="T"
+V:4 bass nm="Bass" snm="B"
+V:1
+ z4 | z4 | z4 | z4 | z2 G2 | A2 B2 |$ c3/2 B/ A G | A3 B | c A A A | G B A G- | %10
+w: ||||Ich|gläub und|dar- * * um|re- de|ich, de- muts Kreuz|mich hart _ ver-|
+w: ||||In|mei- nem|Za- * * gen|ich auch|sprich: Ein je- der|die Lü- * *|
+"^#""^#" G F/E/ F2 |1 G4 :|2$ G3/2 F/ E D- || D/C/ C2 B, | C/D/E/F/ D2 | C2 z2 | z4 | z2 G2 |$ %18
+w: |sehrt.|mehrt, _ _ [die|_ _ Lü- *|* * * * gen|mehrt.]||Was|
+w: |gen|||||||
+ E F G3/2 F/ | E D E2 | F2 E2 | z E E E | G2 A3/2 B/ | c d/c/ B/A/ B |$ c A G2 | z A A A | %26
+w: soll ich wi- *|* der- gel-|ten schier,|dem Herrn für|all Wohl- *|* tat _ _ _ _|_ an mir.|Den Kelch des|
+w: ||||||||
+ G B A G- |"^#" G F/E/ F2 | G4 |] %29
+w: Heils _ ich neh-||me.|
+w: |||
+V:2
+ z4 | z4 | z4 | z4 | G2 E2 | F2 G2 |$ C F2 E | D C D2 | C F F F | E D E2 | D4 |1 z4 :|2$ %12
+w: ||||Ich gläub|und dar-|um re- *|* * de|ich, de- muts Kreuz|mich hart ver-|sehrt.||
+w: ||||In mei-|nem Za-|gen ich _|_ _ auch|sprich: Ein je- der-|die Lü- gen|mehrt,||
+ z B, C D || E2 D2 | C A, B,2 | A,2 z2 | z4 | z2 z G, |$ A,2 G, C- | C B, C2 | D2 C2 | z C C C | %22
+w: ein je- *|der die|Lü- * gen|mehrt.||Was|soll ich wi-|* der- gel-|ten schier,|dem Herrn für|
+w: ||||||||||
+ D3/2 E/ F E | A2 G2 |$ E4 | z F F F | E D E2 | D4- | D4 |] %29
+w: all _ _ Wohl-|tat an|mir.|Den Kelch des|Heils ich neh-|me.|_|
+w: |||||||
+V:3
+ z2 G2 | A2 B2 | c3/2 B/ A G | A3 B | c4 | z4 |$ z4 | z4 | z c d c- | c B c2 | A4 |1 G4 :|2$ G4 || %13
+w: Ich|gläub und|dar- * * um|re- de|ich,||||de- muts Kreuz|_ mich hart|ver-|sehrt.|mehrt.|
+w: In|mei- nem|Za- * * gen|ich auch|sprich:||||Ein je- der|_ die Lü-|gen|_||
+ z2 G2 | E F G3/2 F/ | E D E2 | F2 E2 | F2 E2 |$ z4 | z4 | z2 G2 | G3 A | B2 c3/2 d/ | e f d2 |$ %24
+w: Was|soll ich wi- *|* der- gel-||ten schier,|||dem|Herrn für|all Wohl- *|* tat an|
+w: |||||||||||
+ c4 | z c d c- | c B c2 | A4 | G4 |] %29
+w: mir.|Den Kelch des|_ Heils ich|neh-|me.|
+w: |||||
+V:4
+ G,2 E,2 | F,2 G,2 | C, F,2 E, | D, C, D,2 | C,4 | z4 |$ z4 | z2 z G, | A, F,2 F, | G,2 C,2 | %10
+w: Ich gläub|und dar-|um re- *|* * de|ich,|||de-|muts Kreus mich|hart _|
+w: In mei-|nem Za-|gen ich _|_ _ auch|sprich:|||Ein|je- der die|Lü- *|
+ D,4 |1 G,4 :|2$ E,3/2 D,/ C, B,, || C,2 G,,2 | z2 z G,, | A,,2 G,, C,- | C, B,, C,2 | D,2 C,2 |$ %18
+w: ver-|sehrt.|mehrt. _ _ _|_ _|Was|soll ich wi-|* der- gel-|ten schier,|
+w: gen|_|||||||
+ z4 | z4 | z2 C,2 | C,3 C, | G,2 F, A,- |"^#" A, F, G,2 |$ C,4 | z F, F, F, | G,2 C,2 | D,4 | %28
+w: ||dem|Herrn für|all _ Wohl-|* tat an|mir.|Den Kelch des|Heils ich|neh-|
+w: ||||||||||
+ G,,4 |] %29
+w: me.|
+w: |

@@ -1,0 +1,44 @@
+X:1
+T:Inasmuch
+C:George Frederick Root
+Z:Public Domain
+Z:Courtesy of the Cyber Hymnal™
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=115
+M:4/4
+I:linebreak $
+K:A
+V:1 treble 
+V:2 treble 
+L:1/4
+V:3 bass 
+L:1/4
+V:4 bass 
+V:1
+ [DF]2 [DF]2 [DF]2 [DF][DF] | [FA]2 [FA]2 [DF]2 [DF]2 | [CE][CE] [CE]2 [CA]2 [CA]2 | %3
+w: 1.~When saw we Thee a-|hun- gered, Lord, And|min- is- tered un- to|
+w: 2.~When saw we Thee a-|thirst, O Lord, And|min- is- tered un- to|
+w: 3.~When saw we Thee a|stran- ger, sick, Or~in|pri- son, and came to|
+ [DF]6 [DF][DF] |$ [DG][DG][DG][DG] [CA][CA][CA][CA] | [DB]2 [CA]2 [B,G]2 [EA][EA] | %6
+w: Thee? In- as-|much as ye have done it to the|least of these, Ye have|
+w: Thee? In- as-|much as ye have done it to the|least of these, Ye have|
+w: Thee? In- as-|much as ye have done it to the|least of these, Ye have|
+ (FG) [EA]2 [DA]2 [DG]2 | [CA]6 z2 ||$"^Refrain" [FA]2 [GB]2 [FA][FA][DF][DF] | D2 [CE]2 [DF]4 | %10
+w: done * it un- to|Me.|||
+w: done * it un- to|Me.|Bless- èd les- son that we|all may learn,|
+w: done * it un- to|Me.|||
+ [FA]2 [Fd]2 [Gc][GB][FA][EG] | [DF]2 [CE]2 D4 |] %12
+w: ||
+w: Bless- èd plaud- it that we|all may earn.|
+w: ||
+V:2
+ x4 | x4 | x4 | x4 |$ x4 | x4 | D x3 | x4 ||$ x4 | D x3 | x4 | x2 D2 |] %12
+V:3
+ [D,A,] [D,A,] [D,A,] [D,A,]/[D,A,]/ | [D,A,] [D,A,] [D,A,] [D,A,] | %2
+ [A,,A,]/[A,,A,]/ [A,,A,] [A,,A,] [A,,A,] | [D,A,]3 [D,A,]/[D,A,]/ |$ %4
+ E,/E,/E,/E,/ [A,,E,]/[A,,E,]/[A,,E,]/[A,,E,]/ | [G,,E,] [A,,E,] E, [C,A,]/[C,A,]/ | %6
+ [D,A,] [C,A,] [B,,B,] [E,B,] | [A,,A,]3 z ||$ [D,A,] [D,D] [D,D]/[D,A,]/[D,F,]/D,/ | %9
+ [B,,F,] [A,,A,] [D,A,]2 | [D,A,] [D,A,] G,/[G,B,]/[G,D]/[G,B,]/ | A, [A,,G,] [D,F,]2 |] %12
+V:4
+ x8 | x8 | x8 | x8 |$ E,E,E,E, x4 | x4 E,2 x2 | x8 | x8 ||$ x7 D, | x8 | x4 G, x3 | A,2 x6 |] %12

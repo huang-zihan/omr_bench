@@ -1,0 +1,19 @@
+X:1
+T:Maggy Lowther. JBa.10
+C:unedited
+L:1/16
+Q:1/4=80
+M:4/4
+I:linebreak $
+K:D
+V:1 treble 
+V:1
+"^See note re lack of Key/time sigs and bar lines,otherwise as written" A4 | %1
+ d2>f2d2>f2 d2>e2d2>f2 | e2f2 gfed c4 e4 | d2>e2d2>f2 d2>e2d2>f2 | ab a2b2a2 g2 f4 a4 |$ %5
+ g2>a2g2>b2 f2>g2 f2>a2 | ef g2f2e2 d2 | c4 e4 | dcBA BAGF GFED | D2g2 (f2g2) a2 e2f2 d4 D2 ||$ %10
+"^Part 2" fga2 d2a2 f2g2a2 d2f2e2f2 fedc c4 e4 | fga2 d4 a4 fga2 d2fg | agab abag f4 a4 |$ %13
+ gfga abag fefg fagf | e2f2 gfed c4 e4 |$ dcBA BAGF GFED D2g2 | f2g2a2 d2 e2 d4 D4 ||$ %17
+"^Part 3" D2E2D2g2 fga d2f2 | ef gfed c4 e4 | D2E2D2g2 fga d2f2 |$ agab abag f4 a4 | %21
+ gfga ac'ag fefg fagf |$ edef gfed c4 e4 | dcBA BAGF GFED D2g2 | f2g2a2 d2 f2 d4 D4 ::$ %25
+"^4th" afdf dfaf afdf dfaf | edef gfed c4 e4 | afdf dfaf afdf dfaf |$ agab abag f4 a4 |$ %29
+ gdBd Bdgd ecAc Acec |"^poss" e2>f2 gfed"^#" c4 e4 | dcBA BAGF GFED D2g2 | fga d2e2 d4 D4 |] %33

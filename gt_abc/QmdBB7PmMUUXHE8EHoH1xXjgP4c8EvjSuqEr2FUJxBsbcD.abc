@@ -1,0 +1,22 @@
+X:1
+T:Faith is Just Believing
+C:Mrs. W. B. Liggett
+%%score { 1 | 2 }
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+L:1/4
+V:1
+ [CA]F[A,C]^C [B,D] B2 [GB] | [FA]C[EG]C [A,F]4 | [CA]F[A,C]^C [B,D] B2 [GB] |$ %3
+w: Faith is just be- liev- ing what|God says He will do;|He will nev- er fail us, His|
+ [CA][CA][B,G][B,G] [A,F]4 | [EG][FA][GB][GB] [Bd] [Ac]2 [Ac] | [EG][FA][GB][Bd] [Ac]4 |$ %6
+w: prom- is- es are true.|If we but re- ceive Him, His|chil- dren we be- come;|
+ [CA]F[A,C]^C [B,D] B2 [GB] | [CA][CA][B,G][B,G] [A,CF]4 :| %8
+w: Faith is just be- liev- ing This|won- drous thing is done.|
+V:2
+ [C,F,] [C,F,] F,/ B,, G,/ | [C,F,] [B,,E,] [C,F,]2 | [C,F,] [C,F,] F,/ B,, G,/ |$ %3
+ [C,F,] [B,,E,] [C,F,]2 | C, E, F, C | C, E, F, C |$ [C,F,] [C,F,] F,/ B,, G,/ | %7
+ [C,F,] [B,,E,] [C,F,] [F,,C,] :| %8

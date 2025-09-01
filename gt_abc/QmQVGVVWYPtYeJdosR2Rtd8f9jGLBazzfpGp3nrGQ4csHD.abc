@@ -1,0 +1,22 @@
+X:1
+T:Wir tragen unsere Laternen ... 
+T:Sankt Martin's Lied
+L:1/4
+Q:1/4=90
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="Trumpet"
+V:1
+ x2 [Bd] |: [GB]2 [GB] | [FA] [GB] [Ac] | [Bd]3 | [EG]2 [EG] | [FA] [FA] [GB] | [Bd] [Ac] [FA] | %7
+w: Wir|tra- gen|uns- re La-|ter-|nen, die|Lich- ter, sie|bren- * nen|
+w: |tra- gen|uns- re La-|ter-|nen, ganz|Hell wird die|dunk- * le|
+ [B,G]2 z |1 z2 [Bd] :|2 z2 [EG] || [Ac] [Ac] [Ac] |$ [DF] [B,D] [B,D] | [Bd] [Bd] [Bd] | %13
+w: sacht.||Der|Mond in der|Fer- ne und|al- le die|
+w: Nacht.~||||||
+ [GB] [EG] [EG] | [FA] [FA] [GB] | [Bd]2 [Ac] | [GB]2 [EG] | [FA] [FA] [FA] | [DF] [B,D] [B,D] | %19
+w: Ster- ne sie|Schau- en in|gro- sser|Ruh. Der|Mond in der|Fer- ne und|
+w: ||||||
+ [Bd] [Bd] [Bd] |$ [GB] [EG] [EG] | [EG] [EG] [GB] | [Bd] [Ac] [DA] | !fermata![B,G]3 |] %24
+w: al- le die|Ster- ne sie|Schau- en von|o- o- ben|zu.|
+w: |||||

@@ -1,0 +1,19 @@
+X:1
+T:Old French Song
+C:Unknown & Tchaikovsky
+%%score { 1 | 2 }
+L:1/8
+M:2/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+ !1!D | !2!G!1!A Bc | d3 d | !3!cd ec | d3 d | cd ec | de cB | A3 !1!A | !2!A3 D |$ G2 GA | B3 B | %11
+ !5!c2 c2 | !1!A3 A | !4!d3 d | !5!f!4!e !1!d!3!c | !2!B2 !1!A!2!G | !3!A3 !1!D | !2!G!1!A Bc |$ %18
+ d3 d | cd ec | d3 d | cd ec | de cB | !1!A3 !1!A | !2!G4 |] %25
+V:2
+ z | G,,"Gm"G, G,G, | G,,G, G,G, |"Cm" C,C CC | G,,"Gm"G, G,G, |"Cm" C,C CC |"Gm" G,,G,"Cm" C,C | %7
+ D,,"D7"D DD | G,,"Gm"G, G,G, |$ G,,G, G,G, | G,,G, G,G, |"Cm" C,C CC | D,,"D7"D DD | %13
+ G,,"Gm"G, G,G, |"Cm" C,C CC | G,,G, G,G, | D,,"D7"D DD | G,,"Gm"G, G,G, |$ G,,G, G,G, | %19
+"Cm" C,C CC | G,,"Gm"G, G,G, |"Cm" C,C CC |"Gm" G,,G,"Cm" C,C | D,,"D7"D DD | G,,"Gm"G, G,G, |] %25

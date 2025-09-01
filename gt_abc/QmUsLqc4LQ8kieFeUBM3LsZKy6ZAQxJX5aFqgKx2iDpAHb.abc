@@ -1,0 +1,66 @@
+X:1
+T:Crown Him Conqueror
+C:Isaac Hickman Meredith
+Z:Public Domain
+Z:Courtesy of the Cyber Hymnal™
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=108
+M:4/4
+I:linebreak $
+K:G
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+"^Tempo marcia–Boldly" [DB] [DB] [DA] [DA] | [DG]3/2 [DA]/ [DB] [Dc] | [Gd] [Bd] [^Ae] [A^c] | %3
+w: 1.~Crown, O crown Him|Con- quer- or! The|gates of death swing|
+w: 2.~Crown, O crown Him|Con- quer- or! Up-|on His scar- rèd|
+w: 3.~Crown, O crown Him|Con- quer- or! The|harps in tri- umph|
+ [Bd]3 [GB] |$ [Ac] [Fd] [GB] [DG] | [DA] [FB] [EG] [EB] | [^DA]3/2 [EG]/ [=DF] [^CE] | D3 || %8
+w: wide, The|seal- èd stone is|rolled a- way, He|lives, the Cru- ci-|fied.|
+w: brow There|rests a di- a-|dem of light In|roy- al splen- dor|now.|
+w: ring, And|an- gel hosts in|glad ac- cord Their|joy- ful an- thems|sing.|
+"^Semi-Chorus" D | c c B B |$ A3/2 F/ E E | c c B d | (z [CE] [CD]) z | %13
+w: The|gold- en glo- ries|of the day The|east- ern skies a-||
+w: And|all shall low- ly|bow the knee, Who|mocked Him once in||
+w: No|long- er weep in|lone- ly grief, O|sad- dened hearts for-||
+ !>![DB]2 (!>![DG] G/4A/4B/4c/4) |$ [Gd]/>[Ge]/ [Gd]/>[Gc]/ [GB] [Gc] | [GB] [DG] [FA] [DF] | %16
+w: * dorn, * * * *|Crown Him, crown Him Con- quer-|or! ’Tis res- ur-|
+w: * scorn; * * * *|Crown, O crown Him Con- quer-|or! ’Tis res- ur-|
+w: * lorn, * * * *|Crown Him, crown Him Con- quer-|or! ’Tis res- ur-|
+ [DG]3 z || !>![Ge]2"^Chorus" c2 | d2 B2 |$ [Dc] [Fc] [Gc] [Ac] | [GB]3 z | B2 F2 | %22
+w: rec-|tion morn!|||||
+w: rec-|tion morn!|Crown Him,|crown Him, Vic- tor|in|the strife;|
+w: rec-|tion morn!|||||
+ !>![EG]2 B2 x2 | [FA] [Fd] d [G^c] | [Fd]3 z |$ [Fc] F [FB] [FA] | [DA]3/2 [DG]/ [DG] D | %27
+w: |||||
+w: Crown Him,|crown Him, Lord of|light|and life; Harps in|rap- ture now re-|
+w: |||||
+ [CE] [^DF] [EG] [EA] | [^DB]3 z | !>![DB]2 (!>![DG] G/4A/4B/4c/4) |$ %30
+w: |||
+w: sound, While an- gel|voic-|es sing; * * * *|
+w: |||
+ [Gd]/>[Ge]/ [Gd]/>[Gc]/ [GB] [Gc] | [GB] [DG] [FA] [DF] | [DG]3 z |] %33
+w: |||
+w: Crown Him, crown Him Con- quer-|or! O hail the|ris-|
+w: |||
+V:2
+ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | D3 || x | x4 |$ x4 | x4 | c3 x | x4 |$ x4 | x4 | x4 || %17
+ x2 (G E) | (G F) (G D) |$ x4 | x4 | (!>!^D E) (!>!F D) | x2 (!>!E G) x2 | x2 (E/F/) x | x4 |$ %25
+ x F x2 | x3 D | x4 | x4 | x4 |$ x4 | x4 | x4 |] %33
+V:3
+ [G,,G,] [B,,G,] [D,F,] [C,F,] | [B,,G,]3/2 [D,F,]/ G, [G,A,] | [G,B,] [G,D] [G,^C] [G,E] | %3
+ [G,D]3 [G,D] |$ [F,D] [D,D] [G,D] [B,,G,] | [D,F,] [^D,B,] [E,B,] [G,B,] | %6
+ [F,B,]3/2 [G,B,]/ A, [A,,G,] | [D,F,]3 || z | A,, [D,F,C] G,, [D,G,B,] |$ D,, [D,F,C] [D,F,C] z | %11
+ A,, [D,F,C] G,, [D,G,B,] | (D,,{F,} G, F,) z | G,2 [G,B,] z |$ %14
+ [G,B,]/>[G,C]/ [G,B,]/>[G,E]/ [G,D] [C,E] | [D,D] [D,B,] [D,C] [D,C] | [G,B,]3 z || C2 C2 | %18
+ [G,B,] ([A,C]{B,} [B,D] [G,B,]) |$ [F,A,] [D,A,] [E,A,] [F,D] | [G,D]3 z | B,2 B,2 | %22
+ B,2 F, B,2 E, | A, A, [A,,A,] [A,,A,] | [D,A,]3 z |$ [D,A,] [D,A,] [D,D] [D,C] | %26
+ [G,C]3/2 [G,B,]/ [G,B,] [B,,G,] | [C,G,] [B,,B,] [E,B,] (C/E,/) | [B,,F,]3 z | G,2 [G,B,] z |$ %30
+ [G,B,]/>[G,C]/ [G,B,]/>[G,E]/ [G,D] [C,E] | [D,D] [D,B,] [D,C] [D,C] | [G,B,]3 z |] %33
+V:4
+ x4 | x2 G, x | x4 | x4 |$ x4 | x4 | x2 A, x | x3 || x | x4 |$ x4 | x4 | x4 | G,2 x2 |$ x4 | x4 | %16
+ x4 || (C, D,) (E, C,) | x4 |$ x4 | x4 | (B,, ^C,) (^D, B,,) | E, G, x4 | A, A, x2 | x4 |$ x4 | %26
+ x4 | x3 C, | x4 | G,2 x2 |$ x4 | x4 | x4 |] %33

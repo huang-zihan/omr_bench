@@ -1,0 +1,13 @@
+X:1
+T:5 seconds
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ G B B [Af] | G [Gd] G [Gc] | G E A E | G [Af] e a | G [Ae] (A F) | D e F [Ee] | d G A [EB] | %7
+ [Af] [A,A] f [Gd] | G [C,B] [Ae] [Be] | [B,Ag] c B A |$ B d F d | F G G [Ed] | %12
+ [Gb] D [EGdg] [Gd] | A [G,A] [EGBe] c | [Gc]2 d [Ad] | B,2 E [B,d] | B [Bc] G [Dc] | [Cd]2 c f | %18
+ g2 G A | c z B [E,E] |$ [E,F] G [Fc] A | [FG] A [AB] z | F z A c | A z c e | g B E C | E A A E | %26
+ E z [ce]2 | E f [EB] [B,d] | d F G [FB] | d [FGf] E B |$ e e a [Cc] | A, E F A |] %32

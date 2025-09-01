@@ -1,0 +1,48 @@
+X:1
+T:Mercy Is Free
+C:Benjamin Franklin Nysewander
+Z:Public Domain
+Z:Courtesy of the Cyber Hymnal™
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=95
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+L:1/4
+V:1
+ (E[DF]) | [EG]2 [EG][EG] [EG]2 [DF]E | [GB]2 [Ac][Ac] [GB]3 [EG] |$ [DF]2 [DF][DF] [DF]2 E[DF] | %4
+w: 1.~Tho’ *|far I have strayed from the|fold of the Lord, Tho’|oft I have slight- ed His|
+w: 2.~Tho’ *|deep- ly my soul is pol-|lut- ed by sin, Tho’|I am de- praved and un-|
+w: 3.~O *|Lord! I am weak- est of|all that may come, But|yet in Thy bo- som of|
+w: 4.~Re- *|ceive me, my Sav- ior, and|save me from sin; Re-|move all the guilt and de-|
+ [FA]2 [Ac][GB] [EG]3 [EG] | [EB]2 [EB][EB] [EB]2 [EG][GB] |$ [Ge]2 [Bd][Ac] [GB]3 z | %7
+w: Spir- it and Word, Yet|hum- bled, re- pent- ant, to|Je- sus I flee,|
+w: ho- ly with- in, Yet|trust- ing for mer- cy I|come, Lord, to Thee,|
+w: love there is room; I|know Thou wilt wel- come a|sin- ner like me,|
+w: file- ment with- in; I’m|trust- ing a- lone for sal-|va- tion in Thee,|
+ [Ac][GB][GB][GB] [GB][EG]E[DF] | [EG]2 [EG]>[DF] E4 ||$"^Refrain" [Ge]2 [Ac]>[Ge] [GB]3 z | %10
+w: Know- ing that His won- drous grace can|save ev- en me.||
+w: Know- ing that Thy blood has power to|save ev- en me.|Won- der- ful love—|
+w: Thou hast ful- ly pur- chased peace and|par- don for me.||
+w: Let Thy ten- der mer- cy fall this|mo- ment on me.||
+ [Ac]2 [FA]>[Ac] [GB]3 z | [Ac][GB][GB][GB] [GB][EG]E[EF] | [EG]2 [EG]>[DF] !fermata!E2 |] %13
+w: |||
+w: flow- ing so free!|There is grace and mer- cy for a|sin- ner like me.|
+w: |||
+w: |||
+V:2
+ E x | x7 E | x8 |$ x6 E x | x8 | x8 |$ x8 | x6 E x | x4 E4 ||$ x8 | x8 | x6 E x | x4 E2 |] %13
+V:3
+ (G,A,) | [E,B,]2 [E,B,][E,B,] [E,B,]2 [B,,A,][E,G,] | [E,B,]2 [E,E][E,E] [E,E]3 [E,B,] |$ %3
+ [B,,B,]2 [B,,B,][B,,B,] [B,,B,]2 [C,G,][B,,B,] | [B,,B,]2 [B,,C][E,E] [E,B,]3 [E,B,] | %5
+ [E,G,]2 [E,G,][E,G,] [E,G,]2 [E,B,][E,E] |$ [E,B,]2 [E,E][A,E] [E,E]3 z | %7
+ [A,E][E,E][E,E][E,E] [E,E][E,B,][E,G,][B,,B,] | [E,B,]2 [E,B,]>[B,,A,] [E,G,]4 ||$ %9
+ [E,B,]2 [E,E]>[E,B,] [E,E]3 z | [E,E]2 [E,E]>[E,E] [E,E]3 z | %11
+ [E,E][E,E][E,E][E,E] [E,E][E,B,][E,G,][E,A,] | [E,B,]2 [E,B,]>[B,,A,] !fermata![E,G,]2 |] %13
+V:4
+ E, | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 ||$ x4 | x4 | x4 | x3 |] %13

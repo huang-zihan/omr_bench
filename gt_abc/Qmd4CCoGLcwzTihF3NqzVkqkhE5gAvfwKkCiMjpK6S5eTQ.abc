@@ -1,0 +1,10 @@
+X:1
+T:Turkish tune
+L:1/8
+M:6/8
+I:linebreak $
+K:F#min
+V:1 treble 
+V:1
+ F2 ^E F2 A | G2 B A c2 | BAG AGF |1 ^EFG E=DC :|2 ^EFG F3 |: c^Bc d3 | GA^A B3 |1$ GA^A B^Bc | %8
+ dBd c3 :|2 cdc BAG | F^EG F3 || %11

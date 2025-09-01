@@ -1,0 +1,51 @@
+X:1
+T:BOB'S CHILI RAG
+C:ROBT. E. CLEARY
+Z:Copyright 1921 by Robt. E. Cleary.
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=180
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+L:1/4
+V:1
+"^Tempo di Rag"!f! [c_ec']6 [cec']2 | [c=ec']8 | [fg]2 [fa][fb]- [fb][fa] [fg]2 | %3
+ [cec']2 z2 [cec']GA^A |:$S!mf! B2 [Bg][Bf]- [Bf]GA^A | B2 [Bg][Bf]- [Bf]GAB | %6
+ z [ce][cec'][ce] [ceg] [ceb]2 [ce] | [cea]8 |$ z [df][dfc'][df] [dfg] [dfb]2 [df] | [Bfa]8 | %10
+ z [ce][cec'][ce] [ceg] [ceb]2 [ce] | [cea]4- [cea]GA^A |$ B2 [Bg][Bf]- [Bf]GA^A | %13
+ B2 [Bg][Bf]- [Bf]GAB | z [ce][cec'][ce] [ceg] [ceb]2 [ce] | [cea]4- [cea]gab |$ %16
+ [cec']2 z2 !>![c_e_a]4 | [c=eg][ce=a][ceb][cea]- [cea]g^fg | [c^fa]4 [B=fb]4 |1 %19
+ [cec']2 z2 [cec']GA^A :|2 [cec']2 z2 [cec']2!fine! ||$[K:F]!mf! cde |: %22
+ [Af]2 [Af][Ad] [Ae]2 [Ae][FAc] | [FAd]A[FAd]A [FAc]2 [FAc]A | [GB]D[GB]D [FB]D[FB]D | [EBe]8 |$ %26
+ [GB]D[GB]D [FB]D[FB]D | [EBe]8 | [EBc]2 [EBd][EBe]- [EBe]B [EBd]2 | %29
+ [EBc]2 [DEB][CEA]- [CEA]E [B,EG]2 |$ [Af]2 [Af][Ad] [Ae]2 [Ae][FAc] | [FAd]A[FAd]A [FAc]2 [FAc]A | %32
+ [GB]D[GB]D [FB]D[FB]D | [EBe]8 |$ [GB]D[GB]D [FB]D[FB]D | [EBe]8 | %36
+ [EBc]2 [EBd][EBe]- [EBe]d [EBc]2 |1 [FAf]2 z2 [FAf]cde :|2 [FAf]2 z2 [FAf]GA^A!D.S.! ||$ %39
+[K:F]!mf!!f!"_-" cd^d |: [GBe]2 Bd- dBcA | [CEB]2 ^FA- AE G2 | z CFA [FAc] [FAe]2 [FA] | [FAd]8 |$ %44
+ z EGB [EBc] [EBe]2 [GB] | [EBd]8 | z CFA [FAc] [FAe]2 [FA] | [FAd]4- [FAd]cd^d |$ %48
+ [GBe]2 Bd- dBcA | [CEB]2 ^FA- AE G2 | z CFA [FAc] [FAe]2 [FA] | [FAd]4- [FAd]=Bc^c |$ %52
+ [D^Fd]cAF- FD_DC | =B,DF[B,FA]- [B,FA]^FGA | [_Bc]BGD- D2 E2 |1 [A,CF]2 cc [EBc]cd^d :|2 %56
+ [A,CF]2 !>![CEc]2 !>![FAf]2 z2 |] %57
+V:2
+ [C,C]/C,/_E,/G,/ C/ z/ z | [C,C]/C,/=E,/G,/ C/ z/ z | [G,,G,] F,/D,/- D,/B,,/ G,, | %3
+ [C,C] [G,,G,] [C,,C,] z |:$ G,, [G,B,F] D, [G,B,F] | B,, [G,B,F] G,, [G,B,F] | %6
+ C, [G,CE] G,, [G,CE] | C, [G,CE] [G,CE]/[B,,B,]/[C,C]/[^C,^C]/ |$ D, [G,B,F] G,, [G,B,F] | %9
+ D, [G,B,F] [G,B,F]/[^C,^C]/[D,D]/[^D,^D]/ | E, [G,CE] G,, [G,CE] | [C,,C,]/E,,/G,,/C,/ E, z |$ %12
+ G,, [G,B,F] D, [G,B,F] | B,, [G,B,F] G,, [G,B,F] | C, [G,CE] G,, [G,CE] | C, [G,CE] [G,CE] z |$ %16
+ [C,C] z !>![_A,,_A,]2 | C, [G,CE] E, [G,CE] | D,, [D,^F,C] F,, [G,B,=F] |1 %19
+ [C,C] [G,,G,] [C,,C,] z :|2 [C,,C,] z"_Fine" [C,,C,] ||$[K:F] z/ z |: F, [A,CF] C, [A,CF] | %23
+ A,, [A,CF] F,, [A,CF] | C, [E,B,C] G,, [E,B,C] | [C,C] ^C/D/- D/^D/ E |$ C, [E,B,C] G,, [E,B,C] | %27
+ [C,C] ^C/D/- D/^D/ E | [C,,C,] [D,,D,] [E,,E,] [D,,D,] | [C,,C,] [C,,C,] [D,,D,] [E,,E,] |$ %30
+ F, [A,CF] C, [A,CF] | A,, [A,CF] F,, [A,CF] | C, [E,B,C] G,, [E,B,C] | [C,C] ^C/D/- D/^D/ E |$ %34
+ C, [E,B,C] G,, [E,B,C] | [C,C] ^C/D/- D/^D/ E | [C,C] [B,,B,] [G,,G,] [C,,C,] |1 %37
+ [F,,F,] z [F,,F,] z :|2 [F,,F,] z [F,,F,]"_D. S. al Fine" z ||$[K:F] z/ z |: %40
+ C, [E,B,C] G,, [E,B,C] | E,, [E,B,C] C,, [E,B,C] | F,, [C,F,A,] C,, [C,F,A,] | %43
+ F,, [C,F,A,] [C,F,A,]/[E,,E,]/[F,,F,]/[^F,,^F,]/ |$ G,, [C,E,B,] C,, [C,E,B,] | %45
+ G,, [C,E,B,] [C,E,B,]/[^F,,^F,]/[G,,G,]/[^G,,^G,]/ | A,, [C,F,A,] C,, [C,F,A,] | %47
+ [F,,F,]/A,,/C,/F,/ A, z |$ C, [E,B,C] G,, [E,B,C] | E,, [E,B,C] C,, [E,B,C] | %50
+ F,, [C,F,A,] C,, [C,F,A,] | F,, [C,F,A,] [C,F,A,] z |$ A,, [D,^F,C] D,, [D,F,C] | %53
+ G,, [D,=F,B,] D,, [D,F,B,] | C, [E,_B,C] G,, [E,B,C] |1 [F,,F,] [A,,A,] [G,,G,] z :|2 %56
+ [F,,F,] !>![C,,C,] !>![F,,F,] z |] %57

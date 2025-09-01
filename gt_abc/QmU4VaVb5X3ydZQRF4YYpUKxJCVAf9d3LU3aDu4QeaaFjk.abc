@@ -1,0 +1,24 @@
+X:1
+T:Title
+%%score 1 { 2 | 3 }
+L:1/4
+Q:1/4=170
+M:4/4
+I:linebreak $
+K:Db
+V:1 treble nm="Grand Piano, Staff 1"
+V:2 bass nm="Choir Pad, St. John�s Highlands, LM"
+V:3 bass 
+V:1
+ [DF]2 [EG] [_F=G] | [FA]2 [Ad]2 | [Gd]2 [Gc]2 | [EG]4 | [DF]2 [EF] [EF] | [DF]2 [DB]2 |$ %6
+w: By~Anonymous * *||||||
+ [DB]2 [DE]2 | [CE]4 | [DF]2 [EG] [_F=G] | [FA]2 [Dd]2 | [Gd]2 [Gc]2 | [EG]4 | [DF]2 [DF] [DF] | %13
+w: |||||||
+ [FA]2 [EG]2 | [DF]2 E [CA] | D4- | D2 z2 |] %17
+w: ||||
+V:2
+ A,2 A, A, | A,2 A,2 | A,2 A,2 | A,4 | A,2 =A, A, | B,2 B,2 |$ E,2 B,2 | A,4 | A,2 A, A, | %9
+ A,2 A,2 | A,2 A,2 | A,4 | A,2 _C C | B,2 B,2 | A,2 G,2 | F,4- | F,2 z2 |] %17
+V:3
+ D,2 D, D, | D,2 F,2 | E,2 E,2 | C,4 | D,2 C, C, | B,,2 B,,2 |$ G,,2 =G,,2 | A,,4 | D,2 D, D, | %9
+ D,2 F,2 | E,2 E,2 | C,4 | D,2 D, D, | G,,2 G,,2 | A,,2 A,,2 | D,4- | D,2 z2 |] %17

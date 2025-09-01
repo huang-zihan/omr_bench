@@ -1,0 +1,17 @@
+X:1
+T:Et lys imt mørketida
+L:1/4
+Q:1/4=100
+M:3/4
+I:linebreak $
+K:A
+V:1 bass nm="Baryton" snm="Bar."
+V:1
+ A,2 G, | F,3 | A,2 G, | F,3 | A,2 G, | A,2 B, | C2 B, | A,2 z | C3- | C3 | B,2 A, | G,3 | %12
+ A, B, C | B,2 G, | A, C2- |$ C2 ^A, | B,3 | B,/C/ D E | E3 | E3 | D3 | D C B, | C2 B, | B,2 A, | %24
+ A, B, C | B,3 | A, C B, | A, A, z | B,2 C |$ B,3 | A,2 B, | A,3 | A,3 | A,2 F, | F, E,2- | E,2 z | %36
+ C C C | C C C | B, B, A, | G,2 A,/A,/ | A, B, C | B, B, G, | A, E E |$ E2 ^A, | B, B, B, | %45
+ B,/C/ D E | E E E | E2 E | D D D | D C3/2 B,/ | C C B,/C/ | B,2 A, | A, B, C | B, B, B, |$ %54
+ A, C B, | A, A, z/ A,/ | B,2 C | B,2 z/ G,/ | A,2 B, | A,2 z/ A,/ | A, A, A, | A,2 F, | F, E,2- | %63
+ E,2 z | z3 | z3 | z3 | z3 | z3 |$ z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 | %82
+ z3 | z3 | z3 | z3 |] %86

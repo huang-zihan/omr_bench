@@ -1,0 +1,13 @@
+X:1
+T:The Old Road To Garry
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble 
+V:1
+ B | cE E2 GAce | dcAG AdcA | GE E2 GAce | f2 gf eccB | cE E2 GAce | dcAG A/B/c de |$ fAdf e3 c | %8
+ decd ec c2 || ggec gcec | AddA defa | ggec Gcec | fagf ec c2 |$ ggec gcec | Add^c defg | %15
+ aege decA | GAcd ecde || c3 G AGEG |$ Add^c dfed | cE E2 GAce | f2 gf eccB | cBcG AGEG | %22
+ Addc BGAB | cege decA |$ GAcd ec c2 || eggf eceg | aege dcAG | eg g2 edcA | GAcd ec c2 | %29
+ eggf eceg |$ aege dcde | f3 d e2 ge | decd ecc |] %33

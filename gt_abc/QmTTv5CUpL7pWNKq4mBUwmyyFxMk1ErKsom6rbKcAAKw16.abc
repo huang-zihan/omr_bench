@@ -1,0 +1,14 @@
+X:1
+T:Sir George Clerk of Pennycuik
+C:Nathaniel Gow
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble 
+V:1
+ g/a/ |"G" (b<g) g2 (d<B) B2 |"C" (c<e) (c<e)"D7" A3 B/c/ |"G" (d<B) B2"Em" (G<E) E2 | %4
+"Am" c>A B>G"D7" G/F/E/D/ D || g/a/ |$"G" (b<g) g2 (d<B) B2 |"Am" (c<e) (c<e)"D7" A3 B/c/ | %8
+"G" (d<B) B2"Em" (e<E) E>G |"D7" G/F/E/D/ DE/F/"G" G3 |] d/c/ |"G" (B<d) d2 (d<b) b>a |$ %12
+"C" (g<e) e>d"D7" d3 c |"G" (B<d) d2"C" e>B c2 |"G" d>A B>G"D7" G/F/E/D/ D || E/F/ | %16
+"G" (G<B) B2 (B<d) d2 | g>d"C" e>d"D7" d4 |$"G" (d'<b) (b<g)"C" (g<e) e>c |"G" B>G"D7" A>F"G" G3 |] %20

@@ -1,0 +1,16 @@
+X:1
+T:Les Fleurs Du Printems
+%%score 1 2
+L:1/8
+M:6/8
+I:linebreak $
+K:A
+V:1 treble 
+V:2 bass 
+V:1
+ A | e2 e efd | c2 c cdB | A2 A ABG | A>EC A,2 A | e2 e efd | c2 c cdB | A2 A ABG |$ A2 A A2 :: E | %10
+ FAd FAd | GBe GBe | ded cdc | B2 E E2 E | FAd FAd | GBe GBe |$ cdc BAB | A2 A A2 :| %18
+V:2
+ z | A,,2 A, G,2 E, | A,,2 A, E,2 E,, | F,2 C, D,2 E, | A,2 E, A,,3 | A,,2 A, G,2 E, | %6
+ A,,2 A, E,2 E,, | F,2 C, D,2 E, |$ A,>E,C, A,,2 :: z | D,6 | E,6 | F,2 G, A,3 | E,>B,,G,, E,,2 z | %14
+ D,6 | E,6 |$ A,2 A,, E,2 E,, | A,,2 A, A,,2 :| %18

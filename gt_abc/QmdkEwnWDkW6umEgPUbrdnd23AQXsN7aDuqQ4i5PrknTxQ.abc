@@ -1,0 +1,35 @@
+X:1
+T:Thou who wast rich
+C:C H Kitson
+Z:F Houghton
+Z:1934
+%%score { ( 1 2 ) | 3 | 4 }
+L:1/4
+M:3/4
+I:linebreak $
+K:D
+V:1 treble nm="Pipe Organ" snm="Org."
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ F F E | D2 A | d2 A | (B F) G || A D E | F2 A |$ F E2 | D3 || d d c | B2 A | d B2 | A2 A ||$ %12
+w: Thou who wast|rich Be-|yond all|spl- en~- dour|All for love's|sake be-|came- est|poor;|Thrones for a|man- ger|didst surr-|en- der|
+w: Thou who art|God be-|yound all|pra- is- ing|All for love's|sake be-|cam- est|man;|Stoo- ping so|low but|sin- ners|rai- sing|
+w: Thou who art|love be-|yond all|te- ll- ing|Sav- iour and|King. we|wor- ship|Thee.|E- man- u-|el, with-|in us|dwel- ling|
+ F F E | D2 E | F2 G | A3 || F F E | D2 A |$ d2 A | (B F) G || A D E | F2 A | F E2 | D3 |] %24
+w: Sapph- ire paved|courts for|sta- ble|floor|Thou who wast|rich be-|yond all|spl- en- dour|all for love's|sake be-|cam- est|poor.|
+w: Heaven- wards by|Thine et-|er- nal|plan|Thou who are|God be-|yond all|pr- ais- ing|All for love's|sake be-|am- est|man.|
+w: Make us what|Thou wouldst|have us|be.|Thou who art|love, be-|yond all|te- ll- ing,|Sav- iour and|King, we|wor- ship|Thee.|
+V:2
+ A, B, C | (D B,) C | ((D E)) F | (D C) D || D D C | D2 E |$ D (D C) | A,3 || D E F | G2 F | %10
+ F (E F) | (C D) C ||$ A, B, C | D2 D | D2 D | (D B, C) || A, B, C | (D B,) C |$ (D E) F | %19
+ (D C) D || D D D | D2 C | B,2 C | A,3 |] %24
+V:3
+ F, G, A, | B, G, A, | B, C D | F, A, G, || A, A, G, | (A, B,) C |$ D (B, G,) | (G, E, F,) || %8
+ F, G, A, | (B, C) D | D F,2 | A,2 A, ||$ A, A, G, | F,2 B, | A,2 D, | E,3 || F, G, A, | %17
+ (B, G,) A, |$ (B, C) D | (F, A,) G, || A, A, B, | (A, B,) F, | G,2 G, | F,3 |] %24
+V:4
+ D, D, D, | D,2 D, | D,2 D, | B,,2 B,, || F,, F, E, | D,2 A,, |$ B,, G,, A,, | D,3 || D, D, D, | %9
+ D,2 D, | B,, (C, D,) | F,2 F, ||$ F,, G,, A,, | (B,, A,,) G,, | (D, C,) B,, | A,,3 || D, D, D, | %17
+ D,2 D, |$ D,2 D, | B,,2 B,, || F,, F,, G,, | A,,2 A,, | A,,2 A,, | D,3 |] %24

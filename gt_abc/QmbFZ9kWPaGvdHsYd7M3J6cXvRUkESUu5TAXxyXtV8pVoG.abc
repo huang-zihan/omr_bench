@@ -1,0 +1,29 @@
+X:1
+T:St. Venantius, LM
+C:Rouen Church Melody
+Z:Public Domain
+Z:Courtesy of the Cyber Hymnal™
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=110
+M:3/4
+I:linebreak $
+K:F
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ [CF] | A c [FB] | [FA] [EG] [EA] | [DF]2 [EG] | [FA]2 [Fc] | [Fd] [Ec] [DB] | A B [Ec] | %7
+ c B [FA] | [EG]2 [EG] | B A [DG] | [D-F] [A,D] [CE] | [C-F] [CE]3/2 [=B,D]/ |$ [G,C]2 [EG] | %13
+ [EA] [DF] [DB] | [FA] [DG] [A,F] | [CE]2 [CF] | [CF]2 |] %17
+V:2
+ x | F2 x | x3 | x3 | x3 | x3 | D2 x | F2 x | x3 | F2 x | x3 | x3 |$ x3 | x3 | x3 | x3 | x2 |] %17
+V:3
+ [F,A,] | C A, [B,,D] | C2 [A,,C] | [D,A,]2 [C,C] | [F,C]2 [F,A,] | [B,,B,] [C,G,] G, | %6
+ [D,F,]2 [C,G,] | [A,,C] [B,,D] [F,C] | [C,C]2 [C,C] | D2 [G,B,] | A, F, [C,G,] | %11
+ [F,,A,] [G,,G,]3/2 [G,,G,]/ |$ [C,E,]2 [C,C] | [A,,C] [D,A,] [G,,G,] | [A,,C] [B,,B,] [D,F,] | %15
+ [C,G,]2 [F,A,] | [F,A,]2 |] %17
+V:4
+ x | F,2 x | F, C, x | x3 | x3 | x2 G, | x3 | x3 | x3 | B,, D, x | D,2 x | x3 |$ x3 | x3 | x3 | %15
+ x3 | x2 |] %17

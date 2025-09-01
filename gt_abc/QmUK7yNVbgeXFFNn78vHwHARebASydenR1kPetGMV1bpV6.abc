@@ -1,0 +1,118 @@
+X:1
+T:Title
+%%score [ 1 2 ( 3 4 ) ( 5 6 ) ]
+L:1/4
+Q:1/4=66
+M:4/4
+I:linebreak $
+K:C#min
+V:1 treble nm="Sopran"
+V:2 treble nm="Alt"
+V:3 treble nm="Tenor"
+V:4 treble 
+L:1/8
+V:5 bass nm="Bass"
+V:6 bass 
+V:1
+"^Adagio" z2!pp!!<)!!<(!!>(! G2!>)! | z2!<)!!<(!!>(! c2!>)! | %2
+w: Nhsty|svõtß,|
+w: Njest|svjat|
+ z!<)!!<(!!>(! B!>)! z!<)!!<(!!>(! A!>)! | z!>(! F!>)! E2 | (G/A/) !>!B2 G |$ c2 B F | %6
+w: fa- ko-|jØ- tyf|voë- * nØ- syfi|rogß- vhr- nyfxß|
+w: ja- ko-|že ti|voz- * ne- sij|rog- vjer- nih|
+ A2 !breath!G c | c4 |$ c z!<(! (^B/c/)d/!<)!e/ |$ f2 e d |!p! =d2 c B |"^dim." !>!A2 G2 | %12
+w: tvo- ixß voë-|nØ-|syfi voë- * nØ- syfi|voë- nØ- syfi|rogß- vhr- nyfxß|tvo- ixß|
+w: tvo- jih, voz-|ne-|sij voz- * ne- sij|voz- ne- sij|rog- vjer- nih|tvo- jih,|
+!p!"^rit."!>(! ^^F2!>)! !fermata!G2 ||$[K:Bbmin] z4 | z4 | z4 | z4 |$!mf! d e/e/ f2 |$ (e f) g2 | %19
+w: bla- jØ,|||||i out- vØr- di|vyfi * nasß,|
+w: bla- že,|||||i ut- ver- di-|vij * nas|
+ f a g f | e"^dim." B/B/ !>!d/>"^poco rit."!>(!c/ !breath!c!>)! | %21
+w: na ka- mØ- nf|i- spo- vh- da- nf- õ|
+w: na ka- me- ni|i- spo- vje- da- ni- ja,|
+ !>!d"^rit. molto" A/A/ !>!A/>G/ G |$!p! G3/2 G/ F2 | E7/2 F/ | F4 | G2!<(! (D!<)!!>(! E) | %26
+w: i- spo- vh- da- nf- õ|tvo- Ø- gw,|tvo- Ø-|gw,|tvo Ø- *|
+w: i- spo- vje- da- ni- ja|tvo- je- go,|tvo- je-|go,|tvo- je- *|
+ F4!>)! |] %27
+w: gw.|
+w: go.|
+V:2
+ z2!pp!!<)!!<(!!>(! C2!>)! | z2!<)!!<(!!>(! E2!>)! |!<(! z!<)!!>(! ^E!>)! z!<)!!<(!!>(! F!>)! | %3
+w: Nhsty|svõtß,|fa- ko-|
+w: Njest|svjat|ja- ko-|
+ z!>(! ^B,!>)! C2 | z (G/F/) !>!E E |$!<(! (E/D/E/!<)!F/) G F | E3 G | (F!<(! A)!<)! G !breath!F |$ %8
+w: jØ- tyf|voë- * nØ- syfi|rogß- * * * vhr- nyfxß|tvo- ixß|voë- * nØ- syfi|
+w: že ti|voz- * ne- sij|rog- * * * vjer- nih|tvo- jih,|voz- * ne- sij|
+ (E/F/)G/A/ (G c) |$ A2 G F |!p! (F G/F/) (^E/F/) G |"^dim." !>!F2 (F E) | %12
+w: voë- * nØ- syfi rogß- *|voë- nØ- syfi|rogß- * * vhr- * nyfxß|tvo- ixß *|
+w: voz- * ne- sij rog- *|voz- ne- sij|rog- * * vjer- * nih|tvo- jih, *|
+!p!!>(! C2!>)! !fermata!^B,2 ||$[K:Bbmin] z4 | z4 | z2!p! A B/B/ |!<(! c2 (B c)!<)! |$ %17
+w: bla- jØ,|||i out- vØr-|di vyfi *|
+w: bla- že,|||i ut- ver-|di- vij *|
+!mf! d B/B/ =A2 |$ B2 (B _A) | A d d _c | B"^dim." =G/G/ !>!A/>!>(!A/ !breath!A!>)! | %21
+w: nasß, out- vØr- di|vyfi nasß, *|na ka- mØ- nf|i- spo- vh- da- nf- õ|
+w: nas ut- ver- di-|vij nas *|na ka- me- ni|i- spo- vje- da- ni- ja,|
+ !>!A"^rit. molto" F/F/ !>!F/>E/ E |$!p! E3/2 E/ D2 | E7/2 F/ | F4 | G2!<(! D2!<)! |!>(! D4!>)! |] %27
+w: i- spo- vh- da- nf- õ|tvo- Ø- gw,|tvo- Ø-|gw,|tvo Ø-|gw.|
+w: i- spo- vje- da- ni- ja|tvo- je- go,|tvo- je-|go,|tvo- je-|go.|
+V:3
+ z2!pp!!<)!!<(!!>(! c2!>)! | z2!<)!!<(!!>(! c2!>)! |!<(! z!<)!!>(! =d!>)!!<(! z!<)!!>(! c!>)! | %3
+w: Nhsty|svõtß,|fa- ko-|
+w: Njest|svjat|ja- ko-|
+ z!>(! G G2!>)! | z (e/d/) !>!c B |$!<(! (A/B/c/!<)!d/) e d | (c2 B) !breath!e | (A/B/)c/d/ e d |$ %8
+w: jØ- tyf|voë- * nØ- syfi|rogß- * * * vhr- nyfxß|tvo- * ixß|voë- * nØ- syfi rogß- vhr-|
+w: že ti|voz- * ne- sij|rog- * * * vjer- nih|tvo- * jih,|voz- * ne- sij rog- vjer-|
+ c z g f/e/ |$ (d c) (^B/c/) d |!p! (A B) c c |"^dim." !>!c2 (^B c) | %12
+w: nyfxß voë- nØ- syfi|voë- * nØ- * syfi|rogß- * vhr- nyfxß|tvo- ixß *|
+w: nih voz- ne- sij|voz- * ne- * sij|rog- * vjer- nih|tvo- jih, *|
+!p!!>(! (E D)!>)! !fermata!D2 ||$[K:Bbmin] z2!p! A B/B/ | c2 (B c) | d d d2 |!<(! (e f) g2!<)! |$ %17
+w: bla- * jØ,|i out- vØr-|di vyfi *|out- vØr- di|vyfi * nasß,|
+w: bla- * že,|i ut- ver-|di- vij *|ut- ver- di-|vij * nas|
+!mf! f e/e/ c2 |$ (B =d) (e c) | d f g =d | e"^dim." e/e/ !>!e/>!>(!e/ !breath!e!>)! | %21
+w: i out- vØr- di|vyfi * nasß, *|na ka- mØ- nf|i- spo- vh- da- nf- õ|
+w: i ut- ver- di-|vij * nas *|na ka- me- ni|i- spo- vje- da- ni- ja,|
+ !>!d"^rit. molto" d/_c/ !>!c/>B/ B |$!p! A3/2 A/ A2 | (d B c3/2) d/ | !breath!d2!p! _c c/c/ | %25
+w: i- spo- vh- da- nf- õ|tvo- Ø- gw,|tvo- * * Ø-|gw, i- spo- vh-|
+w: i- spo- vje- da- ni- ja|tvo- je- go,|tvo- * * je-|go, i- spo- vje-|
+ B B/B/!<(! __B!<)!!>(! B | A4!>)! |] %27
+w: da- nf- õ tvo Ø-|gw.|
+w: da- ni- ja tvo- je-|go.|
+V:4
+ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 |$ x8 |$ x8 | x8 | x8 | x8 ||$[K:Bbmin] x8 | x8 | %15
+w: |||||||||||||||
+w: |||||||||||||||
+w: |||||||||||||||
+w: |||||||||||||||
+ d2 ee f4 | x8 |$ x8 |$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |] %27
+w: ||||||||||||
+w: ||||||||||||
+w: i out- vØr- di||||||||||||
+w: i ut- ver- di||||||||||||
+V:5
+ (C, D,) E,2 |"^cresc." E, F, G, A, | !>!G,2 F, A, | !>!G,!>(! (E,/D,/)!>)! C,2 | z4 |$ z4 | %6
+w: Nhsty * svõtß,|fa- ko- jØ- tyf|Go- spo- di|Bo- jØ * moi,|||
+w: Njest * svjat|ja- ko- že ti|Go- spo- di|Bo- že * moj,|||
+!<(! (A,,/B,,/)C,/D,/!<)! E, C, | F,2 G,2 |$ A, z z2 |$ z !>!A, (D,/E,/) F, | %10
+w: voë- * nØ- syfi rogß- vhr-|nyfxß tvo-|ixß|voë- nØ- * syfi|
+w: voz- * ne- sij rog- vjer-|nih tvo-|jih,|voz- ne- * sij|
+ z!p! G, (C,/D,/) ^E, |"^dim." (!>!F, =E,) (D, C,) |!p!!>(! A,,2!>)! !fermata!G,,2 ||$ %13
+w: rogß- vhr- * nyfxß|tvo- * ixß *|bla- jØ,|
+w: rog- vjer- * nih|tvo- * jih, *|bla- že,|
+[K:Bbmin]!p! D, D,/D,/ D,2 | A,,2 (A,, =A,,) | B,, G, (F, D,) |!<(! (G, F,) (E,!<)! A,,) |$ %17
+w: i out- vØr- di|vyfi nasß, *|out- vØr- di *|vyfi * nasß, *|
+w: i ut- ver- di-|vij nas *|ut- ver- di- *|vij * nas *|
+!mf! B,, G,/G,/ F,2 |$ (G, F,) (E, A,) | D _C B, A, | %20
+w: i out- vØr- di|vyfi * nasß, *|na ka- mØ- nf|
+w: i ut- ver- di-|vij * nas *|na ka- me- ni|
+ =G,"^dim." E,/E,/ !>!A,/>!>(!A,/ (A,/!>)!!breath!_G,/) | %21
+w: i- spo- vh- da- nf- õ *|
+w: i- spo- vje- da- ni- ja, *|
+ !>!F,"^rit. molto" F,/E,/ !>!=D,/>E,/ (E,/_D,/) |$!p! C,3/2 C,/ D,2 | G,,2 A,,2 | [D,A,]4 | %25
+w: i- spo- vh- da- nf- õ *|tvo- Ø- gw,|tvo- Ø-|gw,|
+w: i- spo- vje- da- ni- ja *|tvo- je- go,|tvo- je-|go,|
+ D,2!<(! D,2!<)! |!>(! [D,,D,]4!>)! |] %27
+w: tvo Ø-|gw.|
+w: tvo- je-|go.|
+V:6
+ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 |$ x4 | x4 | x4 | x4 ||$[K:Bbmin] D, E,/E,/ F,2 | %14
+ E, F, G,2 | F, B, A,2 | A,2 A,2 |$ D, G,/G,/ F,2 |$ x4 | x4 | x4 | x4 |$ x4 | (B, G,) (E, A,) | %24
+ x4 | G,2 G,2 | x4 |] %27

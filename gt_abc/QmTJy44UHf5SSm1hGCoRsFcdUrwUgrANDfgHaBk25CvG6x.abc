@@ -1,0 +1,23 @@
+X:1
+T:Title
+L:1/16
+Q:1/4=120
+M:none
+I:linebreak $
+K:C
+V:1 treble nm="Part_1"
+V:1
+ c6 c6- x4 | cBc dcA x10 | c6 c6- x4 | cBc dcG x10 | A6 A6 x4 | AFG AGF x10 |$ E12- x4 | %7
+ E6 E4 G2 x4 | G6 D4 E2 x4 | F4 G2 A4 B2 x4 | cBA G6- x7 | G6 z2 EC x6 | G12 x4 |$ %13
+ !^!G4 A,2 A,4 B,2 x4 | C12- x4 | C12 x4 | c6 c6- x4 | cBc dcA x10 | c6 c6- x4 | cBc dcG x10 |$ %20
+ A6 A6 x4 | AFG AGF x10 | E12- x4 | E6 E4 G2 x4 | G6 D4 E2 x4 | F4 G2 A4 B2 x4 | cBA G6 x7 |$ %27
+ G6 z2 EC x6 | G6 G6- x4 | G6 A,4 B,2 x4 | C12- x4 | C12 x4 | B6 e6 x4 | B6 A6 x4 | B8- Be x6 |$ %35
+ B8- BA x6 | B6 e6 x4 | e6 d4 c2 x4 | d6 d6- x4 | d8- dG x6 | G6 G6 x4 | G2 B4 BA G x7 |$ %42
+ !^!^F6 F6 x4 | ^F2 A4- A4 A2 x4 | z4 G2 B4 B2 x4 | B6 ^c6 x4 | d6 A6- x4 | A12 x4 | c6 c6- x4 |$ %49
+ cBc dcA x10 | c6 c6- x4 | cBc dcG x10 | A6 A6 x4 | AFG AGF x10 | E12- x4 | E4 E6 G2 x4 |$ %56
+ G6 D4 E2 x4 | F4 G2 A4 B2 x4 | cBA G6- x7 | G6 z2 EC x6 | G6 G6- x4 | G6 A,4 B,2 x4 | C12 x4 |$ %63
+ B6 e6 x4 | B6 A6 x4 | B8- Be x6 | B8- BA x6 | B6 e6 x4 | e6 d4 c2 x4 | d6 d6- x4 | d8 dG x6 |$ %71
+ G6 G6 | G2 B4- B2A2G2 x4 | ^F6 F6 x4 | ^F2 A4- A4- A2 x4 | z4 G2 B4 B2 x4 | B6 ^c6 x4 | %77
+ d6 A6- x4 |$ A12 x4 | c6 c6- x4 | c2B2c2 d2c2A2 x4 | c6 c6- x4 | c2B2c2 d2c2G2 x4 | A6 A6- x4 | %84
+ A2F2G2 A2G2F2 x4 |$ E12- x4 | E6 E4 G2 x4 | G6 D4 E2 x4 | F4 G2 A4 B2 x4 | c2B2A2 G6- x4 |$ %90
+ G6 z2 E2C2 x4 | G6 G6- x4 | G4 A6 B2 x4 | c12 x4 | z16 | z16 |] %96

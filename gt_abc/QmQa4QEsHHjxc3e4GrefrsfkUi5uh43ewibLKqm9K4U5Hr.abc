@@ -1,0 +1,37 @@
+X:1
+T:Baccanale
+T:La Traviata - voor bassen VBO
+T:Verdi
+Z:42314
+%%score [ 1 2 ]
+L:1/4
+M:2/4
+I:linebreak $
+K:D
+V:1 treble nm="Soprano" snm="S"
+V:2 bass nm="Bass" snm="B"
+L:1/8
+V:1
+"^Allegro vivacissimo"!ff! z2 | z2 | z2 | z2 | z2 | z2 |$ z2 | z2 | z2 | z2 | z2 | z2 | z2 |$ z2 | %14
+ z2 | z2 | z2 | z2 | z2 |[M:6/8] z3 | z3 | z3 |$ z3 | z3 | z3 | z3 | z3 |$[M:2/4] z2 | z2 | z2 | %30
+ z2 | z2 | z2 | z2 | z2 |$ z2 | z2 | z2 | z2 | z2 | z2 | z2 |$ z2 | z2 | z2 | z2 |[M:6/8] z3 | z3 | %48
+ z3 |$ z3 | z3 | z3 | z3 | z3 ||$[K:C][M:4/4] z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 |] %64
+V:2
+ E2 D,D, | D,2 D,D, | A,,2 A,,A,, |!>(! D,2!>(! D,2!>)!!>)! | E2 D,D, | D,2 D,D, |$ A,,2 A,,A,, | %7
+w: Largo al qua-|dru- pe- de|sir del la|fe- sta,|di firoi e|pam- pi ni|cin- ta la|
+ D,2!>(! D,2!>)! | _B,2 DB, | _B,A, A,2 |!>(! G,2 A,G,!>)! | =F,E, D,2 | _B,2 DB, |$ _B,A, A,2 | %14
+w: te- sta...|largo al più|do- ci- le|d'o- gni cor-|nu- * to,|di corni e||
+ A,G, F,E, | (!trill(!TE,4!trill)! | E,4) | D,2 z2 | z2 (3z A,C |[M:6/8] E2 C E2 C | E2 C E2 C | %21
+w: |||||||
+ E2 C E2 C |$ E3 EA,A, | E,2 E, E,2 E, | A,A, z z A,A, | E,2 E, E,2 E, | A,A, z z2 z |$ %27
+w: ||||||
+[M:2/4] E2 D,D, | D,2 D,D, | A,,2 A,,A,, | D,2 D,2 | E2 D,D, | D,2 D,D, | A,,2 A,,A,, | D,2 D,2 |$ %35
+w: L'A- sia, nè|drul'A- fri- ca|vi- de~il più|bel- lo,|van- to~ed or-|go- gli- o|d'og ni ma-|cel- lo...|
+ _B,2 DB, | _B,A, A,2 | G,2 A,G, | =F,E, D,2 | _B,2 DB, | _B,A, A,2 | A,G, =F,E, |$ ((E,4 | E,4)) | %44
+w: Al- le- gre|ma- sch- ere,|paz- zi gar-|zo- * ni,|tut- ti plau-|di- te- lo|con * can- ti~e|suo-||
+ D,2 z2 | z2 (3z A,C |[M:6/8] E2 C E2 C | E2 C E2 C | E2 C E2 C |$ (E3 E)A,A, | E,2 E, E,2 E, | %51
+w: ni.|Pa- ri-|gi- ni, da- te|pas- so al tri-|on- fo del Bue|gras- so,al tri *||
+ A,A, z z A,A, | E,2 E, E,2 E, | A,A, z z2 z ||$[K:C][M:4/4] z z A,A, z2 z2 | E,2 E,E,- z2 z2 | %56
+w: |||||
+ E,E,A,A, z2 z2 | z z2 z z2 z2 | C,,8 | C,,8 | C,,8 | C,,8 | C,,8 | C,,8 |] %64
+w: ||||||||

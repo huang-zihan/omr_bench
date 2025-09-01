@@ -1,0 +1,133 @@
+X:1
+T:Title
+%%score ( 1 2 3 )
+L:1/8
+Q:1/4=124
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Vientos (Metales), Pista de instrumento" snm="Tambu."
+V:2 treble 
+V:3 treble 
+V:1
+ z8 | .[dd']>[cc']- [G-B-cb-c']<[GBb] [Bdd']>[cc']- [G-B-cb-c']/<[GBb]/[Bdd'] | %2
+ [Acc']/[GBb]/[cc']/-[cb-c']/ [^F-A-a-b]/<[FAa]/-[FAa]- [FAa]2 z2 |$ %3
+ [GBb]>[Aa]- [E-G-Ag-a]/<[EGg]/-[EGg] [Bb]>[Aa]- [E-G-Ag-a]/<[EGg]/[Bb]- | %4
+ [ABab][^FAa]/[Bb]/ [cc']4 z2 |$ %5
+ [ee']->[Fded'e'] [cc']>[dd']- [G-de-d'e'-]/[Gee']/[Ecc'] .[Bgg']2 | %6
+ [dd']>[cc']- [G-B-cb-c']/<[GBb]/-[GBb]/[cc']/- [B-cd-c'd'-]/[Bdd']/[GBb] .[Bgg']2 | %7
+ .[Ddd'].[D,Dd] [D,Dd]4 [A,Aa]2 | .[G,G]2 z2 z4 | z8 |$ z8 | [E,E]4 [G,G]4 | %12
+ z2 z z/ [Gg]/- [Gg]/ z/ z z2 | z8 | z8 | [E,E]4 [G,G]4 | .[^F,^F]2 .[Ee]/.[Ee][Ee]/ .[Dd]2 z2 | %17
+ z8 | z8 | [E,E]4 [G,G]4 |$ z4[K:treble] z .[G,G]3 | .[G,B,DGBd]4 z4 | %22
+ .[^F,A,D^FAd].[F,A,DFAd][F,DFd].[F,CFc] [F,A,EFAe][F,A,EFAe] z .[F,A,CFAc] | [G,B,DGBd]4 z4 | %24
+ .[^F,A,D^FAd].[F,A,DFAd][F,DFd].[F,CFc] [F,A,EFAe][F,A,EFAe] z .[F,A,CFAc] | [G,B,DGBd]4 z4 |$ %26
+ .[^F,A,D^FAd].[F,A,DFAd][F,DFd].[F,CFc] [F,A,EFAe][F,A,EFAe] z .[F,A,CFAc] | [G,B,DGBd]4 z4 | z8 | %29
+ z8 | z8 | z8 | z8 | [Dd]>[Ee] [Dd]>[Ee] [Dd][Ee] [Dd]/[Ee]/[Dd]/[Ee]/ | %34
+ [Dd]>[Ee] .[Dd].[Ee] .[Dd]2 z2 |$ [Dd]>[Ee] [Dd]>[Ee] [Dd][Ee] [Dd]/[Ee]/[Dd]/[Ee]/ | %36
+ [Dd]>[Ee] .[Dd].[Ee] .[Dd]2 z2 | z z/ c/- c/4 z/4 z/ z/ c/- c/ z/ z z2 | %38
+ [D^Fd]>[EGe] .[FA^f].[GBg] .[Aca]2 z2 |$ z2 z z/ c/- c/4 z/4 z/ z z2 | %40
+ [D^Fd]>[EGe] .[FA^f].[GBg] .[Aca]2 z2 | z4 .B2 z z/ c/- | c2 z2 z4 |$ z8 | %44
+ z4 z .[^FA^fa] [FAfa]/[GBgb]/[FAfa] | z8 | z4 z .[^FA^fa] [FAfa]/[GBgb]/[FAfa] | z8 | %48
+ z4 z .[^FA^fa] [FAfa]/[GBgb]/[FAfa] | z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 | z8 | z8 | %61
+ z8 | z8 | z8 | z8 | .B2 z2 z4 |$ z8 | .B2 z2 z4 | z8 | .b2 z2 z4 |$ z8 | .b2 z2 z4 | z8 | z8 | %74
+ z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %93
+ z8 | z8 | z8 | z8 |$ .B2 z2 z4 | z8 | .B2 z2 z4 | z8 | .b2 z2 z4 |$ z8 | .b2 z2 z4 | z8 | z8 | %106
+ z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %125
+ z8 | z8 |[Q:1/4=141] z8 | z8 |$ z8 | z8 | z8 | z8 | z8 | z8 | G8- | G[GB]c[Bd] .[ce]2 z2 | %137
+ [ce].[Bd][Bd][A_d] [B=d]4- | [Bd]6 z2 | z8 |$ z2 _A2 z2 z [Bd]- | [Bd] z z2 z4 | z8 | B8 | %144
+ z [GB]c[Bd] .[ce]2 z2 | [ce].[Bd][Bd][A_d] [B=d]4- |$ [Bd]6 z2 | z8 | z2 _A2 z2 z [Bd]- | %149
+ [Bd] z z2 z4 | z8 | .[GBe].[GBe].[GBe].[GBe] [GBeg]2 .[GBe]2 | %152
+ .[FBdf].[FBdf].[FBdf].[FBdf] .[FBdf_a]2 z2 |$ .[FBd].[FBd].[FBd].[FBd] [FBdf]2 .[FBd]2 | %154
+ .[GBe].[GBe].[GBe].[GBe] .[GBeg]2 z2 | .[GBe].[GBe].[GBe].[GBe] [GBeg]2 .[GBe]2 | %156
+ .[FBdf].[FBdf].[FBdf].[FBdf] .[FBdf_a]2 z2 | .[FBd].[FBd].[FBd].[FBd] [FBdf]2 .[FBd]2 | %158
+ .[GBe].[GBe].[GBe].[GBe] .[GBeg]2 z2 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 | z4 z2 [Cc]2- | %168
+ [Cc] z z [Cc]- [Cc]/ z/ z z2 |$ [B,DFB].[CDFc].[B,DFB].[CDFc] .[B,B]2- .[B,C-Bc-]2 | %170
+ [B,CEGBc].[CEGc].[B,EGB][Cc]- [B,-CE-G-B-c]<[B,EGB] z2 | %171
+ [EGBe].[FGBf].[EGBe].[FGBf] [EGBe]2 [Ff]2- | %172
+ [EF_Acef].[FAcf].[EAce][Ff]- [E-FA-c-e-f]<[EAce] z2 |$ z .[Cc]3 z4 | %174
+ [B,EGB].[CEGc].[B,EGB][Ff]- [E-FG-e-f]<[EGe] z2 | %175
+ [B,DFB].[CDFc].[B,DFB][Ee]- [D-EF-d-e]<[DFd] z2 |$ %176
+ .[B,EGB][Cc]-[B,-CB-c][B,F-Bf-] [E-FG-e-f]<[EGe]- [EGe]2- | [EGe]8 | z2 [Aa]2 z4 | %179
+[Q:1/4=150] .[C=EG].[CEG].[CE_A].[CEA] .[CE=A].[CEA] z2 | %180
+ z .[C=EA].[CEA].[CEA] .[CEA].[CEA].[CE_A].[CEA] |$ %181
+ .[=B,DG].[B,DG].[B,D_A].[B,DA] .[B,D=A].[B,DA] z2 | %182
+ z .[=B,DA].[B,DA].[B,DA] .[B,DA].[B,DA].[B,D_A].[B,DA] | %183
+ .[=B,DG].[B,DG].[B,D_A].[B,DA] .[B,D=A].[B,DA] z2 | %184
+ z .[=B,DA].[B,DA].[B,DA] .[B,DA].[B,DA].[B,D_A].[B,DA] |$ %185
+ .[C=EG].[CEG].[CE_A].[CEA] .[CE=A].[CEA] z2 | z .[C=EA].[CEA].[CEA] .[CEA].[CEA].[CE_A].[CEA] | %187
+ .[=EGc].[EGc].[EG_d].[EGd] .[EG=d].[EGd] z2 | z .[=EGd].[EGd].[EGd] .[EGd].[EGd].[EG_d].[EGd] |$ %189
+ .[FAc].[FAc].[FA_d].[FAd] .[FA=d].[FAd] z2 | [FA=e]3 [FAe]- [FAe]/ z/ z z2 | %191
+ [G=B=e]3 [GBe]- [GBe]/ z/ .[GBe] .[GBe].[GBe] | .[=EGc]2 .[EGc].[EGc] .[EGc]2 z2 | z8 | z8 | z8 | %196
+ z8 | z8 | z8 |$ z8 | z8 | .[C=EG].[CEG].[CE_A].[CEA] .[CE=A].[CEA] z2 | %202
+ z .[C=EA].[CEA].[CEA] .[CEA].[CEA].[CE_A].[CEA] | %203
+ .[=B,DG].[B,DG].[B,D_A].[B,DA] .[B,D=A].[B,DA] z2 |$ %204
+ z .[=B,DA].[B,DA].[B,DA] .[B,DA].[B,DA].[B,D_A].[B,DA] | %205
+ .[=B,DG].[B,DG].[B,D_A].[B,DA] .[B,D=A].[B,DA] z2 | %206
+ z .[=B,DA].[B,DA].[B,DA] .[B,DA].[B,DA].[B,D_A].[B,DA] | %207
+ .[C=EG].[CEG].[CE_A].[CEA] .[CE=A].[CEA] z2 |$ z .[C=EA].[CEA].[CEA] .[CEA].[CEA].[CE_A].[CEA] | %209
+ .[=EGc].[EGc].[EG_d].[EGd] .[EG=d].[EGd] z2 | z .[=EGd].[EGd].[EGd] .[EGd].[EGd].[EG_d].[EGd] | %211
+ .[FAc].[FAc].[FA_d].[FAd] .[FA=d].[FAd] z2 | [FA=e]3 [FAe]- [FAe]/ z/ z z2 |$ %213
+ [G=B=e]3 [GBe]- [GBe]/ z/ .[GBe] .[GBe].[GBe] | .[=EGc]2 .[EGc].[EGc] .[EGc]2 z2 | z8 | z8 | z8 | %218
+ z8 | z8 | z8 | z8 | z8 |$ %223
+ (9:8:10.[Gg]/ z/4 [Ff]/4-[Ff]/[=E=e]/[Dd]/-[Dd]/4[Ee]/4-[Ee]/[Ff] [Gg]3/2-[Gg]/4>[Dd]/4- [Dd]/4 z/4 z/ [Ff]- | %224
+ [Ff].[Gg] z .[Dd] [Ff].[Gg] z2 | .a2 z2 z4 |$ z8 | (3z [Ff] z .[Dd].[Ff] [Gg]2 .[Dd][Ff]- | %228
+ [Ff].[Gg] z .[Dd] [Ff].[Gg] z2 | z .[cc']3 z .[Bb]3 | z .[_A_a]3 z [Gg]3 |$ z8 | z8 | z8 | z8 | %235
+ z8 | z8 | z8 | z8 | %239
+ (9:8:10.[Gg]/ z/4 [Ff]/4-[Ff]/[=E=e]/[Dd]/-[Dd]/4[Ee]/4-[Ee]/[Ff] [Gg]3/2-[Gg]/4>[Dd]/4- [Dd]/4 z/4 z/ [Ff]- |$ %240
+ [Ff].[Gg] z .[Dd] [Ff].[Gg] z2 | .a2 z2 z4 | z8 | (3z [Ff] z .[Dd].[Ff] [Gg]2 .[Dd][Ff]- |$ %244
+ [Ff].[Gg] z .[Dd] [Ff].[Gg] z2 | z .[cc']3 z .[Bb]3 | z .[_A_a]3 z [Gg]3 | z8 | z8 | z8 | z8 | %251
+ z8 | z8 | z4 z .=b3 |] %254
+V:2
+ x8 | B2 z z/ [Acc']/- [Acc']/4 z/4 z/ z z2 | z A/[GB]/ z2 z4 |$ %3
+ z z/ F/ z z/ [FAa]/- [FAa]/ z/ z/ F/- F/ z/ z | ^F/[=EGg]G/- G/4 z/4 z/ z z4 |$ G2 E2 z4 | %6
+ B2 z2 z4 | x8 | x8 | x8 |$ x8 | x8 | .[^F,^F]>[Ee] .[Dd]2 .[F^f]2 z2 | x8 | x8 | x8 | x8 | x8 | %18
+ x8 | x8 |$ .[^F,^F][D,D][E,E][=E,=E][K:treble] .[F,F]2 [A,A].[B,B] | x8 | z2 [A,A]2 z4 | x8 | %24
+ z2 [A,A]2 z4 | x8 |$ z2 [A,A]2 z4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | %37
+ [DBd]>[Ee] [DBd]>[Ee] B[Ece] [DBd]/[Ece]/[DBd]/[Ece]/ | x8 |$ %39
+ [DBd]>[Ece] [DBd]>[Ee] B[Ece] [DBd]/[Ece]/[DBd]/[Ece]/ | x8 | %41
+ [DBd]>[Ece] [DBd]>[Ece] [Dd]-[DEcde] [DBd]/[Ece]/[DBd]/[Ee]/ | %42
+ [D^Fd]>[EGe] .[FA^f].[GBg] .[Aca]2 z2 |$ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ %54
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | (5:4:4B,[A,A][G,G] [B,B]2- [B,B]4- |$ %66
+ [B,B][G,G][B,B][A,A]- [A,A]2- [A,A]/ z/ z | (5:4:4B,[A,A][G,G] [B,B]2- [B,B]4- | %68
+ [B,B][G,G][B,B][A,A]- [A,A]2- [A,A]/ z/ z | (5:4:4B[Aa][Gg] [Bb]2- [Bb]4- |$ %70
+ [Bb][Gg][Bb][Aa]- [Aa]2- [Aa]/ z/ z | (5:4:4B[Aa][Gg] [Bb]2- [Bb]4- | %72
+ [Bb][Gg][Bb][Aa]- [Aa]2- [Aa]/ z/ z | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | %85
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ (5:4:4B,[A,A][G,G] [B,B]2- [B,B]4- | %98
+ [B,B][G,G][B,B][A,A]- [A,A]2- [A,A]/ z/ z | (5:4:4B,[A,A][G,G] [B,B]2- [B,B]4- | %100
+ [B,B][G,G][B,B][A,A]- [A,A]2- [A,A]/ z/ z | (5:4:4B[Aa][Gg] [Bb]2- [Bb]4- |$ %102
+ [Bb][Gg][Bb][Aa]- [Aa]2- [Aa]/ z/ z | (5:4:4B[Aa][Gg] [Bb]2- [Bb]4- | %104
+ [Bb][Gg][Bb][Aa]- [Aa]2- [Aa]/ z/ z | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | %117
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | B8 | %136
+ z2 _A2 z2 z [df]- | [df] z z2 z4 | x8 | [F_A]8- |$ [FA]EFB .[_Ac]2 z2 | [_Ac].[GB][GB][^F=A] B4- | %142
+ B6 z2 | G8- | G z _A2 z2 z [df]- | [df] z z2 z4 |$ x8 | [F_A]8- | [FA]EFB .[_Ac]2 z2 | %149
+ [_Ac].[GB][GB][^F=A] B4- | B6 z2 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | %163
+ x8 | x8 | x8 | x8 | [B,EGB].[CEGc].[B,EGB].[CEGc] [B,EGB]2 [EG]2 | %168
+ .[B,DFB].[CDFc].[B,DFB][DF] .[B,DFB]2 z2 |$ z4 [DF]2 [DF]2 | z2 z [EG] z4 | z4 z2 [GB]2 | %172
+ z2 z [_Ac] z4 |$ [B,DFB].[DF].[B,DFB].[CDFc] [B,DFB]2 [CDFc]2 | z2 z .[EG] z4 | z2 z .[DF] z4 |$ %176
+ z .[EG].[EG].[EG] z4 | x8 | .[Dd]2 z [Gg] z4 | x8 | x8 |$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | %188
+ x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | %207
+ x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | %225
+ (3A[Gg][Ff] (3[=E=e][Ff].[Gg] [Aa]2 .[Ee][Gg]- |$ %226
+ [Gg]3/4-[Gg]/8[Aa]/8-[Aa]/4 z/4 z/ z .[=E=e] [Gg].[Aa] z2 | [Gg][=E=e] z/ .[Ee]3/2 z4 | x8 | x8 | %230
+ x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | %241
+ (3A[Gg][Ff] (3[=E=e][Ff].[Gg] [Aa]2 .[Ee][Gg]- | %242
+ [Gg]3/4-[Gg]/8[Aa]/8-[Aa]/4 z/4 z/ z .[=E=e] [Gg].[Aa] z2 | [Gg][=E=e] z/ .[Ee]3/2 z4 |$ x8 | x8 | %246
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | %253
+ .[A,CFAcfa].[F,A,CFAcfa].[F,A,CFAcfa].[F,A,CFAcfa] .[G,=B,DG=Bdg=b][G,B,DGBdg] z .[G,C=EGc=egc'] |] %254
+V:3
+ x8 | z z/ A/ z2 z z/ A/ z2 | x8 |$ z4 G2 z G | z2 A6 |$ z2 z z/ F/ z4 | %6
+ z z/ A/ z z/ A/- A/4 z/4 z/ z z2 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 |$ x4[K:treble] x4 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ %35
+ x8 | x8 | z4 [Dd]2 z2 | x8 |$ z4 [Dd]2 z2 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | x8 | %50
+ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | %69
+ x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %88
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | %107
+ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %126
+ x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ z G2 G- G/ z/ z z2 | %141
+ z4 G4- | G8 | x8 | x8 | x8 |$ x8 | x8 | z G2 G- G/ z/ z z2 | z4 G4- | G8 | x8 | x8 |$ x8 | x8 | %155
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |$ x8 | %174
+ x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | %193
+ x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | %212
+ x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ %231
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | %250
+ x8 | x8 | x8 | x8 |] %254

@@ -1,0 +1,94 @@
+X:1
+T:Radioactive 
+T:Imagine Dragons
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+L:1/4
+V:1
+ B,A,B,D- DA,B,E | B,A,B,F- FB,A,B, | B,A,B,D- DA,B,E | B,A,B,D- DB,A,B, |:$ B,A,B,D- DA,B,E | %5
+w: |||||
+ B,A,B,F- FB,A,B, | B,A,B,D- DA,B,A- | AB,A,B, DB,A,B, :| [F,B,]8- |$ %9
+w: ||||
+ [F,B,]4- [F,B,]/ z/ [F,B,] [F,B,][F,B,] | z2 z B, F2 FE- | E3 B, F2 FE- | E3 C C2 C(D | %13
+w: |I'm wa- king up|* To ash and dust|* I wipe my brow|
+ D2) CC CB, B,2 |$ z2 z B, F2 FE- | E3 A, A,A, A,2 | z4 z E,A,[^G,B,]- | [G,B,]8 | %18
+w: * and I sweat my rust|I'm brea- thing in|* the che- mi- cals|||
+ z2 z B, F2 FE- |$ E3 z F2 FE- | E3 C C2 CD- | D C2 C CB, B,2 | z4 F F2 E- | E2 A,A, A,2 A,A,- |$ %24
+w: I'm brea- king in|* sha- ping up|* then che- cking out|* on the pri- son bus|this is it|* the apo- ca- lypse *|
+ A,4- A,/ z/ E, CB,- | B,2 [^GB]2 [GB]2 [GB]2 | [FB]2 [Bb]2 [Bb]2 [Bb]2 | [Aa]2 [Aa]2 [Ff]4 | %28
+w: * * who ah oh|* I'm wa- king|up I feel it|in my bones|
+ [EA]2 [Aa]2 [Aa]2 [Aa]2 | [^G^g]2 [Gg]2 [Ee]4 |$ [Bf]e[Bf]e [Bf]2 B2 | z2 [Bf]e [Bf]2 B2 | %32
+w: enough to make my|sy- stems blow|wel come to the new age|to the new age|
+ [Bf]e[Bf]e [Bf]2 B2 | z2 BB B2 d2 | z [Bf]ed e2 B2 |$ z [Bf]ed e2 A2 | %36
+w: wel come to the new age|to * new age|who * oh ah oh|who * oh ah I'm|
+ z [Aa][Aa][Aa] [Aa]2 [^G^g]2 | z [^G^g][Gg][Gg] [Gg]2 [Ff]2 | z [Bf]ed e2 B2 | z [Bf]ed e2 A2 |$ %40
+w: ra- di- o- ac- tive|ra- di- o- ac- tive|who * oh ah oh|who * oh ah I'm|
+ z [Aa][Aa][Aa] [Aa]2 [^G^g]2 | z [^G^g][Gg][Gg] [Gg]2 [Ff]2 | z2 z B, F F2 E- | E4 F F2 E- | %44
+w: ra- di- o- ac- tive|ra- di- o- ac- tive|I raise my flags|* don my clothes|
+ E4 CCCC |$ D2 C2 C2 B,B,- | B,3 B, F2 FE- | E3 A, A,2 A,A, | z4 z E,CB,- | B, z6 z |$ %50
+w: * it's a re vo|lu- tion I su- ppose|* we're pain- ted red|* to fit right in|who ah oh||
+ z2 z B, F2 FE- | E3 z F2 FE- | E3 C C2 CD- | D C2 C CB, B,2 | z4 F F2 E- |$ E2 A,A, A,2 A,A,- | %56
+w: I'm brea- king in|* sha- ping up|* then che- cking out|* on the pri- son bus|this is it|* the a- po- ca- lypse|
+ A,4- A,/ z/ E, CB,- | B,2 [^GB]2 [GB]2 [GB]2 | [FB]2 [Bb]2 [Bb]2 [Bb]2 | [Aa]2 [Aa]2 [Ff]4 |$ %60
+w: * * who- ah- oh|* I'm wa- king|up I feel it|in my bones|
+ [EA]2 [Aa]2 [Aa]2 [Aa]2 | [^G^g]2 [Gg]2 [Ee]4 | [Bf]e[Bf]e [Bf]2 B2 | z2 [Bf]e [Bf]2 B2 | %64
+w: enough to make my|sy- stems blow|wel come to the new age|to the new age|
+ [Bf]e[Bf]e [Bf]2 B2 |$ z2 BB B2 d2 | z [Bf]ed e2 B2 | z [Bf]ed e2 A2 | %68
+w: wel come to the new age|to * new age|who * oh ah oh|who * oh ah I'm|
+ z [Aa][Aa][Aa] [Aa]2 [^G^g]2 | z [^G^g][Gg][Gg] [Gg]2 [Ff]2 | z [Bf]ed e2 B2 |$ z [Bf]ed e2 A2 | %72
+w: ra- di- o- ac- tive|ra- di- o- ac- tive|who * oh ah oh|who * oh ah I'm|
+ z [Aa][Aa][Aa] [Aa]2 [^G^g]2 | z [^G^g][Gg][Gg] [Gg]2 [Ff]2 | d4 d>e- e2 | c8 | c4 c>B- B2 |$ B8 | %78
+w: ra- di- o- ac- tive|ra- di- o- ac- tive|all sy- stems *|go|thesun has n't *|died|
+ [Bd]4 d>e- e2 | c8 | [Ac]4 c3/2 z/ B2 | B2 [^GB]2 [GB]2 [GB]2 | [FB]2 [Bb]2 [Bb]2 [Bb]2 |$ %83
+w: deep in my *|bones|straight from in-|side I'm wa- king|up I feel it|
+ [Aa]2 [Aa]2 [Ff]4 | [EA]2 [Aa]2 [Aa]2 [Aa]2 | [^G^g]2 [Gg]2 [Ee]4 | [Bf]e[Bf]e [Bf]2 B2 | %87
+w: in my bones|enough to make my|sy- stems blow|wel come to the new age|
+ z2 [Bf]e [Bf]2 B2 |$ [Bf]e[Bf]e [Bf]2 B2 | z2 BB B2 d2 | z [Bf]ed e2 B2 | z [Bf]ed e2 A2 | %92
+w: to the new age|wel come to the new age|to the new age|who * oh ah oh|who * oh ah I'm|
+ z [Aa][Aa][Aa] [Aa]2 [^G^g]2 |$ z [^G^g][Gg][Gg] [Gg]2 [Ff]2 | z [Bf]ed e2 B2 | z [Bf]ed e2 A2 | %96
+w: ra- di- o- ac- tive|ra- di- o- ac- tive|who * oh ah oh|who * oh ah I'm|
+ z [Aa][Aa][Aa] [Aa]2 [^G^g]2 | z [^G^g][Gg][Gg] [Gg]2 [Ff]2 |] %98
+w: ra- di- o- ac- tive|ra- di- o- ac- tive|
+V:2
+ B,,4 | D,4 | A,,4 | E,4 |:$ [B,,,F,,B,,]2 [B,,D,] B,,/F,,/ | [D,,A,,D,]2 [D,F,] D,/A,,/ | %6
+ [A,,,E,,A,,]2 [A,,C,] A,,/E,,/ | [E,,B,,E,]2 [E,^G,] E,/B,,/ :| [B,,,F,,B,,]4- |$ %9
+ [B,,,F,,B,,]2- [B,,,F,,B,,]/4 z/4 [B,,,F,,B,,]/ [B,,,F,,B,,]/[B,,,F,,B,,]/ | %10
+ [B,,,F,,B,,] [B,,,F,,B,,] [B,,D,]2 | [D,,A,,D,] [D,,A,,D,] [D,F,]2 | %12
+ [A,,,E,,A,,] [A,,,E,,A,,] [A,,C,]2 | [E,,B,,E,] [E,,B,,E,] [E,^G,]2 |$ %14
+ [B,,,F,,B,,] [B,,,F,,B,,] [B,,D,]2 | [D,,A,,D,] [D,,A,,D,] [D,F,]2 | [A,,,E,,A,,]4 | %17
+ [E,,B,,E,]2- [E,,B,,E,]/4 z/4 [E,,B,,E,]/ [E,,B,,E,]/[E,,B,,E,]/ | %18
+ [B,,,F,,B,,] [B,,,F,,B,,] [B,,D,] B,,/F,,/ |$ [D,,A,,D,] [D,,A,,D,] [D,F,] D,/A,,/ | %20
+ [A,,,E,,A,,] [A,,,E,,A,,] [A,,C,] A,,/E,,/ | [E,,B,,E,] [E,,B,,E,] [E,^G,] E,/B,,/ | %22
+ [B,,,F,,B,,] [B,,,F,,B,,] [B,,D,] B,,/F,,/ | [D,,A,,D,] [D,,A,,D,] [D,F,] D,/A,,/ |$ %24
+ [A,,,E,,A,,] [A,,,E,,A,,] [A,,C,] A,,/E,,/ | [E,,B,,E,]2 [E,^G,] [G,B,] | %26
+ [B,,,F,,B,,]2 [B,,B,] [B,D] | [D,,A,,D,]2 [D,F,] D,/A,,/ | [A,,,E,,A,,]2 [A,,A,] [A,C] | %29
+ [E,,B,,E,]2 [E,^G,] E,/B,,/ |$ [B,,,F,,B,,]3/2 D,/ F, B, | [D,,A,,D,]3/2 F,/ A, D | %32
+ [A,,,E,,A,,]3/2 C,/ E, A, | [E,,B,,E,]2 [E,^G,] [G,B,] | [B,,,F,,B,,]3/2 D,/ F, D, |$ %35
+ [D,,A,,D,]3/2 F,/ A, F, | [A,,,E,,A,,]2 [A,,C,] [C,E,] | [E,,B,,E,]2 [E,^G,] [G,B,] | %38
+ [B,,,F,,B,,]3/2 D,/ F, D, | [D,,A,,D,]3/2 F,/ A, F, |$ [A,,,E,,A,,]2 [A,,C,] [C,E,] | %41
+ [E,,B,,E,]2 [E,^G,] [G,B,] | [B,,,F,,B,,] [B,,,F,,B,,] [B,,D,]2 | [D,,A,,D,] [D,,A,,D,] [D,F,]2 | %44
+ [A,,,E,,A,,] [A,,,E,,A,,] [A,,C,]2 |$ [E,,B,,E,] [E,,B,,E,] [E,^G,]2 | %46
+ [B,,,F,,B,,] [B,,,F,,B,,] [B,,D,]2 | [D,,A,,D,] [D,,A,,D,] [D,F,]2 | [A,,,E,,A,,]4 | %49
+ [E,,B,,E,]2- [E,,B,,E,]/4 z/4 [E,,B,,E,]/ [E,,B,,E,]/[E,,B,,E,]/ |$ %50
+ [B,,,F,,B,,] [B,,,F,,B,,] [B,,D,] B,,/F,,/ | [D,,A,,D,] [D,,A,,D,] [D,F,] D,/A,,/ | %52
+ [A,,,E,,A,,] [A,,,E,,A,,] [A,,C,] A,,/E,,/ | [E,,B,,E,] [E,,B,,E,] [E,^G,] E,/B,,/ | %54
+ [B,,,F,,B,,] [B,,,F,,B,,] [B,,D,] B,,/F,,/ |$ [D,,A,,D,] [D,,A,,D,] [D,F,] D,/A,,/ | %56
+ [A,,,E,,A,,] [A,,,E,,A,,] [A,,C,] A,,/E,,/ | [E,,B,,E,]2 [E,^G,] [G,B,] | %58
+ [B,,,F,,B,,]2 [B,,B,] [B,D] | [D,,A,,D,]2 [D,F,] D,/A,,/ |$ [A,,,E,,A,,]2 [A,,A,] [A,C] | %61
+ [E,,B,,E,]2 [E,^G,] E,/B,,/ | [B,,,F,,B,,]3/2 D,/ F, B, | [D,,A,,D,]3/2 F,/ A, D | %64
+ [A,,,E,,A,,]3/2 C,/ E, A, |$ [E,,B,,E,]2 [E,^G,] [G,B,] | [B,,,F,,B,,]3/2 D,/ F, D, | %67
+ [D,,A,,D,]3/2 F,/ A, F, | [A,,,E,,A,,]2 [A,,C,] [C,E,] | [E,,B,,E,]2 [E,^G,] [G,B,] | %70
+ [B,,,F,,B,,]3/2 D,/ F, D, |$ [D,,A,,D,]3/2 F,/ A, F, | [A,,,E,,A,,]2 [A,,C,] [C,E,] | %73
+ [E,,B,,E,]2 [E,^G,] [G,B,] | B, D F2 | E F A F | A, C E2 |$ E F ^G E | B, D F2 | E F A F | %80
+ [A,CE]4 | [E,,B,,E,] [E,,B,,E,] [E,,B,,E,] [E,,B,,E,] | [B,,,F,,B,,]2 [B,,B,] [B,D] |$ %83
+ [D,,A,,D,]2 [D,F,] D,/A,,/ | [A,,,E,,A,,]2 [A,,A,] [A,C] | [E,,B,,E,]2 [E,^G,] E,/B,,/ | %86
+ [B,,,F,,B,,]3/2 D,/ F, B, | [D,,A,,D,]3/2 F,/ A, D |$ [A,,,E,,A,,]3/2 C,/ E, A, | %89
+ [E,,B,,E,]2 [E,^G,] [G,B,] | [B,,,F,,B,,]3/2 D,/ F, D, | [D,,A,,D,]3/2 F,/ A, F, | %92
+ [A,,,E,,A,,]2 [A,,C,] [C,E,] |$ [E,,B,,E,]2 [E,^G,] [G,B,] | [B,,,F,,B,,]3/2 D,/ F, D, | %95
+ [D,,A,,D,]3/2 F,/ A, F, | [A,,,E,,A,,]2 [A,,C,] [C,E,] | [E,,B,,E,]2 [E,^G,] [G,B,] |] %98

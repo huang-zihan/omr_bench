@@ -1,0 +1,11 @@
+X:1
+T:Irish Music Club, The
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble 
+V:1
+ cdeg D da[Q:1/8=180]"^D modal" .dB | A^FDE FEFG | A^GAB cBcA | de^fd cAG^F | DGG^F GABG |$ %5
+ A^FDE FEFG | A^GAB cBcA | de^fg abag | ^fdec d2 || A2 | de^fg abaf |$ de^fg abaf | d g2 ^f gagf | %13
+ dgg^f g2 fg | ag^fe defd | cAG^F GABc |$ de^fd cAG^F | Addc d4 |] %18

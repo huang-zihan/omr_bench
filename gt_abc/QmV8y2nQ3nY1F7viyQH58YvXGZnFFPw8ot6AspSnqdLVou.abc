@@ -1,0 +1,37 @@
+X:1
+T:Quartett für Klarinette, Viola, Violoncello und Kontrabass
+C:Joachim Ludwig Fleischhacker
+%%score [ 1 ( 2 3 ) 4 5 ]
+L:1/4
+Q:3/4=41
+M:6/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Violin" snm="Vln."
+L:1/8
+V:2 alto nm="Viola" snm="Vla."
+V:3 alto 
+V:4 bass nm="Violoncello" snm="Vc."
+V:5 bass transpose=-12 nm="Contrabass" snm="Cb."
+V:1
+!mp! .E z (B=AcB) z2 (G^F_AG) | z2 (E=EFG Ac D2) z2 | z2!p!!<(! (BA_cB) z2 (GF=cB) |$ %3
+ z2 (FE_d_c)!<)!!mf! B4 (=B=c ||[K:G] .d) z!<(! (FEBA) (EFD_A_Bc)!<)! |$ %5
+[M:9/4]!f! (B2 A2 G2) F2 ^G2 A2 B4 E2 |[M:6/4] A4!p!!<(! [CE]2- [CE]4 _B2 | %7
+!mf! G4 =F2 _E4!<)! D2 :| %8
+V:2
+!mp! .E,/ z/ (B, .B,) z (B, .B,) | z!<(! (B,!<)! .B,)!>(! z (A, .A,)!>)! | %2
+ z!p!!<(! (B, .A,) z A, ^F, |$ z _C A, z!<)!!mf! (E/F,/ E) ||[K:G] .D/ z/!<(! C2 B,3/2 C D,/!<)! |$ %5
+[M:9/4]!f! D B, ^C D E F/E/ E2 B,/D/ |[M:6/4] ^C B,/C/!p! A,-!<(! A, (G,/A,/_B,/[^G,=B,]/ | %7
+!mf! C) D _E _B,2-!<)! B, :| %8
+V:3
+ x6 | x6 | x6 |$ x6 ||[K:G] x6 |$[M:9/4] x9 |[M:6/4] x2 D- D3 | G,3- G,2 =F, :| %8
+V:4
+!mp! .G,/ z/ (G, .G,) z (E, .E,) | z!<(! (A,!<)! .A,)!>(! z (F, .F,)!>)! | %2
+ z!p!!<(! (F, .F,) z D, D, |$ z A, F, z!<)!!mf! (G,/E/ G,) || %4
+[K:G] .F,/ z/[K:tenor]!<(! A,/G,/ F,- F,/D,/ G, D!<)! |$ %5
+[M:9/4]!f! G =F [A,-E] A, ^C A, ^G, B,/A,/G,/F,/ |[M:6/4] E, D,/E,/C,/=F,/!p! C!<(! B,/C/D/_E/ | %7
+!mf! =F/_E/D/C/_B,/_A,/ G,2!<)! =F, :| %8
+V:5
+!mp! E,3 B,3 | F3 B,3 |!p!!<(! D3 B,3 |$ E3!<)!!mf! E,2[K:tenor] ^C || %4
+[K:G]!<(! D3 G,3/2 D/ F!<)! |$[M:9/4]!f! =F D _B, A,2 ^C =B,2 ^G, |[M:6/4] A,2!p! =F,2 =F/E/ F | %7
+!mf! C2[K:bass] _A, _B,2 _B,, :| %8

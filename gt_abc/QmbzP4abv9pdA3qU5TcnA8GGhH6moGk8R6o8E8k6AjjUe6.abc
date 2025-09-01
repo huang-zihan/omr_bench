@@ -1,0 +1,12 @@
+X:1
+T:Peggy's
+L:1/8
+M:4/4
+I:linebreak $
+K:D
+V:1 treble 
+V:1
+ BA |: FBBc dcdf | ecBc afec | dBBA BcdB | ecBc afec | FBBc dcdf |$ ecBc aefa | bafg aefa |1 %8
+ fecA B2 BA :|2 fecA B2 Bc || d2 dc dfaf |$ efec Acec | d2 dc dfaf | ecAc B3 c | d2 dc dfaf | %15
+ efec Acde | f2 fg fedf |$ ecBA B3 c | d2 dc dfaf | efec ABcA | dcBc defd | ecBA B3 c | %22
+ dfab afeb |$ afec ABce | fgfa efec | afec B2 BA || %26

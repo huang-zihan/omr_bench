@@ -1,0 +1,13 @@
+X:1
+T:Ragtime Annie
+L:1/8
+M:4/4
+I:linebreak $
+K:D
+V:1 treble 
+V:1
+ FE | DFBF AFBF | DFBF A2 FE | DEFG ABAF | A2 c2 c2 CB | ABcA B2 cB |$ ABcA BAcB | ABcd egfe | %8
+ d2 dc d2 :| fg | a2 ab af d2 | A6 fg | a2 ab ag f2 |$ g6 ef | gfef gfef | gagf e2 ef | gagf edcB | %17
+ A6 fg | a2 ab afdB |$ A2 AB A2 AA | d4 =c4 | B6 A2 | B2 b2 b2 ag | f2 a2 a2 gf | A2 ef gfec | %25
+ d2 =c2 B2 ||[K:G] A2 | G6 AB |$ c6 cB | A2 f2 f2 ef | gfga gedc | D2 B2 B2 AB | E2 c2 c2 cB | %33
+ A2 f2 f2 ef | gfga g2 :| %35

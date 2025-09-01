@@ -1,0 +1,69 @@
+X:1
+T:14. Prelude - duet
+T:Wayward sisters
+%%score [ 1 2 3 ] [ 4 5 ] 6 { 7 8 }
+L:1/8
+Q:1/4=130
+M:2/2
+I:linebreak $
+K:Ab
+V:1 treble nm="Vl 1"
+V:2 treble nm="Vl 2"
+V:3 alto nm="Bratsj"
+V:4 treble nm="Sorceress"
+V:5 treble nm="1. Witch"
+V:6 bass nm="Vcl"
+V:7 treble nm="Cembalo, Harpsichord"
+V:8 bass nm="Cembalo,  "
+V:1
+ z4 c3 c | f4 g3 a | =e4 g3 g | g4 a4 | b3 b babg |$ a4 =d3 d | =d3 d e3 f | g4 f3 f | f4 e3 e | %9
+ e3 =d d3 c | c4 e3 e |$ =d4 _d3 d | c4 =A3 A | B3 c Tc3 B/c/ | d4 f3 G | A3 G TG3 F | F4 F3 G |$ %17
+ A7 A | A7 A | B7 B | A7 A | =A7 A |$ B7 B | B4 A3 B | G7 G | G7 G | G7 G |$ G7 G | F4 A4 | G4 F4 | %30
+ F4 T=E3 F |$ F7 F | F7 F | F8 |$ F7 F | F8 |] %36
+V:2
+ z4 A3 A | A4 B3 c | c4 =e3 e | =e4 f4 | g4 c3 c |$ c4 c3 c | =B3 B c3 =d | e4 e3 e | =d4 d2 c2 | %9
+ c3 c T=B3 c | c4 c3 c |$ c2 B2 B3 B | B2 A2 F3 F | F2 G2 =A3 G/A/ | B4 F3 F | F4 =E3 F | %16
+ F4 C3 C |$ F7 F | F7 F | G7 G | F7 F | F7 F |$ F7 F | =E4 F4 | C7 =E | =E7 E | =E7 E |$ =E7 E | %28
+ F4 F4 | FE D2 C4 | C6- CC |$ C7 C | C7 C | C8 |$ =D7 D | =D8 |] %36
+V:3
+ z4 C3 C | C4 F,3 F, | G,4 c3 c | c4 c4 | c2 BA G3 F |$ F4 =A3 A | G4 G3 G | G C3 C3 C | %8
+ =D2 G2 G3 G | A4 G3 G | G4 F3 F |$ F3 F G3 G | G2 F2 C3 C | ^C4 E4 | F2 F,2 C3 C | C4 B,3 B, | %16
+ C4 A,3 B, |$ C7 C | C7 C | C7 C | C7 C | C7 C |$ B,7 C | D7 D | G,7 C | C7 C | C7 C |$ C7 C | %28
+ C4 C4 | B,4 F,4 | C4 B,4 |$ =A,7 A, | =A,7 A, | =A,8 |$ B,7 B, | B,8 |] %36
+V:4
+ z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 | z4 z2 F =E |$ %17
+w: ||||||||||||||||Way- ward|
+ F F3 z2 A F | c6 c2 | =E3 E E E E E | F4 z F F2 | F E2 E TE3 =D |$ =D2 D4 D D | G3 A G2 PFE/ F/ | %24
+w: sis- ters, you that|fright The|lone- ly tra- vel- ler by|night, Who like|dis- * mal ra- vens|cry- ing Beat the|win- dows of _ _ the|
+ =E2 E4 G2 | c3 c c2 c =e | c6 c2 |$ cB B B B2 A G | A2 A4 F2 | d4 f3 G | A4 TG3 F |$ F3 F c3 c | %32
+w: dy- ing, Ap-|pear! Ap- pear at my|call, and|share _ in the fame Of a|mis- chief shall|make all _|Car- * thage|flame. Ap- pear! Ap-|
+ c3 C F3 F | F8 |$ z8 | z8 |] %36
+w: pear! Ap- pear! Ap-|pear!|||
+V:5
+ z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | %19
+w: |||||||||||||||||||
+ z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 |$ z8 | z8 | z8 |$ B4 z2 B B | %35
+w: |||||||||||||||Say, Bel- dame,|
+ B2 f =d c B3 |] %36
+w: say, what's thy will? _|
+V:6
+ F,,4 F,3 E, | D,8 | C,7 C | B,4 A,4 | =E,4 E,4 |$ F,4 ^F,4 | G,4 =F,4 | E,4 =A,,4 | =B,,4 C,4 | %9
+ F,,4 G,,4 | C,4 =A,,4 |$ B,,4 =E,,4 | F,,3 F, E,4 | D,4 C,4 | B,,4 =A,,4 | C,8 | F,,8- |$ F,,8- | %18
+ F,,8- | F,,8- | F,,8- | F,,8 |$ B,,8- | B,,8 | C,8- | C,8- | C,8- |$ C,8 | F,,8 | B,,4 =A,,4 | %30
+ C,8 |$ F,,8- | F,,8- | F,,3 C, F,E,=D,C, |$ B,,8- | B,,8 |] %36
+V:7
+ !arpeggio![CFA]4 !arpeggio![CFAc]4 | !arpeggio![FAc]4 !arpeggio![FGB]4 | %2
+ !arpeggio![=EGc]4 !arpeggio![Gc=e]4 | !arpeggio![c=eg]4 !arpeggio![Fcf]4 | %4
+ !arpeggio![Bcg]4 !arpeggio![CGBc]4 |$ !arpeggio![CFAc]4 !arpeggio![=D=Ac]4 | %6
+ !arpeggio![=DG=B]4 !arpeggio![EGc]3 [DGB] | !arpeggio![CGc]4 !arpeggio![EFc]4 | %8
+ !arpeggio![=DG=d]4 !arpeggio![EGc]4 | !arpeggio![EAc]4 !arpeggio![=DG=B]4 | %10
+ !arpeggio![CGc]4 !arpeggio![CF]4 |$ !arpeggio![=DF]4 !arpeggio![B,_DG]4 | %12
+ !arpeggio![B,G]2 !arpeggio![A,F]2 !arpeggio![=A,C]4 | !arpeggio![B,F]4 !arpeggio![CE=A]4 | %14
+ !arpeggio![DFB]4 !arpeggio![CFc]4 | !arpeggio![CF_A]4 !arpeggio![B,=EG]4 | [A,CF]8 |$ z8 | z8 | %19
+ z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 |$ z8 | z2 z F,/C/ F4 | %33
+ z4 z/ F,/G,/=A,/ B,/C/=D/E/ |$ =DB,/D/FD/F/ BF/B/ =d2 | z B/=d/ f6 |] %36
+V:8
+ F,,4 F,3 E, | D,8 | C,7 C | B,4 A,4 | =E,4 E,4 |$ F,4 ^F,4 | G,4 =F,4 | E,4 =A,,4 | =B,,4 C,4 | %9
+ F,,4 G,,4 | C,4 =A,,4 |$ B,,4 =E,,4 | F,,3 F, E,4 | ^C,4 =C,4 | B,,4 =A,,4 | C,8 | F,,8 |$ z8 | %18
+ z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 |$ F,,8- | F,,8- | %33
+ F,,3 C, F,E,=D,C, |$ B,,8- | B,,8 |] %36

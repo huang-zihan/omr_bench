@@ -1,0 +1,32 @@
+X:1
+T:Sol
+T:AP Theory Chorale
+T:Ty Minton
+%%score [ 1 2 3 4 ]
+L:1/4
+Q:1/4=72
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Soprano" snm="S"
+L:1/8
+V:2 treble nm="Alto" snm="A"
+V:3 treble-8 nm="Tenor" snm="T"
+V:4 bass nm="Bass" snm="B"
+V:1
+!f!"^Adagio" c2 d2 e2 g2 | a2 gf g4 | a2 gf g2 c2 | f2 ef g4 | c=Bed cgfe | =BcdG fe/d/ e2 |$ z8 | %7
+ gf/g/ a/g/f/e/ .d/4.e/4.d/4.e/4.d/=B/ c2 | gefg a3 g/f/ | d=Bcd e3 f/e/ |$ gagf efed | %11
+[M:6/4][Q:1/4=144]"^Double Time" e2 d2 e8 | e2 f2 d8 | d2 e2 c8 | c2 d2 B8 | %15
+ c2 b2[Q:1/4=108]"^Grave" !fermata!g8 |] %16
+V:2
+!mp! G F B G | e c/=B/ [Gc]2 | d =B c G | G/A/G/F/ [Gd]2 | c =B c G | A F G c |$ %6
+ c/4G/4=B/4c/4 .d/.G/ d/4B/4f/4d/4 .e/.c/ | z4 | c G F3/2 E/ | G F E c |$ d e/d/ c/=B/A/G/ | %11
+[M:6/4] c B G4 | B A G4 | G4 G B | c4 d2 | e4- !fermata!e2 |] %16
+V:3
+!mp! e =B c G | c A d e | f d e c | =B d B2 | G D E C | z4 |$ e .=B/.B/ d .e | .c .d .c/.d/ e | %8
+ e d A3/2 c/ | d/c/ =B c G |$ G G g/d/c/=B/ |[M:6/4] c4 e d | c2 B2 e f | g2 f2 e d | c2 B2 G2 | %15
+ [cd]4- !fermata![cd]2 |] %16
+V:4
+!mf! C, G,, E, D, | A, F, C,2 | z4 | z2 F,2 | G,, D, E, C, | =B,, D, G,, C, |$ C .G,/.G,/ =B, .C | %7
+ .E, .F, .[G,,F,G,]/.[G,,F,G,]/ C, | z4 | z4 |$ G,, G,, G,/A,/B,/=B,/ |[M:6/4] C,4 C,2 | %12
+ B,,4 B,,2 | A,,4 A,,2 | B,,4 G,,2 | C,4- !fermata!C,2 |] %16

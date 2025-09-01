@@ -1,0 +1,44 @@
+X:1
+T:Holy, Holy, Holy
+C:John Bacchus Dykes, 1861
+Z:Public Domain
+Z:Courtesy of the Cyber Hymnal™
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=113
+M:4/4
+I:linebreak $
+K:D
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+L:1/8
+V:1
+ [A,D] [A,D] [DF] [DF] | A2 A2 | B2 [DB] [EB] | [FA]2 [DF]2 | A3/2 z/ A/ [FA] [EA] |$ %5
+w: 1.~Ho- ly, ho- ly,|ho- ly!|Lord God Al-|might- y!|Ear- ly in the|
+w: 2.~Ho- ly, ho- ly,|ho- ly!|All~the saints a-|dore Thee,|Cast- ing down their|
+w: 3.~Ho- ly, ho- ly,|ho- ly!|though~the dark- ness|hide Thee,|Though the eye of|
+w: 4.~Ho- ly, ho- ly,|ho- ly!|Lord God Al-|might- y!|All Thy works shall|
+ d2 [Ec] [FA] | E [CA] [DB]3/2 [CA]/ | [CA]4 | [A,D] [A,D] [DF] [DF] | A2 A2 |$ %10
+w: * morn- ing|our song shall rise|to|Thee; Ho- ly, ho-|ly, ho-|
+w: * golden crowns|a- round the glass-|y|sea; Cher- u- bim|and sera-|
+w: * sinful man|Thy gl- ory may|not|see; On- ly Thou|art ho-|
+w: * praise~Thy name,|in earth, and sky,|and|sea; Ho- ly, ho-|ly, ho-|
+ B3/2 [CB]/ [DB] [EB] | [FA]2 [DA]2 | [Dd]2 [DA] [DA] | [DB]2 F2 | [B,G] [B,E] [CE]3/2 D/ | D4 |] %16
+w: ly, mer- ci- ful|and might-|y! God in|three Per-|sons, bless- èd Trin-|i-|
+w: phim fall- ing down|be- fore|Thee, Who was,|and is,|and ev- er- more|shall|
+w: ly; there is none|be- side|Thee, Per- fect|in power,|in love, and pur-|i-|
+w: ly; mer- ci- ful|and might-|y! God in|three Per-|sons, bless- èd Trin-|i-|
+V:2
+ x4 | (C E) (D C) | (B, C) x2 | x4 | E E x5/2 |$ (D E) x2 | E x3 | x4 | x4 | (C E) (D C) |$ %10
+ (B, C/) x5/2 | x4 | x4 | x2 (D C) | x7/2 D/ | D4 |] %16
+V:3
+ [D,F,] [D,F,] [B,,D,] [B,,D,] | (E, G,) (F, A,) | (G, A,) [G,B,] [G,C] | (D A,) [D,A,]2 | %4
+ [C,A,] [C,A,] [D,A,] [C,A,] x/ |$ (F, ^G,) [C,A,] [D,A,] | [E,C] [E,A,] [E,^G,]3/2 [A,,A,]/ | %7
+ (A,2 G,2) | [D,F,] [D,F,] [B,,D,] [B,,D,] | (E, G,) (F, A,) |$ (G, z/) [G,B,] [G,C] x/ | %11
+ (D A,) [D,F,]2 | (F, G,) [F,,A,] [F,,=C] | [G,,B,]2 [D,A,]2 | [G,,G,] [G,,G,] [A,,G,]3/2 [D,F,]/ | %15
+ [D,F,]4 |] %16
+V:4
+ x8 | A,,4 D,4 | G,,4 x4 | D,4 x4 | x9 |$ B,,4 x4 | x8 | A,,8 | x8 | A,,4 D,4 |$ %10
+ G,,3 (A,2 G,,) x2 | D,4 x4 | B,,4 x4 | x8 | x8 | x8 |] %16

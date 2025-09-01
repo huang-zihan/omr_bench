@@ -1,0 +1,54 @@
+X:1
+T:O Lord, that art my righteous Judge
+C:Joseph Stephenson
+Z:Text: Nahum Tate /
+Z:Nicholas Brady, on Ps. 4
+%%score [ 1 2 3 4 ]
+L:1/4
+M:3/2
+I:linebreak $
+K:C
+V:1 treble nm="SOPRANO" snm="S."
+V:2 treble nm="ALTO" snm="A."
+V:3 treble-8 transpose=-12 nm="TENOR" snm="T."
+V:4 bass nm="BASS" snm="B."
+V:1
+ A2 | (A2 B2) c2 | B4 c2 | A2 ^G4 | A4 ^G2 | (A3 B) c2 | (B2 c2) d2 | e4 e2 |$ (c2 B2) A2 | %9
+w: So|shall _ my|heart o’er-|flow with|joy, More|last- * ing,|and _ more|true Than|theirs, _ who|
+w: O|Lord, _ that|art my|right- eous|Judge, To|my _ com-|plaint _ give|ear: Thou|still _ re-|
+w: While|world- * ly|minds im-|pa- tient|grow, More|pros- * p’rous|times _ to|see, Still|let _ the|
+ ^G4 c2 | (e2 d2) c2 | B4 c2 | B4 A2 | A4 ^G2 | A4 |] %15
+w: stores of|corn _ and|wine Suc-|cess- ive-|ly re-|new.|
+w: deem’st me|from _ dis-|tress; Have|mer- cy,|Lord, and|hear.|
+w: glo- ries|of _ thy|face Shine|bright- ly,|Lord, on|me.|
+V:2
+ E2 | E4 E2 | E4 G2 | F2 E4 | E4 E2 | E4 G2 | G4 G2 | G4 E2 |$ A4 (G F) | E4 E2 | (E2 F G) A2 | %11
+w: So|shall my|heart o’er-|flow with|joy, More|last- ing,|and more|true Than|theirs, who _|stores of|corn _ _ and|
+w: O|Lord, that|art my|right- eous|Judge, To|my com-|plaint give|ear: Thou|still re- *|deem’st me|from _ _ dis-|
+w: While|world- ly|minds im-|pa- tient|grow, More|pros- p’rous|times to|see, Still|let the _|glo- ries|of _ _ thy|
+ ^G4 =G2 | G4 E2 | F2 E4 | E4 |] %15
+w: wine Suc-|cess- ive-|ly re-|new.|
+w: tress; Have|mer- cy,|Lord, and|hear.|
+w: face Shine|bright- ly,|Lord, on|me.|
+V:3
+ A2 | (c2 B2) A2 | ^G4 e2 | d2 (c2 B2) | A4 B2 | (c3 d) e2 | (d2 c2) B2 | c4 c2 |$ (e2 d2) c2 | %9
+w: So|shall _ my|heart o’er-|flow with _|joy, More|last- * ing,|and _ more|true Than|theirs, _ who|
+w: O|Lord, _ that|art my|right- eous _|Judge, To|my _ com-|plaint _ give|ear: Thou|still _ re-|
+w: While|world- * ly|minds im-|pa- tient _|grow, More|pros- * p’rous|times _ to|see, Still|let _ the|
+ B4 c2 | (A2 B2) (c d) | e4 e2 | (g f e d) c2 | d2 TB4 | A4 |] %15
+w: stores of|corn _ and _|wine Suc-|cess- * * * ive-|ly re-|new.|
+w: deem’st me|from _ dis- *|tress; Have|mer- * * * cy,|Lord, and|hear.|
+w: glo- ries|of _ thy _|face Shine|bright- * * * ly,|Lord, on|me.|
+V:4
+ A,,2 | (A,2 ^G,2) A,2 | E,4 C,2 | D,2 E,4 | A,,4 E,2 | A,4 E,2 | G,4 G,,2 | C,4 C,2 |$ %8
+w: So|shall _ my|heart o’er-|flow with|joy, More|last- ing,|and more|true Than|
+w: O|Lord, _ that|art my|right- eous|Judge, To|my com-|plaint give|ear: Thou|
+w: While|world- * ly|minds im-|pa- tient|grow, More|pros- p’rous|times to|see, Still|
+"^Emendations:The order of staves in the source is the same as in this edition: while no indication of which part is the treble and whichis the tenor in this piece, the first piece in the book starts with a 'Treble solo', which is printed on the first stave of thefour-stave system, all other staves having rests printed.The counter minim G on beat 3 of bar 11 has no accidental in the source: a natural sign has been added editorially.The counter part is notated in the alto clef in the source. The only indications of the text in the source are the title'Ps. 4th' and the opening words of the text, 'O Lord yt art &c': this verse and a selection of three subsequent verses fromthe text have been underlaid editorially." (A,,2 B,,2) (C, D,) | %9
+w: theirs, _ who _|
+w: still _ re- *|
+w: let _ the _|
+ E,4 A,2 | (C2 B,2) A,2 | E,4 C,2 | G,4 A,2 | D,2 E,4 | A,,4 |] %15
+w: stores of|corn _ and|wine Suc-|cess- ive-|ly re-|new.|
+w: deem’st me|from _ dis-|tress; Have|mer- cy,|Lord, and|hear.|
+w: glo- ries|of _ thy|face Shine|bright- ly,|Lord, on|me.|

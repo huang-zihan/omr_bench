@@ -1,0 +1,15 @@
+X:1
+T:Minuet No.1
+T:Js Bach
+T:H&amp;C
+Z:H&C
+L:1/8
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="Violin" snm="Vln."
+V:1
+ d2 d2 d2 | B2 AB G2 | A2 d2 c2 | B4 A2 | d2 cB AG | e2 cB AG | F2 ED F2 | G6- | G2 z4 :| z6 |: %10
+ B2 e4 |$ ^c2 Bc A2 | d2 e2 f2 | ed ^cB A2 | a2 gf ed | b2 gf ed | ^c2 A2 c2 | d6- | d2 z4 | %19
+ d2 cB A2 | B2 AB G2 |$ c4 cB | A4 d2 | cB AG e2 | cB AG F2 | ED F2 G2- | G6 | z6 :| z6 | z6 | z6 | %31
+ z6 |] %32

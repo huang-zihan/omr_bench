@@ -1,0 +1,29 @@
+X:1
+T:Weatherall's Quick Step. RH.018
+L:1/8
+Q:3/8=110
+M:6/8
+I:linebreak $
+K:D
+V:1 treble 
+V:1
+ A | d2 d f2 d | fg/a/f d2 A | B2 B g2 f | efd cBA | d2 d f2 d | fg/a/f d2 A | Bgf edc | d3- d2 ::$ %9
+ A | B2 G GBd | A2 F FAd | Bcd efg | fed cBA | B2 G GBd | A2 F FAd | Bgf edc |$ d3- d2 :| %18
+[M:6/8][Q:3/8=120] b | a^ga aga | d'2 d d2 f | efg ABc | dfa a2 a | a^ga aga | d'2 d def |$ %25
+ efg ABc | d2 f d2 ::$ d' | c'ba a2 e | fga d2 f | efg ABc | dfa a2 d' | c'ba a2 g | fga def | %34
+ efg ABc |$ dfa d2 :|[M:2/4][Q:1/4=180] d2 fa | gfec | d2 fa | g2 B2 | d2 fa | gfed | B2 ed | %43
+ c2 A2 ::$ dcBA | GABG | A2 gf | g2 B2 | dcBA | GABG | A2 ed | c2 A2 :| %52
+ x4[Q:1/2=60] d'2 a>a f>f a>a |$ d'2 d>d d2 e2 | fe fg ba gf | e2 e>e ef ga |$ %56
+ b2 b>b b/c'/d'/c'/ e'/d'/c'/b/ | a2 a>a a2 g>f | g2 g>g g/a/b/a/ c'/b/a/g/ | f2 f>f f2 e2 |$ %60
+ f>e d>e f>e f>g | a>f g>a b>a b>c' | d'>d' a>a f>f d>d | a2 a>a a2 z2 ::$ a2 f>f a2 f>f | %65
+ ag fg ba gf | g2 e>e g2 e>e | gf ef ag fe |$ dd/d/ dd ff/f/ ff | aa/a/ aa d'2 z (3a/b/c'/ | %70
+ .d'.c' .b.a .g.f .e.d | a2 a>a a2 z2 |$ a3 g fe fd | d'3 c' ba bc' | b>b a>a f>f a>a | %75
+ d'2 d'>d' d'2 z2 :|[K:Emin][M:4/4][Q:1/2=80] A>B | c3 c (B>A B)d |$ (e>d c)B A2 (EF) | %79
+ G2 (g>e) dB (A>B) | (G2 E2) E2 (AB) |$ c2 c2 (BA) (Bd) | (ed) (cB) A2 (EF) | G2 (ge) dB (AB) | %84
+ G2 EF E2 |$ g | (de) (ga) b2 (ag) | (a>g f)e e3 B | (e>f g)a (b>g)(a>b) | (g>e) (f>g) e2 ga |$ %90
+ (b>a) (gb) (a>g) (e>a) | (g>e) (dB) g3 e | (dB) (AG) (Ac) (BA) | G2 E2 E2 |] %94
+[K:D][M:6/8][Q:3/8=120] A | d2 d d2 f | d2 d d2 f |$ ecA Aaf | ecA ABc |$ d2 d d2 f | dcd ecA | %101
+ Bcd ecA | d3- d2 ::$ f/g/ | a2 f a2 f | d2 d dfa | b2 g b2 g | e2 e efg |$ a2 f a2 f | d2 d ecA | %110
+ Bcd ecA | d3- d2 f/g/ |$ agf agf | ded dfa | bag bag | efe efg |$ agf agf | def ecA | Bcd ecA | %119
+ d3- d2 |][M:6/8][Q:3/8=120] A | d>ef A2 f | g2 f e2 d | d>ef A2 A | (B3 d2) :|$ z | d2 f a2 f | %127
+ b2 g a2 f | d2 f a2 g | (f3 a2) d |$ b2 g e>fg | a2 f d>ef | d>ef A2 A | (B3 d2) |] %134

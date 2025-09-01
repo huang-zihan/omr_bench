@@ -1,0 +1,61 @@
+X:1
+T:Oh, What Wilt Thou Do?
+C:Harry C. Jones
+Z:Public Domain
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+M:4/4
+I:linebreak $
+K:Db
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+L:1/8
+V:1
+ A | [Fd]2 [Gc] [GB] | [FA]2 [=EB] [Ed] | [FA]2 [EG]3/2 [CA]/ |$ [DF]3 [FA] | [Fd]2 [Ec] [Fd] | %6
+w: 1.~Oh,|wilt thou do|when the night|com- eth on,|When day-|light is fad-|
+w: 2.~Oh,|wilt thou do|when the tide|ris- eth high,|When life|is de- part-|
+w: 3.~Oh,|wilt thou do|in the great|judg- ment day,|When Heav-|en and earth|
+w: 4.~Oh,|to the ref-|uge, while still|there is time,|While God|of- fers par-|
+ [EA]2 [DF] [DF] | [CE]2 [D=G]3/2 [DG]/ |$ [CA]3 [EG] | [DF]2 [D=E] [DF] | [FA]2 [DF] [FA] | %11
+w: ing and hope|near- ly gone;|When fears|shall op- press|thee, and dark|
+w: ing and death|draw- eth nigh;|The vain|things of earth|have no pow’r|
+w: shall have all|passed a- way;|When thy|doom is sealed|and the death|
+w: don and heal-|ing di- vine;|There, safe|in that shel-|ter, sweet peace|
+ [Fd]2 [Ge]3/2 [Gc]/ |$ [Fd]3 [Fd] | [Gd]2 [GB] [Gd] | [Fd]2 D [EG] | [DF]2 [CF]3/2 [CE]/ | %16
+w: bil- lows roll,|Oh, tell|me, what then|wilt thou do|thy soul? What|
+w: to con- sole;|Oh, tell|me, what then|wilt thou do|thy soul? *|
+w: knell shall toll,|Oh, tell|me, what then|wilt thou do|thy soul? *|
+w: shall con- trol;|For then|ev- er- more|’twill be well|thy soul. Haste|
+ D3 z ||$"^Refrain" [FA]2 [GB]3/2 [FA]/ | [Fd]3 z | [Ge]2 [Gc]3/2 [GA]/ | [Fd]3 [Fd] | %21
+w: wilt|do? What wilt|thou|do? Oh, tell|me, what|
+w: |||||
+w: |||||
+w: while|time, haste while|there’s|time, For then|ev- er-|
+ [Gd]2 [GB] [Gd] |$ [Fd]2 [FA] [Fd] | [Ge]2 [Fd]3/2 [Ec]/ | [Fd]4 |] %25
+w: then wilt thou|do with thy|soul? * *||
+w: ||||
+w: ||||
+w: more ’twill be|well with thy|soul. * *||
+V:2
+ A | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x2 D x | x4 | D3 x ||$ %17
+w: what||||||||||||||with||thou|
+w: what||||||||||||||with|||
+w: what||||||||||||||with|||
+w: fly||||||||||||||with||there’s|
+ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 |] %25
+w: ||||||||
+w: ||||||||
+w: ||||||||
+w: ||||||||
+V:3
+ A, | [D,A,]2 [D,B,] [D,C] | [D,D]2 [D,=G,] [D,G,] | [D,A,]2 [A,,A,C]3/2 [A,,A,]/ |$ %4
+ [D,A,]3 [D,A,] | [B,,B,]2 [B,,F,] [B,,F,] | [C,A,]2 [D,A,] [D,A,] | [E,A,]2 [E,B,]3/2 [E,B,]/ |$ %8
+ [A,,A,]3 [A,,A,] | [D,A,]2 [D,=G,] [D,A,] | [D,D]2 [D,A,] [D,D] | B,2 [A,C]3/2 A,/ |$ %12
+ [D,A,]3 [D,_C] | [G,B,]2 [G,D] [G,B,] | [D,A,]2 [D,F,] [G,,B,] | [A,,A,]2 [A,,A,]3/2 [A,,G,]/ | %16
+ [D,F,]3 z ||$ [D,D]2 [D,D]3/2 [D,D]/ | [D,D]3 z | [A,C]2 [A,E]3/2 [A,C]/ | [D,D]3 [D,A,] | %21
+ [G,B,]2 [G,D] [G,B,] |$ [D,A,]2 [F,A,] [D,A,] | [A,,A,C]2 [A,D]3/2 [A,E]/ | [D,D]4 |] %25
+V:4
+ A,2 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | B,4 A, x3 |$ x8 | x8 | x8 | x8 | x8 ||$ %17
+ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 |] %25

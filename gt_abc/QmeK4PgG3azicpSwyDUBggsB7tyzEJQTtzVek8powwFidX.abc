@@ -1,0 +1,11 @@
+X:1
+T:Seymour's Fancy
+L:1/8
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:G
+V:1 treble 
+V:1
+"^Allegro" G2 BG Bd d2 | c2 ec eg g2 | g2 BG Bddg | edcB A2 G2 :| g2 fg afed | edef gdBG |$ %6
+ g2 fg afed | edef g2 z d/e/4f/4 | gagf edef | gfge dB G2 | cBcd efge | dcBA G2 G2 || %12

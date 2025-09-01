@@ -1,0 +1,13 @@
+X:1
+T:Argyll
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble 
+V:1
+"^Part 1" E3 D EGAc | cAAc AGED | E2 ED EGAc | cAAc DD D2 | E2 ED EGAc | cAAc AGED |$ E2 ED EGAc | %7
+ cAAc DD D2 ||"^Part 2" G2 GE CCCE | G2 GE FEDE | G3 E CCCE | A2 GE DEGD |$ G3 E CCCE | %13
+ G2 GE FEDE | G2 GE CCCE | A2 GE DEGD ||"^Part 1 var" E2 ED EGAc | cAAc AGED |$ E2 ED EGAc | %19
+ cAAc DD D2 | E3 D .E2 c2- | cAAc AGED | E2 ED EGAc | cAAc DDDE ||$"^Part 2 var" G2 GE CCCE | %25
+ G3 E FEDE | G3 E CCCE | A2 GE DEGD | G2 GE CCCE | GCGE FEDE |$ G3 E CCCE | A2 GE .D2 z2 |] %32

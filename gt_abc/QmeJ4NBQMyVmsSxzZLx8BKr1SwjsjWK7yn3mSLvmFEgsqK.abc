@@ -1,0 +1,48 @@
+X:1
+T:Have Yourself a Merry Little Christmas
+T:Alto Saxophone
+T:Kenny G
+%%score 1 2
+L:1/16
+Q:1/4=65
+M:4/4
+I:linebreak $
+K:none
+V:1 treble transpose=-14 nm="Tenor Saxophone" snm="T. Sax."
+V:2 treble transpose=-9 nm="Saxophone Alto" snm="Sax. A."
+V:1
+[K:G] z8 z4 z2 G B | d6 g2 d2 c4 B A | G4 A4 z4 z2 G B | d6 g2 d8- | d4 z4 z4 z2 B d | %5
+ g6{/a} b2 a2 g4 f e |$ d4 c3 (3:2:4d c B3 B- B- B4- | B8 z4 z c'- c' b | %8
+ g3{/e} d B/ d/ e/ d/- d4 z4 G B | d6 g2{/e} d2 c4 B A | G4 A4 z4 z2 G B |$ d6 a g Pd8- | %12
+ d4 z4 z4 z2 B d | g6{/a} b2 a2 g4 f e | _e6 =e f g8- | g4 z b3 a/ b/ a/ e/ g3 e/ d/4 B/4 e2 |$ %16
+ g8 z4 z2 b b |{/a} b6{/b} a g f2 g/ a3/2{/g} a4- | a6 g f e2 f/ g3/2{/f} g4- | %19
+ g4 z g Pf e f2- f4 e/ d/ B/ d/ |$ e/ d8 z3/2 z4 g g |{/f} g6{/g} f e d2 e/ f3/2{/e} f4- | %22
+ f4 z (3d2 e2 f2 g a{/g} a- a4- | a b z2 z A3/2 B/ A{/d} e{/d} e d6 |$ z c G{/A} B4 A G4 z2 G B | %25
+ d6 g2{/e} d2 c4 B A | G4 A4 z4 z2 G B | d6 a2 g e/ d/ e/ d3/2- d4- | d4 z4 z4 z2 B d |$ %29
+ g6- g a/ b/ c'6 Pa g | f3 g3 a g b2{/a} b6- | b8{/ab} d' b4- b{/^a} b/ =a/ g/ e/ | %32
+ g4 z2 g a b6 c2 |${/d} (3:2:4e6 g4 a g b2 a2 g2 f2 | e4{/e} f3 d{/g} a3/2{/g} a3/2 g- g4- | %35
+ g6 (3d e g b d'4 e' d'2 |{/b} (3_b a e g2- g4 z4 z2 =b b |${/a} b6- b a/ g/ (3f3 g a2 a4- | %38
+ a3 b/ z/ z2 a g/ f/ (3e3 f g2{/f} g4- | g4 z2 g Pf e f4- f/ a3/2{/d} e |{/d} e d- d6 z4 z2 g g |$ %41
+{/f} g6- g f/ e/ (3d3 e f2 f4- | f4 z2 (3d2 e2 f2 (3g2 a2{/g} a2- a2- | %43
+ a3 b/ z/ z2 A B/ A/{/d} e{/d} e d4 c/ _e/ g/ _b/ ||$ %44
+[K:Bb]{/c'} d'{/c'} d'2 b/ g/ e/ d2 c3/4 f3/4 d6 B d | f6{/a} b2 f2 e4 d c | B4 Pc4 z4 z2 B d | %47
+ f4 Pb4{f} g2 Pf6- | f4 z4 z4 z2 d f |$ b6 c' d' e'4- e' d'3/2 c'/ b | a4 b2 Pc' b d'2{/c'} d'6- | %51
+ d'6- d' c'/ d'/ e'/ d'3/2- d'4{/c'} b3/4 c'/ b3/4- | b4 z2 b c' d'4 e4 |$ %53
+ g4 b4{/c'} d'2 c'2 b2 a2 | g4 a8- a2 f2 | Pb16- | b4 z4 f/ e/ d6 c | Pf16- | f8 z8 |] %59
+V:2
+[K:D] z8 z4 z2 DF | A6 d2 A2 G4 FE | D4 E4 z4 z2 DF | A6 d2 A8- | A4 z4 z4 z2 FA | %5
+ d6{/e} f2 e2 d4 cB |$ A4 G3(3:2:4AGF3F-F- F4- | F8 z4 z g-gf | d3{/B}A F/A/B/A/- A4 z4 DF | %9
+ A6 d2{/B} A2 G4 FE | D4 E4 z4 z2 DF |$ A6 ed PA8- | A4 z4 z4 z2 FA | d6{/e} f2 e2 d4 cB | %14
+ _B6 =Bc d8- | d4 z f3 e/f/e/B/d3B/A/4F/4B2 |$ d8 z4 z2 ff |{/e} f6{/f} ed c2d<e{/d} e4- | %18
+ e6 dc B2c<d{/c} d4- | d4 z dPcB c2- c4 B/A/F/A/ |$ B/ A8 z3/2 z4 dd | %21
+{/c} d6{/d} cB A2B<c{/B} c4- | c4 z (3A2B2c2de{/d}e- e4- | ef z2 z E>FE{/A} B{/A}B A6 |$ %24
+ z GD{/E} F4 E D4 z2 DF | A6 d2{/B} A2 G4 FE | D4 E4 z4 z2 DF | A6 e2 dB/A/B<A- A4- | %28
+ A4 z4 z4 z2 FA |$ d6- de/f/ g6 Ped | c3d2>e2d f2{/e} f6- | f8{/ef} a f4- f{/^e}f/=e/d/B/ | %32
+ d4 z2 de f6 G2 |${/A} (3:2:4B6 d4 ed f2e2d2c2 | B4{/B} c2>A2{/d} e3/2{/d}e3/2d- d4- | %35
+ d6 (3ABd f a4 ba2 |{/f} (3=feBd2- d4 z4 z2 ^ff |${/e} f6- fe/d/ (3c3de2 e4- | %38
+ e3f/ z/ z2 ed/c/ (3B3cd2{/c} d4- | d4 z2 dPc B c4- c<e{/A}B |{/A} BA- A6 z4 z2 dd |$ %41
+{/c} d6- dc/B/ (3A3Bc2 c4- | c4 z2 (3A2B2c2(3d2e2{/d}e2-e2- | %43
+ e3f/ z/ z2 EF/E/{/A} B{/A}B A4 G/_B/d/=f/ ||$[K:F]{/g} a{/g}a2f/d/ B/A2G3/4c3/4 A6 FA | %45
+ c6{/e} f2 c2 B4 AG | F4 PG4 z4 z2 FA | c4 Pf4{c} d2 Pc6- | c4 z4 z4 z2 Ac |$ f6 ga b4- ba>gf | %50
+ e4 f2Pgf a2{/g} a6- | a6- ag/a/ b<a- a4{/g} f3/4g/f3/4- | f4 z2 fg a4 B4 |$ d4 f4{/g} a2g2f2e2 | %54
+ d4 e8- e2c2 | Pf16- | f4 z4 c/B/ A6 G | Pc16- | c8 z8 |] %59

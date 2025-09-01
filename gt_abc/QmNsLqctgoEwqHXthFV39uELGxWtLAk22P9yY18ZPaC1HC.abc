@@ -1,0 +1,93 @@
+X:1
+T:Kollane ülikond lipsuga
+%%score 1 { 2 | 3 } 4 ( 5 6 )
+L:1/4
+Q:1/4=125
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble transpose=-2 nm="B♭ Trumpet" snm="B♭ Tpt."
+L:1/8
+V:2 treble nm="Piano" snm="Pno."
+V:3 bass 
+L:1/8
+V:4 treble transpose=-2 nm="Soprano Saxophone" snm="S. Sax."
+V:5 perc nm="Drumset" snm="Drs."
+K:none
+I:percmap ^a a 49 x
+I:percmap ^b b 57 x
+I:percmap ^c c 37 x
+I:percmap ^f f 51 x
+I:percmap ^g g 42 x
+I:percmap c c 38 normal
+I:percmap d d 45 normal
+I:percmap f f 50 normal
+V:6 perc 
+K:none
+I:percmap A A 43 normal
+I:percmap F F 36 normal
+V:1
+[K:F] z8 | z8 | z8 | z8 |$ z8 | z8 | z8 |$ z8 | z8 | z8 |$!f! [Dd]2 z2 z4 | [Ee]4 z4 | [Ff]6 z2 |$ %13
+ [Aa]8 |[M:6/4] z12 |[M:4/4]!f! [Dg]>[Ff]- [Ff] [Gg]2 z z2 |$ [Dg]>[Ff]- [Ff] [Gg]2 z z2 | %17
+[M:6/4] [Dg]>[Ff]- [Ff][Gg] [Aa]6 z2 |[M:4/4]!f! [Dg]>[Ff]- [Ff] [Gg]2 z z2 |$ %19
+ [Dg]>[Ff]- [Ff] [Gg]2 z z2 | [Dg]>[Ff]- [Ff] [Gg]2- [Gg] [Ff]2 | [Ae]6 z2 | %22
+ [Dg]>[Ff]- [Ff] [Gg]2 z z2 | [Dg]>[Ff]- [Ff] [Ad]2 z z2 |$ [Ff]>[Ge]- [Ge] [Eg]4 z | %25
+[M:6/4] [Ee]>[Fd]- [Fd] [Aa]4- [Aa] [Bg]2 [Gf]2- |[M:4/4] [Gf]2 [Be]4 z z | %27
+ [Df]>[Ge]- [Ge] [Af]4 z |$ [Df]>[Ge]- [Ge] [Af]4 z | [Ff]2 [Ff]2 [Ff]2 [Aa]2- |[M:5/4] [Aa]8 z2 | %31
+[M:4/4]"^sax solo\n"!ff! .[Dd]2 z2 z4 | z8 |$ .[Dd]2 z4 z2 | z8 | .[Dd]2 z4 z2 | z8 |$ %37
+ .[Dd]2 z4 z2 | z8 | z8 | .[Dd]2 z4 z2 |$[M:6/4] z12 |[M:4/4]!f! [Dg]>[Ff]- [Ff][Gg]- [Gg] z z2 | %43
+!f! [Dg]>[Ff]- [Ff][Gg]- [Gg] z z2 | z8 | z8 | z8 |$ z8 | z8 |] %49
+V:2
+ z4 | z4 |!f! z z/ c/4d/4 c/4 z/4 z/ z | z z/ c/4d/4 c/4 z/4 z/ z |$ z z/ c/4d/4 e/f/e/ z/ | %5
+ z z/ c/4d/4 e/f/ e/4g/4 z/ | z z/ f/4f/4 f/4e/4f/4e/4 f/4e/4f/4e/4 |$ %7
+ z z/ f/4f/4 f/4e/4f/4e/4 f/4g/4a/4b/4 | [CF] [CDG] [CEA] [CFB] | g/ [ega]3/2 [dgb] [_cg_c'] |$ %10
+ [CGc]2 [CGc]2 | [D=Ad]2 [DAd] [DAd] | [EBe] [EBe] [EBe] [EBe] |$ %13
+ [Fcf]/[Fcf]/[Fcf]/[Fcf]/ [Gdg]/[Gdg]/[Gdg]/[Gdg]/ |[M:6/4] z4 z2 |[M:4/4]!f! [CEGc] [CEGc] z z |$ %16
+ [CEGc] [CEGc] z z |[M:6/4] [CEGc] [CEGc] [DF=Ad] [DFAd] [EGce] [EGce] | %18
+[M:4/4]!ff!!ff!!ff!!ff! [CEGc]4- |$ [CEGc]2 z2 | z4 | z4 | [CEGc]4 |[K:treble+8] z .[CEGc] z z |$ %24
+ z .[CEGc] z z |[M:6/4] z .[DFAd] z z z2 |[M:4/4]!mf! z4 | z .[GBd] z .[GBd] |$ z .[GBd] z .[GBd] | %29
+ z .[GBd] z .[GBd] |[M:5/4] z5 |[M:4/4] z4 | z4 |$ z4 | z4 | z4 | z4 |$ z4 | z4 | z4 | z4 |$ %41
+[M:6/4] z6 |[M:4/4] z4 | z4 | z4 | z4 | z4 |$ z4 | z4 |] %49
+V:3
+ z8 | z8 | C,C,C, C,2 C,C,C, | C,C,C, C,2 C,C,C, |$ %4
+ [=A,,D,][A,,D,][A,,D,] [A,,D,]2 [A,,D,][A,,D,][A,,D,] | %5
+ [=A,,D,][A,,D,][A,,D,] [A,,D,]2 [A,,D,][A,,D,][A,,D,] | %6
+ [E,,B,,E,][E,,B,,E,][E,,B,,E,] [E,,B,,E,]2 [E,,B,,E,][E,,B,,E,][E,,B,,E,] |$ %7
+ [E,,B,,E,][E,,B,,E,][E,,B,,E,] [E,,B,,E,]2 [E,,B,,E,][E,,B,,E,][E,,B,,E,] | %8
+ [F,,C,F,] [F,,C,F,]2 [F,,C,F,]2 [F,,C,F,]2 [F,,C,F,] | %9
+ [G,,D,G,][G,,D,G,][G,,D,G,][G,,D,G,] [G,,D,G,][G,,D,G,][G,,D,G,][G,,D,G,] |$ %10
+ [C,,G,,C,][C,,G,,C,][C,,G,,C,] [C,,G,,C,]2 [C,,G,,C,][C,,G,,C,][C,,G,,C,] | %11
+ [D,,=A,,D,][D,,A,,D,][D,,A,,D,] [D,,A,,D,]2 [D,,A,,D,][D,,A,,D,][D,,A,,D,] | %12
+ [E,,B,,E,][E,,B,,E,][E,,B,,E,] [E,,B,,E,]2 [E,,B,,E,][E,,B,,E,][E,,B,,E,] |$ %13
+ [F,,C,F,][F,,C,F,][F,,C,F,][F,,C,F,] [G,,D,G,][G,,D,G,][G,,D,G,][G,,D,G,] |[M:6/4] z8 z4 | %15
+[M:4/4] z2 z2 [C,,C,]2 [C,,C,]2 |$ z2 z2 [C,,C,]2 [C,,C,]2 | %17
+[M:6/4] z4 [C,,C,]2 [C,,C,]2 [B,,B,]2 [B,,B,]2 |[M:4/4] [C,,C,]4 [G,,G,]2 [G,,G,]2 |$ %19
+ [A,,A,]4 [C,,C,]2 [C,,C,]2 | [A,,A,]4 [C,C]2 [E,E]2 | [D,D]4 [G,,G,]2 [G,,G,]2 | %22
+ [C,,C,]4 [G,,G,]2 [G,,G,]2 | [A,,A,]4 [C,,C,]2 [C,,C,]2 |$ [A,,A,]4 [C,C]2 [E,E]2 | %25
+[M:6/4] [D,D]4 [G,,G,]2 [G,G]2 [G,,G,]4 |[M:4/4] [G,,G,]4 [G,,G,]4 | [G,,G,]4 [G,,G,]4 |$ %28
+ [G,,G,]4 [G,,G,]4 | [G,,G,]4 [G,,G,]4 |[M:5/4] [G,,G,]8 z2 |[M:4/4] z8 | z8 |$ z8 | z8 | z8 | %36
+ z8 |$ z8 | z8 | z8 | z8 |$[M:6/4] z12 |[M:4/4] z8 | z8 | z8 | z8 | z8 |$ z8 | z8 |] %49
+V:4
+[K:F] z4 | z4 | z4 | z4 |$ z4 | z4 | z4 |$ z4 | z2 z2 | z4 |$ z4 | z4 | z4 |$ z4 | %14
+[M:6/4]!f! z z A/ _d3/2 e g |[M:4/4] d3/2 A/ D2 |$ d3/2 A/ (E D) |[M:6/4] d3/2 e/f/g/ ^g/a/- a2- | %18
+[M:4/4] a3 d- |$ d3 z | z d2 e- | e b3/2 a/ e | a3 d- | d3 z |$ z d2 e- |[M:6/4] e b3/2 a/ e2 z | %26
+[M:4/4] a3 e- | e3 z |$ c3/2 d/ f2- | f2 z2 |[M:5/4] a b c' _d' a |[M:4/4] g3/4f3/4d/ g3/4f3/4d/ | %32
+ g3/4f3/4d/ c ^c |$ g3/4f3/4d/ g3/4f3/4b/ | a2 (3c' ^c' a | g3/4f3/4d/ g3/4f3/4d/ | %36
+ g3/4f3/4d/ c ^c |$ f3/4f3/4f/ g3/4g3/4g/ | a3/4b3/4c'/ b e' | a2 g3/4f3/4c/ | (3A B c (3d e f |$ %41
+[M:6/4] (3a a a _d' e'3- |[M:4/4] e' d'3 | z4 | z4 | z4 | z4 |$ z4 | z4 |] %49
+V:5
+[K:C] ^c ^c ^c ^c | z4 |!ff! z4 | z4 |$ z4 | z4 | z4 |$ z4 | z z z z | z ^a z ^a |$ z4 | z4 | z4 |$ %13
+ c/4c/4c/4c/4 c/4c/4c/4c/4 f/d/ ^a |[M:6/4] ^f ^f/ ^f ^f/ ^f ^f/ ^f ^f/ | %15
+[M:4/4]!f! [^a^b] ^g ^g ^g |$ ^g ^g ^g ^g |[M:6/4] ^g ^g ^g ^g !//!c2 |[M:4/4] [^a^b] ^g ^g ^g |$ %19
+ ^g ^g ^g ^g | ^g ^g ^g ^g | ^g ^g ^g ^g | [^a^b] ^g ^g ^g | ^g ^g ^g ^g |$ ^g ^g ^g ^g | %25
+[M:6/4] ^g ^g ^g ^g ^g ^g |[M:4/4] ^g ^g ^g ^g | ^g ^g ^g ^g |$ ^g ^g ^g ^g | ^g ^g ^g ^g | %30
+[M:5/4] ^g ^g ^g ^g z |[M:4/4] [^a^b] ^g ^g ^g | ^g ^g ^g ^g |$ [^a^b] ^g ^g ^g | ^g ^g ^g ^g | %35
+ [^a^b] ^g ^g ^g | ^g ^g ^g ^g |$ [^a^b] ^g ^g ^g | ^g ^g ^g ^g | ^g ^g ^g ^g | [^a^b] ^g ^g ^g |$ %41
+[M:6/4] ^g ^g ^g ^g [^a^b] ^g |[M:4/4] ^g ^g ^g ^g | ^g ^g ^g ^g | z4 | z4 | z4 |$ z4 | z4 |] %49
+V:6
+[K:C] x4 | A A A A | A A A A | A A A A |$ A A A A | A A A A | A A A A |$ A A A A | A A A A | %9
+ A A A A |$ A A A A | A A A A | A A A A |$ A A A A |[M:6/4] x6 |[M:4/4] z F z F |$ z F z F | %17
+[M:6/4] z F z F F z |[M:4/4] z F z F |$ z F z F | z F z F | z F z F | z F z F | z F z F |$ %24
+ z F z F |[M:6/4] z F z F z F |[M:4/4] z F z F | z F z F |$ z F z F | z F z F |[M:5/4] z F2 F z | %31
+[M:4/4] A F z F | z F2 F |$ A F z F | z F2 F | A F z F | z F2 F |$ A F z F | z F z F | z F z F | %40
+ A F z F |$[M:6/4] z F z F A F |[M:4/4] z F z F | z F z F | x4 | x4 | x4 |$ x4 | x4 |] %49

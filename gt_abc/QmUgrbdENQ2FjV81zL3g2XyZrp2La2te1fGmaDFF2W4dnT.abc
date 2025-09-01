@@ -1,0 +1,83 @@
+X:1
+T:(1527-1599)
+C:Francisco Guerrero
+%%score 1 2 3 4
+L:1/4
+Q:1/2=50
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="SOPRANO"
+V:2 treble nm="ALTO"
+V:3 treble-8 nm="TENORE"
+V:4 bass nm="BASSO"
+V:1
+ z4 | z2 c2 | d3 A | c2 F2 | z f f e |$ d c A/B/c/A/ | B/G/ B2 A/G/ | A2 B f | f3 c | d A c d |$ %10
+w: |Per|si- gnum|cru- cis|de i- ni-|mi- cis nos- * * *||* tris, de|i- ni-|mi- cis nos- tris,|
+ z c d2- | d c B2 | A f f3/2 e/ | d c2 c- | c d3/2 c/ c- |$ c =B c A | A G F A- | A G/F/ G2 | %18
+w: per si-|* gnum cru-|cis de i- ni-|mi- cis nos-||* * tris, per|si- gnum cru- cis|_ de _ i-|
+ A c2 B/A/ | B G A2- |$ A2 z2 | z4 | c3/2 B/ A G | A B c2 | z2 c d | e f d3/2 d/ |$ c d2 c | %27
+w: ni- mi- cis _|nos- * tris,|_||li- be- ra nos|Do- mi- ne,|li- be-|ra nos Do- mi-|ne, li- be-|
+ c/B/A/G/ A B | c2 F2 | G c3/2 B/ A- | A/G/ F2 E |$ F4 | z4 | f2 e f- | f/e/ d c2 | z c2 c | %36
+w: ra _ _ _ _ nos|Do- mi-|ne, li- be- ra|_ nos Do- mi-|ne,||De- us nos-|* * * ter.|Om- nis|
+ c2 A2 | F2 F3/2 G/ |$ A B A2 | z c A c | F/G/A/B/ c G/A/ | B/A/ A/G/4F/4 G2 | z B A c |$ %43
+w: ter- ra|a- do- *|* ret te,|et psal- lat|ti- * * * * * *|* * * * * bi,|et psal- lat|
+ G/A/B/c/ d/c/B/A/ | B2 A2 | G c2 =B | c2 c2 | f2 e2 |$ d c f2 | e2 z2 | c3/2 B/ A G | F A B c | %52
+w: ti- * * * * * * *|* bi,|et psal- lat|ti- bi,|et psal-|* lat ti-|bi;|psal- mum di- cat|no- mi- ni tu-|
+ d2 e f | e/d/c/B/ A =B |$ c2 z2 | f3/2 e/ d c | B F G A | B c2 =B | c2 z2 |$ c3/2 B/ A G | %60
+w: o, Do- *|mi- * * * * *|ne,|psal- mum di- cat|no- mi- ni tu-|o, Do- mi-|ne,|psal- mum di- cat|
+ F A B c | d B2 A | G3 F- | F E !fermata!F2 |] %64
+w: no- mi- ne tu-|o, Do- *||* mi- ne.-|
+V:2
+ F2 G2- | G D F2 | B,2 z F | F E D/E/F/G/ | A B A2 |$ F2 z F | D D G F | F2 F2 | A2 A G | F3 D |$ %10
+w: Per si-|* gnum cru-|cis de|i- ni- mi- * * *|* cis nos|tris, de|i- ni- mi- cis|nos- tris,|de i- ni-|mi- cis|
+ A2 F2 | z F G D | F2 B,2 | z2 G2 | A3 E |$ G2 C2 | z2 z F | F E D3/2 E/ | F/G/ A3/2 G/ F- | %19
+w: nos- tris,|per si- gnum|cru- cis,|per|si- gnum|cru- cis|de|i- ni- mi- *|* * cis _ nos-|
+ F E F2- |$ F2 z2 | z2 F2- | F E F E | F D C2 | z4 | z F2 G |$ A B G3/2 G/ | F2 z F | G A2 F- | %29
+w: * * tris,|_|li-|* be- ra nos|Do- mi- ne,||li- be-|ra nos Do- mi-|ne, li-|be- ra nos|
+ F E3/2 D/ C- | C/B,/4A,/4 =B, C2- |$ C A, A,2 | z2 z F- | F F A2 | B2 A2 | z A2 A | G2 F2 | %37
+w: _ Do- * *||* mi- ne,|De-|* us nos-|* ter.|Om- nis|ter- ra|
+ D2 D2 |$ F2 F2- | F2 z F | D F C/D/E/F/ | G/F/ F2 E | F4 |$ z G D F | B,/C/D/E/ F E/D/ | E2 z G | %46
+w: a- do-|ret te,|_ et|psal- lat ti- * * *||bi,|et psal- lat|ti- * * * * * *|bi, et|
+ E G A2- | A2 G2- |$ G2 z2 | G3/2 F/ E D | C E F G | A F2 E | D G, C =B, | C3/2 C/ D D |$ C2 z2 | %55
+w: psal- lat ti-|* bi;|_|psal- mum di- cat|no- mi- ni tu-|o, Do- mi-|ne, no- mi- ni|tu- o, Do- mi-|ne,|
+ A3/2 G/ F E | D2 _E D- | D C D2 | G3/2 F/ E D |$ C F3/2 E/4D/4 E | C F3/2 D/ E | D/E/F/D/ G F/E/ | %62
+w: psal- mum di- cat|no- mi- ni|_ tu- o,|psal- mum di- cat|no- mi- * * *|ni tu- * *||
+ D G,2 C | !fermata!C4 |] %64
+w: o, Do- mi-|ne.|
+V:3
+ z4 | z4 | z4 | z4 | z4 |$ z4 | z4 | c2 d2- | d A c2 | F2 z f |$ f e d3/2 c/ | B A G2 | F2 z f- | %13
+w: |||||||Per si-|* gnum cru-|cis de|i- ni- mi- *|* cis nos-|tris, de|
+ f f3/2 e/4d/4 e | f2 e c |$ d2 A3/2 B/ | c2 d c/B/ | c2 G2 | c3/2 B/ c d | B2 c2 |$ z2 c3/2 B/ | %21
+w: _ i- * * ni-|mi- cis _|nos- * *||tris, de|i- ni- mi- cis|nos- tris,|li- be-|
+ A G A B | c2 z2 | z f2 e | f e f d | c2 d3/2 e/ |$ f f f e | f c2 d | e f d3/2 d/ | c G2 A | %30
+w: ra nos Do- mi-|ne,|li- be-|ra nos Do- mi-|ne, li- be-|ra nos Do- mi-|ne, li- be-|ra nos Do- mi-|ne, li- be-|
+ F F G3/2 G/ |$ F2 z f | e f3/2 f/ d | c2 z2 | z2 f2- | f f f2 | e2 d2 | A3 A |$ d2 z ^c | %39
+w: ra nos Do- mi-|ne, De-|us nos- * *|ter.|Om-|* nis ter-|ra a-|do- ret|te, et|
+ A c F/G/A/F/ | B F/G/ A/B/ c | B d c2 | z d c3/2 d/ |$ _e d B3/2 c/ | d2 .c2 | .c2 d2 | z c A c | %47
+w: psal- lat ti- * * *||* * bi,|et psal- lat|ti- * * *||* bi,|et psal- lat|
+ F/G/A/B/ c G/A/ |$ B/G/ c2 =B | c2 z2 | z4 | f3/2 e/ d c | B3/2 A/ G F | G2 z2 |$ c3/2 B/ A G | %55
+w: ti- * * * * * *||bi;||psal- mum di- cat|no- mi- ni tu-|o,|psal- mum di- cat|
+ F A B c | d B2 A | G g2 f | e3/2 d/ c B |$ A F c3/2 B/ | A/F/ c B A | B2 c c- | c =B c A | %63
+w: no- mi- ne tu-|o, Do- mi-|ne, psal- mum|di- cat no- mi-|ni _ tu- *|o, _ Do- mi- *|ne, no- mi-|* ni tu- o,|
+ G G !fermata!F2 |] %64
+w: Do- mi- ne.|
+V:4
+ z4 | z4 | z4 | z4 | z4 |$ z2 F,2 | G,3 D, | F,2 B,,2 | z F, F, E, | D,/E,/F,/G,/ A, B, |$ %10
+w: |||||Per|si- *|cru- cis|de i- ni-|mi- * * * * cis|
+ A,2 D,2 | z4 | C2 D2- | D A, C2 | F,3/2 G,/ A,2 |$ G,2 z F, | F, E, D,/E,/F,/G,/ | A,/B,/ C2 B, | %18
+w: nos- tris,||per si-|* gnum cru-|* * cis|_ de|i- ni- mi- * * *|* * * cis|
+ F,3/2 G,/ A, B, | G,2 F,2 |$ z F,2 E, | F, E, F, D, | C,2 z2 | z2 C3/2 B,/ | A, G, A, B, | %25
+w: nos- * * *|* tris,|li- be-|ra nos Do- mi-|ne,|li- be-|ra nos Do- mi-|
+ C F, B,2 |$ F, B, B, C | F,2 z2 | z4 | C,3/2 D,/ E, F, | D,3/2 D,/ C,2 |$ z F,2 F, | A,2 B,2 | %33
+w: ne, li- be-|ra nos Do- mi-|ne,||li- be- ra nos|Do- mi- ne,|De- us|nos- *|
+ F,2 z2 | z4 | F,3 F, | C,2 D,2 | D,2 D,2- |$ D, B,, F,2- | F,2 z2 | z4 | z2 z C | %42
+w: ter.||Om- nis|ter- ra|a- do-|* ret te,|_||et|
+ A, B, F,/G,/A,/B,/ |$ C G, z C | G, C F,/G,/A,/B,/ | C A, G,2 | C,2 z F, | D, F, C,/D,/E,/F,/ |$ %48
+w: psal- lat ti- * * *|* bi, et|psal- lat ti- * * *||bi, et|psal- lat ti- * * *|
+ G, E, D,2 | C, C2 B, | A,3/2 G,/ F, E, | D,2 z2 | G,3/2 F,/ E, D, | C, E, F, G, |$ A, F,2 E, | %55
+w: |bi; psal- mum|di- cat no- mi-|ni,|psal- mum di- cat|no- mi- ne tu-|o, Do- mi-|
+ D,2 z2 | B,3/2 A,/ G, F, | _E,3/2 E,/ D, D, | C,2 z2 |$ z4 | F,3/2 E,/ D, C, | B,, D, E, F, | %62
+w: ne,|psal- mum di- cat|no- mi- ni tu-|o,||psal- mum di- cat|no- mi- ni tu-|
+ G,3/2 F,/ E, F, | C,2 !fermata!F,2 |] %64
+w: o, _ Do- *|mi- ne.|

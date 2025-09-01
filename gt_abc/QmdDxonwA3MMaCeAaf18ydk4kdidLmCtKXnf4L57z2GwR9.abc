@@ -1,0 +1,79 @@
+X:1
+T:The Plagues
+C:Composer: Stephen Schwartz
+Z:1998 SKGSongs (ASCAP)
+Z:Cover © 2014, 2017 Jonny Music. All rights reserved.
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=116
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 bass nm="Piano" snm="Pno."
+L:1/4
+V:4 bass 
+L:1/4
+V:1
+"^Allegro"!mf! z [E,E][E,E][E,E] [E,E][E,E][E,E][E,E] | [E,E][E,E][E,E][E,E] [E,E][E,E][E,E][E,E] | %2
+ [E,E][E,E][E,E][E,E] [E,E][E,E][E,E][E,E] |$ [E,E][E,E][E,E][E,E] [E,E][E,E][E,E][E,E] ||$ %4
+[K:Bb] [G,DG][G,D][G,D][G,D] [G,D][G,D]/[G,D-]/ [G,D][G,D] | %5
+ [D,D][D,D][D,D][D,D] [D,D][D,D][D,D][D,D] | [D,D][D,D][D,D][D,D] [D,D][D,D][D,D][D,D] |$ %7
+ [F,F][D,D][D,D][D,D] [D,D][D,D][D,D][D,D] |$ [G,G][G,G][G,G][G,G] [G,G]<[G,G] [G,G][G,G] | %9
+ [G,G][G,G][G,G][G,G] [G,G][G,G][G,G][G,G] | [B,B][G,G][G,G][G,G] [G,G][G,G][G,G][G,G] |$ %11
+ [Cc][G,G][G,G][G,G]!<(! [G,G][G,G][G,G][G,G]!<)! | [GBd]z[GBd] z [GBd]z[GBd] z | %13
+ [GBe]z[GBe] z [Acf]z[Acf] z | [GBd]z[GBd] z [GAc]3 d | z2 D2 [G,C]3 D |$ G,2!mf! B,G, A,G,CG, ||$ %17
+[K:G] [G,B,]CDG A G2 G | [G,B,]CDG [CEGc]BAG | [G,B,EG]3 G [EGc]BAG | %20
+ [B,,B,] [D,D][_B,D]D [D,D][D,D][D,D][D,D] |$ [D,D][D,D][D,D][D,D] [D,D][D,D][D,D][D,D] |$ %22
+ [G,G] G2 G/G/ [CEA]>G [A,F]D | B,CDG A G3 | B,CDG [CEGc]BAG | [G,B,EG]3 G/G/ [EGc]BAG |$ %26
+ B>d- d2 [F,F][F,F][F,F][F,F] | [F,F][F,F][F,F][F,F] [A,A][F,F][F,F][F,F] | %28
+ [B,B] z z2 (3[Ge]2 d2 G2 | A6 AG |$ A G2 A/B/ c B2 G/D/ |$[M:6/4] [GB]A AG A4 x2 c>B | %32
+ AG GF GD z D/G/ [ce]d dc ||$[K:Bb][M:4/4] d4 [G,G][G,G] [G,G][G,G]/[B,B]/- | %34
+ [B,B][G,G][G,G][G,G] [G,G][G,G][G,G][G,G] | [Cc][G,G][G,G][G,G] [G,G][G,G][G,G][G,G] |$ %36
+ [^C^c][G,G][G,G][G,G]!<(! [G,G][G,G][G,G][G,G]!<)! | [GBd]z[GBd] z [GBd]z[GBd] z | %38
+ [GBe]z[GBe] z [Acf]z[Acf] z | [FBd]z[GBd] z [DGc]3 d ||$[K:G] [G,B,G][CG][DG]G A G3 |$ %41
+ [G,B,G][CG][DG]G [Cc]BAG | G2 [G_Bd] z [GBd]z[GBd] z | [G_B_e]z[GBe] z [Ac=f]z[Acf] z | %44
+ d3 c- c_BAG |$ d2 d2 c3 d | [_B,DG]2 [G_Bd]2 [GAc]3 d | [dg]8- | [dg]8 | %49
+ [c_e]/[ce]/[ce]/[ce]/ [_Ac]/[Ac]/[Ac]/[Ac]/ [_Be]/[Be]/[Be]/[Be]/ [GB]/[GB]/[GB]/[GB]/ |$ %50
+ [Ad]/[Ad]/[Ad]/[Ad]/ [FA]/[FA]/[FA]/[FA]/ [_Bd]/[Bd]/[Bd]/[Bd]/ [GB]/[GB]/[GB]/[GB]/ || %51
+[K:Bb] [B,DB][EB][FB]B c B3 |$ [B,D]EFB [Be]dcB | [DGB]3 [Be]- [Be]dcB | DF x6 | %55
+ [GBe]z[GBe] z [Acf]z[Acf][FB] |$ [DB][EB][FB]B c B2 [DB] | D/E/ F2 B [Be]>d cB | %58
+ [DGB]3 [Be]- [Be]dcB | B3 [Be]- [Be]dcB | B4 c4 |$ A4 A4 | G2 d2 c3 d | [ce]2 d2 c3 d | %64
+ x2 e2 d2 c2 |$[Q:1/4=86]"^Moderately slower" d4 e4 | [df]4 d4 | [dg]8- | [dg]8 |] %69
+V:2
+ [G,B,]4 [F,^A,]4 | [F,A,]4 [E,^G,]4 | [G,B,]4 [F,^A,]4 |$ [F,A,]4 [E,^G,]4 ||$[K:Bb] B,4 [A,^C]4 | %5
+ [_A,C]4 [G,=B,]4 | B,4 [_A,C]4 |$ [A,^C]4 [A,C]4 |$ [B,D]4 [B,_D]4 | [A,^C]4 [^A,=C]4 | %10
+ [CE]4 [=B,E]4 |$ [_DF]4 [=D^F]4 | x8 | x8 | x8 | z4 z4 |$ z8 ||$[K:G] x4 [B,E]4 | x8 | x8 | %20
+ z4 [A,^C]4 |$ [_A,C]4 [G,_B,]4 |$ x8 | x4 [B,E]4 | x8 | x8 |$ z [DF][DF][DF] [^C^E]4 | %27
+ [CE]4 [B,^D]4 | x8 | [DF]2 [DG]>[DF]- [DF]4 |$ [CE]4 [EA]3 x |$[M:6/4] E4 [DF]2 GF GF ED | %32
+ [G,B,E]4 B,4 G4 ||$[K:Bb][M:4/4] z G,G,G, [D^F]2- [DF]>[D=F]- | [DF] z z z =E z z z | %35
+ [DE] z z2 z2 z2 |$ [DE] z z2 z2 z2 | x8 | x8 | x8 ||$[K:G] x4 [B,E]4 |$ x4 [EG]4 | x8 | x8 | %44
+ [=F_B]4- [FB] x3 |$ A8 | x8 | G2 [_B,DG]2 z2 [A,DF]2 | z2 [A,C=F]2 z2 [G,CE]2 | x8 |$ x8 || %51
+[K:Bb] x4 [DF]4 |$ x4 F4 | x3 G- G4 | x2 [GBd] z [GBd]z[GBd] z | x8 |$ d2 x2 [DG]3 x | x4 F4 | %58
+ x3 G- G4 | [DF]3 F- F4 | DEDE CECE |$ DEDE FDFD | [B,D]2 [GB]2 G4 | G8 | G6 x2 |$ B6 c2 | x8 | %67
+ x8 | x8 |] %69
+V:3
+ E,,4- | E,,4- | E,,4- |$ E,,4 ||$[K:Bb] G,,4- | G,,4- | G,,4- |$ G,,4- |$ G,,4- | G,,4- | G,,4- |$ %11
+ G,,4 | z4 | z4 | z2 z z/ D,/ | E,,2 D,,2 |$ G,,4 ||$[K:G] [E,,G,,]4 | [E,,G,,]2 [C,,C,]2 | %19
+ [E,,B,,E,]2 [C,,E,,G,,C,]2 | G,,4- |$ G,,4 |$ E,, C,, [A,,A,] B,, | [E,,-G,,G,]4 | %24
+ [E,,G,,G,]2 [C,,C,]2 | [E,,B,,E,]2 [C,,E,,G,,C,]2 |$ B,,4- | B,,4- | [B,,D,]2 E,, A,, | %29
+ [D,,D,]2- A, [D,,D,] |$ z B, E, C, |$[M:6/4] E,, C,, D,,3 B,, | %32
+ [E,,B,,E,]2 D,,2 [C,,E,,G,,C,]2 ||$[K:Bb][M:4/4] G,,4- | G,,4- | G,,4- |$ G,,2 D, D,, | %37
+ [G,,B,,D,G,]2 [E,,G,,B,,D,]2 | [C,,E,,C,]2 [F,,D,F,]2 | [E,,F,,B,,D,] [C,,G,,] [D,,D,]2 ||$ %40
+[K:G] [E,,G,,]2 C,,2 |$ [E,,G,,]2 [C,,C,]2 | G,,2 _E,,2 | z2 z2 |!f! _E,,4 |$ [D,,D,]4 | %46
+ [D,,D,]2 C,3/2 D,/ | G,,4- | G,,4 | G,, _E, G,, E, |$ G,, D, G,, D, ||[K:Bb] [E,,B,,]4 |$ %52
+ [E,,B,,]2 [E,,E,]2 | G,,2 E,,2 | G,,2 z2 | C,,2 z2 |$ [D,,G,,D,]2 [B,,B,]2 | [B,,E,B,]2 [E,,E,]2 | %58
+ [G,,B,,D,G,]3/2 [G,,B,,-E,-G,-]/ [G,,B,,E,G,]2 | [E,,B,,D,F,]3/2 [B,,E,A,]/- [B,,E,A,]2 | %60
+ [C,E,G,]4 |$ [A,,D,F,]4 | [D,,D,]2 [C,,C,]3/2 [D,,D,]/ | [C,E,G,]4 | [B,,D,G,]4 |$ %65
+ [G,,B,,D,]2 [G,,B,,E,]2 | [A,,C,F,]2 [F,,A,,D,]2 | [G,,G,]4- | [G,,G,]4 |] %69
+V:4
+ x4 | x4 | x4 |$ x4 ||$[K:Bb] x4 | x4 | x4 |$ x4 |$ x4 | x4 | x4 |$ x4 | %12
+ [G,,B,,D,G,]2 [E,,G,,B,,G,]2 | [C,,E,]2 [D,,F,]2 | [E,,D,]2 [D,,C,]2 | x4 |$ x4 ||$[K:G] x4 | x4 | %19
+ x4 | x4 |$ x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ A,,4 |$ %31
+[M:6/4] [B,,E,G,]2 [A,,D,F,]3 z | x6 ||$[K:Bb][M:4/4] x4 | x4 | x4 |$ x4 | x4 | x4 | x4 ||$ %40
+[K:G] x4 |$ x4 | [_B,,D,G,]2 [G,,B,,D,]2 | [_E,,C,_E,]2 [=F,,D,=F,]2 | _B,,4 |$ z4 | %46
+ _E,, C,, D,,2 | x4 | x4 | [C,_E,G,] [C,E,_A,] [_B,,E,G,] [B,,D,G,] |$ [D,F,A,]2 [_B,,D,G,]2 || %51
+[K:Bb] x4 |$ x4 | [B,,D,G,]3/2 [G,,B,,-E,-]/ [G,,B,,E,]2 | [B,,D,G,]2 [B,,D,E,G,]2 | %55
+ [E,,E,]2 [F,,D,F,]2 |$ x4 | x4 | x4 | x4 | C,,4 |$ D,,4 | E,,4 | C,,4 | E,,4 |$ z D,, z D,, | %66
+ z D,, z D,, | [D,,D,]4- | [D,,D,]4 |] %69

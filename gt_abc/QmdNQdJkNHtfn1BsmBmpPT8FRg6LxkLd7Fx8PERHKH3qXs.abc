@@ -1,0 +1,82 @@
+X:1
+T:Give Almes of thy Goods - Tye
+%%score 1 2 3 4 { ( 5 8 ) | ( 6 7 ) }
+L:1/4
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Soprano" snm="S"
+V:2 treble nm="Alto" snm="A"
+V:3 treble-8 nm="Tenor" snm="T"
+V:4 bass nm="Bass" snm="B"
+V:5 treble nm="Practice"
+V:8 treble 
+V:6 bass 
+V:7 bass 
+V:1
+"^Give Almes of thy Goods""^Tobit 4:7" z4 | z4 | A2 c3/2 c/ | %3
+w: ||Give alm- es|
+ B B c"^Christopher Tye\n(c.1500-1573)" G | d3 c |$ d d B2 | z4 | z4 | z2 z G | A c3/2 c/ B |$ %10
+w: of thy goods, give|alm- es|of thy goods,|||and|turn nev- er thy|
+ A G F/E/ F | G2 z2 | G B d3/2 d/ | c B/B/ A/G/ A | B2 z2 |$ z2 z F | G/A/ B A G | F A B/c/ d | %18
+w: face from a- ny poor|man,|and turn nev- er|thy face from a- ny poor|man:|and|then the face of the|Lord, and then the face|
+ c c B2 |$ z2 z c | B B A G/F/ | G E F A | e e d c/B/ |$ A A B2 | z4 | z F G/A/ B | A G F A |$ %27
+w: of the Lord|shall|not be turn- ed a-|way from thee, shall|not be turn- ed a-|way from thee:||and then the face|of the Lord, and|
+ B/c/ d c c | B2 z2 | z c B B | A G/F/ G E |$ F A e e | d c/B/ A A | !fermata!B4 |] %34
+w: then the face of the|Lord|shall not be|turn- ed a- way from|thee, shall not be|turn- ed a- way from|thee.|
+V:2
+ z4 | z2 D2 | F3/2 F/ E E | G G E3/2 E/ | D3/2 E/ F G |$ G F G3/2 G/ | D2 z2 | z4 | z2 z D | %9
+w: |Give|alm- es of thy|goods, give alm- es|of thy goods, give|alm- es of thy|goods,||and|
+ C E3/2 E/ D |$ C B, A,/G,/ A, | G,2 z D | E G3/2 G/ F | E G F/E/ F | G D E/F/ G |$ F E D D | %16
+w: turn nev- er thy|face from a- ny poor|man, and|turn nev- er thy|face from a- ny poor|man: and then the face|of the Lord, the|
+ E D E/F/ G | A F G B | A A G F/E/ |$ F D E2 | z G F F | E B,/C/ D F | E2 z G |$ G F G D | %24
+w: Lord, and then the face|of the Lord shall|not be turn- ed a-|way from thee,|shall not be|turn- ed a- way from|thee, a-|way from thee: and|
+ E/F/ G F E | D D E D | E/F/ G A F |$ G B A A | G F/E/ F D | E2 z G | F F E B,/C/ |$ D F E2 | %32
+w: then the face of the|Lord, the Lord, and|then the face of the|Lord shall not be|turn- ed a- way from|thee, shall|not be turn- ed a-|way from thee,|
+ z G G F | !fermata!G4 |] %34
+w: a- way from|thee.|
+V:3
+ z2 G2 | c3/2 c/ B B | d2 c e- | e d c c | B B A G |$ A A G2 | z B c e- | e/e/ d c B | A/G/ A B2 | %9
+w: Give|alm- es of thy|goods. give alm­|* es of thy|goods, give alm- es|of thy goods,|and turn nev­|* er thy face from|a- ny poor man,|
+ z4 |$ z2 z d | c B3/2 B/ A | c B B2 | G2 A2 | G2 z E |$ F/G/ A B B | E G E E | F E/D/ G2 | %18
+w: |and|turn nev- er thy|face from a-|ny poor|man: and|then the face of the|Lord, and then the|face of the Lord|
+ z2 z e |$ d d c B/A/ | B G d2 | z G A A | c B/A/ d2- |$ d d B2 | z E F/G/ A | B B E G | %26
+w: shall|not be turn- ed a-|way from thee,|shall not be|turn- ed a- way|* from thee:|and then the face|of the Lord, the|
+ E E (F E/D/) |$ G2 z2 | z e d d | c B/A/ B G | d2 z G |$ A A c B/A/ | d3 d | !fermata!B4 |] %34
+w: face of the * *|Lord|shall not be|turn- ed a- way from|thee, shall|not be turn- ed a-|way from|thee.|
+V:4
+ G,2 B,3/2 B,/ | A, E, G,2 | D,2 A,3/2 A,/ | G, G, C,2 | z G,, D, E, |$ D, D, G,,2 | z G, A, C- | %7
+w: Give alm- es|of thy goods,|give alm- es|of thy goods.|give alm- es|of thy goods,|and turn nev­|
+ C/C/ B, A, G, | F,/E,/ D, G,2 | z4 |$ z2 z D, | E, G,3/2 G,/ F, | E,2 B,,2 | C, G,, D,2 | %14
+w: * er thy face from|a- ny poor man,||and|turn nev- er thy|face from|a- ny poor|
+ G,,2 z2 |$ z4 | z B,, C,/D,/ E, | D, D, G,,2 | z4 |$ z B, A, A, | G, F,/E,/ F, D, | E,2 z D, | %22
+w: man:||and then the face|of the Lord||shall not be|turn- ed a- way from|thee, shall|
+ C, C, B,, A,,/G,,/ |$ D, D, G,,2 | z4 | z2 z B,, | C,/D,/ E, D, D, |$ G,,2 z2 | z2 z B, | %29
+w: not be turn- ed a-|way from thee:||and|then the face of the|Lord|shall|
+ A, A, G, F,/E,/ | F, D, E,2 |$ z D, C, C, | B,, A,,/G,,/ D, D, | !fermata!G,,4 |] %34
+w: not be turn- ed a-|way from thee,|shall not be|turn- ed a- way from|thee.|
+V:5
+ z4 | x4 | A2 c3/2 c/ | B B c G | d3 c |$ d d B2 | x4 | z4 | z2 z G | A c3/2 c/ B |$ A G F/E/ F | %11
+ G2 z2 | G B d3/2 d/ | c B A/G/ A | B2 x2 |$ x3 F | G/A/ B A G | F A B/c/ d | c c B2 |$ z2 z c | %20
+ B B A G/F/ | G E F A | e2 d c/B/ |$ [GA] A B2 | x4 | x F G/A/ B | A G F A |$ B/c/ d c c | B2 x2 | %29
+ z c B B | A G/F/ G E |$ F A e2 | d c/B/ A A | B4 |] %34
+V:6
+ x2 G,2 | C3/2 C/ B,2 |[I:staff -1] D2 C E- | E[I:staff +1] D C2 | B, B, A, G, |$ A, A, G,2 | %6
+ z B, C E- | E/E/ D C B, | A,/G,/ A, B,2 | z4 |$ z2 z[I:staff -1] D |[I:staff +1] C B,3/2 B,/ A, | %12
+ C B, B,2 | G,2 A,2 | G,2 z E, |$ F,/G,/ A, B, B, | E, G, E, E, | F, E,/D,/ G,2 | z2 z E |$ %19
+ D D C B,/A,/ | B, G, D2 | z G, A, A, | C B,/A,/[I:staff -1] D2- |$ D D B,2 | %24
+[I:staff +1] z E, F,/G,/ A, | B, B, E, G, | E, E, F, E,/D,/ |$ G,2 z2 | z E D D | C B,/A,/ B, G, | %30
+ D2 z G, |$ A, A, C B,/A,/ |[I:staff -1] D4 |[I:staff +1] B,4 |] %34
+V:7
+ G,2 B,2 | A, E, G,2 | D,2 A,3/2 A,/ | G, G, C,2 | x G,, D, E, |$ D, D, G,,2 | z G, A, C- | %7
+ C/C/ B, A, G, | F,/E,/ D, G,2 | x4 |$ z2 z D, | E, G,3/2 G,/ F, | E,2 B,,2 | C, G,, D,2 | %14
+ G,,2 x2 |$ x4 | x B,, C,/D,/ E, | D, D, G,,2 | x4 |$ x B, A, A, | G, F,/E,/ F, D, | E,2 z D, | %22
+ C, C, B,, A,,/G,,/ |$ D, D, G,,2 | x4 | x3 B,, | C,/D,/ E, D, D, |$ G,,2 z2 | x3 B, | %29
+ A, A, G, F,/E,/ | F, D, E,2 |$ x D, C, C, | B,, A,,/G,,/ D, D, | G,,4 |] %34
+V:8
+ x4 | z2 D2 | F2 E E | G G E3/2 E/ | D3/2 E/ F G |$ G F G2 | D2 z2 | x4 | z2 z D | C E3/2 E/ D |$ %10
+ C B, A,/G,/ A, | G,2 z D | E G3/2 G/ F | E G F/E/ F | G D E/F/ G |$ F E D D | E D E/F/ G | %17
+ A F G B | A A G F/E/ |$[I:staff +1] F D[I:staff -1] E2 | x G F F | E B,/C/ D F | E2 x G |$ %23
+ x F G D | E/F/ G F E | D D E D | E/F/ G A F |$ G B A A | G F/E/ F D | E2 x G | F F E B,/C/ |$ %31
+ D F E2 | x G G F | !fermata!G4 |] %34

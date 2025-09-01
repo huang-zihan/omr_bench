@@ -1,0 +1,49 @@
+X:1
+T:Chi vol veder la dea
+C:Giovanni Francesco Capuano
+Z:©
+%%score [ 1 2 3 ]
+L:1/4
+Q:1/4=96
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Soprano 1" snm="S 1"
+V:2 treble nm="Soprano 2" snm="S 2"
+V:3 treble-8 nm="Tenor" snm="T"
+V:1
+ c2 c3/2 B/ | A G d2- | d d c B | c2 d d |$ c3/2 B/ A2 |[M:2/4] G2 ::[M:3/4] A3/2 A/ A | %7
+w: 1)Chi vol ve-|der la dea|_ de la bel-|lez- za, de|1)la bel- lez-|za,|e di tut-|
+w: 2)Chi vol go-|der del Ciel|_ l'al- ta va-|ghez- za, l'al-|2)ta va- ghez-|za,|a chi con|
+w: 3)Chi co- sa|vol mi- rar|_ pien di dol-|cez- za, pien|3)di dol- cez-|za,|e ve- der|
+w: 4)Lau- ra'e co-|lei che tut-|* t'il mond' ho-|no- ra, il|4)mond' ho- no-|ra,|dun- que cor-|
+[M:4/4] c B A2 | G d A3/2 B/ |$ c c G2 | B2 A2 | G2 A2 | G d c A | c2 G2 |$ B2 A F | A2 G2 | %16
+w: te le gra-|tie, e di tut-|1)te le gra-|tie la|Re- gi-|na, mi- ri di|Lau- ra,|1)mi- ri di|Lau- ra,|
+w: ri- ve- ren-|za, a chi con|2)ri- ve- ren-|za'o- gn'un|s'in- chi-|na, mi- ri di|Lau- ra,|2)mi- ri di|Lau- ra,|
+w: quel ch'a poch'|il Ciel, ve- der|3)ch'a _ po-|ch'il Ciel|de- sti-|na, mi- ri di|Lau- ra,|3)mi- ri di|Lau- ra,|
+w: re- te'a r'mi-|rar, dun- que cor-|4)re- te'a ri-|mi- rar|l'au- ro-|ra, mi- ri di|Lau- ra,|4)mi- ri di|Lau- ra,|
+ d c B B | A2 G2 :| %18
+w: la bel- la di-|vi- na.|
+w: la bel- la di-|vi- na.|
+w: la bel- la di-|vi- na.|
+w: la bel- la di-|vi- na.|
+V:2
+ A2 A3/2 G/ | F E F2- | F G A B- | B A B B |$ A G2 ^F |[M:2/4] G2 ::[M:3/4] F3/2 F/ F | %7
+w: 1)Chi vol ve-|der la dea|_ de la bel-|* lez- za, de|1)le bel- lez-|za,|e di tut-|
+w: 2)Chi vol go-|der del Ciel|_ l'al- ta va-|* ghez- za, l'al-|2)ta va- ghez-|za,|a chi con|
+[M:4/4] G G2 ^F | G2 z2 |$ A2 E3/2 F/ | G G F F |"^#" G G2 F | G2 z2 | z A G E |$ G2 F F | %15
+w: te le gra-|tie,|1)e di tut-|te le gra- tie|la Re- gi-|na,|mi- ri di|1)Lau- ra, mi-|
+w: ri- ve- ren-|za,|2)a chi con|ri- ve- ren- za'o-|gn'un s'in- chi-|na,|mi- ri di|2)Lau- ra, mi-|
+ E C E E | D E F G- | G ^F G2 :| %18
+w: ri di Lau- ra,|la bel- la di-|* vi- na.|
+w: ri di Lau- ra,|la bel- la di-|* vi- na.|
+V:3
+ F2 f3/2 e/ | d c B2- | B B f g | f2 B B |$ c c d2 |[M:2/4] G2 ::[M:3/4] d3/2 d/ d | %7
+w: 3)Chi co- sa|vol mi- rar|_ pien di dol-|cez- za, pien|3)di dol- cez-|za;|e ve- der|
+w: 4)Lau- ra'e co-|lei che tut-|* t'il mond' ho-|no- ra, il|4)mond' ho- no-|ra,|dun- que cor-|
+[M:4/4]"^b" c e d2 | G2 d2 |$ A3/2 B/ c c | G2 d2 |"^b" c e d2 | G2 z d | c A c2 |$ G2 d2 | %15
+w: quel ch'a po-|ch'il Ciel|3)quel _ _ ch'a|po- ch'il|Ciel de- sti-|na, mi-|ri di Lau-|3)ra, mi-|
+w: re- te'a ri-|mi- rar|4)a _ _ ri-|mi- rar|l'au- * ro-|ra, mi-|ri di Lau-|4)ra, mi-|
+ c A c c |"^b" B c d e | d2 G2 :| %18
+w: ri di Lau- ra,|la bel- la di-|vi- na.|
+w: ri di Lau- ra,|la bel- la di-|vi- na.|

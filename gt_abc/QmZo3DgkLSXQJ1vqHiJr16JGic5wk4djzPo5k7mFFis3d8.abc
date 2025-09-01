@@ -1,0 +1,86 @@
+X:1
+T:Je vous salue Joseph
+%%score [ 1 2 ( 3 4 ) ( 5 6 ) ]
+L:1/8
+Q:1/4=80
+M:6/8
+I:linebreak $
+K:F
+V:1 treble nm="Soprano" snm="S."
+V:2 treble nm="Alto" snm="A."
+V:3 bass nm="Tenor" snm="T."
+V:4 bass 
+V:5 bass nm="Bass" snm="B."
+V:6 bass 
+V:1
+ A, | A,2 E E2 D | D6 | F3- FED | D6 | D3 D2 D |[M:9/8] C2 B, A,6 |$[M:6/8] A,2 D D3 | %8
+w: Je|vous sa- lue Jo-|seph,|fils _ de Da-|vid,|homme juste et|vir- gi- nal,|la Sa- gesse|
+[M:9/8] FFA A3- A z D |$[M:6/8] D3 D2 F | F3 D2 D | D2 D D3 | D3 D2 C | C6 |$ C3 D2 D | D3 D2 D | %16
+w: est a- vec vous. _ Vous|ê- tes bé-|ni en- tre|tous les hom-|mes, et Jé-|sus,|le fruit de|vo- tre fi-|
+ F2 F A3 | G6 |[M:9/8] F6 DGA |$[M:6/8] A3- ABG |[M:9/8] A6 z2 z |[M:12/8] z12 | %22
+w: dèle é- pouse|Ma-|rie, est _ bé-|ni _ _ _|_||
+[M:6/8]!f! d2 A A3 | d2 A A3 | d2 A A3 |$ GFG A3 | E3 E2 E | A2 =B A3 |[M:9/8] G2 F A3 AGF | %29
+w: Saint Jo- seph,|pè- re digne,|pro- tec- teur|de Jé- sus- Christ|et de la|sainte E- gli-|se de Dieu, pri- ez pour|
+[M:12/8] D3 E2 E D6 ||$[K:Eb][M:6/8] z6 | z2!mf! C C2 C | E3 C2 c | c3 B2 A | G3 F2 A | G3- G2 z | %36
+w: nous _ pé- cheurs.||Ob- te- nez|nous la sa-|ges- se di-|vi- ne de|Dieu, _|
+ (C6 | C3 E3 | C3 E3 |$ C3 E3 | C3 E3 | C3 C3- | C3) z2 z |$[M:12/8] G6 G6 | G6 !fermata!G6 |] %45
+w: et|se- cou-|rez- nous|à l'heure|de no-|tre mort|_|A- men!|A- men!|
+V:2
+ A, | A,2 E E2 D | D6 | D3- DDD | =B,6 | B,3 B,2 B, |[M:9/8] C2 B, A,6 |$[M:6/8] A,2 D D3 | %8
+w: Je|vous sa- lue Jo-|seph,|fils _ de Da-|vid,|homme juste et|vir- gi- nal,|la Sa- gesse|
+[M:9/8] DDF F3- F z D |$[M:6/8] =B,3 B,2 C | D C2 B,2 B, | B,2 B, B,3 | A,3 A,2 A, | A,6 |$ %14
+w: est a- vec vous. _ Vous|ê- tes bé-|ni _ en- tre|tous les hom-|mes et Jé-|sus,|
+ A,3 B,2 B, | B,3 =B,2 B, | A,2 ^C D F2 | GFE DEF |[M:9/8] D3 C3 B,EF |$[M:6/8] F6- | %20
+w: le fruit de|vo- tre fi-|dèle é- pouse _|Ma _ _ _ _ _|rie, _ est _ bé-|ni|
+[M:9/8] F3 E3 DGA |[M:12/8] A3- ABG A3- A2 z |[M:6/8]!f! A2 A G3 | A2 A G3 | A2 A G3 |$ _EEE =E3 | %26
+w: _ _ est _ bé-|ni _ _ _ _ _|Saint Jo- seph,|pè- re digne,|pro- tec- teur|de Jés- sus- Christ|
+ E3 =B,2 B, | E2 G E3 |[M:9/8] D2 D E3 EEE |[M:12/8] C3 _D2 D A,6 ||$[K:Eb][M:6/8] z6 | %31
+w: et de la|sainte E- gli-|se de Dieu, pri- ez pour|nous _ pé- cheurs.||
+ z2!mf! C C2 C | C3 C2 C | E3 E2 D | E3 E D2 | E3- E2 z | z2 z (D3- | D3 D3 | E3 C3 |$ D3 C3 | %40
+w: Ob- te- nez-|nous la sa-|ges- se di-|vi- ne de|Dieu, _|se|_ cou-|rez- nous|à l'heure|
+ D3 _C3 | A,3 G,3- | G,3) z2 z |$[M:12/8] A,6 D6 | C3 E3 !fermata!=B,6 |] %45
+w: de no-|tre mort|_|A- men!|A _ men!|
+V:3
+ A, | A,2 C C2 C | A,6 | A,3- A,A,A, | G,6 | G,3 G,2 G, |[M:9/8] G,2 G, F,6 |$[M:6/8] F,2 F, F,3 | %8
+w: Je|vous sa- lue Jo-|seph,|fils _ de Da-|vid,|homme juste et|vir- gi- nal,|la Sa- gesse|
+[M:9/8] B,B,=B, D3- D z B, |$[M:6/8] G,2 G,- G, G,2 | B,3 G,2 G, | A,2 G, G,3 | F,3 F,2 A, | G,6 |$ %14
+w: est a- vec vous. _ Vous|ê- tes _ bé-|ni en- tre|tous les hom-|mes et Jé-|sus,|
+ A,3 G,2 G, | G,3 ^G,2 G, | ^C2 A, D3 | _D2 A, B,3 |[M:9/8] A,6 z2 z |$[M:6/8] z6 | %20
+w: le fruit de|vo- tre fi-|dèle é- pouse|Ma _ _|rie,||
+[M:9/8] z4 z2 [A,D][G,C][F,A,] |[M:12/8] G,F,G, F,2 E, ^C3- C2 z |[M:6/8]!f! F2 F E3 | F2 F E3 | %24
+w: est- * bé-|ni _ _ _ _ _ _|Saint Jo- seph,|pè- re digne,|
+ F2 F _E3 |$ CCC ^C3 | B,3 _A,2 A, | C2 D C3 |[M:9/8] =B,2 B, C3 ^CCC |[M:12/8] B,3 B,3 F,6 ||$ %30
+w: pro- tec- teur|de Jé- sus- Christ|et de la|sainte E- gli-|se de Dieu, pri- ez pour|nous pé- cheurs.|
+[K:Eb][M:6/8] z6 | z2!mf! C C2 C | B,3 A,2 A, | G,3 G,2 F, | E,F,G, A,2 =B, | C3- C2 z | %36
+w: |Ob- te- nez-|nous la sa-|ges- se di-|vi _ _ ne de|Dieu, _|
+ z2 z (A,3- | A,3 G,3 | G,3 G,3 |$ B,3 A,3 | G,3 F,3 | F,3 E,3- | E,3) z2 z |$[M:12/8] E,6 B,6 | %44
+w: se|_ cou-|rez- nous|à l'heure|de no-|tre mort|_|A- men!|
+ G,3 =A,3 !fermata!G,6 |] %45
+w: A _ men!|
+V:4
+ x | x6 | x6 | x6 | x6 | x6 |[M:9/8] x9 |$[M:6/8] x6 |[M:9/8] x9 |$[M:6/8] x6 | x6 | x6 | x6 | %13
+ x6 |$ x6 | x6 | x6 | x6 |[M:9/8] x9 |$[M:6/8] x6 |[M:9/8] x9 |[M:12/8] D,3- D,3 A,3- A,2 x | %22
+[M:6/8] x6 | x6 | x6 |$ x6 | x6 | x6 |[M:9/8] x9 |[M:12/8] x12 ||$[K:Eb][M:6/8] x6 | x6 | x6 | x6 | %34
+ x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 |$[M:12/8] x12 | x12 |] %45
+V:5
+ A,, | A,,2 A,, A,,2 A,, | D,6 | D,3- D,E,E, | G,3 E,3 | F,3 F,2 F, |[M:9/8] E,2 C, D,3 C,3 |$ %7
+w: Je|vous sa- lue Jo-|seph,|fils _ de Da-|vid _|homme juste et|vir- gi- nal _|
+[M:6/8] B,,2 B,, A,,3 |[M:9/8] ^G,,G,,A,, D,3- D, z D, |$[M:6/8] G,,2 D, D,2 C, | B,,2 B,- B,B,A, | %11
+w: la Sa- gesse|est a- vec vous _ Vous|ê _ tes bé-|ni _ _ en- tre|
+ G,,F,E, D,E,F, | D,3 D,2 D, | E,6 |$ E,3 G,,2 G,, | F,,3 E,,2 E,, | E,_D,E, =D,3 | E,3 F,2 E, | %18
+w: tous _ les hom _ _|mes et Jé-|sus,|le fruit de|vo- tre fi-|dèle _ é- pouse|Ma _ _|
+[M:9/8] D,3 C,3 z2 z |$[M:6/8] z6 |[M:9/8] z4 z2 A,F,D, |[M:12/8] B,,3- B,,3 E,3- E,2 z | %22
+w: rie, _||est _ bé-|ni _ _ _|
+[M:6/8]!f! D2 D ^C3 | D2 D ^C3 | D2 D C3 |$ B,B,B, A,3 | G,3 E,2 D, | C,2 =B,, A,,3 | %28
+w: Saint Jo- seph,|pè- re digne,|pro- tec- teur|de Jé- sus- Christ|et de la|sainte E- gli-|
+[M:9/8] G,,2 ^G,, A,,3 A,,A,,A,, |[M:12/8] B,,3 G,,3 D,6 ||$[K:Eb][M:6/8] z6 | z2!mf! C, C,2 C, | %32
+w: se de Dieu, pri- ez pour|nous pé- cheurs.||Ob- te- nez-|
+ G,3 F,2 F, | C,3 C,2 C, | B,,3 A,,2 A,, | C,3- C,2 z | z2 z (F,3- | F,3 C,3 | B,,3 A,,3 |$ %39
+w: nous la sa-|ges- se di-|vi ne de|Dieu, _|se|_ cou-|rez- nous|
+ G,,3 F,,3 | G,,3 A,,3 | G,,3 C,3- | C,3) z2 z |$[M:12/8] C,6 F,6 | E,3 C,3 !fermata![G,,D,]6 |] %45
+w: à l'heure|de no-|tre mort|_|A- men!|A _ men!|
+V:6
+ x | x6 | x6 | x6 | x6 | x6 |[M:9/8] x9 |$[M:6/8] x6 |[M:9/8] x9 |$[M:6/8] x6 | x6 | x6 | x6 | %13
+ x6 |$ x6 | x6 | x6 | x6 |[M:9/8] x9 |$[M:6/8] x6 |[M:9/8] x9 |[M:12/8] x6 A,,3- A,,2 x | %22
+[M:6/8] x6 | x6 | x6 |$ x6 | x6 | x6 |[M:9/8] x9 |[M:12/8] x12 ||$[K:Eb][M:6/8] x6 | x6 | x6 | x6 | %34
+ x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 |$[M:12/8] x12 | x12 |] %45

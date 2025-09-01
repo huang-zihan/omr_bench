@@ -1,0 +1,47 @@
+X:1
+T:Movie Themes for French Horn, Trombone, and Bariton Saxophone
+%%score 1 2 3
+L:1/8
+Q:1/4=185
+M:4/4
+I:linebreak $
+K:none
+V:1 treble transpose=-7 nm="Horn in F" snm="F Hn."
+V:2 treble transpose=-7 nm="Horn in F" snm="F Hn."
+V:3 treble transpose=-7 nm="Horn in F" snm="F Hn."
+V:1
+[K:F]!mf! z4 z4 | !>!G4 z4 | z8 | z4 z2 (3(_AB=B | c2) _ec- c2 B2 |[M:2/4] c2 _ec |$ %6
+[M:4/4] c4- c4 | z2!f! !>!F2 (3!>!F2 !>!G2 !>!_A2 |!f! !>!e3 !>!f- f2 !>!=B2 | !>!c3 !>!F- F4 | %10
+ !>!=B3 !>!B- B2 !>!B2 | !>!=B4 !>!B4 | !>!c4- c4 | %13
+!f!"^You've Got a Friend in Me"[Q:1/4=116]"^Swing" D4 ^C4 |$ C4 ^C4 | D4 ^C4 | C4 ^C4 | %17
+ D F2 D G2 FD- | D6 z2 | z GBG B2 GF- | F6 z2 |$ G/_E F3 B,3- B,/ | z AAB- BGF!>!B- | %23
+ BGF!>!G- GDB,!>!D- | D .D2 !>!D- D4 | z2 G2 FB,B,B, |$ !tenuto!A .A2 !>!B- B2 G2 | %27
+ B2 GF !tenuto!B, .B,2 !>!B,- | B,6 z2 | B2 GF !tenuto!B .B2 !>!B- | %30
+[K:G] B!tenuto!=F .G2 !^!_B2 z2 |$ %31
+[Q:1/4=120]!mf!"^Raiders' March""^Straight" .D z2 .D/.D/ .D z2 z | .D z2 .D/.D/ .D/.D/ z z2 | %33
+ .D z2 .D/.D/ .D z2 z | .D z2 .D/.D/ .D/.D/ z2 z |$ .D z2 .D/.D/ .D z2 z | %36
+ .D z2 .D/.D/ .D/.D/ z2 z | .D z2 .D/.D/ .D z2 z |$ ._E z2 .E/.E/ .E/.E/ z2 z | %39
+ (B2 !^!c>)d B2 !^!c/ z/ (d | B2 !^!c/) z/ (d G2 c) z | c2 !^!B>A G4 |[K:C][M:2/4] G4 |] %43
+V:2
+[K:F]!ff! .F2 F!>!c- c4 | z2 !>!F2 (3!>!F2 !>!G2 !>!_A2 | .G2 F!>!_d- d4- | d8 | z8 | %5
+[M:2/4]!mf!!mf! F4 |$[M:4/4]!f!!f! .F2 F!>!c- c4 | z2 !>!F2 (3!>!F2 !>!G2 !>!_A2 | %8
+!f! !>!e3 !>!f- f2 !>!=B2 | !>!F!>!G!>!_A!>!^c- c2 !>!=c2 | !>!F3 !>!F- F2 !>!F2 | !>!_E4 !>!^C4 | %12
+ !>!C4- C4 |!mp!"^You've Got a Friend in Me" B,4 A,4 |$ _A,4 =A,4 | B,4 A,4 | _A,4 =A,4 | %17
+!p! F B2 F A2 AF- | F2 cB z _A3 | G2 B2 e2 ^cd- | d2 d^c z d3 |$ B/G B3 F3- F/ | %22
+ z DDD- D2 D!>!_E- | E2 _E!>!D- D2 B,!>!C- | C .C2 !>!B,- B,2 .B,2 | _E4 D4 |$ %26
+ !tenuto!^F .F2 !>!G- G2 D2 | E2 z2 !tenuto!C .^C2 !>!D- | D6 z2 | E2 z2 !tenuto!C .^C2 !>!D- | %30
+[K:G] D!tenuto!=F .G2 !^!_B,2 z2 |$!mf!"^Raiders' March" .B, z2 .B,/.B,/ .B, z2 z | %32
+ .B, z2 .B,/.B,/ .B,/.B,/ z z2 | .B, z2 .B,/.B,/ .B, z2 z | .B, z2 .B,/.B,/ .B,/.B,/ z2 z |$ %35
+ .B, z2 .B,/.B,/ .B, z2 z | .B, z2 .B,/.B,/ .B,/.B,/ z2 z | .B, z2 .B,/.B,/ .B, z2 z |$ %38
+ .C z2 .C/.C/ .C/.C/ z2 z | (G2 !^!A>)D G2 !^!A/ z/ (D | G2 !^!A/) z/ (D E2 A) z | z4 c2 !^!B>A | %42
+[K:C][M:2/4] G4 |] %43
+V:3
+[K:F]!ff! z8 | !>!_e4 z4 | z8 | z8 | z8 |[M:2/4]!mf!!mf! F4 |$[M:4/4]!f!!f! .F2 F!>!c- c4 | z8 | %8
+!f! !>!_d3 !>!d- d2 !>!=B2 | !>!c3 !>!F- F4 | !>!F3 !>!F- F2 !>!F2 | !>!F4 !>!F4 | !>!C4- C4 | %13
+!mp!"^You've Got a Friend in Me" z2 .F2 z2 .F2 |$ z2 .F2 z2 .F2 | z2 .F2 z2 .F2 | z2 .F2 z2 .F2 | %17
+!p! B d2 B ^c2 cB- | B2 _AG z F3 | _E2 G2 ^c2 BB- | B2 BA z B3 |$ _E/E E3 D3- D/ | %22
+ z ^FFG- G2 B!>!G- | G2 B!>!B- B2 F!>!^F- | F .^F2 !>!G- G2 .G2 | B4 B4 |$ %26
+ !tenuto!c .c2 !>!d- d2 B2 | c2 z2 !tenuto!_E .=E2 !>!F- | F2 F2 G2 A2 | %29
+ c2 z2 !tenuto!_E .=E2 !>!F- |[K:G] F!tenuto!=F .G2 !^!_B2 z2 |$"^Raiders' March" z8 | %32
+ z4 z2!f! B,>C | DG- G4 A,>B, | C6 D>E |$ Fc- c4 E>F | G2 A2 B2 B,>C | DG- G4 A>B |$ c6 C>C | %39
+ B2 !^!A>D B2 !^!A/ z/ D | B2 !^!A/ z/ D c2 !^!B>A | G4- G4 |[K:C][M:2/4] G4 |] %43

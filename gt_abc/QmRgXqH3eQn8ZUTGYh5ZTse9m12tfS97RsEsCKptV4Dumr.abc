@@ -1,0 +1,93 @@
+X:1
+T:Pour soustenir
+C:Ioannes de Hollande
+%%score [ 1 2 [ 3 4 ] 5 ]
+L:1/4
+Q:1/4=120
+M:2/2
+I:linebreak $
+K:F
+V:1 treble nm="Soprano" snm="S"
+V:2 treble nm="Alto" snm="A"
+V:3 treble-8 nm="Tenor 1" snm="T 1"
+V:4 treble-8 nm="Tenor 2" snm="T 2"
+V:5 bass nm="Bass" snm="B"
+V:1
+"^Source: Le XIIIième Livre de Chansons---Anvers---T.Susato--1550.\nEditor: André Vierendeels (27/11/77)" G2 d3/2 d/ | %1
+w: Pour sous- te-|
+ d c d f | e d3/2 c/ c/B/4A/4 | B d2 c/B/ | A/B/c/A/ B A |$ B2 z A |$ d3/2 d/ d c | d d g g | %8
+w: nir croy que fa-|ci- * * le- * *|ment,que _ fa- *|cil- * * * * le-|ment, pour|sous te- nir croy|que fa- cil- le-|
+ f2 z2 | z4 | z4 |$ z4 | z G d3/2 d/ |$ d c d f | e d2 c | d4 | z4 |$ z4 | z4 | z e f3/2 e/ |$ %20
+w: ment-||||pour sous- te-|nir croy que fa-|cil- * le-|ment||||pour sous- te-|
+ d f e d- | d c d f | e d2 c | B A3/2 G/ G- | G F G2 |$ z4 | z d d G |$ d d d f/e/ | %28
+w: * neur ver- tu,|_ no- bles- se|main- * *||* te- nir,||cest le bou-|cle du quel vi- *|
+ d/c/ e3/2 d/ d- | d c d2 | z4 | z e f2- |$ f e d2 | d d e g |$ f3/2 e/ d/c/ f | e/d/ d2 c | %36
+w: * * si- * *|* ble- ment||sort la|_ lou- an-|ge de foy en-|tre _ _ _ _|_ _ _ te-|
+ d2 z d | d2 e2 | d3 d | d B3/2 A/ A- |$ A G A2- |$ A2 z2 | z4 | z4 | z2 z d | f g d f |$ %46
+w: nir par|quoy tou-|jours vo-|les fa- * cil-|* le- ment|_|||tout|mal- fu- ir et|
+ e d (c f) | e/d/ d2"^#" c | d2 z2 |$ z G B c | G d c B | d3/2 c/ B A/G/ | A B3/2 A/ G- | %53
+w: le hault bien _|re- * * te-|nir|tout mal fu-|ir et le hault|bien _ _ _ _|_ re- * *|
+ G"^#" F G2- | G4- |$ G4- | G4 |] %57
+w: * te- nir.|_|||
+V:2
+ z4 | z2 D2 | G3/2 G/ G F | G B A3/2 G/ | F G2 F |$ G3/2 A/ B A |$ G/F/E/D/ E F- | %7
+w: |Pour|sous- te- nir croy|que fa- cil- *||||
+ F E/D/ E/F/G/E/ | F D E2 | D2 z D | A3/2 A/ A G |$ A3 G | F E2 D |$ E2 z B | B G A A | F G A2 | %16
+w: |* * le-|ment, pour|sous- te- nir croy|que fa-|cil- * le-|ment, Hon-|neur no- bles- se|et ver- tu,|
+ z G F D |$ E G2 F | G3 B | A G F2 |$ z2 z D | G (G F/)G/A/B/ | c G A2 | F3 E | %24
+w: Hon- neur no-|bles- se et|ver- tu|main- te- nir|no-|bles- seet ver- * * *|* tu main-|te- *|
+ (3D3/2 E/ F z4/3 x2/3 |$ B,2 z G | G F G G |$ A B A2 | G3/2 A/ B2 | A4 | z F B3/2 A/ | %31
+w: |* cest|le bou- cle du|quel vi- si-|* * ble-|ment|sort la lou-|
+ G G F3/2 G/ |$ A3 B- | B/A/ A/G/4F/4 G2 |$ z A D A | A G A2 | z A F2- | F E/D/ G2 | F2 z F | %39
+w: an- ge de foy|en- tre-|* * te- * * nir|de foy en-|tre- te- nir|par quoy|_ _ _ tou-|jours vo-|
+ F F F G |$ D3/2 E/ F2- |$ F2 z D | F G D F | E D/E/ F/D/ G- | G F G B | A G3/2 F/ A |$ %46
+w: les fa- cil- le-|ment _ _|_ tout|mal fu- ir et|le hault _ _ _ bien|_ _ _ re-||
+ G F/G/ A/B/ c- | c/B/A/G/ A2 | z B2 A |$ G3 F | E A2 G | A D2 E | F D2 E | D2 z D | %54
+w: * * * * * te-|* * * * nir,|tout mal|fu- ir|et le bien|re- * *|te- * *|nir, et|
+ B, C B,"^b" E- |$ E"^b" E D2- | D4 |] %57
+w: le- bien re- *|* te- nir.|_|
+V:3
+ z4 | z4 | z4 | G2 d3/2 d/ | d c d f |$ e d3/2 c/ A |$ B2 z A | d3/2 d/ d c | A2 A2 | B3/2 A/ F G | %10
+w: |||Pour sous- te-|nir croy que fa-|cil- * * le-|ment, pour|sous- te- nir croy|que fa-|cil- * * *|
+ F3/2 G/ A B |$ A2 z d/e/ | f/g/ a2 g |$ a2 g f | g/f/e/d/ e2 | z d f f | e2 d2 |$ G2 z d | %18
+w: * * * le-|ment, fa- *|* * cil- *||le- * * * ment,|que- hon- neur|et ver-|tu, que|
+ d2 d d | f c d2 |$ z4 | z (G d) d | c B A2 | z A A c | B A G2 |$ z d d G | d d B/c/d/e/ |$ %27
+w: hon- neur et|ver- * tu||no- bles- se|main- te- nir,|no- bles- se|main- te- nir,|cest le bou-|cle du quel _ _ _|
+ f g2 f | g e f g | e2 d2 | z4 | z c f3/2 e/ |$ d c d/c/B/A/ | G A B G |$ A2 z d | e g f e | %36
+w: _ _ _|* vi- si- *|ble- ment||sort la lou-|an- ge de _ _ _|foy e- tre- te-|nir de|foy en- tre- te-|
+ d2 z d | d2 c2 | A3 d | d d c2 |$ B2 A3/2 G/ |$ F2 z2 | z G B c | G d d c | d4 | z2 z A |$ %46
+w: , par|quoy tou-|jours vo-|les fa- ci-|le- ment _|_|tout mal fu-|ir, tout mal fu-|ir,|tout|
+ c d A a | g f e2 | d3 e |$ d/c/B/A/ G A/B/ | c f3/2 e/d/c/ | d2 z2 | z4 | z A B3/2 c/ | %54
+w: mal fu- ir, tout|mal fu- ir,|et le|bien _ _ _ _ re- *|* te- * * *|nir,||et le _|
+ d"^b" e d c- |$ c/G/ c2 B/A/ |"^-natural" B4 |] %57
+w: _ bien re- te-|* * te- * *|nir.|
+V:4
+ z4 | z4 | z4 | z4 | z4 |$ z4 |$ z4 | z2 G2 | d3/2 d/ d c | d2 c B | A3/2 B/ c d- |$ d c d2- | %12
+w: |||||||Pour|sous- te- nir croy|que fa- cil-|||
+ d c B2 |$ A/B/c/A/ B/c/ d | G B A A | B G d d | G c2 B |$ c2 G A | B4 | z G A2- |$ A c B A | %21
+w: ||* le- ment,hon- *|neur no- bles- se|et ver- *|tu main- te-|nir|et ver-|* tu main- _|
+ G2 A f | g/f/e/d/ e2 | d2 c2 | z d d G |$ d B A c | B A G2 |$ z4 | z4 | z c f3/2 e/ | d3/2 c/ d2 | %31
+w: te- * *||nir, _|cest le bou-|cle du quel vi-|si- ble- ment|||sort la lou-|an- * *|
+ B"^-natural" e d A- |$ A/B/ c A G/A/ | B/c/ d2 c |$ d A B d | c B A2 | z2 A2 | B2 G2 | d2 z B | %39
+w: ge de foy en-|* * tre- te- * *||nir, de foy en-|tre- te- nir|par|quoy tou-|jours vo-|
+ B F A A |$ d4 |$ z d c B | A B G A | B2 A G | A B3/2 A/B/c/ | d G z2 |$ z2 z A | c d A2 | %48
+w: les fa- ci- le-|ment|tout mal fu-|ir et le bien|re- te- *||* nir,|tout|mal fu- ir,|
+ z2 z A |$ B d2 c- | c/B/A/G/ A B | A G/A/ B/G/ c- | c B/A/ B c | A2 G2- | G4- |$ G4- | G4 |] %57
+w: tout|mal fu- ir|_ _ _ _ _ et|le bien _ _ _ re-||te- nir.|_|||
+V:5
+ z4 | z4 | z4 | z4 | z2 D,2 |$ G,3/2 G,/ G, F, |$ G, B, A,3/2 G,/ | F, G, E,2 | D,2 z2 | z4 | z4 |$ %11
+w: ||||Pour|sous tenir _ croy|que fa- cil- *|* * le-|ment,|||
+ z4 | z4 |$ z4 | z4 | z2 D,2 | E, C, D, D, |$ C,3/2 D,/ E, C, | G,3 G, | F, E, D,3/2 E,/ |$ %20
+w: ||||hon-|neur no- bles- se|et _ _ ver-|tu, et|ver- tu main- *|
+ F,/G,/ A, G, F, | E,2 D,2 | z4 | D,2 F, C, | D, D, G,2 |$ z G, F, E, | D,2 z D |$ D G, D D | %28
+w: |te- nir,||no- bles- se|main- te- nir,|cest le bou-|cle cest|le bou- cle du|
+ B, C D G, | A,2 z F, | B,3/2 A,/ G, F, | G, C, D,3/2 E,/ |$ F,/G,/ A, D, G,- | G, F, E,2 |$ %34
+w: quel vi- si- ble-|ment sort|la lou- an _|ge de foy _|_ _ _ _ en-|* tre- te-|
+ D,2 z2 | z4 | D,4 | B,,2 C,2 | D,3 B,, | B,, B,, F,2 |$ G,2 D,2 |$ z D, F, G, | D, G, G, F, | %43
+w: nir||par|quoy tou-|jours vo-|les fa- ci-|le- ment|tout mal fu-|ir et le bien|
+ G,2 F, E, | D,2 G,2 | z4 |$ z4 | z4 | z G, B, C |$ %49
+w: re- te- *|nir ,||||tout mal fu-|
+ G,2"^Notes: original keys: Si, Ut 2nd, Ut 3rd, Ut 3rd, Fa 3rd\n           note values have been halved \n           editorial accidentals above de staff\n           m32 in T2: \"mi\" natural in original print" z2 | %50
+w: ir|
+ z D, F, G, | D, G, G, C, | F, G,2 C, | D,2 z G,- | G, C, G, C,- |$ C, C, G,2- | G,4 |] %57
+w: tout mal fu-|ir et le bien|re- * te-|nir et|_ le bien re-|* te- nir.|_|

@@ -1,0 +1,37 @@
+X:1
+T:TOURDION
+T:Tutti
+T:Anonyme publié en 1530 par P. ATTAINGNANT
+%%score 1 2 3 4
+L:1/4
+M:3/2
+I:linebreak $
+K:D
+V:1 treble nm="Soprano" snm="S."
+V:2 treble nm="Alto" snm="A."
+V:3 treble-8 nm="Tenor" snm="T."
+V:4 bass nm="Bass" snm="B."
+V:1
+|: E F G A G F | E3 F G A | B A G G A F | G2 F E D2 |$ E F G A G F | E2 G2 F2 | E4 D2 | E4 E2 :| %8
+w: Quand je bois du vin clai-|ret, a- mi, tout|tour- ne tour- ne tour- ne|tou * r- ne|aus- si dé- sor- mais je|bois An- jou|ou Ar-|bois, *|
+ B3 A B =c |$ B4 B2 | d =c B A G F | G3 F E2 | B3 A B =c | B2 A G F2 | E4 D2 |$ E4 E2!D.C.! :| %16
+w: Chan- tons et bu-|vons, à|ce fla- con fai- sons la|guer * re,|chan- tons et bu-|vons, les a- mis,|bu- vons|donc- *|
+V:2
+|: B,4 B,2 | E4 E2 | D4 E2 | E2 A4 |$ G4 E2 | B, A, B, =C D2 | B,2 B,4 | B,4 B,2 :| G4 G2 |$ %9
+w: Le bon|vin nous|a ren-|dus gais,|chan- tons,|ou- bli- ons nos pei-|nes, chan-|tons. *|En man-|
+ G4 G2 | F4 F2 | E4 E2 | D4 D2 | D4 D2 | B,2 B,4 |$ B,4 B,2 :| %16
+w: geant d'un|gras jam-|bon, à|ce la-|con fai-|sons la|gue- re|
+V:3
+|: G4 E2 | B4 B2 | B4 ^c2 | B4 A2 |$ B4 B2 | G4 A2 | G2 F E F2 | E4 E2 :| e4 e2 |$ d4 d2 | d4 d2 | %11
+w: Bu- vons|bien, là,|bu- vons|donc, à|ce fla-|con fai-|sons la- * *|guer- re|En man-|geant d'un|gras jam-|
+w: |||* a-|mi train-|quons, gaie-|ment chan * *|tons.- *||||
+ B4 B2 | B4 B2 | B4 A2 | G2 F4 |$ E4 E2 :| %16
+w: bon, *|ce fla-|con fai-|sons la|guer- re!|
+w: |||||
+V:4
+|: E,4 E,2 | E,4 E,2 | G,2 B,2 A,2 | E,2 F,4 |$ E,4 E,2 | E,4 D,2 | E,2 B,,4 | E,4 E,2 :| %8
+w: Bu- vons|bien bu-|vons mes a-|mis, trin-|quons, bu-|vons, vi-|dons nos|ver- res|
+w: |||||* gaie-|ment chan-|tons. *|
+ E,4 E,2 |$ G,4 G,2 | D,4 D,2 | E,4 E,2 | G,4 G,2 | G,4 D,2 | E,2 B,,4 |$ E,4 E,2 :| %16
+w: En man-|geant d'un|gras jam-|bon à|ce fla-|con fai-|sons la|gue- re!|
+w: ||||||||

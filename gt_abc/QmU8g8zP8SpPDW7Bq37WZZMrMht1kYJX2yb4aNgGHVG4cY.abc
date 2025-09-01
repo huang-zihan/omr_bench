@@ -1,0 +1,23 @@
+X:1
+T:La Importancia de la Resperacion --------------
+T:I love you but I don't know where I'm going.
+C:Lilian Wakefield
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=110
+M:3/4
+I:linebreak $
+K:Eb
+V:1 treble transpose=12 nm="Celesta" snm="Cel."
+V:2 bass transpose=12 
+L:1/4
+V:1
+|: z6 | z6 | z6 | z6 | !arpeggio![Bg]6 | z2 g/f/e [Bf]2 | [Ge]3 d2 z |$ BA G[EBg] fe/ z/ | %8
+ !arpeggio![Bg]4 z2 | z !arpeggio![ABeg]>fe [Bf]2 | e7/4d/4- dc3/2B3/2 | d7/4c/4- cB3/2G3/2 | %12
+ !arpeggio![CGBea]6 |$ z6 :| %14
+V:2
+|: E,3 | C,3 | E,- [E,-B,]/[E,-G,]/ E, | C,- [C,-G,]/[C,-E,]/ C, | %4
+ !arpeggio!E,- [E,-B,]/[E,-G,]/ E, | C,- [C,-G,]/[C,-E,]/ C, | E,- [E,-B,]/[E,-G,]/ E, |$ %7
+ C,- [C,-G,]/[C,-E,]/ C, | !arpeggio!E,- [E,-B,]/[E,-G,]/ E, | C,- [C,-G,]/[C,-E,]/ C, | %10
+ [C,E,-] [E,-G,B,]/[B,,E,-G,]/ E, | [F,,C,-] [B,,C,-G,]/[G,,C,-E,]/ C, | %12
+ !arpeggio![A,,E,-] [E,-B,]/[E,-G,]/ E, |$ [A,,C,-] [C,-G,]/[C,-E,]/ C, :| %14

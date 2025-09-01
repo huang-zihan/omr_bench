@@ -1,0 +1,17 @@
+X:1
+T:Waltz. Roose.0820
+%%score ( 1 2 )
+L:1/8
+Q:3/4=50
+M:3/4
+I:linebreak $
+K:F
+V:1 treble 
+V:2 treble 
+L:1/4
+V:1
+|: A>B |{d} c>=Bc>A F2 |{g} f>ef>c A2 |{b} a>^ga>ef>A | B4 GA | B>AB>G E2 |${a} g>^fg>eb>g | %7
+ =f>ef>ag>e | f4 :: g>a | b>ag>fe>d | .c2 (f2 a2) | .d2 g2 b2 | (a2 g2) ga |$ b>ag>fe>d | %15
+ .c2 (f2 a2) | d>gb>ge>g | f4 :| %18
+V:2
+|: x | x3 | x3 | x3 | D2 z | x3 |$ x3 | x3 | A2 :: x | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | A2 :| %18

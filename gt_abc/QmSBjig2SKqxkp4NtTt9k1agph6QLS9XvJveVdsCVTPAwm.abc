@@ -1,0 +1,39 @@
+X:1
+T:Bossiney, irr.
+C:Gustav Theodore Holst, 1906
+Z:Public Domain
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+M:none
+I:linebreak $
+K:F
+V:1 treble 
+L:1/8
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ [CF]2 C2 [B,D]2 [CF]2 | [FB][FA][EG][EA] [EG]2 F2 | [Fc]2 (DE) [FA]3 [CA] | (GA)(BG) [CE]4 | %4
+ [A,F]2 [CG][FA] D2 z B x |$ ([FA][GB])([Ac][FA]) [FA]2 [EG]2 | [Fc]2 (AG) [DF]2 [DG]2 | %7
+ [CF]2 [CE]2 [CF]4 || [EG]2 [Fc][G=B] [FA]2 [A,F]2 | [=B,D]2 [B,G]2 [CF]2 [CE]2 |$ %10
+ [CA]2 [=B,A]2 [CG]3 [CG] | (FG)(AF) [=B,D]4 | D2 [=B,G][B,F] [CE]3 [CE] | (EF)(GA) [DG]2 [DF]2 | %14
+ G2 [_GA]2 [=GB]2 [DA]2 |$ (GA)(GF) [CE]4 || [CF]2 C2 [B,D]2 [CF]2 | [FB][FA][EG][EA] [EG]2 F2 | %18
+ [Fc]2 (DE) [FA]3 [CA] | (GA)BG [CE]4 |$ [A,F]2 [CG][FA] D2 z B x | %21
+ ([FA][GB])([Ac][FA]) [FA]2 [EG]2 | [Fc]2 (AG) [DF]2 [DG]2 | [CF]2 [CE]2 [CF]4 || %24
+V:2
+ x C x2 | x3 F | x B x2 | D D x2 | x2 B3/2 C |$ x4 | x E x2 | x4 || x4 | x4 |$ x4 | C C x2 | D x3 | %13
+ x C x2 | G x3 |$ B, B, x2 || x C x2 | x3 F | x B x2 | D D x2 |$ x2 B3/2 C | x4 | x E x2 | x4 || %24
+V:3
+ [F,,A,] [A,,F,] [B,,F,] [A,,C] | [G,,D]/[G,,C]/[C,B,]/[C,C]/ [F,B,] [F,A,] | %2
+ [F,,A,] [G,,B,] [A,,C]3/2 [F,,F,]/ | [B,,F,] [G,,F,] [C,G,]2 | %4
+ [D,F,] [E,C]/[F,C]/ [G,B,] [E,C] x/ |$ [F,C] [A,,C] [C,C] [C,C] | [A,,C] (C/B,/) [D,A,] [C,B,] | %7
+ [C,A,] [C,G,] [F,A,]2 || [C,C] [D,C]/[E,C]/ [F,C] [D,C] | G, [G,,G,] [C,G,] [C,G,] |$ %10
+ F, [D,F,] [E,G,]3/2 [E,G,]/ | [D,A,] [F,A,] G,2 | [=B,,A,] [G,,G,]/[G,,G,]/ [C,G,]3/2 [C,G,]/ | %13
+ [C,A,] [A,,A,] [D,A,] [D,A,] | [B,D] [A,C] [G,D] [F,B,] |$ [E,G,] [D,G,] [C,G,]2 || %16
+ [F,,A,] [A,,F,] [B,,F,] [A,,C] | [G,,D]/[G,,C]/[C,B,]/[C,C]/ [F,B,] [F,A,] | %18
+ [F,,A,] [G,,B,] [A,,C]3/2 [F,,F,]/ | [B,,F,] [G,,F,] [C,G,]2 |$ %20
+ [D,F,] [E,C]/[F,C]/ [G,B,] [E,C] x/ | [F,C] [A,,C] [C,C] [C,C] | [A,,C] (C/B,/) [D,A,] [C,B,] | %23
+ [C,A,] [C,G,] [F,A,]2 || %24
+V:4
+ x4 | x4 | x4 | x4 | x9/2 |$ x4 | x C, x2 | x4 || x4 | G, x3 |$ F, x3 | x2 G,2 | x4 | x4 | x4 |$ %15
+ x4 || x4 | x4 | x4 | x4 |$ x9/2 | x4 | x C, x2 | x4 || %24

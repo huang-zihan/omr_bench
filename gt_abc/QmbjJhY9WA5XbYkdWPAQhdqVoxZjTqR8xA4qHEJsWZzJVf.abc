@@ -1,0 +1,46 @@
+X:1
+T:The LORD Bless You and Keep You
+Z:This hymn is in the public domain. You may freely use this score for personal and congregational worship. If you reproduce the score, please credit Hymnary.org as the source.
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="SOPRANO ALTO" snm="S. A."
+V:2 treble 
+V:3 bass nm="TENOR BASS" snm="T. B."
+V:4 bass 
+V:1
+ G2 | G4 E2 CC | (D2 F2) E3 G | G2 EG |$ c>B AE | (G2 ^F2) G2 z2 | z E FE |1$ A2 z2 | %8
+w: The|LORD bless you and|keep * you; the|LORD lift his|coun- te- nance up-|on * you|and give you|peace|
+w: ||||||||
+ z G AG c z z G | (GE) Gc ||$"^Page 2" e>c GE | (G2 F2) E2 EA | %12
+w: and give you peace; *|make * his *|face to shine up-|on * you, and be|
+w: * * * * The|LORD _ make his|||
+"^The LORD Bless You and Keep You" (A4 A)G EG |$ c3 c c2 A2- | A2 z A G3 C | AG z2 G2 F2 | E4 D4 | %17
+w: gra- * cious un- to|you, be gra- cious,|* the LORD be|gra- cious, gra- cious|un- to|
+w: |||||
+ C6 x2 |] %18
+w: you.|
+w: |
+V:2
+ C2 | C4 C2 CC | (C2 B,2) C3 E | E2 CE |$ E>E EE | D4 D2 x2 | x ^C CC |1$ D2 x2 | x D DD CG (GF) | %9
+w: ||||||||* * * * the LORD *|
+ (EC) E2 ||$ E>E EC | (E2 D2) C2 z2 | z2 CD EE z2 |$ z2 FG A2 F2- | F2 x C C3 C | CC x2 ^C2 D2 | %16
+w: |||||||
+ =C4 B,4 | C6 x2 |] %18
+w: ||
+V:3
+ E,2 | E,4 G,2 E,E, | (A,2 G,2) G,3 C | C2 G,G, |$ A,>^G, A,A, | (B,2 A,2) B,2 z2 | z A, A,A, |1$ %7
+w: |||||||
+ A,2 z2 | z B, CB, CG, (A,B,) | C2 C2 ||$ C>C CC | (C2 B,2) C2 z2 | z2 A,B, CC z2 |$ %13
+w: |||||and be gra- cious,|
+ z2 C_B, A,2 (C2 | C2) z C _B,3 B, | _B,B, z2 A,2 A,2 | G,6 F,2 | E,6 x2 |] %18
+w: and be gra- cious,|||||
+V:4
+ C,2 | C,4 C,2 C,C, | (F,,2 G,,2) C,3 C, | C,2 C,C, |$ A,,>B,, C,C, | D,4 G,G, G,G, | G,4- |1$ %7
+w: |||||* * and give you|peace;|
+ F,F,F,F, | F,4- E,E, D,2 | (C,C) (G,E,) ||$ C,>G, G,G, | (G,2 ^G,2) A,2 x2 | x2 F,F, E,E, x2 |$ %13
+w: * and give you|peace; * * *|||||
+ x2 D,E, F,2 F,2- | F,2 x F, E,3 E, | F,E, x2 E,2 D,2 | G,,4 G,,4 | C,6 x2 |] %18
+w: |||||

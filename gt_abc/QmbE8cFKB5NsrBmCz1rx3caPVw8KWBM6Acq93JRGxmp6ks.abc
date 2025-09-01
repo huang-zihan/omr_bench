@@ -1,0 +1,35 @@
+X:1
+T:Title
+%%score { ( 1 3 ) | ( 2 4 5 ) }
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:A
+V:1 treble nm="Grand Piano"
+V:3 treble 
+V:2 bass 
+V:4 bass 
+L:1/8
+V:5 bass 
+L:1/8
+V:1
+ [CE] [CE] [CE] [CE]/[CE]/ | [DF]2 [CE] [CE]/[CE]/ | [EA] B c B/A/ |[M:5/4] A G [CA]3 | %4
+w: Adam~Geibel * * * *||||
+[M:4/4] [CE] [CE] [CE] [CE]/[CE]/ | [DF]2 [CE] [CE] | [EA] B c B |$ %7
+w: |||
+[M:9/8] A [^EG]/ [EG]/ F- F/E/E/ |[M:4/4] E4 | [A,CE]4 | [A,DF]4 | [A,CE]4 |] %12
+w: |||||
+V:2
+ [A,,A,] [A,,A,] [A,,A,] [A,,A,]/[A,,A,]/ | [D,A,]2 [A,,A,] [A,,A,]/[A,,A,]/ | %2
+ [C,A,] [E,G,E] [A,E] [D,D] |[M:5/4] [E,CE] [E,B,D] [A,,A,]3 | %4
+[M:4/4] [A,,A,] [A,,A,] [A,,A,] [A,,A,]/[A,,A,]/ | [D,A,]2 [A,,A,] [A,,A,] | %6
+ [C,A,] [E,G,E] [A,E] [E,G,D] |$[M:9/8] [F,A,C] [C,B,]/ [C,B,]/ [D,A,]- [D,A,]/[^D,A,=C]/[D,A,C]/ | %8
+[M:4/4] [A,C]2 z D | A,,4 | D,4 | A,,4 |] %12
+V:3
+ x4 | x4 | z2 z F |[M:5/4] x5 |[M:4/4] x4 | x4 | x4 |$[M:9/8] x9/2 |[M:4/4] z2 B, z | x4 | x4 | %11
+ x4 |] %12
+V:4
+ x8 | x8 | x8 |[M:5/4] x10 |[M:4/4] x8 | x8 | x8 |$[M:9/8] x9 |[M:4/4] z4 G,4 | x8 | x8 | x8 |] %12
+V:5
+ x8 | x8 | x8 |[M:5/4] x10 |[M:4/4] x8 | x8 | x8 |$[M:9/8] x9 |[M:4/4] E,8 | x8 | x8 | x8 |] %12

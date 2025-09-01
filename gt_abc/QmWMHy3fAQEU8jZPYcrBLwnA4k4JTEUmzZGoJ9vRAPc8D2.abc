@@ -1,0 +1,39 @@
+X:1
+T:Hvile
+C:Agathe Backer Grøndahl, Op.67.No.3.
+%%score [ 1 2 3 ]
+L:1/8
+Q:1/8=108
+M:6/8
+I:linebreak $
+K:Eb
+V:1 treble nm="S1"
+V:2 treble nm="S2"
+V:3 treble nm="A"
+V:1
+"^Tranquillo"!mf! G G G G2 F | B B!<(! B (dc) B!<)! | g e e (eB) _A | A2 G!>(! F3!>)! | %4
+w: So- len er sluk- ket,|Da- gen for- stum- * mer,|Sky- er- ne staa _ ved|Him- lens Rand,|
+ A A c (cB) f |$ f!<(! e A (AG) c!<)! | e d c (BG) E |!>(! (CF) D E2 z!>)! |!mf! G G G G2 F | %9
+w: Stjer- ner- ne smi- * le,|drøm- me og Slum- * mer|fav- ne i Stil- * hed|Hav _ og Land.|Ak, naar min Dag nu|
+ B B B!<(! (dc) B!<)! | g e e (eB) _A |$ A2 G F3 | A A c (cB) f |!<(! f e A (AG) c!<)! | %14
+w: snart er til- en- * de,|Kun- de jeg da _ som|Blom- sten der|Hæl- de mit Ho- * ved|blødt og mig ven- * de|
+ e d c (BG) E | (CF) D E3 |] %16
+w: Trygt mod det un- * ge|Mor- * gen- skjær|
+V:2
+!mf! E E E E2 D | E F!<(! G A2 A!<)! | G B =A (BG) E | (ED) E!>(! (ECD)!>)! | E A A (AB) G |$ %5
+w: So- len er sluk- ket,|Da- gen for- stum- mer,|Sky- er- ne staa _ ved|Him- * lens Rand, _ _|Stjer- ner- ne smi- * le,|
+ A!<(! A E E2 F!<)! | F ^F F (GE) C |!>(! (CA,) B, B,2 z!>)! |!mf! E E E E2 D | %9
+w: drøm- me og Slum- mer|fav- ne i Stil- * hed|Hav _ og Land.|Ak, naar min Dag nu|
+ E F G!<(! A2 A!<)! | G B =A (BG) E |$ ED E (ECD) | E A A A2 G |!<(! A A E E2 F!<)! | %14
+w: snart er til- en- de,|Kun- de jeg da _ som|Blom- * sten der _ _|Hæl- de mit Ho- ved|blødt og mig ven- de|
+ F ^F F (GE) C | (CA,) B, B,3 |] %16
+w: Trygt mod det un- * ge|Mor- * gen- skjær|
+V:3
+!mf! E D C (=A,B,) _A, | G, D!<(! E (B,C) D!<)! | E G ^F (GE) C | F,2 (G,/A,/)!>(! B,3!>)! | %4
+w: So- len er sluk- * ket,|Da- gen for- stum- * mer,|Sky- er- ne staa _ ved|Him- lens _ Rand,|
+ C F E =D2 _D |$ C!<(! C _C B,2 =A,!<)! | _A, A, =A, (B,=B,) C |!>(! (A,F,) A, G,2 z!>)! | %8
+w: Stjer- ner- ne smi- le,|drøm- me og Slum- mer|fav- ne i Stil- * hed|Hav _ og Land.|
+!mf! E D C (=A,B,) _A, | G, D E!<(! (B,C) D!<)! | E G ^F (GE) C |$ F,2 (G,/A,/) B,3 | %12
+w: Ak, naar min Dag _ nu|snart er til- en- * de,|Kun- de jeg da _ som|Blom- sten _ der|
+ C F E =D2 _D |!<(! C C _C B,2 =A,!<)! | _A, A, =A, (B,=B,) C | (A,F,) A, G,3 |] %16
+w: Hæl- de mit Ho- ved|blødt og mig ven- de|Trygt mod det un- * ge|Mor- * gen- skjær|

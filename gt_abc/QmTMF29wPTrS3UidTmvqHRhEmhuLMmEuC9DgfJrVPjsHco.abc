@@ -1,0 +1,76 @@
+X:1
+T:Title
+%%score [ 1 2 3 4 ]
+L:1/4
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:E
+V:1 treble nm="MusicXML Part"
+V:2 treble nm="MusicXML Part"
+V:3 treble-8 nm="MusicXML Part"
+V:4 bass nm="MusicXML Part"
+V:1
+!mf!"^Op. 25, No. 2  (1860)""^Wanderers Nachtlied" B/>"^Adagio ma non troppo"A/ | G F E F/F/ | %2
+w: Ü- ber|a- llen Gi- pfeln ist|
+ G3/2"^cresc." G/ A B | %3
+w: Ruh, in a- llen|
+!f!"^Moritz Hauptmann (1792-1868)\nJ.W. von Goethe (1749-1832)" c3/2 B/"^dim." A G | %4
+w: Wi- pfeln spü- rest|
+"^4" F z!pp! B F/B/ |$[M:4/4] G z z2 | z!mf! B/>A/ G B | e2"^cresc." d =d |!f! c e"^dim." B B |$ %9
+w: du kaum ei- nen|Hauch:|ü- ber a- llen|Gi- pfeln ist|Ruh, kaum spü- rest|
+ B z!pp! F B/F/ | G z z!p! G | G/>G/ G!<(! A A/A/!<)! |!>(! c/G/ G!>)! z2 |$ %13
+w: du, kaum ei- nen|Hauch; die|Vö- ge- lein schwei- gen im|Wa * lde.|
+ A/>!mf!A/ A B/>"^cresc."B/ B |!f! (c e/)c/ B z |!p! A2 G z | F B/F/ G z |$ %17
+w: War- te nur, war- te nur,|war * te nur|ba- lde|ruh- est du auch,|
+!mf! A/>A/ A B/>"^cresc."B/ B |!f! (c e/)c/ B z |!p! A2 G z | F B/F/ G z |$ A2 G z | F B/F/ G z | %23
+w: war- te nur, war- te nur,|war * te nur|ba- lde|ruh- est du auch,|ba- lde|ruh- est du auch,|
+!mf!!<(! c2 B2!<)! |!f! ^A/c/e/A/ B"^dim." B- |$"^________" (B A/)G/ F G/F/ | E!p! B2 G | %27
+w: ba- lde|ruh * est du auch, ba-|* * lde ruh- est du|auch, ruh- est|
+ E2 E3/2 E/ | E z F z |!<(!!>(! !fermata!G4!<)!!>)! |] %30
+w: du, ruh- est|du, du|auch.|
+V:2
+ z | z4 | z!mf! E"^cresc." E E |!f! E3/2 E/"^dim." D E | F z!pp! D D/D/ |$[M:4/4] E z z2 | %6
+w: ||in a- llen|Wi- pfeln spü- rest|du kaum ei- nen|Hauch:|
+ z!mf! D/D/ E B, | B, E/E/"^cresc." E E |!f! E3/2 E/"^dim." D E |$ F z!pp! D D/D/ | %10
+w: ü- ber a- llen|Gi- pfeln, in a- llen|Wi- pfeln spü- rest|du kaum ei- nen|
+ E!p! E E/>E/ E | D D!<(! F F/F/!<)! |!>(! G/E/ E!>)! z2 |$!mf! F/>F/ F G/>"^cresc."G/ G | %14
+w: Hauch; die Vö- ge- lein|schwei- gen, schwei- gen im|Wa * lde.|War- te nur, war- te nur,|
+!f! A3/2 A/ G z |!p! D2 E E- | E D/D/ E E/>!mf!E/ |$ E E/>E/ E"^cresc." E/E/ |!f! E3/2 E/ E z | %19
+w: war- te nur|ba- lde ruh|* est du auch, war- te|nur, war- te nur, war- te,|war- te nur|
+!p! D2 E E- | E D/D/ E z |$ E2 E E- | E D/D/ E!mf! E/>E/ |!<(! E E2!<)! E |!f! E2 F3/2"^dim." F/ |$ %25
+w: ba- lde ruh|* est du auch,|ba- lde ruh|* est du auch, war- te|nur, ba- lde|ruh- est du|
+ B, E2 D/D/ | E z z2 | z!p! E2 C | B, z D z |!<(!!>(! !fermata!E4!<)!!>)! |] %30
+w: auch, ruh- est du|auch,|ruh- est|du, du|auch.|
+V:3
+ z | z!mf! B/>A/ G B | e2"^cresc." d =d |!f! c e"^dim." B B | B z!pp! F B/B/ |$ %5
+w: |Ü- ber a- llen|Gi- pfeln ist|Ruh, kaum spü- rest|du, kaum ei- nen|
+[M:4/4] B z z!mf! B/>A/ | G F E F/F/ | G3/2 G/"^cresc." A B |!f! c3/2 B/"^dim." A G |$ %9
+w: Hauch: ü- ber|a- llen Gi- pfeln ist|Ruh, in a- llen|Wi- pfeln spü- rest|
+ F z!pp! B F/B/ | B z z!p! c | ^B/>B/ B!<(! c c/c/!<)! |!>(! G/c/ c!>)! z"^_"!mf! c/>c/ |$ %13
+w: du kaum ei- nen|Hauch; die|Vö- ge- lein schwei- gen im|Wa * lde. War- te|
+ c c/>c/ e"^cresc." e/e/ |!f! (e c/)e/ e z |!p! B2 B z | B F/B/ B z |$ %17
+w: nur, war- te nur, war- te,|war * te nur|ba- lde|ruh- est du auch,|
+!mf! c/>c/ c G/>"^cresc."G/ G |!f! A3/2 A/ G z |!p! B2 B z | B F/B/ B z |$ A2 B z | c F/B/ B z | %23
+w: war- te nur, war- te nur,|war- te nur|ba- lde|ruh- est du auch,|ba- lde|ruh- est du auch,|
+!mf!!<(! A2 G2!<)! |!f! F/^A/c/e/ d/c/"^dim."B/=A/ |$ G c/B/ ^A B/=A/ | G z z2 | z!p! c2 A | %28
+w: ba- lde,|ba * * lde ruh * est du|auch, ba- lde ruh- est du|auch,|ruh- est|
+ G z B z |!>(!!<(! !fermata!B4!>)!!<)! |] %30
+w: du, du|auch.|
+V:4
+ z | z4 | z!mf! E,"^cresc." F, G, |!f! A,3/2 G,/"^dim." F, E, | D, z!pp! B,, B,,/B,,/ |$ %5
+w: ||In a- llen|Wi- pfeln spü- rest|du kaum ei- nen|
+[M:4/4] E, z z2 | z B,,/!mf!B,,/ C, D, | E, E,/E,/"^cresc." F, G, |!f! A,3/2 G,/"^dim." F, E, |$ %9
+w: Hauch:|ü- ber a- llen|Gi- pfeln, in a- llen|Wi- pfeln spü- rest|
+ D, z!pp! B,, B,,/B,,/ | E, z z!p! C, | G,/>G,/ G,!<(! F, F,/F,/!<)! |!>(! E, C, z2!>)! |$ %13
+w: du kaum ei- nen|Hauch; die|Vö- ge- lein schwei- gen im|Wa- lde|
+!mf! F,/>F,/ F, E,/>"^cresc."E,/ E, |!f! A,3/2 A,/ E, z |!p! F,2 E, z | B,, B,,/B,,/ E, z |$ %17
+w: War- te nur, war- te nur,|war- te nur|ba- lde|ruh- est du auch,|
+!mf! A,/>A,/ A, E,/>"^cresc."E,/ E, |!f! (A,, C,/)A,,/ E, z |!p! F,2 E, z | B,, B,,/B,,/ E, z |$ %21
+w: ||||
+ C,2 B,, z | ^A,, B,,/B,,/ E, z |!mf!!<(! A,,2 B,,2!<)! |!f! C,2 D,3/2"^dim." D,/ |$ %25
+w: ba- lde|ruh- est du auch,|ba- lde|ruh- est du|
+ E, A,,/B,,/ C, B,,/B,,/ | E, z z2 | z!p! A,,2 C, | E, z B,, z | %29
+w: ||||
+!>(!!<(! !fermata![E,,E,]4!>)!!<)! |] %30
+w: |

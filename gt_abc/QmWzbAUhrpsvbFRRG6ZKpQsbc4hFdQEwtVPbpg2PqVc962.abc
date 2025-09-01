@@ -1,0 +1,66 @@
+X:1
+T:O dolce mia Clori
+C:Giovanni Ghizzolo
+%%score [ 1 2 ] { 3 | 4 }
+L:1/8
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Soprano" snm="S"
+V:2 bass nm="Bass" snm="B"
+V:3 treble nm="MusicXML Part"
+L:1/4
+V:4 bass 
+V:1
+"^Source: Madrigali et Arie---Libro secondo---Venetia---A.Raverij---1609.\nEditor: André Vierendeels (09/12/09)\nContinuo: André Vierendeels" z2 d2 _e2 ec | %1
+w: O dol- ce mia|
+w: O ric- cho te-|
+w: Et ec- co ch'io|
+w: Su dun- que mio|
+"^ARIA" d2 dB B2 BA | B2 Bd c2 c_e |$ d2 dB A2 A>G |[M:2/4] G2 G2 :: z2 G2 |[M:4/4] G2 GG A2 Ac |$ %7
+w: Clo- ri, O Clo- ri mia|bel- la, O chia- ra mia|stel- la, spe- ran- za de|co- ri.|Tu|l'al- ma ris- to- ri la|
+w: so- ro O ca- ro mio|be- ne per- che mi dai|pe- ne non ve- di ch'io|mo- ro.|Io|t'a- mo t'ho- no- ro ti|
+w: ar- do bei la- bra ri-|den- ti be- gli'oc- chi lu-|cen- ti do- na- te mi'un|sguar- do.|Vol-|ge- te- m'il dar- do fe-|
+w: co- re pie- ga- te mi'ho-|mai vol- ge- te- mi i|ra- i per pre- mio d'a-|mo- re.|Non|da- te do- lo- re a'un|
+ c2 cc d2 dd |$ d2 dB c2 cA | B2 BG A2 AF | G2 GA B2 B2 | z2 B>c d4- |$ d2 B2 A3 G |1 %13
+w: vi- ta mi da- i lo|so- lo mi strac- cio, mi|strug- go'e mi sfac- co, O|Clo- ri mia bel- la|O _ _|_ Clo- ri mia|
+w: bra- mo'e- de- si- o tu-|cru- da mi mie- ghi d'u-|dir i miei sprie- ghi O|Clo- ri ben mi- o|O _ _|_ Clo- ri ben|
+w: ri- te m'il co- re squar-|cia- te- m'il per- to per|vo- stro di- let- to be-|glioc- chi d'a- mo- re|be- * *|* glioc- chi d'a-|
+w: ser- vo fi- de- le a-|ma- te chi v'a- ma vi|cer- c'a vi chia- ma non|fia- te cru- de- le|non _ _|_ fia- te cru-|
+[M:2/4] G2 G2 :|2 G4 ||[M:4/4] G8 |] %16
+w: bel- la.|bel-|la.|
+w: mi- o.|mi-|o.|
+w: mo- re.|mo-|re.|
+w: de- le.|de-|le|
+V:2
+ z2 G,2 _E,2 E,F, | B,,2 B,,B,, _E,2 E,F, | B,,2 B,,B,, F,2 F,C, |$ G,2 G,C, D,2 D,D, | %4
+w: O dol- ce mia|Clo- ri, O Clo- ri mia|bel- la, O chia- ra mia|stel- la, spe- ran- za de|
+w: O ric- cho te-|so- ro O ca- ro mio|be- ne per- che mi dai|pe- ne non ve- di ch'io|
+w: Et ec- co ch'io|ar- do bei la- ra ri-|den- ti be- gl'oc- chi lu-|cen- ti do- na- te mi'un|
+w: Su dun- que mio|co- re pie- ga- te mi'ho-|mai vol- ge- te- mi i|ra- i per pre- mio d'a-|
+[M:2/4] G,,2 G,,2 :: z2 C,2 |[M:4/4] C,2 =B,,C, F,,2 F,,F, |$ F,2 E,F, B,,2 B,,B, |$ %8
+w: co- ri.|Tu|l'al- ma ris- to- ri la|vi- ta mi da- i lo|
+w: mo- ro.|Io|t'a- mo t'ho- no- ro ti|bra- mo'e de- si- o tu|
+w: sguar- do.|Vol-|ge- te- m'il dar- do fe-|ri- te m'il co- re squar-|
+w: mo- re.|Non|da- te do- lo- re a'un|ser- vo fi- de- le a-|
+ B,2 B,G, A,2 A,F, | G,2 G,E, F,2 F,D, | _E,2 E,C, B,,2 B,,2 | B,6 A,G, |$ ^F,2 G,2 C,2 D,2 |1 %13
+w: so- lo mi strac- cio, mi|strug- go'e mi sfac- co, O|Clo- ri mia bel- la|O _ _|_ Clo- ri mia|
+w: cru- da mi mie- ghi d'u-|dir i miei sprie- ghi O|Clo- ri ben mi- o|O _ _|_ Clo- ri ben|
+w: cia- te m'il per- to per|vo- stro di- let- to be-|glioc- chi d'a- mo- re|be- * *|* glioc- chi d'a-|
+w: ma- te chi v'a- ma vi|cer- c'a vi chia- ma non|fia- te cru- de- le|non _ _|_ fia- te cru-|
+[M:2/4] G,,2 G,,2 :|2 G,,4 ||[M:4/4] G,,8 |] %16
+w: bel- la.|bel-|la.|
+w: mi- o.|mi-|o.|
+w: mo- re.|mo-|re.|
+w: de- le.|de-|le.|
+V:3
+ z [GBd] [CGc]2 | [FBd]2 [_EGB]2 | [DFB]2 [FAc]2 |$ [DGB]2 [D^FA]2 |[M:2/4] [DG=B]2 :: z [E-Gc-] | %6
+[M:4/4] [EGc]2 [F-Ac-]2 |$ [FAc]2 [D-FB-]2 |$ [DFB]2 [EAc]2 | [GB]2 [FAc]2 | [GB]2 [DFB]2 | %11
+ [FBd]4 |$ [DAd] [DGB] [_EGc] [^FAd] |1[M:2/4] [DG=B]2 :|2 [DG=B]2 ||[M:4/4] [DG=B]4 |] %16
+V:4
+ z2 G,2 _E,2 E,F, | B,,2 B,,B,, _E,2 E,F, | B,,2 B,,B,, F,2 F,C, |$ G,2 G,C, D,2 D,D, | %4
+[M:2/4] G,,2 G,,2 :: z2 C,2 |[M:4/4] C,2 =B,,C, F,,2 F,,F, |$ F,2 E,F, B,,2 B,,B, |$ %8
+ B,2 B,G, A,2 A,F, | G,2 G,E, F,2 F,D, | _E,2 E,C, B,,2 B,,2 | B,6 A,G, |$ %12
+ ^F,2 G,2 C,2"^Note: original keys: Ut 1st, Fa 4rth.\n          Subtitle: Ad imitatione di quella \"O dolce ristoro\".\n" D,2 |1 %13
+[M:2/4] G,,2 G,,2 :|2 G,,4 ||[M:4/4] G,,8 |] %16

@@ -1,0 +1,11 @@
+X:1
+T:Wexford Hornpipe
+L:1/16
+M:2/4
+I:linebreak $
+K:A
+V:1 treble 
+V:1
+ cd | ecAc dBGB | A2AB ABcd | eaga fgaf | ecAc B2cd | ecAc dBGB | A2AB ABcd |$ eaga fdBG | %8
+ A2AB A2 :: cd | eaga fgaf | eaga fgaf | eaga fgaf |$ ecAc B2cd | ecAc dBGB | A2AB ABcd | %16
+ eaga fdBG | A2AB A2 :| %18

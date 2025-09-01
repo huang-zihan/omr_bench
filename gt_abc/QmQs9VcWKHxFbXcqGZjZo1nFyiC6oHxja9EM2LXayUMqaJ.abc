@@ -1,0 +1,19 @@
+X:1
+T:Duchess of Atholl's Strathspey,The. RH.143
+L:1/8
+Q:1/2=60
+M:4/4
+I:linebreak $
+K:D
+V:1 treble 
+V:1
+ d/ |: A>df>d e>d B2 | A>df>d a>d f2 | g>b f>d' e>d B2 | A>df>d e2 d2 ::$ a>fd'>f g/f/e/d/ B2 | %6
+ a>fd'>f a/>f/a/>b/ d'2 | a>gd'>f g/f/e/d/ B2 | A>df>d e2 d2 ::$ .D.d.f.d .B.e.c.A | Ddfd adfd | %11
+ gb/g/ fd'/f/ .B.e.c.A | D>dfd e2 d2 ::$ (d/e/f/g/) a<f d'<ec<A | d/e/f/g/ a<f d'<fa<f | %15
+ gb/g/ fd'/f/ BecA | D>df>d e2 d2 :|$[K:G][M:4/4][Q:1/2=70] D | G>AGE EFG<g | d<BA<G E2 E>F | %20
+ G>AGD E>FGg | d>BA>B G2 G :|$ c' | b>ga>f g>ed>B | A>cBG E2 Ec' | b>gfa g<ed>B | A>GAB G2 Gb |$ %27
+ g>bgd egd>B | A>cBD E2 E>F | G>AGD EFG>g | d<BA>B G2 G |][K:D][M:2/2][Q:1/2=80] f | d2 fd BdAF |$ %33
+ Eeef agfe | dDcD BDAD | Bcde fdd :|$ f | defg affa | bggb af f2{ef} | defg abaf | gefd ceef |$ %41
+ defg afaf | bgbg afaf | gbaf gefd | cA (a/g/f/e/) fdd |][M:6/8][Q:3/8=120] D2 A F2 A |$ E2 F GFE | %47
+ D2 A F2 A | D2 A F2 A | BGB AFD | E2 F GFE | dcB AFA | D2 A AFD ::$ d2 a (f/g/a).f | e2 f gfe | %55
+ d2 a (f/g/a).f | d2 a (f/g/a).f | gbg faf | e2 f gfe | dcB AFA |$ D2 A AFD :| %61

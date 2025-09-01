@@ -1,0 +1,83 @@
+X:1
+T:Ma chi pensò veder
+C:Benedetto Pallavicino
+%%score [ 1 2 [ 3 4 ] 5 ]
+L:1/4
+Q:1/4=92
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Canto" snm="C"
+V:2 alto1 nm="Alto" snm="A"
+V:3 alto nm="Quinto" snm="5"
+V:4 alto nm="Tenore" snm="T"
+V:5 tenor nm="Basso" snm="B"
+V:1
+ z4 | z4 |[K:Bb][M:4/2] z2 G2 B2 A2 | G4 z2 c2 | e2 d2 c2 =B2 |$ c2 G2 A2 c2 | c4 c4- | c4 z4 | %8
+w: ||Ma chi pen-|sò, Ma|chi pen- sò ve-|der mai tut- ti in-|sie- me,|_|
+ z4 z2 F2 |$ G2 A2 B2 c2 | d d c e d2 c c |$ B d c2 B d c e |$ d2 G2 z2 d2 | d d B3 A d2 | %14
+w: Per|as- sa- lir- mi il|cor hor quin- di hor quin- ci, hor|quin- di hor quin- ci, hor quin- di hor|quin- ci, hor|quin- di hor quin- ci, Que-|
+ d d3/2 d/ d e2 d2 |$ z8 | z4 z2 d2 | d d3/2 d/ d e2 d2 | c c =B2 c4 |$ z2 c2 d2 B2 | A2 G2 G4 | %21
+w: sti dol- ci ne- mi- ci,||Que-|sti dol- ci ne- mi- ci|ch'i tant' a- mo?|A- mor, A-|mor, A- mor|
+ z8 | z2 A2 G3/2 G/ A A |$ B A G2 A2 z c | d2 d2 =e2 f2 | f d2 c2 =B c2 | G2 z G G A =B2 |$ c4 z4 | %28
+w: |con quan- to sfor- zo hog-|gi mi vin- ci! E|se non ch'al de-|sio cre- sce la spe-|me, cre- sce la spe-|me,|
+ z4 d3 c | B2 A4 G2- | G ^F/=E/ F2 G2 B3/2 c/ |$ d B c2 d2 z2 | A2 B3/2 c/ d B c2 | %33
+w: I ca-|drei mor- *|* * * * to,o- ve più|vi- ver bra- mo,|o- ve più vi- ver bra-|
+ d f f3/2 e/ d c c2 | c8 |] %35
+w: mo, o- ve più vi- ver bra-|mo.|
+V:2
+ z4 | z4 |[K:Bb][M:4/2][K:treble] z8 | z2 G2 B2 A2 | G2 z d e2 d2 |$ c2 c2 c2 A2 | G A G2 A2 z F | %7
+w: |||Ma chi pen-|sò, Ma chi pen-|sò ve- der mai|tut- ti in- sie- me, Per|
+ G2 A2 B2 c2 | d d B d c2 A F |$ B G F2 D D F E | G4 F4 |$ z2 F3 G2 A |$ B A c c A A B2 | %13
+w: as- sa- lir- mi il|cor hor quin- di hor quin- ci, hor|quin- di hor quin- ci, hor quin- di hor|quin- ci,|Per as- sa-|lir- mi il cor hor quin- di hor quin-|
+ A2 d2 d d B2 | A4 z2 z d |$ d d3/2 d/ d e2 d2 | c B A2 B2 B2 | B B3/2 B/ B B2 B2 | A G G2 G2 G2 |$ %19
+w: ci, hor quin- di hor quin-|ci, Que-|sti dol- ci ne- mi- ci|ch'i tant' a- mo? Que-|sti dol- ci ne- mi- ci|ch'i tant' a- mo? A-|
+ A2 A2 B4 | z2 c2 d2 G2 | G3/2 G/ A A B A G2 | A2 c2 c3/2 c/ c c |$ d c c2 c2 A2 | B2 =B2 c2 A2 | %25
+w: mor, A- mor,|A- mor con|quan- to sfor- zo hog- gi mi vin-|ci! con quan- to sfor- zo hog-|gi mi vin- ci! E|se non ch'al de-|
+ B2 z2 z2 G2 | G A B3/2 A/ G F/E/ D2 |$ E4 z2 B2- | B A G2 G2 ^F2 | z2 d3 c B2 | A4 G4 |$ %31
+w: sio cre-|sce la spe- * * * * *|me, I|_ ca- drei mor- to,|I ca- drei|mor- to,|
+ z2 G2 B3/2 c/ d B | c2 d D F3/2 G/ A F | B2 A c B A G2 | A8 |] %35
+w: o- ve più vi- ver|bra- mo, o- ve più vi- ver|bra- mo, più vi- ver bra-|mo.|
+V:3
+ z4 | z4 |[K:Bb][M:4/2][K:treble-8] c4 B2 F2 | c2 z c d2 f2 | e2 z g g2 g2 |$ g2 =e2 f2 f2 | %6
+w: ||Ma chi pen-|sò, Ma chi pen-|sò, Ma chi pen-|sò ve- der mai|
+ g f =e2 f2 c2 | =e2 f2 d2 f2 | f f d f e2 d2 |$ z B A c B2 A c | =B3/2 B/ c c d2 z f |$ %11
+w: tut- ti in- sie- me, Per|as- sa- lir- mi il|cor hor quin- di hor quin- ci,|hor quin- di hor quin- ci, Per|as- sa- lir- mi il cor hor|
+ d B F2 B2 z2 |$ z2 z g ^f f g2 | d2 d2 d d3/2 d/ d | d2 d2 z2 =B2 |$ =B B3/2 B/ B c3/2 _B/ A B | %16
+w: quin- di hor quin- ci,|hor quin- di hor quin-|ci, Que- sti dol- ci ne-|mi- ci, Que-|sti dol- ci ne- mi- * * ci|
+ A G ^F2 G2 G2 | d d3/2 d/ d B2 B2 | c c d2 =e2 _e2 |$ f6 d2 | c2 c2 =B2 B2 | c3/2 c/ F F B F c2 | %22
+w: ch'i tant' a- mo? Que-|sti dol- ci ne- mi- ci|ch'i tant' a- mo? A-|mor, A-|mor, A- mor con|quan- to sfor- zo hog- gi mi vin-|
+ F2 f2 =e3/2 e/ f f |$ f f =e2 f2 f2 | d2 d2 c2 c2 | d2 G2 G G c2- | c2 B2 z4 |$ z2 g3 f e2 | %28
+w: ci! con quan- to sfor- zo hog-|gi mi vin- ci! E|se non ch'al de-|sio cre- sce la spe-|* me,|I ca- drei,|
+ d3 c B2 A2- | A G2 ^F2 F G2 | A4 =B2 z d |$ d d e e d2 d2 | z f f3/2 e/ d d c2 | %33
+w: I ca- drei mor-|* to, I ca- drei|mor- to, o-|ve più vi- ver bra- mo,|o- ve più vi- ver bra-|
+ B d c3/2 c/ f f =e2 | f8 |] %35
+w: mo, o- ve più vi- ver bra-|mo.|
+V:4
+ z4 | z4 |[K:Bb][M:4/2][K:treble-8] z2 c2 d2 f2 | =e2 e2 f3 c | c2 =B2 c2 d2 |$ e2 c2 c2 c2 | %6
+w: ||Ma chi pen-|sò ve- der, Ma|chi pen- sò ve-|der mai tut- ti in-|
+ c4 c4 | z2 F2 G2 A2 | B2 B2 G G F A |$ G2 c2 z4 | z2 G2 B2 A2 |$ B2 c2 d d e e |$ f2 e2 z2 z g | %13
+w: sie- me,|Per as- sa-|lir- mi il cor hor quin- di hor|quin- ci,|Per as- sa-|lir- mi il cor hor quin- di hor|quin- ci, hor|
+ ^f f g2 =f f d g | ^f2 f2 z2 g2 |$ g g3/2 g/ g g2 f2 | f d d2 d2 d2 | f f3/2 f/ f g2 f2 | %18
+w: quin- di hor quin- ci, hor quin- di hor|quin- ci, Que-|sti dol- ci ne- mi- ci|ch'i tant' a- mo? Que-|sti dol- ci ne- mi- ci|
+ f e d2 c4 |$ z2 c2 B2 f2 | f2 e2 d2 d2 | =e3/2 e/ f f d f e2 | f4 z4 |$ z4 c3 f- | f d2 g2 c f f | %25
+w: ch'i tant' a- mo?|A- mor, A-|mor, A- mor con|quan- to sfor- zo hog- gi mi vin-|ci!|E se|_ non ch'al de- sio cre-|
+ f f g2 g2 e2 | e f g2 c2 g2- |$ g f e2 B4 | G4 z2 d2- | d d d2 d4- | d4 G2 G3/2 A/ |$ %31
+w: sce la spe- me, cre-|sce la spe- me, I|_ ca- drei mor-|to, I|_ ca- drei mor-|* to,o- ve più|
+ B G c2 B2 f2 | f3/2 e/ d3/2 c/ B2 F2 | F2 A3/2 G/ F F c2 | c8 |] %35
+w: vi- ver bra- mo, o-|ve più vi- ver bra- mo,|o- ve più vi- ver bra-|mo.|
+V:5
+ z4 | z4 |[K:Bb][M:4/2][K:bass] z8 | z2 C2 B,2 F,2 | C2 G,2 C,2 G,2 |$ C,2 C,2 F,2 F,2 | %6
+w: |||Ma chi pen-|sò, Ma chi pen-|sò ve- der mai|
+ =E, F, C,2 F,4 | z8 | B,,4 C,2 D,2 |$ E,2 F,2 G, G, F, _A, | G,2 C,2 z2 F,2 |$ G,2 A,2 B,2 C2 |$ %12
+w: tut- ti in- sie- me,||Per as- sa-|lir- mi il cor hor quin- di hor|quin- ci, Per|as- sa- lir- mi il|
+ D D C E D2 G,2 | z2 G,2 B, F, G,2 | D,4 z2 G,2 |$ G, G,3/2 G,/ G, C,2 D,2 | F, G, D,2 G,2 B,2 | %17
+w: cor hor quin- di hor quin- ci,|hor quin- di hor quin-|ci, Que-|sti dol- ci ne- mi- ci|ch'i tant' a- mo? Que-|
+ B, B,3/2 B,/ B, E,2 B,,2 | F, C, G,2 C,2 C,2 |$ F,4 z2 B,,2 | F,2 C,2 G,4 | z8 | %22
+w: sti dol- ci ne- mi- ci|ch'i tant' a- mo? A-|mor, A-|mor, A- mor||
+ z2 F,2 C3/2 C/ F, F, |$ B, F, C2 F,2 F,2 | B,2 G,2 C2 F,2 | B, B, B, C D2 C2 | z2 E,2 E, F, G,2 |$ %27
+w: con quan- to sfor- zo hog-|gi mi vin- ci! E|se non ch'al de-|sio cre- sce la spe- me,|cre- sce la spe-|
+ C,4 z2 G,2- | G, F, E,2 D,4- | D,4 D,4- | D,4 z4 |$ z2 C,2 G,3/2 A,/ B, B, | F,2 B,,2 z4 | %33
+w: me, I|_ ca- drei mor-|* to,|_|o- ve più vi- ver|bra- mo,|
+ B,,2 F,3/2 C,/ D, F, C,2 | F,8 |] %35
+w: o- ve più vi- ver bra-|mo.|

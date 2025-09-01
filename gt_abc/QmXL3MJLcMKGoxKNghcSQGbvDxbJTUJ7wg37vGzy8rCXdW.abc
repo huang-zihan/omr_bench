@@ -1,0 +1,12 @@
+X:1
+T:Old Grey Cat
+L:1/8
+Q:1/8=440
+M:4/4
+I:linebreak $
+K:D
+V:1 treble 
+V:1
+|: [^de]2 [de]2 E3 F | GFGA BABc |{c} d2{c} d2 D3 E | FAdB AFED | [^de]2 [de]2 E3 F |$ GFGA BABc | %6
+ dcBA BAGF | E4 E3 A :: B2 e2 e3 d | Bdef gfed | d2 d2 d3 B |$ ABde fedf | e2 B2 g2 B2 | %13
+ z2 aB b3 a | gfed BABd | e4 e4 :| %16

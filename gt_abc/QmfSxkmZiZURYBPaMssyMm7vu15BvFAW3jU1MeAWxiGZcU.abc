@@ -1,0 +1,22 @@
+X:1
+T:Title
+%%score 1 { 2 | 3 }
+L:1/4
+Q:1/4=110
+M:2/4
+I:linebreak $
+K:D
+V:1 treble nm="Grand Piano, Staff 1"
+V:2 bass nm="Choir Pad, Shawmut, SM"
+V:3 bass 
+V:1
+ [DF] [DF]/[DF]/ | [EA] [EA] | [DF]2 | [FB] [FB]/[FB]/ | [FB] [F^A] | [FB]2 | [DF] [DF]/[DF]/ |$ %7
+w: By~Arranged~by~Lowell~Mason,~1844 * *|||||||
+ [DF]3/2 [DF]/ | [EA] [EA] | [DF]2 | [DF] [DF]/[CE]/ | [B,D] [CE] | [DF]2- | [DF]2 |] %14
+w: |||||||
+V:2
+ A, A,/A,/ | C C | A,2 | D D/D/ | D C | D2 | B, B,/B,/ |$ B,3/2 B,/ | C C | A,2 | A, A,/G,/ | %11
+ F, A, | A,2- | A,2 |] %14
+V:3
+ D, D,/D,/ | A,, A,, | D,2 | B,, B,,/B,,/ | F, F, | B,,2 | B,, B,,/B,,/ |$ B,,3/2 B,,/ | A,, A,, | %9
+ D,2 | D, D,/A,,/ | B,, A,, | D,2- | D,2 |] %14

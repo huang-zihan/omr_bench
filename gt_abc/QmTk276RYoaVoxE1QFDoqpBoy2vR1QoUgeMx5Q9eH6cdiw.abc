@@ -1,0 +1,119 @@
+X:1
+T:Ad Dominum - Schütz
+%%score [ 1 2 3 4 ] 5
+L:1/4
+Q:1/4=140
+M:4/2
+I:linebreak $
+K:F
+V:1 treble nm="Soprano" snm="S"
+V:2 treble nm="Alto" snm="A"
+V:3 treble-8 nm="Tenor" snm="T"
+V:4 bass nm="Bass" snm="B"
+V:5 bass nm="Midi_43"
+V:1
+"^Ad Dominum""^Heinrich Schütz\n(1585-1672)" G4 (d4- | d2 c2 B2) B2 | A4 z2 G2 | %3
+w: Ad Do\-|* * * mi-|num cum|
+ B2 A2 (B A A G/F/ |$ G A2 G) A4- | A4 z4 | z8 | z2 D2 (A4- |$ A2 G2 F2) F2 | E4 z4 | z2 A2 (d4- | %11
+w: tri- bu- la\- * * * *|* * * rer,|||ad Do\-|* * * mi-|num,|ad Do\-|
+ d2 c2 B2) B2 |$ A4 z4 | z2 d2 _e2 d2 | (_e d d c/B/ c d2 c) | d4 z4 |$ z4 G4 |$ %17
+w: * * * mi-|num|cum tri- bu-|la\- * * * * * * *|rer,|cum|
+ B2 A2 (B A A G/F/ | G A2 G) A2 A2 | B2 A2 (G F F E/D/ | E4 ^F4) |$ G8 |$ G2 (c3 B A G | %23
+w: tri- bu- la\- * * * *|* * * rer, cum|tri- bu- la\- * * * *||rer|cla- ma\- * * *|
+ F2 f e d c B2- | B2 A2) B4 | A4 A2 B2- | c3 d =B4 |$ z4 z2 (c2- | c/e/d/c/ =B2) ^c4 |$ d4 z4 |$ %30
+w: |* * vi,|et ex- au-|di- vit me.|Do\-|* * * * * mi-|ne,|
+ z8 | z4 z A3/2 G/ A | d3 d B B3/2 A/ B |$ _e2 d d c4 |$ B2 d2 d3 c | B3 G (G2 A2 | B4) A4 | %37
+w: |li- be- ra|a- ni- mam, li- be- ra|a- ni- mam me-|am a la- bi-|is i- ni\- *|* quis|
+ z4 z2 F F |$ (G/B/G/A/ B2) A A (A/c/A/B/ | c3) B/A/ (B3 A/G/ | A4) G2 G G |$ (=B/d/B/c/ d4) B2 | %42
+w: et a|lin\- * * * * gua, a lin\- * * *|* gua do- lo\- * *|* sa, et a|lin\- * * * * gua,|
+ z8 |$ G G (G/B/G/A/ B3) A/ G/ |$ (A3 G/F/ G4) | %45
+w: |et a lin\- * * * * gua do-|lo\- * * *|
+ F2[Q:1/4=139] A[Q:1/4=137] A[Q:1/4=136] (A/[Q:1/4=135]c/[Q:1/4=135]A/[Q:1/4=134]B/[Q:1/4=132] c2- |$ %46
+w: sa, et a lin\- * * * *|
+[Q:1/4=130] c)[Q:1/4=129] B/[Q:1/4=128]A/[Q:1/4=126] (B3[Q:1/4=123] A/[Q:1/4=123]G/[Q:1/4=121] A2) | %47
+w: * gua do- lo\- * * *|
+[Q:1/4=120] !fermata!A8 |] %48
+w: sa.|
+V:2
+ z8 | D4 (G4- | G2 F2 _E2) E2 | D8 |$ z2 D2 F2 D2 | (F E E D/C/ D3 E | F2 E D) E2 A,2 | (D6 C2 |$ %8
+w: |Ad Do\-|* * * mi-|num|cum tri- bu-|la\- * * * * * *|* * * rer, ad|Do\- *|
+ B,2 B,2 A,4- | A,4 z4 | z4 z2 D2 | F2 E2 (G F F E/D/ |$ E3 ^F G D G2- | G2 ^F2) G4 | z2 D2 (G4- | %15
+w: * mi- num,||cum|tri- bu- la\- * * * *||* * rer,|ad Do\-|
+ G2 F2 _E2) E2 |$ D4 z2 G2 |$ G2 F2 (F E E D/C/ | D4) F2 E2 | F2 E (E2 D D2- | D2 ^C2) D4 |$ %21
+w: * * * mi-|num cum|tri- bu- la\- * * * *|* rer, cum|tri- bu- la\- * *|* * ~rer|
+ D2 (G3 F E D |$ C3 D/E/ F3 E | D C B,2 F4- | F4) F4 | F6 _E D | C2 A,2 D4 |$ %27
+w: cla- ma\- * * *|||* vi,|et ex- au-|di- vit me.|
+ (D2- D/=B,/C/D/ E3) E | E4 z E3/2 D/ E |$ F3 F D D3/2 C/ D |$ G6 F D | E4 ^F4 | %32
+w: Do\- * * * * * mi-|ne, lì- be- ra|a- ni- mam, li- be- ra|a- ni- mam|me- am,|
+ z D3/2 C/ D G2 F F |$ _E C F2 F3 E |$ D8 | D4 (E2 F2- | F2 E2) F2 C C | (D/F/D/E/ F2) E2 D D |$ %38
+w: li- be- ra a- ni- mam|me- am a la- bi-||i- ni\- *|* * quis et a|lin\- * * * * gua, et a|
+ (E/G/E/^F/ G4) F F | (^F/A/F/G/ A3) G/F/ (G2- | G ^F/E/ F2) G2 z2 |$ D D (D/F/D/E/ F3) _E/D/ | %42
+w: lin\- * * * * gua, a|lin\- * * * * gua do- lo\-|* * * * sa,|et a lin\- * * * * gua do|
+ (_E3 D/C/ D4) |$ C2 E E (E/G/E/F/ G2- |$ G F/E/ F3 E/D/ E2) | F4 C C A,/C/A,/C/ |$ A,2) F, F, F4 | %47
+w: lo\- * * *|sa, et a lin\- * * * *|* gua do- lo\- * * *|sa, et a lin\- * * *|* ~gua do- lo-|
+ !fermata!^F8 |] %48
+w: sa.|
+V:3
+ z8 | z8 | z8 | z8 |$ G4 (d4- | d2 c2 B2) B2 | A4 z2 E2 | F2 D2 (F E E D/C/ |$ D4 D4 | %9
+w: ||||Ad Do\-|* * * mi-|num cum|tri- bu- la\- * * * *|* rer,|
+ z2 A2 B2 A2 | (B A A G/F/ G A2 G) | A2 A2 d4- |$ d2 c2 B2) B2 | A4 z2 G2 | B2 A2 (c B B A/G/ | %15
+w: cum tri- bu-|~la\- * * * * * * *|rer, ad Do\-|* * * mi-|num cum|tri- u- la\- * * * *|
+ A4) G4 |$ z2 d2 d2 c2 |$ (d D d3 c c B/A/ | B4) A4 | z8 | z2 A4 (d2- |$ d c B A G2 g f |$ %22
+w: * rer,|cum tri- bu-|la\- * * * * * *|* ~rer,||cla- ma\-||
+ e d c3 d/e/ f2- | f e d c B c d B | c4) d2 d2- | d2 c B (A G G2- | G2) ^F2 G4 |$ %27
+w: ||* vi, et|* ex- au- di\- * *|* vit me.|
+ z2 (G2- G/E/^F/G/ A2- | A2) ^G2 A2 z A- |$ A/G/ A d3/2 c/ =B2 z B- |$ B/A/ =B e3/2 d/ ^c2 (d2- | %31
+w: Do\- * * * * *|* mi- ne, li\-|* be- ra a- ni- mam, li\-|* be- ra a- ni- mam me\-|
+ d2 ^c2) d4 | z B3/2 A/ B _e2 d d |$ (c2 B4 A2) |$"^is" B2 z F F3/2 E/ D2 | z d d3/2 c/ B2 c2 | %36
+w: * * am,|li- be- ra a- ni- mam|me\- * *|am a la- bi- is,|a la- bi- is i-|
+ (d2 c B) c4 | z2 F F (G/B/G/A/ B2- |$ B2 G G d4- | d4 d4- | d4 G G (=B/d/B/c/ |$ %41
+w: ni\- * * quis|et a lin\- * * * *|* gua do- lo\-|* sa,|* et a lin\- * * *|
+ d2 =B B B/d/B/c/ d2- | d) c/=B/ c3 B/A/ B2) |$ c4 G G (E/G/E/F/ |$ E2 C C c2 c2 | %45
+w: * gua, a lin\- * * * *|* gua do- lo\- * * *|sa, et a lin\- * * *|* gua do- lo- sa,|
+ c c (c/_e/c/d/ e3) d/c/ |$ d3 c/B/ c4) | !fermata!d8 |] %48
+w: et a lin\- * * * * gua do-|lo\- * * *|sa.|
+V:4
+ z8 | z8 | z8 | z8 |$ z8 | z4 G,,4 | (D,6 C,2 | B,,2) B,,2 A,,4 |$ z8 | A,,4 D,2 C,2 | %10
+w: |||||Ad|Do\- *|* mi- num||cum tri- bu-|
+ (D, C, C, B,,/A,,/ B,,4) | A,,4 z4 |$ z8 | D,4 (G,4- | G,2 F,2 _E,2) E,2 | D,2 D,2 _E,2 C,2 |$ %16
+w: la\- * * * * *|rer,||ad Do\-|* * * .~mi-|num cum tri- bu-|
+ (G, F, F, _E,/D,/ E,4) |$ D,4 z4 | G,,4 D,2 C,2 | (D, C, C, B,,/A,,/ B,,4 | A,,4) D,2 D,2 |$ %21
+w: la\- * * * * *|rer,|cum tri- bu-|la\- * * * * *|* rer cla-|
+ (G,3 F, E, D, C,2 |$ C B, A, G, F,3 G,/A,/ | B,6 A, G, | F,4) B,,4 | D,6 C, B,, | %26
+w: ma\- * * * *|||* vi,|et ex- au-|
+ A,,2 A,,2 G,,4 |$ z4 (C,2- C,/A,,/C,/D,/ | E,4) A,,4 |$ D, D,3/2 C,/ D, G,3 G, |$ %30
+w: di- vit me.|Do\- * * * *|* mi-|~ne, li- be- ra a- ni-|
+ E, E,3/2 D,/ E, A,2 B, B, | A,4 D,4 | z8 |$ z8 |$ z2 B,,2 B,,3 A,, | G,,2 G,,2 G,4- | G,4 F,4- | %37
+w: mam, lì- be- ra a- ni- mam|me- am,|||a la- bi-|is i- ni\-|* quis.|
+ F,4 z4 |$ z8 | z8 | z2 D, D, (E,/G,/E,/F,/ G,2) |$ G,8- | G,8 |$ C,8- |$ C,8 | F,8- |$ F,8 | %47
+w: |||et a lin\- * * * *|gua||do\-||lo\-||
+ !fermata!D,8 |] %48
+w: sa.|
+V:5
+ G,4 D4 | D,4 G,4- | G,2 F,2 _E,2 E,2 | D,4- D,4 |$ G,,4 D,4- | D,2 C,2 G,,4 | D,4 D,2 C,2 | %7
+w: ||2 * * *|6~~~~~~~~~5 6~~~~~~~5||* 6 *|* * 6|
+w: |||||||
+ B,,2 B,,2 A,,4 |$ D,4 D,4 | A,,4 D,2 C,2 | D, C, C, B,,/A,,/ B,,4 | A,,4 D,4- |$ %12
+w: * * 6~~~~~~5|6 *|* 6 6|6 6 6 * * 6~~~~~~~7~~~~~~~~~6|6~~~~~~~~~~5 4~~~~~~3|
+w: |||||
+ D,2 C,2 B,,2 B,,2- | D,4 G,4 | G,2 F,2 _E,4 | D,2 D,2 _E,2 C,2 |$ G, F, F, _E,/D,/ E,4 |$ %17
+w: 2 6 6 6|4~~~~~~3 6~~~~~~~~5|6 6 6~~~~~7~~~~~~~6|4 3 * *|* * 6 * * 7~~~~~~6|
+w: |||||
+ D,4 D, C, C, B,,/A,,/ | G,,4 D,2 C,2 | D, C, C, B,,/A,,/ B,,4 | A,,4 D,2 D,2 |$ %21
+w: 6~~~~~5 6 6 6 * *|6~~~7~~~6 * 6|6 * 6 * * 6~~~~~~~5|4~~~~3 * *|
+w: ||||
+ G,3 F, E, D, C,2 |$ C B, A, G, F,4 | B,4 B,,4 | F,4 B,,4 | D,6 C, B,, | A,,4 G,,4- |$ %27
+w: |||4~~~~3 *||7~~~~~~~6 *|
+w: ||||||
+ G,,2 G,2 C,2 C,/A,,/C,/D,/ | E,4 A,,4 |$ D, D,3/2 C,/ D, G,3 G, |$ E, E,3/2 D,/ E, A,2 B, B, | %31
+w: * * * 6 * * *|4~~~~~~~~~~~~~~~~~~~3 *|||
+w: ||||
+ A,4 D,4- | D, B,3/2 A,/ B, _E2 D2 |$ C2 B,2- B,2 A,2 |$ B,2 B,,2 B,,3 A,, | G,,2 G,,2 G,4- | %36
+w: 4~~~~~~3 *|* * * * * 6|* * 2 *||* * 6~~~~~~7|
+w: |||||
+ G,4 F,4- | F,2 F, F, G,/B,/G,/A,/ B,2- |$ B,2 G, G, D,4- | D4 D4- | D2 D, D, E,/G,/E,/F,/ G,2 |$ %41
+w: 7~~~~~6 *|6 * * 6 * 6 * *|6 * * 4~~~~~~~~~3|* 3~~~~~~~~~~~4|4 * * * * * * *|
+w: |||||
+ G,4- G,4 | G,,4- G,,4 |$ C,4- C,4 |$ C,4- C,4 | F,4- F,4 |$ F,4- F,4 | !fermata!D,8 |] %48
+w: |6~~~~~~~~~~~~~~~~~~~~~~6 4~~~~~~~~3||3~~~~~~~~~~~~~~~~~4 4~~~~~3||3~~~~~~~~~~~~~~~~~~~4 4~~~~~~~3||
+w: |3~~~~~~~~~~~~~~~~~~~~~~4 *||||||

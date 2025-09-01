@@ -1,0 +1,50 @@
+X:1
+T:A Maioria Sem Nenhum - v01
+C:Elton Medeiros
+%%score 1 2 3
+L:1/8
+Q:1/4=100
+M:2/4
+I:linebreak $
+K:none
+V:1 treble transpose=-9 nm="Saxofone Contralto"
+V:2 treble transpose=-14 nm="Saxofone Tenor"
+V:3 treble transpose=-14 nm="Saxofone Tenor"
+V:1
+[K:A] z e ef | a f e2 |"F#7b5" c2 cB | c c Bd- |"Fm" d2 dc | d d cf- |"Em" f2 f e | f f e f- | %8
+"D#other" f2 z2 | (3z ff (3ffe |$"Dm" c2 c B | c c Bc- |"G7" c2 ce | (3c2 A2 F2 |"C" A4- | A4 |: %16
+"A7" z e ef | a f ec- |"Dm" c2 c B | c c Bc- |"G7" c2 Bc |$ e c BG- |"C" G G2 F | GGFG- | %24
+"D#other" G2 FG | c B GF- |"Dm" F2 FE |1 F F EF- |"G7" F F2 E | FFEG- |"C" G4- | G4 :|$ %32
+"Dm" FF EF- |"G7" F2 FE | F F E=G- |"Gm" G4- | G4- |"C7" G4 | z G2 B |"F#7b5" c2 cB | c c Be- | %41
+"Fm" e e2 z | (3z z d (3eed |"Em" f2 f e |$ ff ef- |"D#other" f z z2 | (3z ff (3ffe |"Dm" c2 z z | %48
+ (3z cc (3ccB |"G7" c2 c B | cc B^d- |"Gm" d4- | d4 |"C7" z e ef | a f ec- |$"F#7b5" c4 | %56
+ (3z cc (3ccB |"Fm" d4 | (3z dd (3ddc |"Em" f2 f e | f f e f- |"D#other" f2 f2 | (3z ff (3ffe | %63
+"Dm" c2 c B | c c Bc- |"G7" c2 ce |$ c>A- AF |"C" A4- | A4 |"A7" z e ef | a f ec- |"Dm" c2 c B | %72
+ c c Bc- |"G7" c2 Bc | e c BG- |"C" G G2 F | GGFG- |$"D#other" G2 FG | c B GF |"Dm" z2 FE | %80
+ F F EF- |"G7" F2 FE | FF E=G- |"Gm" G4- | G4 |"C7" z e ef | a f ec- |"F#7b5" c2 cB |$ c c Bd- | %89
+"Fm" d2 dc | d d cf- |"Em" f2 f e | f f e f- |"D#other" f2 z z | (3z fe (3ffe |"Dm" c2 c B | %96
+ c c Bc- |"G7" c2 ce |$ c A FA- |"C" A4- | A4- |"C+7" A4 |] %102
+V:2
+[K:D] z4 | z4 | F2 z F | B ^A =A G- | G2 z G | G G F B- | B2 B A | B B A B- | B2 z2 | ^G =G F ^E |$ %10
+ E z2 E | z2 F E | F2 F A | (3F2 D2 B,2 | D F{/A} B A | G F E D |: ^D4- | D4 |"Em" E2 z E | %19
+ D2 z D |"A7" C2 z C |$ =C2 z z | z4 | z4 | z4 | z4 | z4 |1 z4 | z4 | z4 |"D" D F{/A} B A | %31
+ G F E D :|$ E2 G2 | A4 | A _A G =F- | F4 | =F2 =C2 |"D7" D F A d | z4 | z4 | z4 | z4 | z4 | z4 |$ %44
+ z4 | z4 | z4 |"Em" E [Beg]2 E | z4 | z4 | z4 | z4 | z4 | z4 | z4 |$"G#7b5" ^G,2 [FBd] G, | %56
+ ^G,2 [FBd] G, |"Gm" G,2 [E_Bd] G, |"Gm" G,2 [E_Bd] G, |"F#m" F,2 [FAc] E | F,2 [FAc] E | %61
+"E#dim" ^E2 [Bd^g] E | ^E2 [Bd^g] E |"Em" E [Beg]2 E | E, F, G, ^G, |"A7" A,2 [Acg] C |$ %66
+ A,2 [Acg] C |"D" D F{/A} B A | G F E D |"B7" ^D4- | D4 |"Em" E2 [Beg] E | D2 [Beg] D | %73
+"A7" C2 [Acg] C | C2 [Acg] C |"D" F2 [Adf] F | F2 [Adf] F |$"E#dim" ^E ^G D E | B, D ^G, B, | %79
+"Em" E,2 [GBe] E, | G,2 [GBe] G, |"A7" A,2 [Acg] A, | A,2 [Acg] A, |"Am" =C [_Bea] [Bea]2 | %84
+ [_Bea] [Bea] =C2 |"D7" D F A d | =c A F D |"G#7b5" ^G,2 [FBd] G, |$ ^G,2 [FBd] G, | %89
+"Gm" G,2 [E_Bd] G, | G,2 [E_Bd] G, |"F#m" F,2 [FAc] E | F,2 [FAc] E |"E#dim" ^E2 [Bd^g] E | %94
+ ^E2 [Bd^g] E |"Em" E [Beg]2 E | E, F, G, ^G, |"A7" A,2 [Acg] C |$ A,2 [Acg] C |"D" F A D F | %100
+ A, D F, A, |"D+7" !arpeggio![DAcf]4 |] %102
+V:3
+[K:D] z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 |$ z4 | z4 | z4 | z4 | z4 | z4 |: z4 | z4 | %18
+ z4 | z4 | z4 |$ z2 E G | F2 z2 | A _A G =F- | F4 | _A G F E- | E2 z2 |1 E2 G2 | F4 | A B c A | %30
+ z4 | z4 :|$ z4 | z4 | z4 | z4 | z4 | z4 | F2 F G | _A4 | B2 _A2 | G4 | _B2 G2 | F4 |$ A2 F2 | %45
+ =F4 | _A2 =F2 | E4 | G F E D | C4 | E2 G2 | A4- | A4 | F4- | F2 F G |$ _A4 | B2 _A2 | G4 | %58
+ _B2 G2 | F4 | A2 F2 | =F4 | _A2 =F2 | E4 | G F E D | C4 |$ E A F A, | D4- | D4 | z A A B | %70
+ d B A F- | F2 F E | F F E F- | F2 E F | A F E C- | C C2 B, | C C B, C- |$ C2 B, C | F E C B,- | %79
+ B,2 B, A, | B, B, A, B,- | B,2 B, A, | B,2 B, A, | =C4- | C4 | F4- | F2 F G | _A4 |$ B2 _A2 | G4 | %90
+ _B2 G2 | F4 | A2 F2 | =F4 | _A2 =F2 | E4 | G F E D | C4 |$ E A F A, | D4- | D4- | D4 |] %102

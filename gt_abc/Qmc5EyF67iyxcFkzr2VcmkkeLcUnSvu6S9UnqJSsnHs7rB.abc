@@ -1,0 +1,32 @@
+X:1
+T:Title
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Grand Piano, Soprano"
+V:2 treble nm="Choir Pad, When the Bridegroom Comes"
+V:3 bass 
+V:1
+ [DG]>[DA] [GB][GB]- [GB][B,D] [B,D]2 | D>D [CE]2 [EG]2 [DG]2 |$ [DG]>G [FA][FA]- [FA][FA] [FA]2 | %3
+w: By~Robert~Emmett~Winsett * * * * * *|||
+ G[FA] [GB]2 [Gd]2 [Gd]2 | [GB][Gc][Gd][Gd] [GB][FA] G2 | G[FA][EB][EA] [EG][CE] D2 | %6
+w: |||
+ [DB][Dc][Gd][GB] [Gd][GB] G2 |$ [GB][FA] G6 | [DB]>[Dc] [Gd]<[Gd] [GB]>[FA] [EG]2 | [FA]2 [GB]6 | %10
+w: ||||
+ [DB]>[Dc] [Gd]<[Gd] [Gd]>[GB] [EA]2 | [FA]2 [FA]6 |$ [DG]>[DA] [GB]>[DA] [DG][CE] [B,D]2 | %13
+w: |||
+ [DG]>[DA] [GB]>[DA] [DG][CE] [B,D]2 | [DB]>[Dc] [Gd][GB] [Gd][GB] G2 | [GB][FA] G6- | G2 z2 z4 |] %17
+w: ||||
+V:2
+ B,>C DD- D[K:bass]G, G,2 | G,>G, G,2[K:treble] C2 B,2 |$ D>D DD- DD D2 | DD D2[K:bass] B,2 B,2 | %4
+ G,A,B,B,[K:treble] DC B,2 | DDCC[K:bass] G,G, B,2 | G,A,B,D B,G, B,2 |$ DC B,6 | %8
+ G,>A, B,<B,[K:treble] D>C B,2 | D2 D6 | G,>A, B,<B, B,>[K:treble]D D2 | ^C2 D6 |$ %12
+ B,>C D>C[K:bass] B,G, G,2 | B,>C D>C B,G, G,2 | G,>A, B,D B,G, B,2 | DC B,6- | B,2 z2 z4 |] %17
+V:3
+ G,>G, G,G,- G,G,, G,,2 | B,,>B,, C,2 C,2 G,,2 |$ B,,>B,, D,D,- D,D, D,2 | B,,D, G,2 G,2 G,2 | %4
+ z G,G,G, G,G, G,2 | B,,B,,C,C, C,E, G,2 | z G,G,G, .G,2 D,2 |$ D,D, G,,6 | %8
+ z z/ G,/ G,<G, D,>^D, E,2 | D,2 G,6 | z z/ G,/ G,<G, G,>G, F,2 | E,2 D,6 |$ G,>G, G,>G, .G,2 z2 | %13
+ G,>G, G,>G, .G,2 z2 | z z/ G,/ G,G, .G,2 D,2 | D,D, G,,6- | G,,2 z2 z4 |] %17

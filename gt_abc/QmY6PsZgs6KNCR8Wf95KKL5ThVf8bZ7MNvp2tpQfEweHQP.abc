@@ -1,0 +1,17 @@
+X:1
+T:Dutchess of Manchester, The
+L:1/16
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:E
+V:1 treble 
+V:1
+"^Very Slow" BA | TG2F2E2F2 GABc BAGF | G2e2 cBAG{G} F4 F2BA | TG2>F2E2F2 GABc BAGF |$ %4
+ G2e2{c} BAGF E4 E2 :| BA | G2e2B2e2 G2e2 cBAG | A2c2 cBAF{G} F4 F2BA | G2e2 B2e2 G2e2 cBAG |$ %9
+ A2c2{c} BAGF E4 E2BA | G2e2B2e2 G2e2 cBAG | A2c2 cBAG{G} F4 F2BA | G2e2B2e2 A2c2 BAGF |$ %13
+ GABc BAGF E4 E2 || ba | Tg2>f2e2f2 gabc' bagf | g2e'2 c'bag{g} f4 f2ba |$ Tg2>f2e2f2 gabc' bagf | %18
+ g2e'2{c'} bagf e4 e2ba | Tg2>f2e2f2 gabc' bagf |$ g2e'2 c'bag{g} f4 f2ba | %21
+ gbag fagf .e2.B2.e2.g2 | g2>a2 BAGF E4 E2 || ba |$ g2b2e2b2 g2b2 c'bag | a2c'2 c'bag{g} f4 f2ba | %26
+ g2b2e2b2 g2b2 c'bag |$ a2c'2{c'} bagf e4 e2ba | g2b2e2b2 g2b2 c'bag | a2c'2 c'bag{g} f4 f2ba |$ %30
+ gbag fagf .e2.B2.e2.g2 | TGFGA BAGF E4 E2 || %32

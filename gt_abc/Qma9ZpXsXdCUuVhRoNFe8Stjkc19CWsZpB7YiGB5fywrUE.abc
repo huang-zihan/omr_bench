@@ -1,0 +1,15 @@
+X:1
+T:Title
+C:Composer
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Harpă" snm="Hrp."
+V:1
+ [G,DG_B]8 | [G,_B,DGd]8 | [^G,CFc]8 | [_B,,_E,G,DG]4 C4 |$ [G,DG_B]8 | [G,_B,DGd]8 | [^G,CFc]8 | %7
+ [_B,,_E,G,DG]4 C4 |$ G,3 z [G,DG_B]3 G, | D2 G,2 [G,_B,DGd]3 G, | D2 G,2 [^G,CFc]3 =G, | %11
+ C2 G,2 [_B,,_E,G,DG]3 G, |$ C2 G,3 z [G,DG_B]2- | [G,DGB]G, D2 G,2 [G,_B,DGd]2- | %14
+ [G,B,DGd]G, D2 G,2 [^G,CFc]2- | [G,CFc]=G, C2 G,2 [_B,,_E,G,DG]2- |$ %16
+ [B,,E,G,DG]G, C2 G,3 [_B,,_E,G,DG]- | [B,,E,G,DG]3 G,2 C3- | C G,7- | G, z z2 z4 |]$ z8 | z8 | %22
+ z8 | z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 |] %32

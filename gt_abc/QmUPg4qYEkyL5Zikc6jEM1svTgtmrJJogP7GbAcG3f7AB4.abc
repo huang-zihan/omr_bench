@@ -1,0 +1,12 @@
+X:1
+T:Tio kronors polska
+L:1/16
+M:3/4
+I:linebreak $
+K:A
+V:1 treble 
+V:1
+|:"A" A2>c2 efec A2c2 |"E7" c2BA [EB]6 c2 |"D" dcde f2f2 d2>e2 |"E7" f2gf efed cdcB | %4
+"A" AEAc efec A2c2 |$"E7" c2BA B6 c2 |"D" dcde f2f2"E7" dedB | GEGB"A" A8 ::"A" efed cAce a2f2 | %9
+"D" fafd"E7" BGBd f2e2 |$"A" e2fe"^(E)" d2ed"A" c2a2 |"E7" g2ag f2f2 e4 |"A" efed cAce a2f2 | %13
+"D" fafd"E7" BGBd f2e2 |"A" e2fe"^(E)" d2ed"A" c2ec |$"E7" GEGB"A" A8 :| %16

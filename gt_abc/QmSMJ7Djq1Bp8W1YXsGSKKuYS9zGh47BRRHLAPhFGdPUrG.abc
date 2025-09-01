@@ -1,0 +1,17 @@
+X:1
+T:Schwanensee
+L:1/8
+M:4/4
+I:linebreak $
+K:A
+V:1 bass nm="Posaune" snm="Tbn."
+V:1
+ z8 | z8 | z8 | z8 || z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %19
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 ||[M:2/4] z4 | %37
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %56
+"^47"!ff!"^Vivace""^Posaune 2" DD z2 | z2 C2 | z2 C2 | z4 |!ff! DD z2 | z2 C2 | z2 C2 | z4 | z4 | %65
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | C z z2 | z C z C |$ C z z2 | z C z C | C z z2 | z B, z B, | %78
+ z B, z B, | z B, z B, |"^48"!ff! A, z E z | A, z E z | A, z E z | A, z E z | A, z E z |$ %85
+ A, z E z | A, z E z | A, z E z | A, z E z | A, z E z | A, z E z | A, z E z | A, z E z | A, z E z | %94
+ A, z E z |$ A, z D z | C z B, z | A, z D z | C z B, z | A, z D z | D z D z | D z D z | D z D z | %103
+ CD C2 | CD C2 |$ C2 C2 | !fermata!A,4 |] %107

@@ -1,0 +1,13 @@
+X:1
+T:Newport Lass, The
+L:1/8
+M:6/8
+I:linebreak $
+K:D
+V:1 treble 
+V:1
+ ABA DED | dcA AGE | ABA ABc | dAB cde | ABA D3 | dcA AGE | GFG Ade |1$ fdc d2 c :|2 fdc d2 e |: %9
+ f2 d edc | Add cde | fed edc | ABc def | g3 age | dcA AGE |$ GFG Ade |1 fdc d2 e :|2 fdc d2 c || %18
+"^variations" A3 D2 d | d=cA AGE | A3 ABc | dAB cde | A3 D2 d |$ d=cA AGE | G3 Ade |1 fdc d2 c :|2 %26
+ fdc d2 e || fed edc | AdB cde | fed efg | ABc def |$ g2 a age | d=cA AGE | GFG Ade | fdc d2 e | %35
+ fed edc | AdB cde | f3 gec | ABc def |$ g2 a age | d=cA AGE | G3 Ade | fdc d2 c || %43

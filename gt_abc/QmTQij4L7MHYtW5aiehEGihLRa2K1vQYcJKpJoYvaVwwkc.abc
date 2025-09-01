@@ -1,0 +1,28 @@
+X:1
+T:O God of Love, CM
+C:R. R. in “The Divine Companion,” 1722
+Z:Public Domain
+Z:Courtesy of the Cyber Hymnal™
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=115
+M:3/4
+I:linebreak $
+K:F
+V:1 treble 
+V:2 treble 
+L:1/8
+V:3 bass 
+V:4 bass 
+V:1
+ [FA] [Fc] B | [FA]2 [EG] | [FA] =B3/2 c/ | [Ec]2 [CG] | [CA]2 [CG] | [CF]2 [=B,G] | %6
+ !fermata![CE]3 | [CA] [FB] [_Ec] | [Dd]2 [Fc] | [GB]2 [Gc] | [FA]2 [EG] | F2 [FG] |$ %12
+ [FA] [EG]3/2 F/ | F3 |] %14
+V:2
+ x4 (DE) | x6 | x2 F4 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | F4 x2 |$ x5 F | F6 |] %14
+V:3
+ [F,C] A, [G,B,] | [F,C]2 [C,C] | [F,C] G,2 | [C,G,]2 [E,G,] | F,2 [E,G,] | [D,A,]2 [G,,G,] | %6
+ [C,G,]3 | F, [D,F,] (G,/A,/) | B,2 [A,C] | [G,D]2 [E,C] | [F,C]2 [C,C] | [D,A,]2 [B,,D] |$ %12
+ [C,C]2 [C,B,] | [F,A,]3 |] %14
+V:4
+ x A, x | x3 | x G,2 | x3 | F,2 x | x3 | x3 | F, C, x | B,, B, x | x3 | x3 | x3 |$ x3 | x3 |] %14

@@ -1,0 +1,32 @@
+X:1
+T:Buena Vista, 75.75.77.75
+C:George Coles Stebbins, 1887
+Z:Public Domain
+Z:Courtesy of the Cyber Hymnal™
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=110
+M:4/4
+I:linebreak $
+K:G
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+L:1/8
+V:1
+ [DB]3/2 [DB]/ [DB] [CA] | [B,G] [CE] [B,D]2 | [B,G]3/2 [DG]/ [CF] [B,G] | [DA]3 z | %4
+ [DB]3/2 [DB]/ [DB] [CA] | [B,G] [CE] [B,D]2 | [DG]3/2 [EG]/ [DB] [DA] | [DG]3 z | %8
+ [DA]3/2 [DA]/ [DA] D |$ [DG] [DA] [DB]2 | [DB]3/2 [DB]/ [DB] [DG] | [DA] [DB] [Dc]2 | %12
+ [DB]3/2 [Dc]/ [Gd] [DB] | [CA] [B,G] [B,E]2 | [B,D]3/2 [B,G]/ [B,G] [CA] | [B,G]3 z |] %16
+V:2
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x3 D |$ x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %16
+V:3
+ G,3/2 G,/ G, [D,F,] | [E,G,] [C,G,] [G,,G,]2 | [G,,G,]3/2 [B,,G,]/ [D,A,] [E,G,] | [D,F,]3 z | %4
+ G,3/2 G,/ G, [D,F,] | [E,G,] [C,G,] [G,,G,]2 | [B,,G,]3/2 [C,G,]/ [D,G,] [D,C] | [G,,B,]3 z | %8
+ [D,F,]3/2 [D,F,]/ [D,F,] [C,A,] |$ [B,,G,] [D,F,] G,2 | G,3/2 G,/ G, [B,,G,] | %11
+ [D,F,] [D,G,] [D,A,]2 | G,3/2 [G,A,]/ [G,B,] G, | [D,F,] [E,G,] [C,G,]2 | %14
+ [D,G,]3/2 [D,G,]/ [D,G,] [D,F,] | [G,,G,]3 z |] %16
+V:4
+ G,3 G, G,2 x2 | x8 | x8 | x8 | G,3 G, G,2 x2 | x8 | x8 | x8 | x8 |$ x4 G,4 | G,3 G, G,2 x2 | x8 | %12
+ G,3 G,2 x3 | x8 | x8 | x8 |] %16

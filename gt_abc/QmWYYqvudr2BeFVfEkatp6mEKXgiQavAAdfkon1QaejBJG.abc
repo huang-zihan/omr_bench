@@ -1,0 +1,27 @@
+X:1
+T:Kommt Her zu Mir, 88.78.87
+C:German tune, ca. 1400
+Z:Public Domain
+Z:Courtesy of the Cyber Hymnal™
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+M:none
+I:linebreak $
+K:Ab
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ [CF]2 [CF] [DF] [Ec]3 [EB] [Ec] [CA] [CG]2 | z [CF] [DA] [DG] [EA]3 | [Ac] [GB] [FA] [=EG]2 | %3
+ z [EG] [FB]3 [EA] [EG] [EA] F2 E2 |$ z E [CA] [EG] [EA]3 [Ec] [EB] [CA] [CG]2 | %5
+ z [CF] [DA] [DG] [EA]3 | [Ac] [GB] [FA] [=EG]2 |$ z F [Ec]3 [EB] [CA] [DB] [CG]2 [CF]2 |] %8
+V:2
+ x12 | x7 | x5 | x8 (E =D) E2 |$ x E x10 | x7 | x5 |$ x F x10 |] %8
+V:3
+ [F,A,]2 [F,A,] [B,,B,] [A,,C]3 [E,G,] [C,G,] F, [C,=E,]2 | z [F,A,] [D,F,] [B,,B,] [A,,C]3 | %2
+ [A,E] [E,E] [F,C] [C,C]2 | z [C,C] [B,,D]3 [C,C] [E,B,] [A,,C] [B,,B,]2 [E,G,]2 |$ %4
+ z [C,G,] [F,A,] [E,B,] [A,,C]3 A, [E,G,] F, [C,=E,]2 | z [F,A,] [D,F,] [B,,B,] [A,,C]3 | %6
+ [A,E] [E,E] [F,C] [C,C]2 |$ z [D,A,] [A,,A,]3 [E,G,] F, [B,,F,] (F, =E,) [F,,=A,]2 |] %8
+V:4
+ x9 F, x2 | x7 | x5 | x12 |$ x7 A, F, x3 | x7 | x5 |$ x6 F, C,2 x3 |] %8

@@ -1,0 +1,26 @@
+X:1
+T:Asten, LM
+C:Anonymous, 1872
+Z:Public Domain
+Z:Courtesy of the Cyber Hymnal™
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=91
+M:3/4
+I:linebreak $
+K:A
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ [EA]E [EA] | [EG]3 [CA] [FB][EB] | [Ec]3 [Ec] [CA][Fd] | [Ec]3 [EB] [EA][Ec] | [EB]3 [Ec] E[EA] | %5
+ [EG]3 [CA] [FB][EB] | [Ec]3 [EA] [DF][EA] | [Dd]3 [Ec] [FB]B |$ [CA]3 |] %9
+V:2
+ x E x | x6 | x6 | x6 | x4 E x | x6 | x6 | x5 (E/D/) |$ x3 |] %9
+V:3
+ [A,,C][A,,C] [C,C] | [E,B,]3 [F,A,] [D,A,][E,G,] | A,3 A, A,A, | A,3 [E,G,] [C,A,][A,,A,] | %4
+ [E,G,]3 [A,,A,] [A,,C][C,C] | [E,B,]3 [F,A,] [D,A,][E,G,] | A,3 [C,A,] [D,A,][C,E,] | %7
+ (F,2 G,)[A,,A,] [D,A,][E,G,] |$ [A,,A,]3 |] %9
+V:4
+ x3 | x6 | A,3 A, A,A, | A,3 x3 | x6 | x6 | A,3 x3 | B,,3 x3 |$ x3 |] %9

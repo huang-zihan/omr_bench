@@ -1,0 +1,13 @@
+X:1
+T:Old Grey Goose [2]
+L:1/16
+M:2/4
+I:linebreak $
+K:G
+V:1 treble 
+V:1
+ (G,D2)G,{G,} D2D2 | (G,D2)G,{G,} D4 | B2D2 E2G2 | [G,DA][DB]2[DA] [DB]4 | (G,D2)G,{G,} D2D2 | %5
+ (G,D2)G,{G,} D4 | B2D2 E2G2 | [G,D][G,G]2[DG] G,4 G4 ||$ B2D2 E2G2 | AB2A B2d2 | %10
+ [G,G]2[G,G]A B2B2 | ABAG E2D2 | B2D2 E2G2 | AB2A B2d2 | [G,G]2[G,G]A B2B2 | AB(AD) [G,G]4 ::$ %16
+ bfb2 f afaf | gfge d4 | d2>e2 dBAG | [G,G]2[G,E]2 [G,E]4 | bfb2 f afaf | gfge d4 | %22
+ d2>e2 dB(AD) [G,G]8 :| %23

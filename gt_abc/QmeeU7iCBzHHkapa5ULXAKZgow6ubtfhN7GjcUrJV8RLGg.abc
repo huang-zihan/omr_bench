@@ -1,0 +1,20 @@
+X:1
+T:Lowe's Hornpipe
+C:William Marshall
+%%score { 1 2 }
+L:1/16
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble 
+V:2 bass 
+L:1/8
+V:1
+ de | fedc (TBA)(BF) G2B2- B2de | fedc (TBA)(BF) G2c2- c2de | fedc (TBA)(BF) (GB)Ac (cB)AG |$ %4
+ (FA)ce (dg)fe d2B2-B2 :| FE | (DF)BF (DF)BF (EG)BG (EG)BG | (Ac)ec (Ac)ec (Bd)fd (Bd)fd |$ %8
+ (DF)BF (DF)BF (EG)BG (EG)BG | (FA)ce (dg)fe d2B2- B2FE | (DF)BF (DF)BF (EG)BG (EG)BG |$ %11
+ (Ac)ec (Ac)ec (Bd)fd (Bd)fd | (DF)BF (DF)BF (EG)BG (EG)BG | (FA)ce (dg)fe d2B2-B2 |] %14
+V:2
+ z | B,,2 B,B,, E,F, B,,2 | B,,2 B,B,, E,=E,F, z | B,,2 B,B,, E,C, D,E, |$ F,A, B,F, B,B,,B,, :| %5
+ z | B,,D,F,D, E,G,B,G, | F,A,CA, B,B,,D,B,, |$ B,,D,F,D, E,G,B,G, | F,A, B,F, B,,B,B,, z | %10
+ B,,D,F,D, E,G,B,G, |$ F,A,CA, B,B,,D,B,, | B,,D,F,D, E,G,B,G, | F,A, B,F, B,,B,B,, |] %14

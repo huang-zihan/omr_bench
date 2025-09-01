@@ -1,0 +1,12 @@
+X:1
+T:Moving Bog [2], The
+L:1/8
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:D
+V:1 treble 
+V:1
+"^Allegro" F/E/ | DFAc d2 Ac | d2 fa ecAc | dcBA BAGF | BdAF GFEF | DFAc d2 Ac |$ Dfaf ecAc | %7
+ dcBA BAGF | GABc d3 || A | defg afef | g2 fg ecAc |$ defg afdf | geag fddA | defg afdf | %15
+ gbaf ecAc | dcBA BAGF |$ GABc d3 || %18

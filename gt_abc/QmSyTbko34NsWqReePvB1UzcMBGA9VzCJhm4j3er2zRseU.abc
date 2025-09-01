@@ -1,0 +1,113 @@
+X:1
+T:Heartbeat, Heartbreak
+C:Mikkel "MAD" Davis
+%%score 1 2 { 3 | 4 } 5 ( 6 7 8 ) 9
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Voice" snm="Vo."
+V:2 treble nm="Violin" snm="Vln."
+V:3 treble nm="Piano" snm="Pno."
+V:4 bass 
+V:5 bass-8 nm="Bass Guitar" snm="B. Guit."
+V:6 perc nm="Drumset" snm="Drs."
+K:none
+I:percmap ^a a 49 x
+I:percmap ^b b 55 x
+I:percmap ^g g 42 x
+V:7 perc 
+K:none
+I:percmap F F 35 normal
+L:1/16
+V:8 perc 
+K:none
+I:percmap ^c c 37 x
+L:1/4
+V:9 perc stafflines=1 nm="Triangle" snm="Trgl."
+K:none
+I:percmap E B 81 normal
+I:percmap ^E B 80 x
+V:1
+|: z8 | z8 | z8 |$ z8 ||!f! z b/a/ z/ g/ z/ a3/2gce |$ z f/e/ z/ e/d/ z/ d/c/ z/ d/ BG | %6
+w: ||||Te- ll me why you did it|eve- ry dre- am fall- ing a- pa- rt|
+ z b/a/ z/ g/ z/ a3/2gce |$ d>d z/ d/ d2 e z2 | z g a/g/ z ga/g/ z b |$ z d z/ d3/2 e3/2e>fg/ | %10
+w: Te- ll me why you did it|af- ter the pro- mise|Still ach- ing still ach- ing Oh!|Ba- by I need your love|
+ z b/a/ z/ g/ z/ a3/2gce |$ d3/2d3/2 c2 z z2 || g>g z2 b>b z g/ z/ | z g z/ g/ z b>b z2 |$ %14
+w: Look- ing so dif- ferent glar- ing|stre- et light|Heart beat Heart beat it|keeps on pound- ing|
+ g>g z2 b>b z g/ z/ | z g z/ g/ z b>b z2 | g>g z2 b>b z g/ z/ |$ z g z/ g/ z b>b z2 | %18
+w: Heart break Heart break you|tell me good- bye|Heart beat Heart beat it|keeps on pound- ing|
+ g>g z2 b>b z g/ z/ | z g z/ g/ z b>b z2 |$ G>G z2 B>B z G/ z/ | z G z/ G/ z B>B z2 | %22
+w: Heart break Heart break you|tell me good- bye|Heart beat Heart beat it|keeps on pound- ing|
+ G>G z2 B>B z G/ z/ |$ z G z/ G/ z B>B z2 | G>G z2 B>B z G/ z/ | z G z/ G/ z B>B z2 |$ %26
+w: Heart break Heart break you|tell me good- bye|Heart beat Heart beat it|keeps on pound- ing|
+ G>G z2 B>B z G/ z/ | z G z/ G/ z B>B z2 :| %28
+w: Heart break Heart break you|tell me good- bye|
+V:2
+|: c>c z c/ z/ z2 z2 | z !>!c' z2 c>c z2 | c>c z c/ z/ z2 z2 |$ z !>!c' z2 c>c z2 || z8 |$ z8 | %6
+ z8 |$ z8 | z8 |$ z8 | z8 |$ z8 || z8 | z8 |$ z8 | z8 |!mp!!<(! g'8-!<)! |$!>(! g'8!>)! | %18
+!mp!!<(! g'8-!<)! |!>(! g'8!>)! |$!p! [cc']8- | [cc']8- | [cc']8- |$ [cc']8 |!pp! [Eg]8- | %25
+ [Eg]8- |$ [Eg]8- | [Eg]8 :| %28
+V:3
+|: z2 z2 [cegb]>[cegb] z c | z c z/ c z/ [cegb]>[cegb] z c | z2 z2 [cegb]>[cegb] z c |$ %3
+ z c z/ c z/ [cegb]>[cegb] z2 || z b/a/ z/ g/ z/ a3/2gce |$ z f/e/ z/ e/d/ z/ d/c/ z/ d/ BG | %6
+ z b/a/ z/ g/ z/ a3/2gce |$ d>d z d2 e z2 | z g a/g/ z ga/g/ z b |$ z d z/ d3/2 e3/2e>fg/ | %10
+ z b/a/ z/ g/ z/ a3/2gce |$ d3/2d3/2 c2 z z2 || [cg]>[cg] z2 [cb]>[cb] z [Bg]/ z/ | %13
+ z [Bg] z/ [Bg]/ z [ceb]>[ceb] z2 |$ [cg]>[cg] z2 [cb]>[cb] z [Bg]/ z/ | %15
+ z [Bg] z/ [Bg]/ z [ceb]>[ceb] z2 | [cg]>[cg] z2 [cb]>[cb] z [Bg]/ z/ |$ %17
+ z [Bg] z/ [Bg]/ z [ceb]>[ceb] z2 | [cg]>[cg] z2 [cb]>[cb] z [Bg]/ z/ | %19
+ z [Bg] z/ [Bg]/ z [ceb]>[ceb] z2 |$ [cg]>[cg] z2 [cb]>[cb] z [Bg]/ z/ | %21
+ z [Bg] z/ [Bg]/ z [ceb]>[ceb] z2 | [cg]>[cg] z2 [cb]>[cb] z [Bg]/ z/ |$ %23
+ z [Bg] z/ [Bg]/ z [ceb]>[ceb] z2 | [cg]>[cg] z2 [cb]>[cb] z [Bg]/ z/ | %25
+ z [Bg] z/ [Bg]/ z [ceb]>[ceb] z2 |$ [cg]>[cg] z2 [cb]>[cb] z [Bg]/ z/ | %27
+ z [Bg] z/ [Bg]/ z [ceb]>[ceb] z2 :| %28
+V:4
+|: C,,>C,, z C z2 z C | z2 z C z2 z C | C,,>C,, z C z2 z C |$ z2 z C z4 || %4
+ [F,,A,,E,]2 z [F,,A,,E,]>[F,,A,,E,] z z2 |$ [G,B,F]2 z [G,B,F] [CE]2 z2 | %6
+ [F,,A,,E,]2 z [F,,A,,E,]>[F,,A,,E,] z z2 |$ [G,,B,,F,]>[G,,B,,F,] z C,2 C,,G,,C, | %8
+ [F,,A,,E,]2 z3/2 [F,,A,,E,]>[F,,A,,E,] z/ z2 |$ %9
+ F,,/ z/ [G,,B,,F,] z/ [G,,B,,F,]3/2 [C,E,]3/2C,3/2G,, | %10
+ [F,,A,,E,]2 z3/2 [F,,A,,E,]>[F,,A,,E,] z/ z2 |$ %11
+ [G,,B,,F,]3/2[G,,B,,F,]3/2 [C,E,]2 C,, G,,,3/2 z/ || %12
+ [A,,E,]>[A,,E,] z2 [F,,E,]>[F,,E,] z [G,,D,]/ z/ | z [G,,D,] z/ [G,,D,]/ z C,,3/2C,3/2B,, |$ %14
+ [A,,E,]>[A,,E,] z2 [F,,E,]>[F,,E,] z [G,,D,]/ z/ | z [G,,D,] z/ [G,,D,]/ z C,D,E,G, | %16
+ [A,,E,]>[A,,E,] z2 [F,,E,]>[F,,E,] z [G,,D,]/ z/ |$ z [G,,D,] z/ [G,,D,]/ z C,,3/2C,3/2B,, | %18
+ [A,,E,]>[A,,E,] z2 [F,,E,]>[F,,E,] z [G,,D,]/ z/ | z [G,,D,] z/ [G,,D,]/ z C,,D,E,C, |$ %20
+ [A,E]>[A,E] z2 [F,E]>[F,E] z [G,D]/ z/ | z [G,D] z/ [G,D]/ z C>C z2 | %22
+ [A,,E,]>[A,,E,] z2 [F,,E,]>[F,,E,] z [G,,D,]/ z/ |$ z [G,D] z/ [G,D]/ z C,DEC | %24
+ [A,E]>[A,E] z2 [F,E]>[F,E] z [G,D]/ z/ | z [G,D] z/ [G,D]/ z C>C z2 |$ %26
+ [A,E]>[A,E] z2 [F,E]>[F,E] z [G,D]/ z/ | z [G,D] z/ [G,D]/ z C,DE z :| %28
+V:5
+|: C>C z C/ z/ C>C z2 | z C z/ C/ z C,/C,/C,/C,/ z2 | C>C z C/ z/ C>C z2 |$ %3
+ z C z/ C/ z C,/C,/C,/C,/ z2 || F,2 z A,>E z z2 |$ G,2 z B, E2 z2 | F,2 z A,>E z z2 |$ %7
+ G,,>G,, z C, z4 | E2 z3/2 F,>F, z/ z2 |$ z F, z/ F,3/2 E,3/2C,3/2!wedge!G, | %10
+ E2 z3/2 F,>F, z/ z2 |$ F,3/2B,,3/2 E,2 C G,3/2 z/ || A,>A, z2 E,>E, z G,/ z/ | %13
+ z G, z/ G,/ z C,3/2C3/2B, |$ A,>A, z2 E>E z G,/ z/ | z G, z/ G,/ z C,D,E,G, | %16
+ A,>A, z2 E,>E, z G,/ z/ |$ z G, z/ G,/ z C,3/2C3/2B, | A,>A, z2 E>E z G,/ z/ | %19
+ z D, z/ D,/ z C,D,E,C, |$ z4 z4 | z8 | z8 |$ z8 | z8 | z8 |$ z8 | z8 :| %28
+V:6
+[K:C]|: ^g^g^g^g ^g^g^g^g | ^g^g^g^g ^g^g^g^g | ^g^g^g^g ^g^g^g^g |$ ^g^g^g^g ^g^g^g z || %4
+ ^b^g^g^g ^g^g^g^g |$ ^g^g^g^g ^g^g^g^g | ^g^g^g^g ^g^g^g^g |$ ^g^g^g^g ^g^g^g^g | %8
+ ^g^g^g^g ^g^g^g^g |$ ^g^g^g^g ^g^g^g^g | ^g^g^g^g ^g^g^g^g |$ ^g^g^g^g ^g^g^g^g || %12
+ ^a^g^g^g ^g^g^g^g | ^g^g^g^g ^g^g^g^g |$ ^g^g^g^g ^g^g^g^g | ^g^g^g^g ^g^g^g^g | %16
+ ^b^g^g^g ^g^g^g^g |$ ^g^g^g^g ^g^g^g^g | ^g^g^g^g ^g^g^g^g | ^g^g^g^g ^g^g^g^g |$ %20
+ ^a^g^g^g ^g^g^g^g | ^g^g^g^g ^g^g^g^g | ^g^g^g^g ^g^g^g^g |$ ^g^g^g^g ^g^g^g^g | %24
+ ^b^g^g^g ^g^g^g^g | ^g^g^g^g ^g^g^g^g |$ ^g^g^g^g ^g^g^g^g | ^g^g^g^g ^g^g^g^g :| %28
+V:7
+[K:C]|: F4 z3 F F4 z2 F2 | z2 F2>F2 z2 F2FF z2 F2 | F2>F2 z4 F4 z2 F2 |$ z2 F2>F2 z2 F2FF z4 || %4
+ F4 z3 F3F2 z4 |$ F4 z F3 FF z2 z4 | F4 z3 F3F2 z2 z2 |$ F4 z2 F2 z2 FF z F z2 | %8
+ F4 z3 F3F2 z2 z2 |$ F4 z2 F2 z2 F2 z F2 z | F4 z3 F3F2 z2 z2 |$ F4 z2 F2 z2 FF z FFF || %12
+ F4 z4 F2>F2 z2 F2 | z2 F3F3 F4 z2 FF |$ F4 z4 F2>F2 z2 F2 | z2 F3F3 F2FF z FFF | %16
+ F4 z4 F2>F2 z2 F2 |$ z2 F3F3 F4 z2 FF | F4 z4 F2>F2 z2 F2 | z2 F3F3 F2FF z FFF |$ %20
+ F4 z4 F2>F2 z2 F2 | z2 F3F3 F4 z2 FF | F4 z4 F2>F2 z2 F2 |$ z2 F3F3 F2FF z FFF | %24
+ F4 z4 F2>F2 z2 F2 | z2 F3F3 F4 z2 FF |$ F4 z4 F2>F2 z2 F2 | z2 F3F3 F2FF z FFF :| %28
+V:8
+[K:C]|: x ^c x ^c | x ^c x ^c | x ^c x ^c |$ x ^c x ^c || x ^c x ^c |$ x ^c x ^c | x ^c x ^c |$ %7
+ x ^c x ^c | x ^c x ^c |$ x ^c x ^c | x ^c x ^c |$ x ^c x ^c || x ^c x ^c | x ^c x ^c |$ %14
+ x ^c x ^c | x ^c x ^c | x ^c x ^c |$ x ^c x ^c | x ^c x ^c | x ^c x ^c |$ x ^c x ^c | x ^c x ^c | %22
+ x ^c x ^c |$ x ^c x ^c | x ^c x ^c | x ^c x ^c |$ x ^c x ^c | x ^c x ^c :| %28
+V:9
+[K:C]|: E>^E z2 z4 | z4 E>^E z2 | E>^E z2 z4 |$ z4 E>^E z2 || E8 |$ E8 | E8 |$ z4 z2 E>^E | z8 |$ %9
+ E8 | E8 |$ z4 z ^E ^E2 || E8 | E8 |$ E8 | E8 | E8 |$ E8 | E8 | E8 |$ E>^E z2 z4 | z4 E>^E z2 | %22
+ E>^E z2 z4 |$ z4 E>^E z2 | E>^E z2 z4 | z4 E>^E z2 |$ E>^E z2 z4 | z4 E>^E z2 :| %28

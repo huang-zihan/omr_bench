@@ -1,0 +1,247 @@
+X:1
+T:You've Come Through
+%%score 1 2 3 4 5 6 { 7 | 8 }
+L:1/8
+Q:3/8=140
+M:15/8
+I:linebreak $
+K:E
+V:1 treble nm="Voice" snm="Vo."
+V:2 treble nm="Voice" snm="Vo."
+V:3 treble nm="Voice" snm="Vo."
+V:4 treble nm="Voice" snm="Vo."
+V:5 treble nm="Voice" snm="Vo."
+V:6 treble nm="Voice" snm="Vo."
+V:7 treble nm="Piano" snm="Pno."
+V:8 bass 
+V:1
+ z15 | z15 ||$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 ||$ z15 | z15 |$ z15 | z15 | z15 |$ %15
+w: |||||||||||||||
+ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | %30
+w: |||||||||||||||
+ z15 |$ z15 | z15 |[M:6/8] z6 |$[M:15/8] z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 || %42
+w: ||||||||||||
+[K:F] z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 | %55
+w: |||||||||||||
+[M:6/8] z6 |$[M:15/8] z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |[M:6/8] z6 |$[M:15/8] z15 | %65
+w: ||||||||||
+ z15 |$ z15 | z15 |$ z15 | z15 |[M:6/8] z6 |$[M:15/8] z15 |[M:5/4][Q:1/4=140] z10 |$ z10 | z10 |$ %75
+w: ||||||||||
+ z10 | z10 |$ f2 f2 f6- |!<(! !fermata!f8-!ff! f2!<)! | z10 |$ c6 z2 z2 |[M:15/8][Q:3/8=140] z15 | %82
+w: ||Life goes on|||||
+[M:6/8] z3 z2 F |$[M:15/8] f3 g3 b3 c'- c'2 b3 |[M:6/8] z4 z F |[M:15/8] f3 g3 b3 c'- c'2 d'3 |$ %86
+w: This|un- pre- dic- ta- * ble|This|un- pre- dic- ta- * ble|
+[M:6/8] z6 |[M:15/8][Q:3/8=80] c'12- c'3- |[M:6/8] c'6- |[M:12/8] c'12 |] %90
+w: ||||
+V:2
+ z15 | z15 ||$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 ||$ z15 | z15 |$ z15 | z15 | z15 |$ %15
+w: |||||||||||||||
+ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | %30
+w: |||||||||||||||
+ z15 |$ z15 | z15 |[M:6/8] z6 |$[M:15/8] z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 || %42
+w: ||||||||||||
+[K:F] z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 | %55
+w: |||||||||||||
+[M:6/8] z6 |$[M:15/8] z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |[M:6/8] z6 |$[M:15/8] z15 | %65
+w: ||||||||||
+ z15 |$ z15 | z15 |$ z15 | z15 |[M:6/8] z6 |$[M:15/8] z15 |[M:5/4] z10 |$ z10 | z10 |$ z10 | %76
+w: |||||||||||
+ c2 c2 c6 |$ c2 c2 c6- |!<(! !fermata!c8-!ff! c2!<)! | z4 z4 c'2- |$ c'6 z2 z2 |[M:15/8] z15 | %82
+w: Life goes on|Life goes on||day|_||
+[M:6/8] z3 z2 F |$[M:15/8] C3 C3 D3 C- C2 B,3 |[M:6/8] z4 z F |[M:15/8] C3 C3 D3 C- C2 D3 |$ %86
+w: This|un- pre- dic- ta- * ble|This|un- pre- dic- ta- * ble|
+[M:6/8] z6 |[M:15/8] f12- f3- |[M:6/8] f6- |[M:12/8] f12 |] %90
+w: ||||
+V:3
+ z15 | z15 ||$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 ||$ z15 | z15 |$ z15 | z15 | z15 |$ %15
+w: |||||||||||||||
+ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | %30
+w: |||||||||||||||
+ z15 |$ z15 | z15 |[M:6/8] z6 |$[M:15/8] z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 || %42
+w: ||||||||||||
+[K:F] z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 | %55
+w: |||||||||||||
+[M:6/8] z6 |$[M:15/8] z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |[M:6/8] z6 |$[M:15/8] z15 | %65
+w: ||||||||||
+ z15 |$ z15 | z15 |$ z15 | z15 |[M:6/8] z6 |$[M:15/8] z15 |[M:5/4] z10 |$ z10 | z10 |$ %75
+w: ||||||||||
+ F2 G2 GF- F4 | F2 G2 GF- F4 |$ F2 G2 GF- F4- |!<(! !fermata!F8-!ff! F2!<)! | z4 z2 F4- |$ %80
+w: Life goes on _ _|Life goes on _ _|Life goes on _ _|_ _|day|
+ F6 z2 z2 |[M:15/8] z15 |[M:6/8] z3 z2 F |$[M:15/8] F3 G3 B3 c- c2 f3 |[M:6/8] z4 z F | %85
+w: _||This|un- pre- dic- ta- * ble|This|
+[M:15/8] F3 G3 B3 c- c2 f3 |$[M:6/8] z6 |[M:15/8] c12- c3- |[M:6/8] c6- |[M:12/8] c12 |] %90
+w: un- pre- dic- ta- * ble|||||
+V:4
+ z15 | z15 ||$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 ||$ z15 | z15 |$ z15 | z15 | z15 |$ %15
+w: |||||||||||||||
+ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | %30
+w: |||||||||||||||
+ z15 |$ z15 | z15 |[M:6/8] z6 |$[M:15/8] z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 || %42
+w: ||||||||||||
+[K:F] z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 | %55
+w: |||||||||||||
+[M:6/8] z6 |$[M:15/8] z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |[M:6/8] z6 |$[M:15/8] z15 | %65
+w: ||||||||||
+ z15 |$ z15 | z15 |$ z15 | z15 |[M:6/8] z6 |$[M:15/8] z15 |[M:5/4] z10 |$ A2 G2 B4 A2 | %74
+w: ||||||||Life goes on _|
+ A2 G2 B4 c2 |$ A2 G2 B4 A2 | A2 G2 B4 A2 |$ A2 G2 B4 A2- |!<(! !fermata!A8-!ff! A2!<)! | z4 G6- |$ %80
+w: Life goes on _|Life goes on _|Life goes on _|Life goes on _|_ _|day|
+ G6 z2 z2 |[M:15/8] z15 |[M:6/8] z3 z2 F |$[M:15/8] f3 e3 d3 c- c2 B3 |[M:6/8] z4 z F | %85
+w: _||This|un- pre- dic- ta- * ble|This|
+[M:15/8] f3 e3 d3 c- c2 B3 |$[M:6/8] z6 |[M:15/8] B12- B3- |[M:6/8] B6 |[M:12/8] A12 |] %90
+w: un- pre- dic- ta- * ble|||||
+V:5
+ z15 | z15 ||$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z3 z3 z3 z/ G/GG(2:3:2cB | %9
+w: ||||||||I wan' a- noth- er|
+ e6- e z z4 (2:3:2GF ||$ B12- B3 | z15 |$ z15 | z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ %21
+w: day _ Just like|this! *|||||||||||
+ z15 | z3 z3 z3 z3 (2:3:2GF |$ B12- B3 | c3 B3 =GFE E6 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ %31
+w: |One more|day _|_ _ _ _ _ _|||||||
+ z15 | z15 |[M:6/8] z6 |$[M:15/8] z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 ||[K:F] z15 |$ %43
+w: ||||||||||||
+ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | z15 |[M:6/8] z6 |$ %56
+w: |||||||||||||
+[M:15/8] z15 |$ z15 | z15 |$ z15 | z15 |$ z15 |!pp!!<(! c12-!f! c3!<)! |[M:6/8] z6 |$ %64
+w: ||||||Whoa *||
+[M:15/8] A3 G3 B3 c3 B3 | A12 (2:3:2BA |$ B2 A2 F2- F3 z3 B2 B | A2 A4- A3 z B B2 A2 |$ %68
+w: our lives will be much|more than we've|ev- er known _ I'm ex-|cit- ed _ For all our|
+ A2 G2 F2- F6 z2 c | A3 G3 B3 A3 F3 |[M:6/8] z6 |$[M:15/8] z15 |[M:5/4] F2 E2 DC- C4- |$ C8- C2 | %74
+w: hopes and dreams * It's|un- pre- dic- ta- ble|||Life goes on _ _|_ _|
+ c8- c2- |$ c8 d2 | c8 d2 |$ c8 d2 |!<(! !fermata!c8-!ff! c2!<)! | z2 B8- |$ B6 z2 z2 | %81
+w: On _|_ and|on and|on and|on *|day|_|
+[M:15/8] z15 |[M:6/8] z3 z2 F |$[M:15/8] c3 c3 c3 c- c2 B3 |[M:6/8] z4 z F | %85
+w: |This|un- pre- dic- ta- * ble|This|
+[M:15/8] c3 c3 c3 c- c2 d3 |$[M:6/8] z6 |[M:15/8] F12- F3- |[M:6/8] F6- |[M:12/8] F12 |] %90
+w: un- pre- dic- ta- * ble||life *|||
+V:6
+ z15 | z3 z3 z3 z3 (2:3:2AA ||$ B6- B z z z3 (2:3:2cB | G2 E E2 z z3 z3 (2:3:2CE |$ %4
+w: |You've come|through _ all that|you have faced yes you're|
+ C2 B, B,3 z3 z3 (2:3:2EF | =G F2 E3 z3 z2 ^G (2:3:2GA |$ B6- B z2 z3 (2:3:2cB | %7
+w: scarred _ _ but not|bro- ken _ And we've come|through _ all that|
+ G2 E E2 z z3 z2 C (2:3:2CE |$ C2 B,- B,3 z3 z3 (2:3:2EF | G2 F E2 F E z2 z3 (2:3:2EF ||$ %10
+w: life can throw in our di-|rec- tion _ so let's|start to plan a- head Life is|
+ G3 F3 A3 G3 E3 | E3 F3 G3 B2 B- B3 |$ G3 F3 E3 F3 E3 | G3 F3 z3 z3 B3 | z3 z3 z3 z3 (2:3:2AA |$ %15
+w: un- pre- dic- ta- ble|no two days the same _|Ups and downs keep us|on our toes|Now we're|
+ B6- B z z z3 (2:3:2cB | G2 E E2 z z3 z3 (2:3:2CE |$ C2 B, B,3 z3 z3 (2:3:2EF | %18
+w: here _ there's some|way to go but we'll|get there _ take it|
+ =G F2 E3 z3 z3 (2:3:2^GA |$ B6- B z2 z3 (2:3:2cB | G2 E E2 z z3 z2 C (2:3:2CE |$ %21
+w: day by day Let's think|big _ we can|do it all let's not com-|
+ C2 B,- B,3 z3 z3 (2:3:2EF | =G2 F E2 F E z2 z3 (2:3:2EF |$ G3 F3 A3 G3 E3 | E3 F3 G3 B2 E- E3 |$ %25
+w: pro- mise _ yes! let's|start to plan a- head 'cause life's|un- pre- dic- ta- ble|no two days a- like _|
+ G3 F3 E3 F3 E3 | G3 F3 A3 B3 c3 |$ B12 (2:3:2AG | A2 G2 E2- E3 z2 G2 A2 |$ B2 B4- B3 z2 c2 B2 | %30
+w: Who knows what's in store|our lives could be much|more than we've|ev- er known _ It's ex-|ci- ting _ All your|
+ e2 d2 B2- B6 z2 B |$ G3 F3 A3 G3 E3 | E3 F3 G3 B2 E- E3 |[M:6/8] z6 |$[M:15/8] z15 |$ z15 | z15 |$ %37
+w: hopes and goals * It's|un- pre- dic- ta- ble|un- pre- dic- ta- ble _|||||
+ z15 | z15 |$ z15 | z15 |$!f! G3 F3 A3 B3 E3 ||[K:F] z3 z3 z3 z3 (2:3:2AA |$ %43
+w: ||||un- pre- dic- ta- ble|I've come|
+ c6- c z z z3 (2:3:2dc | A2 F- F2 z z3 z3 (2:3:2DF |$ D2 C C3 z3 z3 (2:3:2FG | %46
+w: through _ and I'm|thank- ful _ and ac-|cept- ing _ of all|
+ _A2 G2 F2 z3 z2 =A (2:3:2AB |$ c6- c z2 z3 (2:3:2dc | A2 F- F2 z z3 z3 (2:3:2DF |$ %49
+w: that I have I'll take it|all _ in my|stride _ _ from now|
+ D2 C- C3 z3 z3 (2:3:2FG | _A G2 F2 G F z2 z3 (2:3:2FG |$ A3 G3 B3 A3 F3 | F3 G3 A3 c2 F- F3 |$ %53
+w: on _ _ 'cause you're|back here by my side Yes life's|un- pre- dic- ta- ble|no two days a- like _|
+ A3 G3 F3 G3 F3 | A3 G3 A3 c2 c- c3 |[M:6/8] z6 |$[M:15/8] z15 |$ z15 | z15 |$ z15 | z15 |$ z15 | %62
+w: Who knows what's in store|no two days a- like _||||||||
+!pp!!<(! c12-!f! c3!<)! |[M:6/8] z6 |$[M:15/8] A3 G3 B3 c3 d3 | c12 (2:3:2BA |$ %66
+w: Whoa *||our lives will be much|more than we've|
+ B2 A2 F2- F3 z3 d2 d | c2 c4- c3 z d d2 c2 |$ f2 e2 c2- c6 z2 z | z15 |[M:6/8] z4 z F |$ %71
+w: ev- er known _ I'm ex-|cit- ed _ For all our|hopes and dreams *||life's|
+[M:15/8] A3 G3 B3 c3 c3- |[M:5/4] c8- c2- |$ c8 d2 | c2 f8- |$ f8 a2 | c'8- c'2- |$ c'8- c'2- | %78
+w: un- pre- dic- ta- ble|_ _|* Whoa|_ _|* Whoa|_ _||
+!<(! !fermata!c'6 z/ _a/g/f/!ff! (3:2:2f2 c!<)! | f8- f2- |$ f6 z2 z F/G/ | %81
+w: * I want a- noth- er|day _|_ of this|
+[M:15/8] A3 G3 B3 A- A2 F3 |[M:6/8] z3 z2 F |$[M:15/8] A3 G3 B3 A- A2 F3 |[M:6/8] z4 z F | %85
+w: un- pre- dic- ta- * ble|This|un- pre- dic- ta- * ble|This|
+[M:15/8] A3 G3 B3 A- A2 F3 |$[M:6/8] z6 |[M:15/8] z/!ff! _a/g/f/fcf- f8- f2- |[M:6/8] f6- | %89
+w: un- pre- dic- ta- * ble||I want a- noth- er day * *||
+[M:12/8] f12 |] %90
+w: |
+V:7
+ EB,G, EA,F, [A,CE] z2 z3 z3 | EB,G, EA,F, [A,CE] z2 z3 z3 ||$ EB,G, EA,F, [A,CE] z2 z3 z3 | %3
+ EB,G, EA,F, [A,CE] z2 z3 z3 |$ EB,G, EA,F, [A,CE] z2 z3 z3 | EB,G, EA,F, [A,CE] z2 z3 z3 |$ %6
+ EB,G, EA,F, [A,CE] z2 z3 z3 | EB,G, EA,F, [A,CE] z2 z3 z3 |$ EB,G, EA,F, [A,CE] z2 z3 z3 | %9
+ EB,G, EA,F, [A,CE] z2 z3 z3 ||$ BGEBFDcAEBGE C3 | BGEBFDcAEBGE C3 |$ BGEBFDcAEBGE C3 | %13
+ BGEBFDcAEBGE C3- |"^Bad choice of words" C12- C3 |$ EB,G, EA,F, [A,CE] z2 z3 z3 | %16
+ EB,G, EA,F, [A,CE] z2 z3 z3 |$ EB,G, EA,F, [A,CE] z2 z3 z3 | EB,G, EA,F, [A,CE] z2 z3 z3 |$ %19
+ EB,G, EA,F, [A,CE] z2 z3 z3 | EB,G, EA,F, [A,CE] z2 z3 z3 |$ EB,G, EA,F, [A,CE] z2 z3 z3 | %22
+ EB,G, EA,F, [A,CE] z2 z3 z3 |$ BGEBFDcAEBGE C3 | BGEBFDcAEBGE C3 |$ BGEBFDcAEBGE C3 | %26
+ BGEBFDcAEBGEcAE |$!mp! !>![Be][Be][Be]!>![Be][Be][Be]!>![Be][Be][Be] !>![Be]2 [Be] !>![Be]f [eg] | %28
+ !>![eb][eb][eb]!>![eb][eb][eb] !>![eb]2 [eb] !>![eb]2 [eb]!>![eb][eb][eb] |$ %29
+ !>!bfe!>!feB!>!eBF [Bfb]2 [efb][efb][efb][efb] | %30
+ !>![eb][eb][eb]!>![eb][eb][eb] !>![eb]2 [eb] !>![eb]2 [eb]!>![eb][eb][eb] |$ BGEBFDcAEBGE C3 | %32
+ BGEBFDcAEBGE C3 |[M:6/8] z3 c'ba |$[M:15/8]!mp! g3 f3 a3 g3 e z z |$ d3 c3 e3 d3 B z z | %36
+ G3 F3 A3 G3 E z z |$ D3 C3 E3 D3 B,3 |!<(! G,3[K:bass] B,,3 G,,3 E,,3 B,,,3!<)! |$ %39
+!mf! [E,,,E,,]12- [E,,,E,,]3 |[K:treble]!p! C!<(!B,A,ECB,FECAFEBA!<)!!mf!F |$ BGEBFDcAEBGE C3 || %42
+[K:F] FCA, FB,G, [B,DF] z2 z3 z3 |$ FCA, FB,G, [B,DF] z2 z3 z3 | FCA, FB,G, [B,DF] z2 z3 z3 |$ %45
+ FCA, FB,G, [B,DF] z2 z3 z3 | FCA, FB,G, [B,DF] z2 z3 z3 |$ FCA, FB,G, [B,DF] z2 z3 z3 | %48
+ FCA, FB,G, [B,DF] z2 z3 z3 |$ FCA, FB,G, [B,DF] z2 z3 z3 | FCA, FB,G, [B,DF] z2 z3 z3 |$ %51
+ cAFcGEdBFcAF D3 | cAFcGEdBFcAF D3 |$ cAFcGEdBFcAF D3 | cAFcGEdBFcAF D3 |[M:6/8] z3 d'c'b |$ %56
+[M:15/8]!mp! a3 g3 b3 a3 f z z |$ e3 d3 f3 e3 c z z | A3 G3 B3 A3 F z z |$ E3 D3 F3 E3 C3 | %60
+!<(! A,3[K:bass] C,3 F,,3 C,,3 A,,,3!<)! |$!mf! [F,,,F,,]12- [F,,,F,,]3 | %62
+[K:treble]!p! D!<(!CB,FDCGFDBGFcB!<)!!mf!G |[M:6/8] z6 |$[M:15/8] cAFcGEdBFcAFdBF | %65
+ !>![cf][cf][cf]!>![cf][cf][cf]!>![cf][cf][cf] !>![cf]2 [cf] !>![cf]g [fa] |$ %66
+ !>![fc'][fc'][fc']!>![fc'][fc'][fc'] !>![fc']2 [fc'] !>![fc']2 [fc']!>![fc'][fc'][fc'] | %67
+ !>!c'gf!>!gfc!>!fcG [cgc']2 [fgc'][fgc'][fgc'][fgc'] |$ %68
+ !>![fc'][fc'][fc']!>![fc'][fc'][fc'] !>![fc']2 [fc'] !>![fc']2 [fc']!>![fc'][fc'][fc'] | %69
+ cAFcGEdBFcAF D3 |[M:6/8] z6 |$[M:15/8] cAFcGEdBFcAF D3 | %72
+[M:5/4] (3[Acf][Acf][Acf] (3[Gce][Gce][Gce] .[FBd] z2 z z2 |$ %73
+ (3[Acf][Acf][Acf] (3[Gce][Gce][Gce] .[FBd] z2 z z2 | %74
+ (3[Acf][Acf][Acf] (3[Gce][Gce][Gce] .[FBd] z2 z z2 |$ %75
+ (3[Acf][Acf][Acf] (3[Gce][Gce][Gce] .[FBd] z2 z z2 | %76
+ (3[Acf][Acf][Acf] (3[Gce][Gce][Gce] .[FBd] z2 z z2 |$ %77
+ (3[Acf][Acf][Acf] (3[Gce][Gce][Gce] .[FBd] z2 z z2 | %78
+ (3[Acf][Acf][Acf] (3[Gce][Gce][Gce] .[Fcf] z z2 z2 | z10 |$ z10 |[M:15/8] cAFcGEdBFcAF D3 | %82
+[M:6/8] z6 |$[M:15/8] cAFcGEdBFcAF D3 |[M:6/8] z6 |[M:15/8] cAFcGEdBFcAF B3 |$[M:6/8] z6 | %87
+[M:15/8] [FAc] z2 [EGc] z2 [FBd] z2 [FAc]2 z [DFB] z2 |[M:6/8] [CFA] z2 [CEG] z2 | %89
+[M:12/8] !//![A,CF]12 |] %90
+V:8
+ [E,,,E,,]3 [=D,,,=D,,]3 [C,,,C,,] z2 z3 z3 | [E,,,E,,]3 [=D,,,=D,,]3 [C,,,C,,] z2 z3 z3 ||$ %2
+ [E,,,E,,]3 [=D,,,=D,,]3 [C,,,C,,] z2 z3 z3 | [E,,,E,,]3 [=D,,,=D,,]3 [C,,,C,,] z2 z3 z3 |$ %4
+ [E,,,E,,]3 [=D,,,=D,,]3 [C,,,C,,] z2 z3 z3 | [E,,,E,,]3 [=D,,,=D,,]3 [C,,,C,,] z2 z3 z3 |$ %6
+ [E,,,E,,]3 [=D,,,=D,,]3 [C,,,C,,] z2 z3 z3 | [E,,,E,,]3 [=D,,,=D,,]3 [C,,,C,,] z2 z3 z3 |$ %8
+ [E,,,E,,]3 [=D,,,=D,,]3 [C,,,C,,] z2 z3 z3 | [E,,,E,,]3 [=D,,,=D,,]3 [C,,,C,,] z2 z3 z3 ||$ %10
+ E,3 D,3 C,3 B,,3 A,,3 | [E,,,E,,]3 [D,,,D,,]3 [C,,,C,,]3 [B,,,,B,,,]3 [A,,,,A,,,]3 |$ %12
+ E,3 D,3 C,3 B,,3 A,,3 | [E,,,E,,]3 [D,,,D,,]3 [C,,,C,,]3 [B,,,,B,,,]3 [A,,,,A,,,]3- | %14
+ [A,,,,A,,,]12- [A,,,,A,,,]3 |$ [E,,,E,,]3 [=D,,,=D,,]3 [C,,,C,,] z2 z3 z3 | %16
+ [E,,,E,,]3 [=D,,,=D,,]3 [C,,,C,,] z2 z3 z3 |$ [E,,,E,,]3 [=D,,,=D,,]3 [C,,,C,,] z2 z3 z3 | %18
+ [E,,,E,,]3 [=D,,,=D,,]3 [C,,,C,,] z2 z3 z3 |$ [E,,,E,,]3 [=D,,,=D,,]3 [C,,,C,,] z2 z3 z3 | %20
+ [E,,,E,,]3 [=D,,,=D,,]3 [C,,,C,,] z2 z3 z3 |$ [E,,,E,,]3 [=D,,,=D,,]3 [C,,,C,,] z2 z3 z3 | %22
+ [E,,,E,,]3 [=D,,,=D,,]3 [C,,,C,,] z2 z3 z3 |$ E,3 D,3 C,3 B,,3 A,,3 | %24
+ [E,,,E,,]3 [D,,,D,,]3 [C,,,C,,]3 [B,,,,B,,,]3 [A,,,,A,,,]3 |$ E,3 D,3 C,3 B,,3 A,,3 | %26
+ [E,,,E,,]3 [D,,,D,,]3 [C,,,C,,]3 [B,,,,B,,,]3 [A,,,,A,,,]3 |$ %27
+ [G,,,G,,]3 [A,,,A,,]3 [B,,,B,,]3 [C,,C,]3 [B,,,B,,]3 | %28
+ [E,,E,]3 [D,,D,]3 [B,,,B,,]3 [C,,C,]3 [A,,,A,,]3 |$ %29
+ [G,,,G,,]3 [A,,,A,,]3 [B,,,B,,]3 [C,,C,]3 [B,,,B,,]3 | %30
+ [E,,E,]3 [D,,D,]3 [B,,,B,,]3 [C,,C,]3 [A,,,A,,]3 |$ E,3 D,3 C,3 B,,3 A,,3 | %32
+ [E,,,E,,]3 [D,,,D,,]3 [C,,,C,,]3 [B,,,,B,,,]3 [A,,,,A,,,]3 |[M:6/8] z3 CDE |$ %34
+[M:15/8]!p! !>!EEE!>!EEE!>!EEE!>!EEE!>!EEE |$ !>!EEE!>!EEE!>!EEE!>!EEE!>!EEE | %36
+ !>!E,E,E,!>!E,E,E,!>!E,E,E,!>!E,E,E,!>!E,E,E, |$ !>!E,E,E,!>!E,E,E,!>!E,E,E,!>!E,E,E,!>!E,E,E, | %38
+!p! !>!E,E,E,!>!E,E,E,!>!E,E,E,!>!E,E,E,!>!E,E,E, |$ %39
+!p! !>!E,E,E,!>!E,E,E,!>!E,E,E,!>!E,E,E,!>!E,E,E, | %40
+!p! !>!E,E,E,!>!E,E,E,!>!E,E,E,!>!E,E,E,!>!E,E,E, |$ E,3 D,3 C,3 B,,3 A,,3 || %42
+[K:F] [F,,,F,,]3 [_E,,,_E,,]3 [D,,,D,,] z2 z3 z3 |$ [F,,,F,,]3 [_E,,,_E,,]3 [D,,,D,,] z2 z3 z3 | %44
+ [F,,,F,,]3 [_E,,,_E,,]3 [D,,,D,,] z2 z3 z3 |$ [F,,,F,,]3 [_E,,,_E,,]3 [D,,,D,,] z2 z3 z3 | %46
+ [F,,,F,,]3 [_E,,,_E,,]3 [D,,,D,,] z2 z3 z3 |$ [F,,,F,,]3 [_E,,,_E,,]3 [D,,,D,,] z2 z3 z3 | %48
+ [F,,,F,,]3 [_E,,,_E,,]3 [D,,,D,,] z2 z3 z3 |$ [F,,,F,,]3 [_E,,,_E,,]3 [D,,,D,,] z2 z3 z3 | %50
+ [F,,,F,,]3 [_E,,,_E,,]3 [D,,,D,,] z2 z3 z3 |$ F,3 E,3 D,3 C,3 B,,3 | %52
+ [F,,,F,,]3 [E,,,E,,]3 [D,,,D,,]3 [C,,,C,,]3 [B,,,,B,,,]3 |$ F,3 E,3 D,3 C,3 B,,3 | %54
+ [F,,,F,,]3 [E,,,E,,]3 [D,,,D,,]3 [C,,,C,,]3 [B,,,,B,,,]3 |[M:6/8] z3 DEF |$ %56
+[M:15/8]!p! !>!FFF!>!FFF!>!FFF!>!FFF!>!FFF |$ !>!FFF!>!FFF!>!FFF!>!FFF!>!FFF | %58
+ !>!F,F,F,!>!F,F,F,!>!F,F,F,!>!F,F,F,!>!F,F,F, |$ !>!F,F,F,!>!F,F,F,!>!F,F,F,!>!F,F,F,!>!F,F,F, | %60
+!p! !>!F,F,F,!>!F,F,F,!>!F,F,F,!>!F,F,F,!>!F,F,F, |$ %61
+!p! !>!F,F,F,!>!F,F,F,!>!F,F,F,!>!F,F,F,!>!F,F,F, | %62
+!p! !>!F,F,F,!>!F,F,F,!>!F,F,F,!>!F,F,F,!>!F,F,F, |[M:6/8] z6 |$ %64
+[M:15/8] [F,,,F,,]3 [E,,,E,,]3 [D,,,D,,]3 [C,,,C,,]3 [B,,,,B,,,]3 | %65
+ [A,,,A,,]3 [B,,,B,,]3 [C,,C,]3 [D,,D,]3 [C,,C,]3 |$ %66
+ [F,,F,]3 [E,,E,]3 [C,,C,]3 [D,,D,]3 [B,,,B,,]3 | %67
+ [A,,,A,,]3 [B,,,B,,]3 [C,,C,]3 [D,,D,]3 [C,,C,]3 |$ %68
+ [F,,F,]3 [E,,E,]3 [C,,C,]3 [D,,D,]3 [B,,,B,,]3 | F,3 E,3 D,3 C,3 B,,3 |[M:6/8] z6 |$ %71
+[M:15/8] F,3 E,3 D,3 C,3 B,,3 |[M:5/4] [F,,,F,,]6 (3z C,, z (3z C,,D,, |$ %73
+ [F,,,F,,]6 (3z C, z (3z C,B,, | [F,,,F,,]6 (3z C,, z (3z C,,D,, |$ [F,,,F,,]6 (3z C, z (3z C,B,, | %76
+ [F,,,F,,]6 (3z C,, z (3z C,,D,, |$ [F,,,F,,]6 (3z C, z (3z C,B,, | %78
+ [F,,,F,,]6 (3[C,,C,][B,,,B,,][G,,,G,,] (3[F,,,F,,][E,,,E,,][D,,,D,,] | [C,,,C,,]8 z2 |$ z10 | %81
+[M:15/8] F,3 E,3 D,3 C,- C,2 B,,3 |[M:6/8] z6 |$ %83
+[M:15/8] [F,,F,]3 [E,,E,]3 [D,,D,]3 [C,,C,]- [C,,C,]2 [B,,,B,,]3 |[M:6/8] z6 | %85
+[M:15/8] [F,,F,]3 [E,,E,]3 [D,,D,]3 [C,,C,]- [C,,C,]2 [B,,,B,,]3 |$[M:6/8] z6 | %87
+[M:15/8] [F,,F,]3 [E,,E,]3 [D,,D,]3 [C,,C,]- [C,,C,]2 [B,,,B,,]3 |[M:6/8] [A,,,A,,]3 [G,,,G,,]3 | %89
+[M:12/8] !//![F,,,F,,]12 |] %90

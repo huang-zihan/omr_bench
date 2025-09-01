@@ -1,0 +1,61 @@
+X:1
+T:He Saves Me
+C:John Robson Sweney
+Z:Public Domain
+Z:Courtesy of the Cyber Hymnal™
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=105
+M:6/8
+I:linebreak $
+K:G
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ D | [GB]2 [GB] [GB]2 [Gd] | [DG]2 [DG] [DG]3 | [FA]2 [FA] [FA]3 | [GB]2 [Ac] [Bd]2 [Ac] |$ %5
+w: 1.~My|lov- ing Sav- ior,|I am Thine,|I am Thine,|I am Thine; Saved,|
+w: 2.~Oh,|if this love be|here so sweet,|Here so sweet,|here so sweet, Its|
+w: 3.~Tho’|here our tears will|oft- en flow,|Oft- en flow,|oft- en flow, Be-|
+w: 4.~E’en|tho’ we weep, ’tis|not in vain,|Not in vain,|not in vain; E’en|
+ [GB]2 [GB] [GB]2 [Gd] | [EG]2 [EG] [Ec]2 [Ec] | [DB]2 [Gd] [Fc]2 [DF] | [DA] [DG]4 [DG] |$ %9
+w: sweet- ly saved by|love di- vine, So|sweet- ly Je- sus|saves me. My|
+w: full fru- i- tion|who can mete? So|sweet- ly Je- sus|saves me. I’ll|
+w: reft and sor- rowing|oft we go, Yet|Je- sus sweet- ly|saves me. For|
+w: tho’ we die, to|die is gain, So|sweet- ly Je- sus|saves me. Who|
+ [EG]2 [Ec] [Ec]2 [Ge] | [Ge]2 [Gd] [Gd]2 [GB] | [FA]2 [GB] [Ac]2 [FA] | [GB]2 [Fc] [Gd]2 D |$ %13
+w: soul so full still|pants for more, The|high- er up, we’d|far- ther soar, And|
+w: sing Thy prais- es|here be- low, From|con- qu’ring un- to|con- quest go; ’Tis|
+w: whilst I know Thou|art so near, No|dan- ger I can|ev- er fear, The|
+w: would mount up must|needs bow down; Who’ll|bear the cross will|wear the crown; Whilst|
+ [DG]2 G [FA]2 [=FB] | [Ec]2 [Ec] [Ge]2 [Ge] | [Gd]2 [DG] [DA]2 [DB] | [DA] [DG]4 z || %17
+w: all Thy glo- ry|would ex- plore; So|sweet- ly Je- sus|saves me.|
+w: glo- ry all Thy|love to know, So|sweet- ly Je- sus|saves me.|
+w: charge is still, “Be|of good cheer,” For|Je- sus sweet- ly|saves me.|
+w: Je- sus smiles the|world may frown, So|sweet- ly Je- sus|saves me.|
+"^Refrain" [Gd]3 [GB]3 |$ [FA]3 [Fd]2 [Ac] | [GB]2 [GB] (GA)[GB] | [GB] [FA]4 D | %21
+w: ||||
+w: Saves me,|saves me, So|sweet- ly now * He|saves me; My|
+w: ||||
+w: ||||
+ [DG]2 G [FA]2 [=FB] | [Ec]2 [Ec] !fermata![Ge]2 [Ge] | [Gd]2 [DG] [DA]2 [DB] |$ [DA] [DG]4 |] %25
+w: ||||
+w: soul is full of|love di- vine, So|sweet- ly Je- sus|saves me.|
+w: ||||
+w: ||||
+V:2
+ x | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x5 D |$ x2 G x3 | x6 | x6 | x6 || %17
+ x6 |$ x6 | x3 D2 x | x5 D | x2 G x3 | x6 | x6 |$ x5 |] %25
+V:3
+ [G,B,] | [G,D]2 [G,D] [G,D]2 [G,B,] | [G,B,]2 [G,B,] [G,B,]3 | [D,D]2 [D,D] [D,D]3 | %4
+ [G,D]2 [G,D] [G,D]2 [G,D] |$ [G,D]2 [G,D] [G,D]2 [G,B,] | [C,C]2 [C,C] [C,G,]2 [C,G,] | %7
+ [D,G,]2 [D,B,] [D,A,]2 [D,C] | [D,C] [G,,B,]4 [G,B,] |$ [C,C]2 [C,G,] [C,G,]2 [C,C] | %10
+ [G,C]2 [G,B,] [G,B,]2 [G,D] | [D,D]2 [D,D] [D,D]2 [D,D] | [G,D]2 [A,D] [B,D]2 [A,C] |$ %13
+ [G,B,]2 [G,B,] [G,C]2 [G,D] | [C,C]2 [C,G,] [C,C]2 [C,C] | [D,B,]2 [D,B,] [D,C]2 [D,D] | %16
+ [D,C] [G,,B,]4 z || [G,B,]3 [G,D]3 |$ [D,D]3 [D,A,]2 [F,D] | [G,D]2 [G,D] (B,C)[G,D] | %20
+ [D,D] [D,D]4 [D,C] | [G,,B,]2 [G,B,] [G,C]2 [G,D] | [C,C]2 [C,G,] !fermata![C,C]2 [C,C] | %23
+ [D,B,]2 [D,B,] [D,C]2 [D,D] |$ [D,C] [G,,B,]4 |] %25
+V:4
+ x | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 || x6 |$ x6 | %19
+ x3 G,2 x | x6 | x6 | x6 | x6 |$ x5 |] %25

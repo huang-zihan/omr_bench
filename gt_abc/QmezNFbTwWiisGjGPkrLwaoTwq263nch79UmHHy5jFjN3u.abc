@@ -1,0 +1,29 @@
+X:1
+T:Amberley
+C:Charles Hubert Hastings Parry
+Z:Public  domain
+%%score { ( 1 2 ) ( 3 4 ) }
+L:1/4
+M:1/4
+I:linebreak $
+K:Eb
+V:1 treble nm="P1"
+V:2 treble 
+V:3 bass nm="P2"
+V:4 bass 
+V:1
+"^Editor: John Henry Fowler""^( Revision:  11 - 18 - 2007 )""^q = 100" [B,E] | %1
+[M:4/4] [B,F] [DG] [EA] [EG] | [Ec]3/2 [Ec]/ [DB] [DG] | [CE] [CD] [EA]"^1904" [DA] | [EG]3 G | %5
+ =A B c B | e z/ e/ d"^( 1848 - 1918 )" c | c B B =A | B4 |$ F G/A/ B- B/B/ | G z c2 | c d/e/ f d | %12
+ B4 | B e/d/ c c | B3/2 A/ G B | E/F/ G A F |[M:3/4] E3 |] %17
+V:2
+ x |[M:4/4] x4 | x4 | x4 | x4 | G G ^F G | G =A B G | F G G F/E/ | D4 |$ D D/F/ F E | E E E2 | %11
+ F A/A/ F F | F E3 | E E/E/ E A/G/ | F D E D | C E F/E/ D |[M:3/4] E3 |] %17
+V:3
+ G, |[M:4/4] F, B, A, B, | A, G, F, B, | G, G, C A, | B,3 B, | E D C D | C C B, C | %7
+ [D,D] [G,D] [E,C] [F,C] | B,4 |$ D D/C/ B, B, | B, B, A,3/2 z/ | A, A,/C/ B, B, | B,4 | %13
+ B, A,/B,/ C A, | B, B, E, B, | A, B, C B,/A,/ |[M:3/4] G,3 |] %17
+V:4
+ E, |[M:4/4] D, B,, C, E, | A,,3/2 G,,/ B,, B,, | C, C, A,, F, | E,3 E, | C, B,, =A,, B,, | %6
+ C, F, G, E, | x4 | B,,4 |$ B, B,/A,/ G,3/2 F,/ | E, G, A, G, | F, F,/E,/ D, F, | G,4 | %13
+ G, F,/G,/ A, F,/E,/ | D, B,, C, G,, | A,, G,, F,, B,, |[M:3/4] E,3 |] %17

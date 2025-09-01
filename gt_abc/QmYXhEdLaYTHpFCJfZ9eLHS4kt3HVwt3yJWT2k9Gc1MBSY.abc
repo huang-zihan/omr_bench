@@ -1,0 +1,44 @@
+X:1
+T:G minor Oliver Holden, 1806
+T:Joseph Hart, 1759 87. 87. 12 7. (87. 87. 47 here)
+T:Welcome
+T:Transcribed from The Psalmodist's Assistant, 1806.
+%%score [ 1 2 3 4 ]
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Treble" snm="Tr."
+V:2 treble nm="Counter" snm="C."
+V:3 treble-8 nm="Tenor" snm="T."
+V:4 bass nm="Bass" snm="B."
+V:1
+ G B d B | A c d d ||$ c B B B |$ c d d2 || B B G B | A c c c ||$ d d e e | f e !fermata!d2 |:$ %8
+w: 1.~Come, ye sin- ners.|poor and wret- ched,|Weak and woun- ded,|sick and sore!|Je- sus rea- dy|stands to save you,|Full of pi- ty|joined with power.|
+w: 2.~Ho! ye nee- dy,|come and wel- come,|God's free boun- ty|glo- ri- fy.|True be- lief, and|true re- pen- tance,|Eve- ry grace that|brings us nigh.|
+ d c d c | B F B B | d d d2 :| %11
+w: He is a- ble,|He is wil- ling,|doubt no more!|
+w: With- out mo- ney,|Come to Je- sus|Christ and buy.|
+V:2
+ D D F F | F F F D ||$ E D F G |$ D D D2 || G G G F | E E F F ||$ F F G G | F F !fermata!F2 |:$ %8
+w: 3.~Let not con- science|let you lin- ger,|Nor of fit- ness|found- ly dream;|All the fit- ness|He re- qui- reth|Is to feel your|need of Him.|
+w: 4.~Come ye wea- ry,|hea- vy la- den,|Bruised and man- gled|by the fall;|If you tar- ry|till you're bet- ter,|You will ne- ver|come at all.|
+"^This    He   gives  you:""^Not    the   righteous;" z4 | F F D G | G ^F G2 :| %11
+w: |'Tis the Spi- rit's|ri- sing beam.|
+w: |Sin- ners Je- sus|came to call.|
+V:3
+ d d B d | c/B/ A/G/ A F ||$ F D/C/ D G |$ A G/^F/ G2 || d d B d | c/B/ A/G/ A F ||$ B B c c | %7
+w: 5.~View Him gro- veling|in * the * gar- den,|Lo! your * Ma- ker|pro- strate * lies!|On the bloo- dy|tree * be- * hold Him:|Hear Him cry, be-|
+w: 6.~Lo! th'in- car- nate|God * a- * scen- ded,|Pleads the * me- rit|of His * blood.|Ven- ture on Him,|ven- * ture * whol- ly;|Let no o- ther|
+ d c !fermata!B2 |:$"^\"It      is      finished!\"""^None  but  Je –  sus" z4 | d c d/g/ d/c/ | %10
+w: fore He dies.||Sin- ner, will * this *|
+w: trust in- trude.||Can do help- * less *|
+ B A G2 :| %11
+w: not suf- fice?|
+w: sin- ners good.|
+V:4
+ G, G, D, D, | F, F, D, D, ||$ F, F, B,, B,, |$ D, D, G,2 || G, G, D, D, | E, C, F, F, ||$ %6
+w: 7.~Saints and an- gels,|joined in con- cert,|Sing the prai- ses|of the Lamb;|While the bliss- ful|seats of hea- ven|
+ D, D, E, C, | F, F, !fermata!B,,2 |:$ B, A, B, F, | B, A, G, G, | D, D, G,2 :| %11
+w: Sweet- ly e- cho|with His name.|Hal- le- lu- jah!|Sin- ners here may|sing the same.|

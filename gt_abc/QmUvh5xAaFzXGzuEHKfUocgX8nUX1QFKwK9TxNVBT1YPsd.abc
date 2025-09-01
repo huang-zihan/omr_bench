@@ -1,0 +1,44 @@
+X:1
+T:Prélude en fa dieze mineur
+%%score 1 2 3
+L:1/8
+Q:1/4=60
+M:3/4
+I:linebreak $
+K:none
+V:1 treble transpose=-2 nm="Saxophone Soprano" snm="Sax. S."
+L:1/16
+V:2 treble transpose=-14 nm="Saxophone Ténor" snm="Sax. T."
+V:3 treble transpose=-21 nm="Saxophone Baryton" snm="Sax. Bar."
+V:1
+[K:C] a2 e4 cd (3edc(3dcB | cdcB ceab (3c'ba(3ba^g |$ ae2^g ae2g aeab | %3
+ c'^gac' dc'bc' (3d'c'b(3c'ba |$ ^g^d2e ad2e (3b=de(3fed | c4 (3cBA(3^GAB (3AGA^f>A |$ %6
+ A3^G/^F/ (6:4:6GEFGAB (6:4:6AGABcd | c/B/A2c/e/ (6:4:6ae^f^gab (6:4:6c'baba=g |$ %8
+ ^fga2- agfc' (6:4:6bagagf | g^fe2- efe^d egcB | c^dAG Ade^f (6:4:6gfefed |$ %11
+ e2 B4 GA (6:4:6BAGAG^F | GAG^F GBe^f (6:4:6g_bag=fe |$ (3d^ceG2- G/A/G/^F/GG- Gcde | %14
+ FGFE FAde (6:4:6fagfed | (3cBdF2- F/G/F/E/FF- FBcd |$ EFED EGcd e4- | e_BAG Acfg a4- | %18
+ acBA Bdgb d'fed |$ eag^f gedc eGd=F | EGc2- cGcd ecA^f | gd2^f gd2f gd^cg |$ =fed2- dAde fdB^g | %23
+ ae2^g ae2g ae^da | =g^fe2- eBef ge^c_b |$ a=fd^c dAdf af^d=c' | bge^d eBeg bgf=d' | %27
+ c'a2^g af2e e^d2a |$ a2!fermata!^g2 z8 | a2 e4 cd (3edc(3dcB | cdcB ceab (3c'ba(3ba^g |$ %31
+ ae2^g ae2g afe^c' | d'a2^c' d'a2c' (6:4:6d'=c'bc'ba |$ _bf2a bf2a (6:4:6bc'd'c'=ba | %34
+ (6:4:6^gabag^f (6:4:6ede=fed (6:4:6cdedcB |$ A^g2a Ba2g ^c=g2^f | %36
+ (6:4:6^fgagfe (6:4:6^defed^c (6:4:6BAB=cBA |$ (6:4:6^GABAG^F E4- EG/B/df | %38
+ (6:4:6e^f^ga=g=f (6:4:6edcfed (6:4:6cBABA^G |$ A8- A^G2A | f^d2e ^G=d2c (6:4:6BdcBAG |$ %41
+ (6:4:6ABcdef E2A2- AA2^G | A12 |] %43
+V:2
+[K:C] z c ea- a^g | a e2 c/d/ (6:4:6e/d/c/d/c/B/ |$ cd eb a^g | ae A^G Ad |$ z B cA (^G2 | %5
+ (6:4:6^G/)G/A/B/A/G/ (6:4:6A/B/c/d/c/B/ c2- |$ c/B/4A/4B- B2 z2 | z2 z2 z d |$ c>c BA G^F | %9
+ E4- EE | A z z2 z A- |$ AG Be- e^d | eB- B/A/G z G- |$ GE A4- | AA d/AA/- A<F- | FD G4- |$ %16
+ GG cB c2- | cc fc- c/c^F/ | Bd gd B2 |$ cB- B/cd/- d/cB/ | c3 z z _e | dc _Bd e2 |$ d3 z z f | %23
+ ed ce ^f2 | e>B G/E/G/B/ e2- |$ eA F/D/F/A/ dA | eB G/E/G/B/ eB | AB cB AB |$ c!fermata!B z4 | %29
+ z c ea- a^g | a e2 c/d/ (6:4:6e/d/c/d/c/B/ |$ cd ed c_B | AG Ae A2 |$ df ff ff | e2 z B e2- |$ %35
+ ee d2 z ^c | ^de ^fB ^cd |$ =d=c Bc d^G | AE A3 ^G |$ %39
+ (6:4:6z/ =g/f/e/f/g/ (6:4:6f/e/d/^c/d/e/ d=c | Bc d A2 G |$ E(^G (6:4:6G/)A/=G/F/E/D/ E2- | E6 |] %43
+V:3
+[K:G] e2- e>f gb | e6- |$ ef ga gf | ed c4 |$ B6- | B2 z2 z ^A |$ B3 B ^c^d | eE GB e2- |$ %8
+ e^c ^A2 z F | B>A GF E2- | EF GE F2 |$ B2- B>^c df | B2- B>A ^GB |$ E2 z B ^GE | A3 c A/c/F/A/ | %15
+ D2 z A FD |$ G2 z2 z/ d/B/G/ | c3 e ^cA | d4- dd |$ GA Bc dd | g>d B/G/B/d/ g2 | =fe df Be |$ %22
+ a>e c/A/c/e/ a2 | gf eg ^cf | b2 z2 z d |$ c2 z2 z ^c | d2 z2 z ^d | e3 =d ^c=c |$ %28
+ !fermata!B2 z (3A/B/c/ (6:4:6B/A/G/A/G/F/ | E e2- e/f/ gb | e6- |$ ef gf e=d | cB cd cB |$ %33
+ Aa aa aa | a2 z ^d eB |$ c3 c B=f | e3 d- d^c |$ B^c ^de fF | G3 A BA |$ ^Ge AB cA | B3 c AB |$ %41
+ GF G z z B, | E6 |] %43

@@ -10,7 +10,7 @@ Execute `run_qwen.sh` to perform Optical Music Recognition (OMR) using the pretr
 
 # Convert Ground Truth
 
-Run `ground_truth_convert.sh` to convert the ground truth XML files into ABC notation format.
+Run `ground_truth_convert.sh` to convert the ground truth XML files into ABC notation format. Results are in gt_abc
 
 # Evaluation
 

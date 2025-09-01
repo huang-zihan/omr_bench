@@ -1,0 +1,105 @@
+X:1
+T:Agora só falta você
+C:Rita Lee - Arr. LMI
+Z:Movimento Coral Feevale - 2017
+%%score [ 1 2 3 4 ]
+L:1/16
+Q:1/4=90
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Soprano" snm="S."
+V:2 treble nm="Contralto" snm="C."
+V:3 treble-8 nm="Tenor" snm="T."
+L:1/8
+V:4 bass nm="Baixo" snm="B."
+V:1
+ z16 | z14 z D | GG2F- F2D2 GG2F- F2D2 | GG2F- F2D2 F2D2F2D2 |"Gm" FG2G- GG2 z z8 |$ z14 z D | %6
+w: |A|mi- nha al- * ma ta ar- ma- * da|e'a- pon- ta- * da pa- ra'a ca- ra|do- sos- se- go. *|Pois|
+ GG2F- F12 |"Eb" (3G4 G4 F4-"Cm" F2DD FD2G- |"Gm" G2<G2 z4 z8 |: z8 z CCB, CCDB,- |$ %10
+w: paz sem voz, *|paz sem voz, * não é paz é me-|* do.|As vez eu fa- lo co'a vi-|
+ B,G,2 z z4 z CCB, CCB,D- | D8 G4 F2C2- |"Eb" CCCB, CCCB, (3C2"Cm7"C2B,2 (3C2C2B,2 |$ %13
+w: * da, as vez é e- la quem diz,|* qual a paz|* que eu não que- ro con- ser- var pra ten- tar se fe-|
+"Gm" G,8 z CCB, CCDB,- | B,G,2 z z4 z CCB, CCB,D- | D8 G4 F2C2- |$ %16
+w: liz. As vez eu fa- lo co'a vi-|* da, as vez é e- la quem diz,|* qual a paz|
+"Eb" CCCB, CCCB,"Cm7" (3C2C2B,2 (3C2C2B,2 |"Gm" G,8 z4 z B2B |$ %18
+w: * que eu não que- ro con- ser- var pra ten- tar ser fe-|liz. As gra-|
+"Gm7" BBBB BBBB"F6/G" (3A2B2A2 (3:2:2B2 A4- |"Gm7" A2B2- B4 z4 z B2B |$ %20
+w: des do con- do- mí- nio são pra tra- zer pro- te- ção.|_ _ , Mas tam-|
+ BBBB BBBB/B/"F6/G" (3A2B2A2 (3B2A2d2- |"Cm9/G" d2c2- c4 z4 (3z2 B2B2 | %22
+w: bém tra- zem a dú- vi- da se'é vo- cê que tá nes- sa pri-|* são. * me a-|
+"Gm7" (3B2B2B2 (3B2c2c2-"F6/G" c2c2 z2 c2- |$"Cm9/G" (3c2c2c2 (3c2d2c2-"Gm" c2B2 z BBB | %24
+w: bra- ce'e me dê um bei- jo, * fa-|* ça'um, fi- lho co- mi- go, * mas não me|
+ BBBB BBBB"Gm7" (3A2A2A2 (3A2B2A2- |$"F6/G" A8"Gm" B4 z B2B | BBBB BB2B-"F6/G" Bcc2 z c2c | %27
+w: dei- xe sen- tar na pol- tro- na no- di- a de do- min-|* go. Pro- cu-|ran- do no- vas dro- gas de'a- * lu- guel nes- se|
+"Cm9/G" d2>c2- cG2G"Gm7" d2>c2- cBBB |$ BBBB (3B2B2B2"F6/G" A4 (3A2A2A2 |1"Gm7" A8 G8 | z16 | %31
+w: ví- deo * co- a- gi- do, * é pe- la|paz que eu não que- ro se- guir a- d- mi-|tin- do.||
+ z16 :|2 A8 G4 (3z2 B2B2 || (3B2B2B2 (3B2c2c2- c2c2 z2 c2- |$ (3c2c2c2 (3c2d2c2- c2B2 z BBB | %35
+w: |tin- do, me a-|bra- ce'e me dê um bei- jo, * fa-|* ça'um, fi- lho co- mi- go, * mas não me|
+ BBBB BBBB (3A2A2A2 (3A2B2A2- | A8 B4 z B2B |$ BBBB BB2B-"F6/G" Bcc2 z c2c | %38
+w: dei- xe sen- tar na pol- tro- na no- di- a de do- min-|* go. Pro- cu-|ran- do no- vas dro- gas de'a- * lu- guel nes- se|
+"Cm9/G" d2>c2- cG2G"Gm7" d2>c2- cBBB |$ BBBB (3B2B2B2"F6/G" A4 (3A2A2A2 | A8 B4 z BBB | %41
+w: ví- deo * co- a- gi- do, * é pe- la|paz que eu não que- ro se- guir a- d- mi-|tin- do. é pe- la|
+ BBBB (3B2B2B2 c4 z BBB |$ BBBB (3B2B2B2 c4 z BBB | BBBB (3B2B2B2 c4 (3A2A2A2 | A8 G8 |] %45
+w: paz que eu não que- ro se- guir é pe- la|paz que eu não que- ro se- guir é pe- la|paz que eu não que- ro se- guir a- d- mi-|tin- do.|
+V:2
+ z16 | z14 z D | GG2F- F2D2 GG2F- F2D2 | GG2F- F2D2 F2D2F2D2 | FG2G- GG2 z z8 |$ z14 z D | %6
+w: |A|mi- nha al- * ma ta ar- ma- * da|e'a- pon- ta- * da pa- ra'a ca- ra|do- sos- se- go. *|Pois|
+ GG2F- F12 | (3G4 G4 F4- F2DD FD2G- | G2<G2 z4 z8 |: z8 z CCB, CCDB,- |$ B,G,2 z z4 z CCB, CCB,D- | %11
+w: paz sem voz, *|paz sem voz, * não é paz é me-|* do.|As vez eu fa- lo co'a vi-|* da, as vez é e- la quem diz,|
+ D8 G4 F2C2- | CCCB, CCCB, (3C2C2B,2 (3C2C2B,2 |$ G,8 z CCB, CCDB,- | B,G,2 z z4 z CCB, CCB,D- | %15
+w: * qual a paz|* que eu não que- ro con- ser- var pra ten- tar se fe-|liz. As vez eu fa- lo co'a vi-|* da, as vez é e- la quem diz,|
+ D8 G4 F2C2- |$ CCCB, CCCB, (3C2C2B,2 (3C2C2B,2 | G,8 z8 |$ B,8 C8 | D8 E8 |$ D16 | C16 | %22
+w: * qual a paz|* que eu não que- ro con- ser- var pra ten- tar ser fe-|liz.|uh uh|uh uh|uh|uh|
+ B,8 C8- |$ C8 D8 | D16 |$ C8 B,4 z D2D | DDDD DD2D- DFF2 z F2F | E2>E2- EE2E D2>D2- DFFF |$ %28
+w: uh uh|* uh|uh|uh uh. Pro- cu-|ran- do no- vas dro- gas de'a- * lu- guel nes- se|ví- deo * co- a- gi- do, * é pe- la|
+ FFFF (3F2F2E2 D4 (3D2D2D2 |1 D8 D8 | z16 | z16 :|2 D8 D8 || B,8 C8 |$ C8 D8 | D16 | %36
+w: paz que eu não que- ro se- guir a- d- mi-|tin- do.|||tin- do.||||
+ C8 B,4 z D2D |$ DDDD DD2D- DFF2 z F2F | E2>E2- EE2E D2>D2- DFFF |$ FFFF (3F2F2E2 D4 (3D2D2D2 | %40
+w: * * Pro- cu-|ran- do no- vas dro- gas de'a- * lu- guel nes- se|ví- deo * co- a- gi- do, * é pe- la|paz que eu não que- ro se- guir a- d- mi-|
+ D8 D4 z DDD | DDDD (3D2D2D2 D4 z DDD |$ DDDD (3D2D2D2 D4 z DDD | DDDD (3D2D2D2 D4 (3D2D2D2 | %44
+w: tin- do. é pe- la|paz que eu não que- ro se- guir é pe- la|paz que eu não que- ro se- guir é pe- la|paz que eu não que- ro se- guir a- d- mi-|
+ D8 D8 |] %45
+w: tin- do.|
+V:3
+ z8 | z7 z/ D/ | G/GF/- FD G/GF/- FD | G/GF/- FD FDFD | F/GG/- G/G z/ z4 |$ z7 z/ D/ | G/GF/- F6 | %7
+w: |A|mi- nha al- * ma ta ar- ma- * da|e'a- pon- ta- * da pa- ra'a ca- ra|do- sos- se- go. *|Pois|paz sem voz, *|
+ (3G2 G2 F2- FD/D/ F/DG/- | G<G z2 z4 |: z8 |$ D8 | D8 | G4 A4- |$ A4 B4 | D8 | D8 |$ G4 A4- | %17
+w: paz sem voz, * não é paz é me-|* do.||Uh|uh|uh uh|* uh|uh|uh|uh uh|
+ A4 G2 z/ BB/ |$ B/B/B/B/ B/B/B/B/ (3ABA (3:2:2B A2- | AB- B2 z2 z/ BB/ |$ %20
+w: * uh As gra-|des do con- do- mí- nio são pra tra- zer pro- te- ção.|_ _ , Mas tam-|
+ B/B/B/B/ B/B/B/B/4B/4 (3ABA (3BAd- | dc- c2 z2 (3z BB | (3BBB (3Bcc- cc z c- |$ %23
+w: bém tra- zem a dú- vi- da se'é vo- cê que tá nes- sa pri-|* são. * me a-|bra- ce'e me dê um bei- jo, * fa-|
+ (3ccc (3cdc- cB z/ B/B/B/ | B/B/B/B/ B/B/B/B/ (3AAA (3ABA- |$ A4 B2 z/ BB/ | %26
+w: * ça'um, fi- lho co- mi- go, * mas não me|dei- xe sen- tar na pol- tro- na no- di- a de do- min-|* go. Pro- cu-|
+ B/B/B/B/ B/BB/- B/c/c z/ cc/ | c>c- c/cc/ B>B- B/B/B/c/ |$ d/d/d/d/ (3ddd c2 (3ccB |1 A4 B4 | z8 | %31
+w: ran- do no- vas dro- gas de'a- * lu- guel nes- se|ví- deo * co- a- gi- do, * é pe- la|paz que eu não que- ro se- guir a- d- mi-|tin- do.||
+ z8 :|2 A4 B2 (3z BB || (3BBB (3Bcc- cc z c- |$ (3ccc (3cdc- cB z/ B/B/B/ | %35
+w: |tin- do. me a-|bra- ce'e me dê um bei- jo, * fa-|* ça'um, fi- lho co- mi- go, * mas não me|
+ B/B/B/B/ B/B/B/B/ (3AAA (3ABA- | A4 B2 z/ BB/ |$ B/B/B/B/ B/BB/- B/c/c z/ cc/ | %38
+w: dei- xe sen- tar na pol- tro- na no- di- a de do- min-|* go. Pro- cu-|ran- do no- vas dro- gas de'a- * lu- guel nes- se|
+ c>c- c/cc/ B>B- B/B/B/c/ |$ d/d/d/d/ (3ddd c2 (3AAA | A4 B2 z/ B/B/B/ | %41
+w: ví- deo * co- a- gi- do, * é pe- la|paz que eu não que- ro se- guir a- d- mi-|tin- do. é pe- la|
+ B/B/B/B/ (3BBB c2 z/ B/B/B/ |$ B/B/B/B/ (3BBB c2 z/ B/B/B/ | B/B/B/B/ (3BBB c2 (3AAA | A4 B4 |] %45
+w: paz que eu não que- ro se- guir é pe- la|paz que eu não que- ro se- guir é pe- la|paz que eu não que- ro se- guir a- d- mi-|tin- do.|
+V:4
+ z16 | z14 z D, | G,G,2F,- F,2D,2 G,G,2F,- F,2D,2 | G,G,2F,- F,2D,2 F,2D,2F,2D,2 | %4
+w: |A|mi- nha al- * ma ta ar- ma- * da|e'a- pon- ta- * da pa- ra'a ca- ra|
+ F,G,2G,- G,G,2 z z8 |$ z14 z D, | G,G,2F,- F,12 | (3G,4 G,4 F,4- F,2D,D, F,D,2G,- | %8
+w: do- sos- se- go. *|Pois|paz sem voz, *|paz sem voz, * não é paz é me-|
+ G,2<G,2 z4 z8 |: z16 |$ G,,16 | G,,16 | [E,,E,]8 C,8 |$ G,,16 | G,,16 | G,,16 |$ [E,,E,]8 C,8 | %17
+w: * do.||Uh|uh|uh uh|uh|uh|uh|uh uh|
+ G,,16 |$ G,8 A,8 | B,8 G,8- |$ G,8 F,8 | E,8 F,8 | G,8 A,8- |$ A,8 B,8 | G,8 F,8- |$ %25
+w: uh|uh uh|uh uh|* uh|uh uh|uh uh|* uh|uh uh|
+ F,8 G,4 z G,2G, | G,G,G,G, G,G,2G,- G,G,G,2 z G,2G, | G,2>G,2- G,G,2G, G,2>G,2- G,G,G,G, |$ %28
+w: * uh Pro- cu-|ran- do no- vas dro- gas de'a- * lu- guel nes- se|ví- deo * co- a- gi- do, * é pe- la|
+ G,G,G,G, (3G,2G,2G,2 G,4 (3G,2G,2G,2 |1 G,8 G,8 | z16 | z16 :|2 G,8 G,8 || G,8 A,8 |$ A,8 B,8 | %35
+w: paz que eu não que- ro se- guir a- d- mi-|tin- do.|||tin- do.|||
+ G,8 F,8 | G,12 z G,2G, |$ G,G,G,G, G,G,2G,- G,G,G,2 z G,2G, | %38
+w: |* Pro- cu-|ran- do no- vas dro- gas de'a- * lu- guel nes- se|
+ G,2>G,2- G,G,2G, G,2>G,2- G,G,G,G, |$ G,G,G,G, (3G,2G,2G,2 G,4 (3G,2G,2G,2 | G,8 G,4 z G,G,G, | %41
+w: ví- deo * co- a- gi- do, * é pe- la|paz que eu não que- ro se- guir a- d- mi-|tin- do. é pe- la|
+ G,G,G,G, (3G,2G,2G,2 A,4 z G,G,G, |$ G,G,G,G, (3G,2G,2G,2 A,4 z G,G,G, | %43
+w: paz que eu não que- ro se- guir é pe- la|paz que eu não que- ro se- guir é pe- la|
+ G,G,G,G, (3G,2G,2G,2 A,4 (3F,2F,2F,2 | G,8 G,8 |] %45
+w: paz que eu não que- ro se- guir a- d- mi-|tin- do.|

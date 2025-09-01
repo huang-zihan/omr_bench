@@ -1,0 +1,74 @@
+X:1
+T:O Filii et Filiæ Ancient Melody from Feillee and Clement Harmony: Stephan Peters
+T:Ye Sons and Daughters 
+T:Jean Tisserand (Attributed) Trans. J. M. Neale
+C:Psalm Tone, Mode II
+Z:John Tisserand (Attributed)
+Z:Lyrics from The Parochial Hymn Book (1881) Nr 120
+Z:Melody from The Roman Hymnal: A Complete Manual of English Hymns & Latin Chants (1884) Nr 154
+Z:Harmonized by Stephan Peters (2016)
+Z:This Score is in the Public Domain.
+%%score { 1 | 2 }
+L:1/4
+M:3/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano"
+V:2 bass 
+V:1
+"Am" [EA] | [EA]2 [EB] |"F" ([FA]"E13" [E^G])"F" [FA] |"Dm" [FB]2 [DB] |"Am" [CE]2 z | %5
+w: A-|le- lu-|ia, * A-|le- lu|ia,|
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+"Dm" [Dc]2 [Dd] |"G" ([Gc]2 [GB]) |"Am" [EA]7/4 z/4 ||$"Am" [EA] | [Ec]2 [Ed] |"Am7" [Ae]2 [Ec] | %11
+w: A- le-|lu- *|ia!|1.~Ye|sons and|daugh- ters|
+w: |||2.~On|Sun- day|morn at|
+w: |||3.~An|an- gel|clad in|
+w: |||4.~That|night th'~A-|pos- tles|
+w: |||5.~But|Tho- mas,|when of|
+w: |||6."Be-|hold My|side, O|
+w: |||7.~When|Tho- mas|saw that|
+w: |||8.~Oh,|bles'd are|they who|
+w: |||9.~In|this most|Ho- ly|
+"Dm" ([Fd] [Fc]) [FB] |"F" [FA]2"Am" [EA] | [Ec]2"G" [Gd] |"C" [Ee]2 [Ec] | %15
+w: of * the|Lord, the|King of|heav'n, the|
+w: break * of|day, the|ho- ly|wo- men|
+w: white * they|see, who|sat, and|spoke un-|
+w: met * in|fear, but|Christ did|in the|
+w: this * he|heard, was|doubt- ful|of his|
+w: Tho- * mas,|see; My|hands my|feet, I|
+w: woun- * ded|side, the|truth no|lon- ger|
+w: have * not|seen their|Lord, and|yet be-|
+w: sea- * son|may to|God your|hearts and|
+"Dm" ([Fd] [Fc])"G" [GB] |"Am" [EA]2 |$"F" [FA] | [FA]2 [FB] |"Dm" ([FA]"E13" [E^G])"Am" [EA] | %20
+w: King * a-|dored,|1.~From|death this|day * Him-|
+w: went * their|way,|2.~to|see the|tomb * where|
+w: to * the|three:|3."Your|Lord hath|gone * to|
+w: midst * a-|pear:|4."My|peace," He|says * "be|
+w: bre- * thren's|word;|5.~where-|fore a-|gain * there|
+w: show * to|thee;|6.~not|faith- less|but * be-|
+w: he * de-|nied;|7."Thou|art my|Lord * and|
+w: lieve * in|Him;|8.~E-|ter- nal|life * a-|
+w: voi- * ces|raise|9.~in|laud and|ju- * bi-|
+"Bsus4" [EB]2"B" [^DB] |"E" [B,E]2 z |"Dm" [Dc]2 [Dd] |"G" ([Gc]2 [GB]) |"Am" [EA]2 |] %25
+w: self re-|stored.||||
+w: Je- sus|lay.||||
+w: Ga- li-|lee."||||
+w: on all|here."||||
+w: came the|Lord.|Al- le-|lu- *|ia!|
+w: lie- ving|be."||||
+w: God," he|cried.||||
+w: wai- teth|them.||||
+w: lee and|praise.||||
+V:2
+ [A,,C] | [A,,C]2 [A,,C] | ([F,C] [E,C]) [F,C] | [D,A,]2 [D,F,] | [A,,E,]2 z | [D,F,]2 [F,A,] | %6
+ ([G,,D,]2 [B,,D,]) | [A,,C]7/4 z/4 ||$ [A,,C] | [A,,E,]2 [B,,A,] | [C,A,]2 [A,,E,] | %11
+ ([D,A,] [E,A,]) [F,D] | [F,C]2 [A,,C] | [A,,E,]2 [B,,D,] | [C,G,]2 [C,E,] | %15
+ ([D,A,] [A,,F,]) [G,,D,] | [A,,C]2 |$ [F,C] | [C,C]2 [C,A,] | ([D,A,] [E,C]) [C,A,] | %20
+ [B,,^F,]2 [B,,F,] | [E,^G,]2 z | [D,F,]2 [F,A,] | ([G,,D,]2 [B,,D,]) | [A,,C]2 |] %25

@@ -1,0 +1,41 @@
+X:1
+T:Julian
+C:Nisse Landgren
+Z:All Rights Reserved
+L:1/16
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Bb
+V:1 bass nm="Trombone" snm="Tr-ne"
+V:1
+"^\n"!p! D2D D4- D- D2>.B,2 !^!C2!tenuto!DD- | D12 z4 | %2
+ z2 !^!D.D- D(!^!GA!^!B) A2>!^!G2 (3!tenuto!D2D2!tenuto!D2 | %3
+ !tenuto!D8- D2!tenuto!B,!tenuto!C !slide!D2>.C2 |$ %4
+ .C2!tenuto!B,(!tenuto!B,2!>!C3) z2 !tenuto!B,!tenuto!C !^!D2.G,!tenuto!G,- | %5
+ G,4 z4 z2 !tenuto!B,.C !slide!!tenuto!D2>!^!C2 | %6
+ (.C2!tenuto!B,)!tenuto!B,2!tenuto!C3 z3 .B,/.C/ (!tenuto!D2.F!tenuto!D-) | D8 z4 z3 !^!D |$ %8
+ D2!tenuto!D !tenuto!D6 z2 !^!B, .C2!tenuto!D!tenuto!D- | D12 z4 | %10
+ (D2G2<A2B A4 G) (3!^!D2!tenuto!D2!tenuto!D2- | D8 z3 .B,/.C/ !slide!!tenuto!D2>!tenuto!C2 |$ %12
+ (!tenuto!C2!tenuto!B,!tenuto!B,2!tenuto!C3) z (.C.B,.C) !slide!!^!D2!tenuto!.G,!tenuto!G,- | %13
+ G,8 z3 !tenuto!D (!tenuto!D!tenuto!^C->)!tenuto!C!tenuto!C/!tenuto!D/ | %14
+ !tenuto!=E2!tenuto!E2- E4 z3 .A,/.A,/ (3!^!E2.D2.D2 | %15
+ !tenuto!D8- D2!tenuto!D!tenuto!D !tenuto!G2!slide!.G2- |$ %16
+ G8 (3!tenuto!G2(!tenuto!G2!tenuto!F2) !tenuto!G2!tenuto!G!tenuto!G- | %17
+ !tenuto!G8 z4 z !^!G2!tenuto!G | %18
+ (3!tenuto!G2!tenuto!G2!tenuto!G2- G4- (G2!tenuto!F)!tenuto!G2!slide!!tenuto!B!tenuto!G2- | %19
+ G8- G2!tenuto!G!tenuto!C B,2>G2- | G8- G2>.c2 !tenuto!B2>G2- |$ %21
+ G8- G2>.F2 !^!F/.=E/ z !tenuto!C2- | C12 !tenuto!G,4- | G,12 z4 | %24
+ D2DD- D4- D2>.B,2 !^!C2!tenuto!DD- | D12- D2>D2 |$ %26
+ D2!^!GA !^!B!tenuto!A-A2- A2>!^!G2 (3!tenuto!D2D2!tenuto!D2 | !tenuto!D8 z3 !tenuto!C D2>.C2 | %28
+ .C2!tenuto!B,!tenuto!B,2!^!C3 z .C!tenuto!B,.C !^!D2.G,!tenuto!G,- | %29
+ G,8- G,!tenuto!D!tenuto!G!tenuto!A !tenuto!B4 |$ !tenuto!A3.B/.A/ .G4 ._G4 !tenuto!=G4- | G16 | %32
+ z16 | z16 | z8 z4 z3 !tenuto!D | D2-D!tenuto!D D4- D2>.B,2 !^!C2!tenuto!DD- | D12 z2 z D- |$ %37
+ D2D-D !tenuto!G!tenuto!A!tenuto!B2<!tenuto!A2-A.G (3!tenuto!D2.D2!tenuto!D2 | %38
+ !tenuto!D8- D3.B,/.C/ .D2>!^!C2 | .C2!^!B,.B,2.C3 z2 !tenuto!B,!tenuto!C !^!D2.G,!tenuto!G,- | %40
+ G,4 z4 z !tenuto!D!tenuto!G!tenuto!A !tenuto!.B4 |$ !tenuto!A3.B/.A/ .G4 ._G4 !tenuto!=G4- | %42
+ G8 z2 !tenuto!D.G/.A/ !tenuto!.B4 | !tenuto!A3.B/.A/ !tenuto!G4 !tenuto!_G8 | %44
+ !tenuto!G/!tenuto!A/!tenuto!B/!tenuto!c/!tenuto!d!tenuto!c/!tenuto!B/ !tenuto!A!tenuto!G2.D !tenuto!D2!tenuto!G.C .C2<!tenuto!C2- |$ %45
+ C6 !tenuto!D2 !tenuto!D2.G.A !tenuto!A!tenuto!B.B2 | %46
+ !tenuto!B!tenuto!c.c2 !tenuto!c!tenuto!d!tenuto!c!tenuto!B- B4 !tenuto!B.A!tenuto!G!tenuto!A | %47
+ !tenuto!c2<!tenuto!c2- c12 | !slide!!tenuto!!fermata!d16 |] %49

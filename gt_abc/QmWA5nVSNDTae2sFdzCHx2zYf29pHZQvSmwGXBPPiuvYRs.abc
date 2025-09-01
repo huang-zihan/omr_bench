@@ -1,0 +1,14 @@
+X:1
+T:String Quartet composition 2
+C:Jasmine Grundy
+%%score [ 1 ]
+L:1/8
+Q:3/8=80
+M:6/8
+I:linebreak $
+K:D
+V:1 treble nm="Violin I"
+V:1
+ d3 dfa | agf edc | d3 dfa | ^g3 a3 | g3 gec | B3 ABc | d2 d2 f2 | d6 |$ F3 FAd | d2 c B A2 | %10
+ G F2 G3 | GAc B2 A | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |$ z6 | z6 | z6 | z6 | z6 | %27
+ z6 | z6 | z6 | z6 | z6 |] %32

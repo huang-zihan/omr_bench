@@ -1,0 +1,15 @@
+X:1
+T:Rozenwals
+C:Trad.
+L:1/4
+M:3/4
+I:linebreak $
+K:A
+V:1 treble 
+V:1
+"^Voorspel" E A c | c A c | e d c | !fermata!B3 |]"^A" E A c | c A c | e e/^d/ e/f/ | e c z | %8
+ E G B | d3 | f e d | c3 | E A c |$ c A c | e e/^d/ e/f/ | e c z | f d B | e c A | d B G | A3 :| %20
+"^B" c A F | (E E/)G/ B/c/ | d d d | d3 | d B G |$ (E E/)G/ B/d/ | c c c | c3 | E A c | E3 | %30
+ F B d | F2 G/F/ | E G B |1 d2 f | f e d | c3 :|2 d c B | A c B |$ A3 |]"^C" e3/2 f/ e/d/ | c3 | %41
+ d3/2 e/ d/c/ | B3 | E G B | d2 f | f e d | c2 E | E A c | f e c | e d B | F2 G/F/ |$ E G B | %52
+ d c B |1 e e e | e3 :|2 A c B | A3 |] %57

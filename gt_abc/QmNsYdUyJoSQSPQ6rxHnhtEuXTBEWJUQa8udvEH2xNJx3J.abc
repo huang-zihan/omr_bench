@@ -1,0 +1,87 @@
+X:1
+T:Deh non mi dar piu pena
+C:Giovanni Battista Mosto
+%%score [ 1 2 3 4 5 ]
+L:1/4
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:C
+V:1 alto1 nm="Canto" snm="C"
+V:2 alto1 nm="Quinto" snm="5"
+V:3 alto nm="Alto" snm="A"
+V:4 tenor nm="Tenore" snm="T"
+V:5 bass nm="Basso" snm="B"
+V:1
+ x4 | z4 |[M:4/4][K:treble] e3 d/c/ | B A G2 | G2 z c- | c B/A/ G A | B2 E3/2 F/ |$ G2 z c | %8
+w: ||Deh non mi|dar piu pe-|na, Deh|_ non mi dar piu|pe- na, _|_ piu|
+ B2 A e | c2 B c | A G2 G | z2 e2 | c2 B c- | c c B2 |$ c2 A2- | A2 B2- | B2 A2- | A2 ^G2 | A4- | %19
+w: pe- na, Se|bra- mi di|ve- der- mi,|Se|bra- mi di|_ ve- der-|mi ogn' hor|_ lan-|* gui-||re,|
+ A4 | z4 | z4 |$ z4 | z4 | z2 e2- | e2 d c | B c d2 | G4 | z4 | z4 |$ d d/c/ B3/2 A/ | G2 A2 | z4 | %33
+w: _|||||Ma|_ perch' io|vi- va in pe-|na,|||Dam- mi se voi l'in-|fer- no,||
+ c c/B/ A3/2 B/ | ^G2 A A | c3/2 d/ B2 |$ A2 z2 | z4 | A3 B | c2 B A | ^G2 A2 | z4 | z4 |$ z c e2 | %44
+w: Dam- mi se voi l'in-|fer- no, E'n|te la vi-|ta||ond' io|vi- va in e-|ter- no,|||Co- si|
+ z c B c | d2 G2- | G2 z2 | z2 c2 | B2 c B- | B A2 ^G- |$ G ^G G2 | A4 | B4 | E4 | z4 | z2 A2- |$ %56
+w: non fia mor-|ta- le,|_|Che|pro- vi pe-|* na a le|_ mie pe-|ne u-|gua-|le,||Che|
+ A2 d2- | d B ^c2 | d2 d2- | d d e2 | d2 z d | d2 B c- |$ c B d2 | e2 c2- | c2 B2- | B2 A2- | %66
+w: _ pro-|* vi pe-|na a le|_ mie pe-|ne, Che|pro- vi pe-|* na a le|mie pe-|* ne u-|* gua-|
+ A ^G/^F/ G2 | A4 |] %68
+w: |le.|
+V:2
+ x4 | z4 |[M:4/4][K:treble] z4 | z2 e2- | e d/c/ B A | G2 E2 | z2 e2- |$ e d/c/ B A | ^G2 A2 | %9
+w: |||Deh|_ non mi dar piu|pe- na,|Deh|_ non mi dar piu|pe- na,|
+ z2 e2 | c2 B c- | c B A G | A E e2- | e2 d2 |$ z2 e2 | d3 d | c4 | B4 | z4 | z2 c2- | c c B2 | %21
+w: Se|bra- mi di|_ ve- der- mi ogn'|hor lan- gui-|* re,|ogn'|hor lan-|gui-|re,||Che|_ po- ria|
+ A3 G |$ A B c2- | c B B2 | c4 | z4 | z4 | z2 c2- | c2 B A | G A B2 |$ B2 z2 | e e/d/ c3/2 B/ | %32
+w: mor- te un|tan- to duol|_ fi- ni-|re,|||Ma|_ perch' io|vi- va in pe-|na,|Dam- mi se voi l'in-|
+ A2 G2 | z A c d | B2 A2 | z A e3/2 d/ |$ c3/2 B/4A/4 G G | A2 B2 | z c2 d | e2 d c | B2 A2 | %41
+w: fer- no,|E'n te la|vi- ta,|E'n te _|_ _ _ _ la|vi- ta|ond' io|vi- va in e-|ter- no,|
+ A B c2 | B A ^G2 |$ A2 z c | e4 | z2 z c | B c d2 | G4- | G4 | z4 |$ z4 | z2 z A | d3 d | c2 A2 | %54
+w: ond' io vi-|va in e- ter-|no, Co-|si|non|fia mor- ta-|le,|_|||Che|pro- vi|pe- na a|
+ A4 | A2 F2- |$ F E A2 | G2 z G | A2 B A- | A B c A- | A G2 ^F | G4- |$ G2 D2 | z2 E2 | E3 F | %65
+w: le|mie pe-|* ne u- gua-|le, Che|pro- vi pe-|* na a le mie|_ pe- ne u-|gua-|* le,|a|le mie|
+ ^G2 A2 | B4 | ^c4 |] %68
+w: pe- ne u-|gua-|le.|
+V:3
+ x4 | z4 |[M:4/4][K:treble] z4 | z4 | z2 E2- | E D/C/ B, A, | ^G,2 A, C- |$ C B,/A,/ G, A, | %8
+w: ||||Deh|_ non mi dar piu|pe- na, Deh|_ non mi dar piu|
+ E2 A,2 | z2 z C | E3/2 E/ D E | D2 C E- | E E E2 | E G G3/2 F/ |$ E4 | F4 | E4- | E4 | E4 | F3 F | %20
+w: pe- na,|Se|bra- mi di ve-|der- mi ogn' hor|_ lan- gui-|re, ogn' hor _|_|lan-|gui-||re,|Che po-|
+ E2 D2- | D ^C D E |$ F3 E | D4 | C2 G2 | G3 E | G G F2 | E2 E2- | E ^F G C- | C C E2 |$ %30
+w: ria mor-|* te un tan- to|duol fi-|ni-|re, Ma|perch' io|vi- va in pe-|na, Ma|_ perch' io vi-|* va in pe-|
+ D2 G G/F/ | E3 E | F D E E/D/ | C3 F | E4 | E4 |$ E2 E C- | C A,2 ^G, | A,4 | z4 | z2 z E- | %41
+w: na, Dam- mi se|voi l'in-|fer- no, Dam- mi se|voi l'in-|fer-|no,|E'n te la|_ vi- *|ta||ond'|
+ E G G2 | G F E2 |$ E2 z E | A2 z E | F2 E2 | D E D2 | E4 | z4 | z2 E2 |$ E4 | A,2 F2 | D4 | %53
+w: _ io vi-|va in e- ter-|no, Co-|si, Co-|si non|fia mor- ta-|le,||a|le|mie pe-|ne,|
+ z2 C2 | F2 E F- | F E2 D- |$ D ^C D2- | D D E2 | A,2 z D | D3/2 D/ G E | F/E/D/C/ D2 | B, D D E |$ %62
+w: Che|pro- vi pe-|* na a le|_ mie pe-|* ne u- gua-|le, a|le mie pe- ne u-|gua- * * * *|le, Che pro- vi|
+ D2 C B, | C2 G,2 | G3 F | E2 E2 | E4 | E4 |] %68
+w: pe- * *|* na a|le mie|pe- ne u-|gua-|le.|
+V:4
+ x4 | z4 |[M:4/4][K:treble-8] z4 | z2 c2- | c B/A/ G A | E4 | E2 z2 |$ z4 | z2 z c | A2 ^G A- | %10
+w: |||Deh|_ non mi dar piu|pe-|na,||Se|bra- mi di|
+ A E G2- | G2 C2 | z4 | z2 G2 |$ G2 c2 | A2 G F | ^G2 A2 | B E e2 | ^c4 | z4 | z4 | z4 |$ z4 | z4 | %24
+w: _ ve- der-|* mi,||ogn'|hor lan-|gui- * *|||re,||||||
+ z2 c2- | c2 B c | d c2 B | c2 z2 | A2 G F | E F G2- |$ G2 G2 | c c/B/ A3/2 G/ | F2 C2 | z4 | %34
+w: Ma|_ perch' io|vi- va in pe-|na,|Ma perch' io|vi- va in pe-|* na,|Dam- mi se voi l'in-|fer- no,||
+ z B c3/2 B/ | A A ^G2 |$ A2 E2- | E2 D2 | E4- | E4 | z2 z c- | c d e2 | d3/2 c/ B2 |$ A2 z A | %44
+w: E'n te _|_ la vi-|ta, la|_ vi-|ta|_|ond'|_ io vi-|va in e- ter-|no, Co-|
+ A2 G2 | A B c B/A/ | d c2 B | c2 z e- | e d e d- | d c B2- |$ B B E2 | E2 A2- | A ^G/^F/ G2 | %53
+w: si non|fia mor- ta- * *||le, Che|_ pro- vi pe-|* na a le|_ mie pe-|ne u- gua-||
+ A2 z A | d2 ^c d- | d ^c d2 |$ A2 ^F2 | G2 E2 | D4 | z d c3/2 B/ | A B A2 | G4 |$ z2 G2 | G4 | %64
+w: le, Che|pro- vi pe-|* na a le|mie pe-|ne u- gua-|le,|a le mie|pe- ne u- gua-|le,|a|le|
+ E2 e2- | e2 c2 | B4 | A4 |] %68
+w: mie pe-|* ne u-|gua-|le.|
+V:5
+ x4 | z4 |[M:4/4] z4 | z4 | z4 | z4 | z4 |$ z4 | z4 | z4 | z4 | z2 z C | A,2 ^G, A,- | A, E, G,2 |$ %14
+w: |||||||||||Se|bra- mi di|_ ve- der-|
+ C,4 | D,2 D,2 | E,4- | E,4 | A,,4 | z4 | z4 | z4 |$ z4 | z4 | z2 C,2- | C,2 G, A, | G, E, D,2 | %27
+w: mi ogn'|hor lan-|gui-||re,||||||Ma|_ perch' io|vi- va in pe-|
+ C,4 | z4 | z4 |$ z4 | z4 | z4 | A, A,/G,/ F, D, | E,2 A,,2 | z4 |$ z A,, C,2- | C, C, B,,2 | %38
+w: na,||||||Dam- mi se voi l'in-|fer- no,||E'n te|_ la vi-|
+ A,,4- | A,,4 | z2 z A,- | A, G, C,2 | G, D, E,2 |$ A,,2 z2 | z A,, E,2 | D,2 E, F, | G,2 G,,2 | %47
+w: ta|_|ond'|_ io vi-|va in e- ter-|no,|Co- si|non fia mor-|ta- le,|
+ z2 C,2 | G,3 G, | E,4 |$ E,2 ^C,2- | C, ^C, D, =C, | B,,4 | A,,4 | z4 | z4 |$ z4 | z2 G,2 | %58
+w: Che|pro- vi|pe-|na a le|_ mie pe- ne u-|gua-|le,||||Che|
+ ^F,2 G, F,- | F, G, C,2 | D,4 | G,,4 |$ G,4 | C,3 D, | E,4- | E,4- | E,4 | A,,4 |] %68
+w: pro- vi pe-|* na a le|mie|pe-|ne u-|gua- *||||le.|

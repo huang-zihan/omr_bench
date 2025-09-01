@@ -1,0 +1,14 @@
+X:1
+T:Wangaratta Waltz
+L:1/4
+M:3/4
+I:linebreak $
+K:G
+V:1 treble 
+V:1
+ D |:"G" B2 A | B2 A | B G3/2 E/ |"D" D2 D |"C" c2 B | c2 B | c A3/2 F/ |"D" D2 d |"G" d ^c =c | %10
+ B A3/2 G/ |"D7" F2 E |"C" c3 |"G" B A G |$"D7" A E F |"G" G B d | g2 D :|"G" B3/2 A/ B | %18
+"D" D E F |"G" G3/2 F/ G |"C" E A3/2 G/ |"D7" F e3/2 d/ | d A3/2 c/ |"G" B3 | G2 D | %25
+"G" B3/2 A/ B |$"D" D E F |"C" G3/2 F/ G | E A3/2 G/ |"D7" F e3/2 d/ |"D" d A B |"G" G3 | G2 D || %33
+"C" E2 c | c2 E |"G" D2 B | B2 D |"D7" D2 A | A2 B |"G" G3 | D2 D |$"C" E2 c | c2 E |"G" D2 B | %44
+ B2 G |"D7" A2 G | A2 B |"G" G3- | G2 || %49

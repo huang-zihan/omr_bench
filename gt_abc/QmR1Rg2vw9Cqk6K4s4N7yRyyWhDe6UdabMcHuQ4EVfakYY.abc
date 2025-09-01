@@ -1,0 +1,71 @@
+X:1
+T:The Judgment Day
+C:James David Vaughan
+Z:Public Domain
+Z:Courtesy of the Cyber Hymnal™
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=85
+M:6/8
+I:linebreak $
+K:Bb
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ [DF] | [DF]>[^C=E][DF] [Fd]2 ([FB]/[FB]/) | [Gc][GB][EG] [EG]<[DF][DF] x6 |$ %3
+w: 1.~The|ter- ri- ble day of *|judg- ment is com- ing, Its|
+w: 2.~The|good will be placed on~the *|right of the Sav- ior, The|
+w: 3.~O|have you e’er thought of~the *|last sep- a- ra- tion, When|
+w: 4.~Then|par- ents who’ve lived for~this *|world and its glo- ry Will|
+ [DF]>[EG][DB] [Fd]2 [FB] | [Fc]3- [Fc]2 ([DF]/[DF]/) | [DF]>[^C=E][DF] [Fd]2 [FB] |$ %6
+w: dawn- ing is draw- ing|near; * The *|trump- et’s loud call will|
+w: bad on the left, a-|way; * Each *|one will re- ceive re-|
+w: Je- sus the Judge will|say: * “Depart *|to the re- gions of|
+w: find its’s too late to|pray: * They~have *|carr- ied their own dear|
+ [Gc][GB][EG] [EG]<[DF] (F/F/) | [EG][EG][EB] [Fd]2 [Ec] | [DB]3- [DB]2 || %9
+w: say to all na- tions, “Be- *|fore the dread bar ap-|pear.” *|
+w: ward for his la- bor, O *|where will you stand that|day? *|
+w: dark- ness e- ter- nal”; Are~you *|rea- dy to meet that|day? *|
+w: child- ren to tor- ment, O *|think of that aw- ful|day! *|
+"^Refrain" !fermata![DB]/[DF]/ x5 |$ [DB]>[DB][DB] [DF]>[DF][EG] | B3- [DB]2 !fermata![Fc]/F/ | %12
+w: |||
+w: O that|ter- ri- ble, ter- ri- ble|day, O that ter-|
+w: |||
+w: |||
+ [Fc]>[Fc][FB] [Fd]>[Fd][Ec] | B3- [DB]2 [DF] |$ [DF]>[^C=E][DF] [Fd]2 [FB] | %15
+w: |||
+w: ri- ble, ter- ri- ble day,|It’s com- ing|* to me, it’s com-|
+w: |||
+w: |||
+ [Gc][GB][EG] [DF]2 F | [EG]2 [EB] [Fd]<[Fd][Ec] | B3- !fermata![DB]2 |] %18
+w: |||
+w: ing to you, That day|is com- ing to all.||
+w: |||
+w: |||
+V:2
+ x | x6 | x12 |$ x6 | x6 | x6 |$ x5 F/F/ | x6 | x5 || x6 |$ x6 | (D2 E x/ F/) x2 | x6 | D2 E x3 |$ %14
+ x6 | x5 F | x6 | D<DE x2 |] %18
+V:3
+ [B,,B,] | [B,,B,]>[B,,B,][B,,B,] [B,,B,]2 ([D,B,]/[D,B,]/) | %2
+w: ||
+ [E,B,][E,B,][E,B,] [B,,B,]<[B,,B,][B,,B,][B,,B,]>[B,,B,][B,,B,] [B,,B,]2 [D,B,] |$ %3
+w: |
+ [F,A,]3- [F,A,]2 ([B,,B,]/[B,,B,]/) | [B,,B,]>[B,,B,][B,,B,] [B,,B,]2 [D,B,] | %5
+w: ||
+ [E,B,][E,B,][E,B,] [B,,B,]<[B,,B,] ([D,B,]/[D,B,]/) |$ [E,B,][E,B,][G,C] [F,B,]2 F, | %7
+w: |* * * * great|
+ [B,,F,]3- [B,,F,]2 x | !fermata![B,,F,]/[B,,B,]/ x4 || %9
+w: ||
+ [B,,F,]>[B,,F,][B,,F,] [B,,B,]>[B,,B,][B,,B,] |$ F,2 G, [B,,F,]2 !fermata![F,A,]/[F,A,]/ | %11
+w: |* day, com- * *|
+ [F,A,]>[F,A,][D,B,] [F,B,]>[F,B,][F,A,] | B,2 G, [B,,F,]2 [B,,B,] | %13
+w: ||
+ [B,,B,]>[B,,B,][B,,B,] [B,,B,]2 [D,B,] |$ [E,B,][E,B,][E,B,] [B,,B,]2 [D,B,] | %15
+w: ||
+ [E,B,]2 [G,C] [F,B,]<[F,A,][F,A,] | B,<F,G, !fermata![B,,F,]2 x | x5 |] %18
+w: * * * * ing|to all. * *||
+V:4
+ x | x6 | x12 |$ x6 | x6 | x6 |$ x5 F, | x6 | x5 || x6 |$ B,,3- x3 | x6 | B,,3- x3 | x6 |$ x6 | %15
+ x6 | B,,3- x3 | x5 |] %18

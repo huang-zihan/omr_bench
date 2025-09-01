@@ -1,0 +1,26 @@
+X:1
+T:Minuetto
+C:Nicolò Clementi
+%%score { 1 | 2 }
+L:1/4
+Q:1/4=144
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+!f!"^Allegro" c c e e | c c g g | f f e e | d d c2 | d d e e | f f g g | c e g g | Tc4 | d2 d2 | %9
+ e2 e2 | d d c2- |$ c2 e2 | d2 d2 | e2 e2 | c e g g |{c} c4 :|"_Staccato" a a g g | f f e e | %18
+ f f e e | d c d d | c d e f | g g g2 |$ f f e d | Tc4 |!f! c e g g | f d g g | c e g g | f d c2 | %28
+ c d e c |"_Simile" d e f d |"_Simile" e f g e | [Dd]4 | d e f d |$ c d e c | g f e d | c4 :| %36
+!p! g f e d |"_Uguale questa e \nprossima misura\n" g f e d |!f! g f e d |!ff! !fermata![Gce]4 |] %40
+V:2
+!f! C,4 | %1
+"_Suonare questo brano prima a mani separate a tempo lento, unire le mani solo quando si è sicuri.\n" C,4 | %2
+ F, F, E, E, | D, D, G,2 | D,2 C,2 | D,2 C,2 | C, G, C, G, | [C,E,]4 | D, F, D, F, | C, E, C, E, | %10
+ D, E, C, C, |$ C, C, G,2 | F,2 F,2 | C,2 C,2 | C, E, D, E, |{C,} C,4 :| F, F, E, E, | %17
+ D, D, C, C, | D, D, C, C, | B,, A,, B,, B,, | A,, B,, C, D, | E, E, E,2 |$ D,2 C, B,, | [C,E,]4 | %24
+!f! C,2 E, E, | D,2 E, E, | C,2 G, G, | z2 C,2 | C,2 C,2 | D,2 D,2 | E,2 E,2 | D,/C,/B,,/C,/ D,2 | %32
+ D,2 D,2 |$ E,2 E,2 | C,2 E,2 | E, F, C,2 :|!p! G,/G,/F,/F,/ E,/E,/D,/D,/ | %37
+ G,/G,/F,/F,/ E,/E,/D,/D,/ | G,/G,/F,/F,/ E,/E,/D,/D,/ |!ff! !fermata![C,E,G,]4 |] %40

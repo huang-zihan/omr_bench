@@ -1,0 +1,13 @@
+X:1
+T:The first of June
+C:anon.
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble 
+V:1
+ .abc ||[K:G][M:2/2] (B>c) | d>dc>A (3ddd c>A | G2 A>F G2 A>G | F>Af>e d>cE>F | %5
+ G>gf>e (3ded (3cBA |$ d>dc>A (3ddd c>A | G>gf>a g2 g2 | d>BG>E D>DE>F | G2 g2 g2 :: (e>f) | %11
+ (3gag f>g e>Be>f |$ g>bf>g e2 f>g | a>ba>g f>ed>f | e>gf>e d2 e>f | g>af>g e>fd>f | %16
+ g>dB>G A>GE>F |$ G>BG>E D>DE>F | G2 g2 g2 :| %19

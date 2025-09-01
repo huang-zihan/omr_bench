@@ -1,0 +1,82 @@
+X:1
+T:Alma redemptoris Mater
+C:Giovanni Battista Riccio
+Z:(C) Wim Looyestijn - 2015
+%%score [ 1 2 ] 3
+L:1/8
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="MusicXML Part"
+V:2 bass nm="MusicXML Part"
+V:3 bass nm="MusicXML Part"
+V:1
+ z8 | d6 ^cB | ^c2 d4 c2 | d8 | B8 | B6 dc | BBAG A2 B2 |$ ^c2 d4 c2 | d8 | z8 | z4 z2 dc | %11
+w: |Al- * *||ma,|al-|ma re- dem-|pto- ris, re- dem- pto- ris|ma- * *|ter,||re- dem-|
+ BBdc BBAG | A2 _B2 A4 |$[M:3/1] G16 z8 | z24 | z24 | d12 B4 c4 A4 | _B8 G8 A8 | F8 E16 | %19
+w: pto- ris, re- dem- pto- ris, re- dem-|pto- ris ma-|ter,|||Quae per vi- a|coe- li por-|ta ma-|
+[M:4/4] D8 |$ z8 | z8 | z2 A4 B^c | d2 d2 cBcA | B A2 ^G A4 |$[M:3/1] z24 | z24 | d12 c4 B8 | %28
+w: nes,|||et stel- la|ma- ris suc- cur- re ca-|den- * * ti|||sur- ge- re|
+ c8 A8 G8 | d16 A8 | B24 |$ c12 c4 c8 | A12 A4 A8 | d8 c8 B8 | A12 A4 A8 | z24 | d4 ^c4 d4 B4 A8 |$ %37
+w: qui cu- rat|po- pu-|lo,|sur- ge- re,|sur- ge- re|qui cu- rat|po- lu- lo,||tu quae ge- nu- i-|
+[M:4/4] G8 | z2 G2 G2 AB | c4 c4 | z2 A2 A2 Bc | d4 d4 |$ z8 | z4 z2 ed | cBAc B4 | A4 z2 ed |$ %46
+w: sti,|na- tu- ra mi-|ran- te,|na- tu- ra mi-|ran- te,||tu- um|san- ctum Ge- ni- to-|rem, tu- um|
+ ^ccdB A4 | G8 | z8 | G2 A2 B4 | B4 B2 ^c2 | d3 d d4 |$ d2 e2 ^c4 | d2 B2 A4 | G8 | z8 | z8 | %57
+w: san- ctum Ge- ni- to-|rem,||Vir- go pri-|us ac pos-|te- ri- us,|Ga- bri- e-|lis ab o-|re|||
+ c4 c4 | c2 c2 B4 |$ A4 B4 | A4 A4 | A4 _B2 B2 | A4 G4 | A4 G4 | z4 z2 dc |$ BBAG A4 | G4 z4 | z8 | %68
+w: su- mens|il- lud a-|ve, a-|ve, su-|mens il- lus|a- ve,|a- ve,|pec- ca-|to- rum mi- se- re-|re,||
+ z2 GF EEDC |$ D4 C2 cB | AABc d4 | d8 | B6 A2 | A8 | G16 |] %75
+w: pec- ca- to- rum mi- se-|re- re, pec- ca-|to- rum mi- se- re-|re,|mi- se-|re-|re.|
+V:2
+ G,6 ^F,E, | ^F,4 G,4 | A,8 | D,8 | G,8 | G,8 | z4 z2 C,B,, |$ A,,2 G,,2 A,,4 | %8
+w: Al- * *|||ma,|al-|ma|re- dem-|pto- ris ma-|
+ D,2 D,C, B,,B,,D,C, | B,,B,,E,D, C,2 E,2 | D,8 | G,,8 | z8 |$[M:3/1] G,12 E,4 F,4 D,4 | %14
+w: ter, re- dem- pto- ris, re- dem-|pto- ris, re- dem- pto- ris|ma-|ter,||Quae per vi- a|
+ E,8 C,8 D,8 | B,,8 A,,16 | G,,16 z8 | z24 | z24 |[M:4/4] z2 D,4 E,^F, |$ G,2 G,2 A,^G,A,F, | %21
+w: coe- li por-|ta ma-|nes,|||et stel- la|ma- ris suc- cur- re ca-|
+ E,2 E,2 D,^C,D,B,, | A,,2 A,,2 D,4- | D,2 B,,2 A,,2 A,,2 | E,4 A,,4 |$[M:3/1] D,12 C,4 B,,8 | %26
+w: den- ti, suc- cur- re ca-|den- ti, suc-|* cur- re ca-|den- ti|sur- ge- re|
+ C,8 A,,8 G,,8 | D,16 G,,8 | C,24 | D,12 D,4 D,8 | G,,12 G,,4 G,,8 |$ C,8 C,8 C,8 | F,12 F,4 F,8 | %33
+w: qui cu- rat|po- pu-|lo,|sur- ge- re,|sur- ge- re|qui cu- rat|po- lu- lo,|
+ _B,,8 A,,8 G,,8 | D,12 D,4 D,8 | G,4 ^F,4 G,4 E,4 D,8 | G,,16 z8 |$[M:4/4] z2 G,,2 G,,2 A,,B,, | %38
+w: qui cu- rat|po- lu- lo,|tu quae ge- nu- i-|sti,|na- tu- ra mi-|
+ C,4 C,4 | z2 C,2 C,2 D,E, | F,4 F,4 | z2 D,2 D,2 E,F, |$ G,4 G,2 A,G, | F,E,D,F, E,4 | %44
+w: ran- te,|na- tu- ra mi-|ran- te,|na- tu- ra mi-|ran- te, tu- um|san- ctum Ge- ni- to-|
+ A,,4 z2 E,D, | ^C,C,D,D, E,4 |$ A,,2 D,G,, D,4 | G,,4 C,2 D,2 | E,4 E,4 | E,2 ^F,2 G,3 G, | %50
+w: rem, tu- um|san- ctum Ge- ni- to-|rem, Ge- ni- to-|rem, Vir- go|pri- us|ac pos- te- ri-|
+ G,4 G,2 E,2 | D,4 G,,2 G,,2 |$ D,4 A,,4 | z8 | z4 G,2 A,2 | ^F,4 G,2 E,2 | D,4 G,,4 | C,4 C,4 | %58
+w: us, Ga- bri-|e- lis ab|o- re||Ga- bri-|e- lis ab|o- re|su- mens|
+ A,,2 A,,2 E,4 |$ A,,4 z4 | z4 D,4 | D,4 G,,2 G,,2 | D,4 G,,4 | z4 z2 G,F, | E,E,D,C, D,4 |$ %65
+w: il- lud a-|ve,|su-|mens il- lus|a- ve,|pec- ca-|to- rum mi- se- re-|
+ G,,4 z2 D,C, | B,,B,,A,,G,, D,4 | G,,2 G,F, E,E,D,C, | G,4 C,4 |$ z8 | z8 | z8 | B,,6 C,2 | D,8 | %74
+w: re, pec- ca-|to- rum mi- se- re-|re, pec- ca- to- rum mi- se-|re- re,||||mi- se-|re-|
+ G,,16 |] %75
+w: re.|
+V:3
+ G,6 ^F,E, | ^F,4 G,4 | A,8 | D,8 | G,,8 | G,,8 | G,,4 D,2 C,B,, |$ A,,2 G,,2 A,,4 | %8
+w: |||||||# * #|
+ D,2 D,C, B,,B,, D,C, | B,,B,, E,D, C,2 E,2 | D,8 | G,,8 | D,8 |$[M:3/1] G,12 E,4 F,4 D,4 | %14
+w: ||||||
+ E,8 C,8 D,8 | B,,8 A,,16 | G,,16 F,,8 | _B,,8 C,8 F,8 | D,8 A,,16 |[M:4/4] D,2 D,4 E,^F, |$ %20
+w: ||||||
+ G,2 G,2 A,^G, A,F, | E,2 E,2 D,^C, D,B,, | A,,2 A,,2 D,4- | D,2 B,,2 A,,2 A,,2 | E,4 A,,4 |$ %25
+w: |||||
+[M:3/1] D,12 C,4 B,,8 | C,8 A,,8 G,,8 | D,16 G,,8 | C,24 | D,12 D,4 D,8 | G,,12 G,,4 G,,8 |$ %31
+w: ||||||
+ C,8 C,8 C,8 | F,,12 F,,4 F,,8 | _B,,8 A,,8 G,,8 | D,12 D,4 D,8 | G,4 ^F,4 G,4 E,4 D,8 | %36
+w: |||||
+ G,,16 D,8 |$[M:4/4] G,,2 G,,2 G,,2 A,,B,, | C,4 C,4 | C,2 C,2 C,2 D,E, | F,4 F,4 | %41
+w: |||||
+ D,2 D,2 D,2 E,F, |$ G,4 G,2 A,G, | F,E, D,F, E,4 | A,,4 E,2 E,D, | ^C,C, D,D, E,4 |$ %46
+w: |||||
+ A,,2 D,G,, D,4 | G,,4 C,2 D,2 | E,4 E,4 | E,2 ^F,2 G,3 G, | G,4 G,2 E,2 | D,4 G,,2 G,,2 |$ %52
+w: ||||* * # 6||
+ D,4 A,,4 | D,2 G,2 D,4 | G,,4 G,2 A,2 | ^F,4 G,2 E,2 | D,4 G,,4 | C,4 C,4 | A,,2 A,,2 E,4 |$ %59
+w: |||||||
+ A,,4 E,4 | A,,4 D,4 | D,4 G,,2 G,,2 | D,4 G,,4 | D,4 G,,2 G,F, | E,E, D,C, D,4 |$ G,,4 D,2 D,C, | %66
+w: |||||||
+ B,,B,, A,,G,, D,4 | G,,2 G,F, E,E, D,C, | G,4 C,4 |$ G,,4 C,4 | F,F,G,E, D,4 | G,,8 | B,,6 C,2 | %73
+w: ||||* * * 6 *||6 6|
+ D,8 | G,,16 |] %75
+w: ||

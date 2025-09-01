@@ -1,0 +1,45 @@
+X:1
+T:Perfect
+C:Ed Sheeran
+%%score 1 2
+L:1/8
+Q:1/4=96
+M:12/8
+I:linebreak $
+K:G
+V:1 treble nm="Piano" snm="Pno."
+V:2 tab stafflines=6 strings=E2,A2,D3,G3,B3,E4 nm="Acoustic Guitar" snm="Guit."
+V:1
+"^\n" z8 z"^Capo 1" EEG | G6- G3 BAG | B6- B3 BBB |$ B2 G G6 GAB | A6- A3 BAG | B6- B3 d2 B |$ %6
+w: I found a|love * f- o- r|me * dar- lin just|dive right in fo- low my|lead * I found a|girl * beau- ti-|
+ AGG- G6 GAB | c2 c B2 A A G2 GAB |$ A4 z z/ d/ ddd eBA | B3 B3 B3 BAG |$ B3 B3 B3 BAG | %11
+w: ful and sweet * I ne- ver|knew you were the some- one wait- ing for|me cus we were just kids when we|fell in love not know- ing|what it was I will not|
+ c3 B3 G3 E3 | B3- BcB A3 BAG |$ B3 B3 B3 BAG | B3 B3 B3 BAG |$ c3 B3 G3 E A2- | A4 z2 d3 B3 | %17
+w: give you up this|ti- i- i- m- e dar- lin just|kiss me slow your heart is|all I own and in your|eyes your hold- in mine|* ba- by|
+ G3- G3 g2 f e2 f |$ B3- B2 G d2 c B2 A | G3- G3 g2 f e2 e |$ B3- B3 ddd d2 e | %21
+w: I * danc- in in the|dark * with you be- tween my|arms * bare- foot on the|grass * li- sten- in to our|
+ BAG- GBd g2 f e2 f |$ B3 GAB d2 c B2 c | B3 A3 c3 B2 G/A/ |$ B3 A3 A3 G2 F/G/- | G12 | z12 |] %27
+w: fa- vorite song * when you said you looked a|mess I whi- spered un- der- neath my|breath you heard it ba- by|you look per- fect to- night|||
+V:2
+ x12 |"G" !6!G,,!4!D,!3!G, !2!D4 x x4 |"Em" !6!E,,!4!E,!3!G, !2!B,4 x x4 |$ %3
+"C" !5!C,!4!E,!3!G, !2!C4 x x4 |"Dsus4" !4!D,!3!A,!2!D !1!G!3!A,!2!D [!4!D,!3!A,!2!D!1!F]4 x2 | %5
+"G" !6!G,,!4!D,!3!G, !2!D4 x x4 |$"Em" !6!E,,!4!E,!3!G, !2!B,4 x x4 | %7
+"C" !5!C,!4!E,!3!G, !2!C4 x x4 |$"Dsus4" !4!D,!3!A,!2!D !1!G!3!A,!2!D [!4!D,!3!A,!2!D!1!F]4 x2 | %9
+"G" !6!G,,!4!D,!3!G, !2!D!3!G,!4!D, !6!G,,!4!D,!3!G, !2!D!3!G,!4!D, |$ %10
+"Em" !6!E,,!4!E,!3!G, !2!B,!3!G,!4!E, !6!E,,!4!E,!3!G, !2!B,!3!G,!4!E, | %11
+"C" !5!C,!4!E,!3!G, !2!C!3!G,!4!E, !5!C,!4!E,!3!G, !2!C!3!G,!4!E, | %12
+"Dsus4" !4!D,!3!A,!2!D !1!G!3!A,!2!D [!4!D,!3!A,!2!D!1!F]4 x2 |$ %13
+"G" !6!G,,!4!D,!3!G, !2!D!3!G,!4!D, !6!G,,!4!D,!3!G, !2!D!3!G,!4!D, | %14
+"Em" !6!E,,!4!E,!3!G, !2!B,!3!G,!4!E, !6!E,,!4!E,!3!G, !2!B,!3!G,!4!E, |$ %15
+"C" !5!C,!4!E,!3!G, !2!C!3!G,!4!E, !5!C,!4!E,!3!G, !2!C!3!G,!4!E, | %16
+"Dsus4" !4!D,!3!A,!2!D !1!G!3!A,!4!D, x4 x2 | %17
+"Em" !6!E,,!4!E,!3!G, !2!B,!3!G,!4!E,"C" !5!C,!4!E,!3!G, !2!C!3!G,!4!E, |$ %18
+"G" !6!G,,!4!D,!3!G, !2!D!3!G,!4!D,"Dsus4" !4!D,!3!A,!2!D !1!G!2!D!3!A, | %19
+"Em" !6!E,,!4!E,!3!G, !2!B,!3!G,!4!E,"C" !5!C,!4!E,!3!G, !2!C!3!G,!4!E, |$ %20
+"G" !6!G,,!4!D,!3!G, !2!D!3!G,!4!D,"Dsus4" !4!D,!3!A,!2!D !1!G!2!D!3!A, | %21
+"Em" !6!E,,!4!E,!3!G, !2!B,!3!G,!4!E,"C" !5!C,!4!E,!3!G, !2!C!3!G,!4!E, |$ %22
+"G" !6!G,,!4!D,!3!G, !2!D!3!G,!4!D,"Dsus4" !4!D,!3!A,!2!D !1!G!2!D!3!A, | %23
+"Em" !6!E,,!4!E,!3!G, !2!B,3"C" !5!C,!4!E,!3!G, !2!C3 |$ %24
+"G" !6!G,,!4!D,!3!G, !2!D3"Dsus4" !4!D,!3!A,!2!D !1!G3 | %25
+ [!5!G,!2!B]!3!G,!4!D, [!5!F,!1!A]!3!G,!4!D, [!5!E,!1!G]!3!G,!4!D, [!5!D,!1!F]!3!G,!4!D, | %26
+ [!5!C,!2!C]!3!G,!3!G, !4!E,3 [!4!D,!3!A,!2!D]3 x2 x |] %27

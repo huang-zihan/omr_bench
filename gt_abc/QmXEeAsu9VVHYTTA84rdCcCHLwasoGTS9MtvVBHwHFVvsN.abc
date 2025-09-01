@@ -1,0 +1,74 @@
+X:1
+T:Merrily, Cheerily
+C:Joseph Lincoln Hall
+Z:Public Domain
+Z:Courtesy of the Cyber Hymnal™
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=98
+M:4/4
+I:linebreak $
+K:G
+V:1 treble 
+V:2 treble 
+L:1/4
+V:3 bass 
+L:1/4
+V:4 bass 
+V:1
+ [B,D][B,D] [B,D]2 [B,E][B,E] [B,E]2 | [B,DF]2 [B,DG]2 A4 [B,D]2 | %2
+w: 1.~Mer- ri- ly, cheer- i- ly,|let us sing; High-|
+w: 2.~Raise the strain, once a- gain,|scat- ter gloom; He|
+w: 3.~Night is past, day at last|o’er us gleams; Light|
+ [B,D][B,D] [B,D]2 [B,E][B,E] (EG) |$ [DF]2 [^CE]2 A4 | [B,D][B,D] [B,D]2 [B,E][B,E] [B,E]2 | %5
+w: * est praise let us raise *|to our king;|O- ver land, o- ver sea,|
+w: * a- rose, conquer- ing foes *|from the tomb;|On the air, sweet and clear,|
+w: * of love, from a- bove, *|on us beams;|See to- day, on our way,|
+ [B,DF]2 [B,DG]2 B4 [B,D]2 | BF^EF [Fd]2 [=Ec]2 |$ [DFB]6 z2 | B2 A>F A2 d2 | G2 A2 B4 | %10
+w: send the strain, Christ|* the Sav- ior lives a-|gain;|He lives to save the|world from sin;|
+w: hear the song; Let|* the earth the sound pro-|long;|He burst the bars that|held Him bound;|
+w: all is bright; Past|* is now the gloom of|night;|We come to- day with|grate- ful lay|
+ G2 G>G F2 E2 |$ ^D2 (z F) B4 x | [EB]2 B>B [Ee]2 [Ed]2 | [Ed]2 c>B [Ed]2 [Ec]2 | %14
+w: He lives to bring the|wan- * derers|in; He is our Sav-|ior, praise Him for- ev-|
+w: He scat- tered light on|all * a-|round; He is our Sav-|ior, praise Him for- ev-|
+w: To praise the Lord of|light * and|day; He is our Sav-|ior, praise Him for- ev-|
+ [DB]3 D [DB]2 [CA]2 | G6 ||$"^Refrain" dd | (z2 d)d x6 | (z2 d)d x8 | edBA G2 E2 | %20
+w: er, Hail our ris-|en|Lord! He|* a-|* rose,|He a- rose, He a- rose|
+w: er, Hail our ris-|en|Lord! *||||
+w: er, Hail our ris-|en|Lord! *||||
+ [DA]6 [CD]>[CD] |$ [DG]2 [DG]>[DG] [GB]2 [Gd]>[Gd] | [Gc]2 [Gc][Gc] !fermata![Ge]2 [Ge]2 | %23
+w: a vic- tor|o- ver death; Shout a- loud|He a- rose, He a-|
+w: |||
+w: |||
+ [Gd]2 BG D2 [CF]2 | [B,G]6 z2 |] %25
+w: rose from the grave, All|hail|
+w: ||
+w: ||
+V:2
+ x4 | x2 [B,D] x2 | x3 B, |$ x2 (D =C) | x4 | x2 [B,D] x2 | B/F/^E/F/ x2 |$ x4 | x4 | x4 | x4 |$ %11
+ ^D3/2 (D D D) | x E x2 | x E x2 | x3/2 D/ x2 | (B, C B,) ||$ x | (d3 G/F/ G) | (d3 G/F/ G) d/d/ | %19
+ e/d/B/A/ G E | x4 |$ x4 | x4 | x B/G/ D x | x4 |] %25
+V:3
+ [G,,D,]/[G,,D,]/ [G,,D,] [G,,E,]/[G,,E,]/ [G,,E,] | [G,,F,] ([G,,G,] [G,,G,]) [G,,G,] x | %2
+w: ~ ~ ~ ~ ~ ~|~ ~ * ~|
+ [G,,D,]/[G,,D,]/ [G,,D,] [G,,E,]/[G,,E,]/ [G,,E,] |$ [A,,A,] [A,,G,] [D,F,]2 | %4
+w: ~ ~ ~ ~ ~ ~|~ ~ ~|
+ [G,,D,]/[G,,D,]/ [G,,D,] [G,,E,]/[G,,E,]/ [G,,E,] | [G,,F,] [G,,G,] [G,,G,] [G,,G,] x | %6
+w: ~ ~ ~ ~ ~ ~|~ ~ ~ ~|
+ B,/F,/^E,/F,/ [F,B,] [F,^A,] |$ B,3 z | [D,F,A,C] [D,F,A,C] [D,F,A,C] [D,F,A,C] | %9
+w: ~ ~ ~ ~ ~ ~|~|~ ~ ~ ~|
+ [D,G,B,] [D,G,B,] [D,G,B,] [D,G,B,] | [E,G,B,] [E,G,B,] [E,A,B,] [E,G,B,] |$ %11
+w: ~ ~ ~ ~|~ ~ ~ ~|
+ [B,,F,] [B,,F,] ([B,,F,] [B,,F,]) x/ | [E,^G,D] [E,G,D] [E,G,D] [E,G,D] | %13
+w: ~ ~ ~ *|~ ~ ~ ~|
+ [A,C] [A,C] [A,C] [A,C] | [D,G,B,] [D,G,B,] [D,G,] [D,F,] | ([G,,G,] [G,,E,] [G,,D,]) ||$ z | %17
+w: ~ ~ ~ ~|~ ~ ~ ~|~ * *||
+ z [G,B,]/[A,C]/ [B,D] z x | z [B,D]/[A,C]/ [G,B,] D/D/ x2 | E/D/B,/B,/ G, E, | %20
+w: He a- rose,|He a- rose, * *||
+ [D,F,]3 [D,F,]/>[D,F,]/ |$ [G,,G,] [G,B,]/>[G,B,]/ [G,D] [=F,D]/>[F,D]/ | %22
+w: ||
+ [E,C] [E,C]/[E,C]/ !fermata![C,C] [C,C] | [D,B,] B,/G,/ D, [D,A,] | [G,,G,]3 z |] %25
+w: |||
+V:4
+ x8 | x10 | x8 |$ x8 | x8 | x10 | B,F,^E,F, x4 |$ (B,,2 F,>E, B,,2) x2 | x8 | x8 | x8 |$ x9 | x8 | %13
+ x8 | x8 | x6 ||$ x2 | x10 | x6 DD x4 | EDB,B, G,2 E,2 | x8 |$ x8 | x8 | x2 B,G, D,2 x2 | x8 |] %25

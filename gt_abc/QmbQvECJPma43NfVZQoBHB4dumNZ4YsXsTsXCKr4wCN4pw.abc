@@ -1,0 +1,37 @@
+X:1
+T:For You
+C:EXO
+%%score { 1 | 2 }
+L:1/16
+Q:1/8=110
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+"^\n" !arpeggio![eac']3b3c'2 [fb]4 [ca]4 | [dg]2fe2d2 e6 eab | %2
+ !arpeggio![eac']3b3c'2 !arpeggio![fad']4 c'4 |$ !arpeggio![dgc']2ba2b2 [ec']4 z2 gcB | %4
+ [EAc]3B3c2 [FB]4 A4 | [DG]2FE2D2 E6 EAB |$ [EAc]3B3c2 [FAd]4 c4 | [DGc]2BA2B2 [Ec]4 z E2d2 | %8
+ z E[Ac][Ac] [Ac][Ac][Ac][Ac] [Ac][Ad][Ad][Ad]2c2c |$ [GB][GB][GB][GB]2AB [Ec]4 z z4 | %10
+ z E[Ac][Ac] [Ac][Ac][Ac][Ac] [Ac][Ad][Ad][Ad]2c2c | [GB][GB][GB][GB]2Bdd2 [Ec]4 z [Gd]2 |$ %12
+ !arpeggio![Gce]4 [cg]2c [Gd]4 z3 [Gc][Gc] | [Gc][Gd][Gd][Gd] [Gd]2[Gc][Ge]2[Gf]2[Ge]2[Gd]2c | %14
+ !arpeggio![Gce]4 [cg]2c [Gd]4 z3 [Gc][Gc] |$ [Gc][Gd][Gd][Gd] [Gd]2[Gc] [Gc]4 z [Cc]2[Dd]2 | %16
+ [Dd]eee e2c[FAd]2[FAe]2[FAd]2c2c | [DB]2[Dc][Dd]2[Ge]2 [Ge]4 z [Cc]2[Dd]2 |$ %18
+ [Gd][Ge][Ge][Ge] [Ge]2c[Bg]2[Af]2[Ge]2[Ec]2[Ec] | [DB]2[Ec][Fd]2[Ge]2[Ge]2dc2 z4 | %20
+ [EAc]3B3c2 [FB]4 A4 |$ [DG]2FE2D2 E6 EAB | [EAc]3B3c2 [FAd]4 c4 | [DGc]2BA2B2 [Ec]4 z2 EAB |$ %24
+ [EAc]3B3c2 [FB]4 A4 | [DG]2FE2D2 E6 EAB | [EAc]3B3c2 [FAd]4 c4 | [DGc]2BA2B2 [Ec]8 z |] %28
+V:2
+ A,,E,A,B, C4 F,,C,F,G, A,4 | G,,D,G,A, B,4 C,G,CG, B,,G,B,G, | A,,E,A,B, C4 F,,C,F,G, A,4 |$ %3
+ G,,D,G,A, B,4 C,G,CG, B,,G,B,G, | A,,E,A,E, B,E,CE, F,,C,F,C, G,C,A,C, | %5
+ G,,D,G,D, A,D,B,D, C,,G,,C,G,, B,,,G,,B,,G,, |$ A,,E,A,E, B,E,CE, F,,C,F,C, G,C,A,C, | %7
+ G,,D,G,D, A,D,B,D, C,,G,,C,G,, B,,,G,,B,,G,, | A,,E,A,E, B,E,CE, F,,C,F,C, G,C,A,C, |$ %9
+ G,,D,G,D, A,D,B,D, C,,G,,C,G,, B,,,G,,B,,G,, | A,,E,A,E, B,E,CE, F,,C,F,C, G,C,A,C, | %11
+ G,,D,G,D, A,D,B,D, C,,G,,C,G,, B,,,G,,B,,G,, |$ A,,E,A,E, B,E,CE, F,,C,F,C, G,C,A,C, | %13
+ G,,D,G,D, A,D,B,D, C,,G,,C,G,, B,,,G,,B,,G,, | A,,E,A,E, B,E,CE, F,,C,F,C, G,C,A,C, |$ %15
+ G,,D,G,D, A,D,B,D, C,,G,,C,G,, B,,,G,,B,,G,, | A,,E,A,E, B,E,CE, F,,C,F,C, G,C,A,C, | %17
+ G,,D,G,D, A,D,B,D, C,,G,,C,G,, B,,,G,,B,,G,, |$ A,,E,A,E, B,E,CE, F,,C,F,C, G,C,A,C, | %19
+ G,,D,G,D, A,D,B,D, C,,G,,C,G,, B,,,G,,B,,G,, | A,,E,A,B, C4 F,,C,F,G, A,4 |$ %21
+ G,,D,G,A, B,4 C,G,CG, B,,G,B,G, | A,,E,A,B, C4 F,,C,F,G, A,4 | G,,D,G,A, B,4 C,G,CG, B,,G,B,G, |$ %24
+ A,,E,A,B, C4 F,,C,F,G, A,4 | G,,D,G,A, B,4 C,G,CG, B,,G,B,G, | A,,E,A,B, C4 F,,C,F,G, A,4 | %27
+ G,,D,G,A, B,4 [C,,C,]8 |] %28

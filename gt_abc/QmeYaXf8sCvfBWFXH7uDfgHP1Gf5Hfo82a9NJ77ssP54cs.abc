@@ -1,0 +1,25 @@
+X:1
+T:Montreat, CM
+C:Archdeacon Groome, 19th Century
+Z:Public Domain
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+L:1/8
+V:1
+ [DF]3/2 [FB]/ [EA] [FB] | [Gc] [Fc] [Fd]2 | [Fd]3/2 [Af]/ [GB] [Cc] | [CA] [=EG] F2 | %4
+ [DF]3/2 [DF]/ [EG] [EG] | [EA] [Ec] [DB]2 |$ [Fd] [_Af] [GB] [Gc] | [FA]2 [FB]2 |] %8
+V:2
+ x4 | x4 | x4 | x2 F2 | x4 | x4 |$ x4 | x4 |] %8
+V:3
+ [B,,B,]3/2 [B,,D]/ [C,C] [D,B,] | [E,B,] [F,A,] B,2 | B,3/2 [F,C]/ [G,B,] [=E,G,] | %3
+ [F,A,] [C,B,] [F,A,]2 | [B,,B,]3/2 [B,,B,]/ [E,B,] (E,/D,/) | [C,C] [F,,F,A,] [B,,B,]2 |$ %6
+ [B,,B,] [F,B,] [E,B,] [E,E] | [F,E]2 [B,,D]2 |] %8
+V:4
+ x8 | x4 B,4 | B,3 x5 | x8 | x6 B,2 | x8 |$ x8 | x8 |] %8

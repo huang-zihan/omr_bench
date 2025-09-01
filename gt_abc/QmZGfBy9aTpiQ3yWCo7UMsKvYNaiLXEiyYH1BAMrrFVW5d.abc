@@ -1,0 +1,69 @@
+X:1
+T:Let Music Break on This Blest Morn
+C:John Baptiste Calkin
+Z:Public Domain
+Z:Courtesy of the Cyber Hymnal™
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=100
+M:6/8
+I:linebreak $
+K:G
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ [GB] | [Fd]2 [EG] [DB]2 [CE] | (GF)[CE] [B,D]2 [DF] | [B,G]2 [DA] (Bc)[Gd] | %4
+w: Let|mu- sic break on|this * blest morn, And|sweet- ly e- * cho|
+ [Ge]2 [^GB] [Ac]2 [CE] |$ [ce]2 [Bd] [Ac]2 E | [Ec]2 [EB] [EA]2 [DF] | [DG]2 [FA] ([GB][Ac])[Bd] | %8
+w: back to Heav’n, For|lo! the pro- mised|Son is born, The|long ex- pect- * ed|
+ [Ge]2 [Ge] [Gd]2 [=Fd] | [=Fd]2 [Fc] [_E_e]2 [Fd] |$ [G_B]2 [Gc] [Fd]2 [Fd] | %11
+w: One is giv’n. Of|old the pro- phets|wrote of Him, Pre-|
+ (eB)[G^c] [Fd]2 [Ad] | (eB)[=G^c] !fermata![Fd]2 [GB] | [Fd]2 [EG] [DB]2 [CE] | %14
+w: dict- * ing this most|glad * e- vent, And|we, in one u-|
+ (GF)[CE] D2 [DF] |$ [B,G]2 [GA] (Bc)[Gd] |!>(! [Ge]3 [DF]3!>)! | G6- | [B,G]3 z2 [DG] | %19
+w: nit- * ed hymn, Now|cel- e- brate * the|Sav- ior|sent.|* In|
+ [^CG]2 [CG] (BA)[CG] | [^CG]2 [CF] [CF]2 [CF] |$ [^CG]2 [CG] (BA)[EG] | [EG]2 [^CF] [CF]2 ^A, | %23
+w: Heav’n the an- * gels|sing of Him, And|won- der at * His|might- y love; On|
+!>(! B,2 B, ^C2 ^D!>)! | F2 E ^D2 ^C | F2 B, (B,F)E |$ ^D2 ^C !fermata!B,2 [GB] | %27
+w: earth we glad- ly|chant the theme, Thus|join- ing in * the|song a- bove. Thus|
+ [Fd]2 [EG] [DB]2 [CE] | (GF)[CE] [B,D]2 [DF] | [B,G]2 [DA] (Bc)[Gd] | [Ge]2 [^GB] [Ac]2 [CE] |$ %31
+w: an- gels, pro- phets,|sin- * ners sing, With|all the num- * bers|saved in Heav’n, And|
+ [ce]2 [Bd] [Ac]2 E | [Ec]2 [EB] [EA]2 [DF] | [DG]2 [FA] ([GB][Ac])[Bd] | [Ge]2 [Ge] [Gd]2 [=Fd] | %35
+w: hail Thy ad- vent,|Sav- ior, King, One|glor- ious strain * to|all is giv’n. Nor|
+ [=Fd]2 [Fc] [_E_e]2 [Fd] |$ [G_B]2 [Gc] [Fd]2 [Fd] | (eB)[G^c] [Ed]2 [Ad] | %38
+w: can we praise a|wor- thier name, Or|sing * of love so|
+ (eB)[=G^c] !fermata![Fd]2 [GB] | [Fd]2 [EG] [DB]2 [CE] |$ (GF)[CE] D2 [DF] | %41
+w: great * as Thine; No!|end- less hon- or|Thou * dost claim, Thy|
+ [B,G]2 [GA] (Bc)[Gd] | [Ge]3 [DF]3 | G6 | (z2 c) (B2 A) | G6 |$ (z2 c) (B2 A) | G6- | [B,G]3 z3 |] %49
+w: name and love * are|both di-|vine;|* Thy *|name|* and *|love||
+V:2
+ x | x6 | B,2 x4 | x3 G2 x | x6 |$ x5 E | x6 | x6 | x6 | x6 |$ x6 | G2 x4 | ^G2 x4 | x6 | %14
+ B,2 D2 x2 |$ x3 G2 x | x6 | D2 DEDC | x6 | x3 ^C2 x | x6 |$ x3 E2 x | x6 | x6 | x6 | x6 |$ x6 | %27
+ x6 | B,2 x4 | x3 G2 x | x6 |$ x5 E | x6 | x6 | x6 | x6 |$ x6 | G2 x4 | ^G2 x4 | x6 |$ B,2 D2 x2 | %41
+ x3 G2 x | x6 | E3 F3 | (E3 F3) | G3 =F3 |$ (E3 F3) | G2 DEDC | x6 |] %49
+V:3
+ [G,,D,] | [G,,D,]2 [G,,D,] [G,,D,]2 [G,,D,] | [G,,D,]2 [G,,F,] [G,,G,]2 [D,A,] | %3
+ [E,G,]2 [F,D] D2 [B,D] | C2 [G,E] [A,E]2 [A,,E,] |$ (E,F,)[A,,^G,] [A,,A,]2 E, | %6
+ E2 [^G,D] [A,C]2 [CD] | [B,D]2 [A,D] (DC)[G,B,] | [C,C]2 [C,A,] [G,B,]2 _B, | %9
+ _B,2 [A,C] [G,B,]2 [=F,B,] |$ (_B,G,)[=E,A,] [D,A,]2 [D,A,] | [D,B,]2 [D,A,] (DA,)[D,C] | %12
+ [D,B,]2 [D,_B,] !fermata![D,A,]2 G, | [D,A,]2 [E,G,] [B,,F,]2 [C,E,] | %14
+ [G,,D,]2 [A,,F,] [B,,G,]2 [D,D] |$ ([E,G]D,)[C,E] ([B,,D][A,,C])[G,,B,] | [C,A,]3 [D,C]3 | %17
+ [G,B,]2 [G,,B,] CB,[G,,A,] | [G,,G,]3 z2 [G,B,] | [E,B,]2 [E,B,] (G,A,)[E,B,] | %20
+ [E,B,]2 [F,^A,] [F,A,]2 [F,A,] |$ [E,B,]2 [E,B,] (G,A,)[=C,B,] | [^C,B,]2 [F,^A,] [F,A,]2 [E,F,] | %23
+ [^D,F,]2 [D,B,] [E,B,]2 [F,B,] | [A,B,]2 [^G,B,] [F,B,]2 [E,^A,] | %25
+ [^D,B,]2 [D,A,] [E,^G,]2 [^C,B,] |$ (B,F,)[F,,E,] !fermata![B,,^D,]2 [G,,=D,] | %27
+ [G,,D,]2 [G,,D,] [G,,D,]2 [G,,D,] | [G,,D,]2 [G,,F,] [G,,G,]2 [D,A,] | [E,G,]2 [F,D] D2 [B,D] | %30
+ C2 [E,E] [A,E]2 [A,,E,] |$ (E,F,)[A,,^G,] [A,,A,]2 E, | E2 [^G,D] [A,C]2 [CD] | %33
+ [B,D]2 [A,D] (DC)[G,B,] | [C,C]2 [C,A,] [G,B,]2 _B, | _B,2 [A,C] [G,B,]2 [=F,B,] |$ %36
+ (_B,G,)[=E,A,] [D,A,]2 [D,A,] | [D,B,]2 [D,A,] (DA,)[D,C] | [D,B,]2 [D,_B,] !fermata![D,A,]2 G, | %39
+ [D,A,]2 [E,G,] [B,,F,]2 [C,E,] |$ [G,,D,]2 [A,,F,] [B,,G,]2 [D,D] | %41
+ ([E,G][D,F])[C,E] ([B,,D][A,,C])[G,,B,] | [C,A,]3 [D,C]3 | [G,B,]3 [G,D]3 | [G,C]3 [G,C]3 | %45
+ [G,B,]3 [B,,D]3 |$ [C,C]3 [D,C]3 | B,2 B,CB,A, | [G,,G,]3 z3 |] %49
+V:4
+ x | x6 | x6 | x3 (G,A,) x | C2 x4 |$ A,,2 x2 E, x | (E,F,) x4 | x3 G,2 x | x5 _B, | _B,2 x4 |$ %10
+ _E,2 x4 | x3 D,2 x | x5 G, | x6 | x6 |$ x6 | x6 | x3 G,,2 x | x6 | x3 E,2 x | x6 |$ x3 ^C,2 x | %22
+ x6 | x6 | x6 | x6 |$ F,2 x4 | x6 | x6 | x3 (G,A,) x | C2 x4 |$ A,,2 x2 E, x | (E,F,) x4 | %33
+ x3 G,2 x | x5 _B, | _B,2 x4 |$ _E,2 x4 | x3 D,2 x | x5 G, | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 |$ %46
+ x6 | G,,6- | x6 |] %49

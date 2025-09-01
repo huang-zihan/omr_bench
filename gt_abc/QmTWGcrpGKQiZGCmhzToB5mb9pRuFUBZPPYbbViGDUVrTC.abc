@@ -1,0 +1,16 @@
+X:1
+T:Abe Laboriel - inspired bass broove
+L:1/8
+Q:1/4=186
+M:4/4
+I:linebreak $
+K:D
+V:1 bass transpose=-12 nm="Basso elettrico" snm="B. el."
+V:1
+ [D,F] [D,F]2 [D,F]- [D,F][D,F] [E,G]2 | [F,A]2 [E,G]2 [D,F]3 [C,E]- | %2
+ [C,E] [C,E]2 [C,E] [D,D]2 [E,E]2 | [D,F]2 [C,E]2 [B,,D]2 [A,,C][G,,B,]- | %4
+ [G,,B,] [G,,B,]2 [G,,B,]- [G,,B,][G,,B,] [F,,A,]2 | [E,,G,]4- [E,,G,]4 |$ %6
+ z [E,,G,]2 [E,,G,]2 [E,,G,] [F,,A,]2 | [G,,B,] [B,,D]3 [A,,C]4 | %8
+ [C,E] [D,F]2 [D,F]- [D,F][D,F] [E,G]2 | [F,A]2 [E,G]2 [D,F]3 [B,,D]- | %10
+ [B,,D] [B,,D]2 [B,,D] [D,D]2 [E,E]2 | [D,F]2 [C,E]2 [B,,D]2 [A,,C][G,,B,]- |$ %12
+ [G,,B,] [G,,B,]2 [G,,B,]- [G,,B,][G,,B,] [F,,A,]2 | [E,,G,]4- [E,,G,]4 :| %14

@@ -1,0 +1,36 @@
+X:1
+T:Sagrada Reset OST (Ep1)
+%%score 1 2 3 4 5 6
+L:1/16
+Q:1/4=24
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Violino" snm="Vln."
+V:2 treble nm="Violino" snm="Vln."
+V:3 treble nm="Violino" snm="Vln."
+L:1/8
+V:4 treble nm="Violino" snm="Vln."
+L:1/8
+V:5 bass nm="Violoncello" snm="Vc."
+L:1/4
+V:6 bass nm="Violoncello" snm="Vc."
+L:1/4
+V:1
+ z16 | z16 | z16 | z16 | z16 |$ z16 |$ %6
+ (3z z z!mp! (3:2:1d'3 (3z z z (3:2:1a3 (3z z z (3:2:1e'3 (3:2:1e'3!mf!(3:2:1g'3 |] %7
+V:2
+ z16 | z16 | z16 | z16 | z16 |$!mf! (3gfe(3dec (3gfe(3fed (3gfe(3def (3g^a=a(3gfe |$ %6
+!mf! (3:2:6g/A/f/A/e/A/(3:2:6d/A/e/A/c/A/ (3:2:6g/A/f/A/e/A/(3:2:6f/A/e/A/d/A/ (3:2:6g/A/f/A/e/A/(3:2:6d/A/e/A/f/A/ (3:2:6g/A/^a/A/=a/A/(3:2:6g/A/f/A/e/A/ |] %7
+V:3
+ z8 | z8 | z8 |!p! FGA^A c=A^AG | FGA^A c=A^AG |$ FGA^A c=A^AG |$ %6
+!mp! (3:2:2FE/(3:2:2FG/ (3:2:2AG/(3:2:2A_B/ (3:2:2cB/(3:2:2cA/ (3:2:2BA/(3G/F/E/ |] %7
+V:4
+ z8 | z8 |!p! DEFG AFGE | DEFG AFGE | DEFG AFGE |$ DEFG AFGE |$ %6
+!mp! (3:2:2DC/(3:2:2DE/ (3:2:2FE/(3:2:2FG/ (3:2:2AG/(3:2:2AF/ (3:2:2GF/(3G/F/E/ |] %7
+V:5
+!pp! F, E, D, E, | F, E, D, E, | F, E, D, E, | F, E, D, E, |!p! F, E, D, E, |$ F, E, D, E, |$ %6
+!mp! F, E, D, E, |] %7
+V:6
+!pp! D, C, _B,, C, | D, C, _B,, C, | D, C, _B,, C, | D, C, _B,, C, |!p! D, C, _B,, C, |$ %5
+ D, C, _B,, C, |$!mp! D, C, _B,, C, |] %7

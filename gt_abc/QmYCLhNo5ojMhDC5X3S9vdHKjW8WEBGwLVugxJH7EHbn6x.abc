@@ -1,0 +1,47 @@
+X:1
+T:Athletic Theme
+C:Koji Kondo
+%%score { 1 | ( 2 3 ) }
+L:1/8
+Q:1/4=133
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:3 bass 
+V:1
+ D/C/A,/D/ z/ C/A, D/C/A,/D/ z/ C/A, | D/C/D/A/ z/ F/D .C2 z2 | _A,=A,CD F F2 A |$ BAFD C2 z A | %4
+ AGAG A2 z2 | cAGE D2 z C | _A,=A,CD F F2 A |$ BA^Fd A2 z A | AGAc A2 CA | F4 z4 | %10
+ _A,=A,CD F F2 A |$ BAFD C2 z A | AGAG A2 z2 | cAGE D2 z C | _A,=A,CD F F2 A |$ BA^Fd A2 z A | %16
+ AGAc A2 CA | F4 z4 | d/cd/ cd/c/- c/d/c dc |$ c/Bc/ Bc/B/- B z z2 | c/Bc/ Bc/B/- B/c/B cB | %21
+ B/AB/ AB/A/- A z z2 | z8 |$ z8 | [cc'] [cc']2 [cc'] [Bb] [Bb]2 [Bb] | %25
+ [Aa] [Aa]2 [Aa] [Gg][Cc]-[Cc] z | _A,=A,CD F F2 A |$ BA^Fd A2 z A | AGAc A2 CA | F4 z4 | z8 | z8 | %32
+ z8 | z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %51
+ z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %70
+ z8 | z8 |] %72
+V:2
+ .F,,2 z F,, .^F,,2 z F,, | .G,,2 z G,, C,,C,,D,,E,, |[I:staff -1] E,F,A,A, C C2 F |$ %3
+ ^FFDA, ^F,2[I:staff +1] z[I:staff -1] C | DDDD D2[I:staff +1] z[I:staff -1] D | %5
+ EEDC B,2[I:staff +1] z[I:staff -1] A, | E,F,A,A, C C2 F |$ ^FFDF D2[I:staff +1] z[I:staff -1] D | %8
+ DB,DE C2 G,C | A,4[I:staff +1] z4 | F,,[F,A,C]C,,[F,A,C] F,,[F,A,C]C,,[F,A,C] |$ %11
+ D,,[^F,A,C]A,,,[F,A,C] D,,[F,A,C]D,,[F,A,C] | G,,[G,B,D]D,,[G,B,D] G,,[G,B,D]D,,[G,B,D] | %13
+ C,,[E,G,C]G,,[E,G,C] C,,C,,D,,E,, | F,,[F,A,C]C,,[F,A,C] F,,[F,A,C]C,,[F,A,C] |$ %15
+ D,,[^F,A,C]A,,,[F,A,C] D,,[F,A,C]D,,[F,A,C] | G,,[G,B,D]D,,[G,B,D] C,,[E,G,C]C,,[E,G,C] | %17
+ F,,[F,A,C]C,,[F,A,C] F,,[F,A,C]C,,[F,A,C] | D,,[^F,A,C]A,,,[F,A,C] D,,[F,A,C]D,,[F,A,C] |$ %19
+ G,,[G,B,D]D,,[G,B,D] G,,[G,B,D]D,,[G,B,D] | C,,[E,G,C]G,,[E,G,C] C,,[E,G,C]G,,[E,G,C] | %21
+ F,,[F,A,C]C,,[F,A,C] F,,F,,E,,_E,, | D,,[^F,A,C]A,,,[F,A,C] D,,[F,A,C]D,,[F,A,C] |$ %23
+ G,,[G,B,D]D,,[G,B,D] G,,[G,B,D]D,,[G,B,D] | %24
+ [C,,C,] [C,,C,]2 [C,,C,] [B,,,B,,] [B,,,B,,]2 [B,,,B,,] | %25
+ [A,,,A,,] [A,,,A,,]2 [A,,,A,,] [G,,,G,,]C,,D,,E,, | F,,[F,A,C]C,,[F,A,C] F,,[F,A,C]C,,[F,A,C] |$ %27
+ D,,[^F,A,C]A,,,[F,A,C] D,,[F,A,C]D,,[F,A,C] | G,,[G,B,D]D,,[G,B,D] C,,[E,G,C]C,,[E,G,C] | %29
+ F,,[F,A,C]C,,[F,A,C] F,,[F,A,C]C,,[F,A,C] | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | %40
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | %59
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |] %72
+V:3
+ x8 | x8 | F,,C,C,,C, F,,C,C,,C, |$ D,,C,^F,,C, D,,C,F,,C, | G,,B,,D,,B,, G,,B,,D,,B,, | %5
+ C,,C,G,,C, C,,C,G,,C, | F,,C,C,,C, F,,C,C,,C, |$ D,,C,^F,,C, D,,C,F,,C, | %8
+ G,,B,,D,,B,, C,,C,G,,C, | F,,C,C,,C, F,,C,C,,C, | x8 |$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |$ %19
+ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ %38
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | %57
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %72

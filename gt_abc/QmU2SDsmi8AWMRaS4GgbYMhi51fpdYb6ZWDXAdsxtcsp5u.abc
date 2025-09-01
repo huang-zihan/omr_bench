@@ -1,0 +1,14 @@
+X:1
+T:MacPherson's Lament
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble 
+V:1
+ (C/D/E) | F3 G F2 A2 | GFGA{A} G2 FE | F3 G (AG)(FE) |{E} D4 D2 (C/D/E) | F3 G F2 A2 |$ %6
+{A} G>FGA{A} G2 FE | F2 ED (GE)(FD) | C4 C2 :: d2 | c2 F2 c2 d2 | c3 A (GA)Bd | c2 F2 (c2 d2) | %13
+ D4 D2 d2 |$ c2 F2 c3 A |{A} c3 A (GB)AG | F2 ED (GE)(FD) | C4 C2 :: (c/d/e) | f3 g f2 a2 | %20
+{a} gfga{a} g2 fe |$ f3 g (ag)fe | d4 d2 (c/d/e) | f3 g f2 a2 |{a} gfga{a} g2 fe | f2 ed (ge)(fd) | %26
+ c4 c2 :: a>g |$ f2 F2 (BA)(GF) |{AB} c2 F2 F2 a>g | f2 F2 (c2 d2) | D4 D2 a>g | %32
+ f>F (F2{EF} A>)F (F2{EF) |=B} c3 A G2 A2 | F2 EF (GF)(ED) |$ C4 C2 :| %36

@@ -1,0 +1,27 @@
+X:1
+T:Chi vuol provare
+C:Vittorio Loreto
+%%score 1 2
+L:1/4
+Q:1/4=103
+M:6/4
+I:linebreak $
+K:F
+V:1 treble nm="Soprano" snm="S"
+V:2 bass nm="BC" snm="BC"
+V:1
+ d d B A G A | B2 c d d f | _e2 d d2 c- |$ c c3/2 d/ B3 ::$ d c B c2 A | A c d _e2 e | %6
+w: Chi vuol pro- va- re, quan-|to com- pa- re, un|pol- tron sa, un|_ pol- tron sa,|fa di mes- di- re|man- giar e he- re,|
+w: Vien- ne pur vi- a, pol-|tro- ne- ri- a, vi-|ent' a me, vi-|* ent' a me,|sa- la- mi'ad- dos- so,|ch'ha- ver non pos- so,|
+w: Il Mon- d'ho- no- ri, gl'al-|trui su- do- ri, quant'|e- gli puo, quant'|_ e- gli puo,|mag- gior ne- mi- ca,|del- la fa- ti- ca,|
+w: Bra- m'a ra- gio- ne, d'es-|ser pol- tro- ne, in|cre- mi- si, in|_ cre- mi- si,|chi per un pa- re,|dten- ta qual ca- ne,|
+w: Hab- bit'il mal an- no, chi|del af- fan- no, l'in-|ven- tor fu, l'in-|* ven- tor fu,|ma quel buon so- tio,|che tro- vo l'o- tio,|
+ d3/2 c/ B/A/ B c d |$ B A3/2 G/ G3 :| %8
+w: e _ _ _ _ non pen-|sar _ piu'in la.|
+w: co- * * * * sa ma-|glior _ che te.|
+w: io _ _ _ _ ri- tor-|nar _ non so.|
+w: tut- * * * * ta la|not- * t'el di.|
+w: cam- * * * * pi mill'|an- * ni'e piu.|
+V:2
+"^#" G, ^F, G, D, G, D, |"^#" G,2 A, B,2 D, |"^4  3" _E, F,2 B,,2 E,- |$"^4  3" E, F,2 B,,3 ::$ %4
+ B, A, G, F,3 |"^b" F, _E, D, C,3 | ^F,3 G, C,2 |$"^4  3" D,3 G,,3 :| %8

@@ -1,0 +1,32 @@
+X:1
+T:Title
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/4
+Q:1/4=108
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Grand Piano"
+V:3 treble 
+V:2 bass 
+V:4 bass 
+V:1
+ [Ec] [Ec] [Ec] [FA] | [EG] [CE] [EG]2 | A A c A | [EG] [Gc] d2 | e e d d | c A A2 | G2 d2 | %7
+w: Ira~Evans~Hicks * * *|||||||
+ [Ec]3 z |$ [Ge]2 [Ec] B/c/ | d2 A2 | [EG] e d c | d3[K:bass] z |[M:3/4][K:treble] [Ge]2 [Ec] | %13
+w: ||||||
+[M:1/4] d/e/ |[M:4/4] [Af]2 [FA]2 |$ G2 d2 | c3 z |] %17
+w: ||||
+V:2
+ [C,G,] [C,G,] [C,G,] [C,C] | [C,C] [C,G,] [C,C]2 | [F,CF] [F,CF] [F,A,F] [F,CF] | %3
+ [C,C] [E,C][K:treble] [G,B,G]2 | [CG] [CG] [G,B,G] [G,B,F] | [A,CE] [F,CF] [F,CF]2 | %6
+ [G,CE]2 [G,,B,F]2 | [C,C]3 z |$ [C,C] [C,C] [C,G,] D/E/ | [F,A,F] [F,A,] [F,CF] [F,C] | %10
+ z2[K:treble] [B,G] z | [B,F]3 z |[M:3/4][K:bass] [C,C] [C,C] [C,G,] |[M:1/4][K:treble] F/G/ | %14
+[M:4/4][K:bass] [F,C] F, F, F, |$ [G,CE][K:treble] [G,C] [G,B,F][K:bass] [G,B,] | z A, G, z |] %17
+V:3
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | z F z F | x4 | z[K:bass] F, E, D, | %12
+[M:3/4][K:treble] x3 |[M:1/4] x |[M:4/4] z C C C |$ z E z F | [CE] F E z |] %17
+V:4
+ x4 | x4 | x4 | x2[K:treble] x2 | x4 | x4 | x4 | x4 |$ x4 | x4 | [C,C][K:treble] [CG] D- [A,D^F] | %11
+ G, z z2 |[M:3/4][K:bass] x3 |[M:1/4][K:treble] x |[M:4/4][K:bass] x4 |$ x[K:treble] x2[K:bass] x | %16
+ C,3 z |] %17

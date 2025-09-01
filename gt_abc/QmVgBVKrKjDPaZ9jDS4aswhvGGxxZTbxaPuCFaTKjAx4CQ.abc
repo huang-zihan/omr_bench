@@ -1,0 +1,17 @@
+X:1
+T:the Farewell
+C:William Marshall
+L:1/8
+M:2/2
+I:linebreak $
+K:E
+V:1 treble 
+V:1
+|: (G>A) |"E" (B3 A)"B7" (G3{G} F) |"E" (EGBe) g3 e |"B" (fBfg){b} a2 ga | %4
+"F#"{g} f2 (TFG)"B7" F2 (GA) |"E" (B3{B} A)"B7" (G3{G} F) |$"E" (3(EGB) (3(egb)"B7"{b} a2 gf |1 %7
+"E" (f{gf}e)dc"B7" (Bd)ef |"E"{ef} g2 e2 e2 :|2"F#m" (f{gf}e)dc"B7" (c{dc}B)AG |"E"{G} B2 E2 E2 |: %11
+ g>a |$"E" b3 e g3 b |{d} e3{fede} f (g3 e) |"B7" a3 f"E" gbag |"B7"{g} f2 TFG F2 ga | %16
+"E" b2 e2 (g/a/g/f/)ed |$"A" (f{gf}e)dc (TcB)"E"{B}AG |"A" (Ac)"E"Be"B7" (df)(Ba) | %19
+"E" g2 e2 e2 ga |"E" (b3 e) (g3 Td) | e2"E7" E2"A" (c{d}B)(AG) |$"E" (B,EGB)"F#7" (Acde) | %23
+"B7"{e} g3 f f2 (GA) |"E" (B3{B} A) (G3{G} F) | (3(EGB) (3(egb)"B7"{b} a2 gf | %26
+"F#m" (f{gf}e)dc"B7" (c{dc}B)AG |$"E"{G} B2 E2 E2 |] %28

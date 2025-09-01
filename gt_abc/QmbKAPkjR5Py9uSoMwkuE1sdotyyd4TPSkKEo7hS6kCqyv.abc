@@ -1,0 +1,96 @@
+X:1
+T:'t is Nature's Voice
+C:Henry Purcell
+C:(1659 - 1695)
+Z:(c) Wim Looyestijn - 2017. May be freely copied for non-commercial use.
+%%score 1 { ( 2 4 ) | 3 }
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Voice"
+L:1/16
+V:2 treble nm="Acc."
+V:4 treble 
+V:3 bass 
+V:1
+ z8[Q:1/4=80][Q:1/4=80] | z8 z4 A,4 | C6 C2 F8 | z4 C4 F6 F2 | A8 z2 A2G2F2 |$ %5
+w: |'T is|Na- ture's voice,|'t is Na- ture's|voice, thro' all the|
+ G2>A2 BAGA E2>F2 GFEF | C2>D2 _EDCD A,2>B,2 CB,C2 | B,2>C2 B,CA,B, TB,6 A,2 |$ %8
+w: mov- * * * * * * * * * * *||* * * * * * * ing|
+ A,4 z2 A,2 A,B, C4 C2 | C2>D2 C2DE F4- F/G/A/G/ F/E/D/C/ | T=B,6 CD/C/ C8 |$ z4 z2 C2 E2>E2 E2FE | %12
+w: wood, of crea- * * tures|un- * * * * * * * * * * * * *|* der- * * stood.|The u- ni- ver- * sal|
+ E4 z2 E2 G2>G2 G2AG | G2 F4 F2 F2F2F2F2 |$ F_E2E EDEC DEDE TE2>D2 | D8 z2 =B,2 D4 | %16
+w: tongue, the u- ni- ver- * sal|tongue, _ to none of all her|nu- * m'rous race _ _ _ _ _ _ _ _ un-|known. From her,|
+ z2 D2 G2>D2 G,4 z2 G,2 |$ =B,2>C2 B,CB,C D2G,2 z2 D2 | D2>E2 D^FEF G2D2 z2 G2 | %19
+w: from her it learnt, the|might- * * * * * * y, the|might- * * * * * * y, the|
+ G2>A2 GAGA =BAG2 T^F2>G2 |$ G4 z2 E2 E4 G2<E2 | ^C2<A,2 C2>C2 C4 z2 E2 | %22
+w: might- * * * * * * * * * y|art, to court- * *|* * * the ear, or|
+ F/G/A3 z2 A,2 =B,/^C/D2E D/E/F2G |$ E/F/G2A F/G/A2G TF6 ED | D8 z2 D2 F2>F2 | %25
+w: strike, _ _ or strike _ _ _ _ _ _ _|_ _ _ _ _ _ _ _ _ the _|heart. At once the|
+ F2<D2 D2<B,2 F4 z2 F2 |$ GAB2- B3A/G/ F/G/F/_E/ D/E/D/C/ B,4 | z2 B,2 D2>D2 D2<B,2 B,2<F,2 |$ %28
+w: pas- sions to ex- press, and|move, _ _ _ _ _ _ _ _ _ _ _ _ _ _|at once the pas- sions to ex-|
+ B,4 z2 B,C D_EDE T=E2>F2 |$ F2>G2 F3E/D/ C/D/C/B,/ A,/B,/A,/G,/ F,4 || %30
+w: press, to ex- press _ _ _ _ and|move. _ _ _ _ _ _ _ _ _ _ _ _ _|
+[K:Eb] z2 F2 =A4 z2 _A2A2A2 | A4 G4- G2AF _G4- |$ G2F2 _G2<=E2 F4 z =G A/G/F | =E8 z2 _E2E2E2 | %34
+w: We hear, and straight we|grieve, _ _ _ _ _|_ _ _ _ _ or _ _ _|hate, and straight we|
+ E4 D4- D2EC _D4- |$ D2C2 _D2<=B,2 C4 z2 FC | =B,4 z2 D2 GFGA GAGF | EFEF GFED CDCD CEDE |$ %38
+w: grieve, _ _ _ _ _|_ _ _ _ _ or _|hate; re- joice, _ _ _ _ _ _ _|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _|
+ DEFE DEDC =B,=A,G,2- G,A,/B,/ C/D/E/F/ | G2A/G/F/E/ D4 z2 D/E/F =B,2-B,/C/D/C/ |$ C8 z4 z2 =E2 | %41
+w: |* * * * * * or _ _ _ _ _ _ _|love. In|
+ =E4 EF2G/F/ F4 z2 F2 | F2 E4 E2 E4 _D2>D2 | _D4 C4- C2DC B,2>B,2 |$ E2 A,4 E2 A2 E4 E2 | %45
+w: un- seen _ _ _ chains, it|does _ the fan- * cy|bind, _ _ _ _ _ it|does, _ it does _ the|
+ F2>E2 FE_DC TB,6 A,2 | A,8 z2 E2 F2>G2 |$ A4 GAG2 z2 BG z2 AG | z2 BG z2 AG z2 BG A2 GF | %49
+w: fan- * * * * * * cy|bind, at once it|charms _ _ _ _ _ _ _|_ _ _ _ _ _ _ the _|
+ =E4 z2 E2 F_E_DC B,A,AG |$ FE_DC BAG A/F/ TF6 =E2 | F8 z2 =E2 F2>G2 | A4 GAG2 z2 AG z2 G2 |$ %53
+w: sense, and cap- * * * * * * *|* * * * * * * ti- * vates the|mind, at once it|charms _ _ _ _ _ _|
+ z2 G2 z2 AG z2 BG A2 GF | =E4 z2 E2 F/_E/F/E/ _D/C/D/C/ B,/A,/B,/A,/ A/G/A/G/ |$ %55
+w: _ _ _ _ _ _ the _|sense, and cap- * * * * * * * * * * * * * * *|
+ F/E/F/E/ _D/C/D/C/ B/A/B/A/G A/F/ TF6 =E2 | F16 |] %57
+w: * * * * * * * * * * * * * ti- * vates the|mind.|
+V:2
+ z2 |"^Instrument change" z [A,CF]3- |"^Instrument change" [A,CF]4- | %3
+"^Instrument change" [A,CF]4- |"^Instrument change" [A,CF]4 |$"^Instrument change" [B,EG]4 | %6
+"^Instrument change" [A,CF]4 |"^Instrument change" [G,B,D]2"^Instrument change" [B,CG]2 |$ %8
+"^Instrument change" [A,F]"^Instrument change" [CA] [C-G]2 |"^Instrument change" [CF-]4 | %10
+"^Instrument change" [=B,F]2 [CE]3/2 [DF]/ |$"^Instrument change" [EG]4- | %12
+"^Instrument change" [EG]4 |"^Instrument change" [DF]4 |$"^Instrument change" _E3 F | %15
+"^Instrument change" [=B,G]4- |"^Instrument change" [B,G]4- |$"^Instrument change" [B,G]3 [=B,G]- | %18
+"^Instrument change" [B,G]3/2 [CA]/ [DG=B]2 |"^Instrument change" c4 |$ %20
+"^Instrument change" [D=B]3/2 [CA]/ [B,G]2 |"^Instrument change" [^CA]4 | %22
+"^Instrument change" [DA]3 [=B,G] |$"^Instrument change" ^C D2 C | %24
+"^Instrument change" D3/2 _E/ [DB]2- |"^Instrument change" [DB]4- |$"^Instrument change" [D-B]4 | %27
+"^Instrument change" D2 D3/2 C/"^Instrument change" |$"^Instrument change" B,4 |$ %29
+"^Instrument change" [A,F]4- ||[K:Eb]"^Instrument change" [A,F]2"^Instrument change" [CA]2 | %31
+"^Instrument change" [DF]3 E"^Instrument change" |$"^Instrument change" A,3 B, | %33
+"^Instrument change" C2 G,2 |"^Instrument change" [=A,C]3 B,"^Instrument change" |$ %35
+"^Instrument change" E,3 F, |"^Instrument change" G,2 [G,-D]2 | %37
+"^Instrument change" G,2"^Instrument change" [CF-]2 |$ %38
+"^Instrument change" [A,F] [=A,E]"^Instrument change" [=B,D]2- |"^Instrument change" [B,D]4 |$ %40
+"^Instrument change" [=E,C]3/2 [F,D]/ [G,=E]2 | %41
+"^Instrument change" [C=E]2"^Instrument change" [CF-]2 |"^Instrument change" F E2 _D- | %43
+"^Instrument change" D C2 B, |$"^Instrument change" [EA]4 |"^Instrument change" [FA]2 B,2 | %46
+"^Instrument change" C3/2 _D/"^Instrument change" E2 |$ %47
+"^Instrument change" F"^Instrument change" F F E | %48
+"^Instrument change" _D"^Instrument change" C B, [=DA] | %49
+"^Instrument change" [C=E]3/2"^Instrument change" [CE]/ [F,CF]2 |$ %50
+"^Instrument change" _D2"^Instrument change" C2 |"^Instrument change" C2 C D/>=E/ | %52
+"^Instrument change" F"^Instrument change" F F E |$ %53
+"^Instrument change" _D"^Instrument change" C B, [=DA] | %54
+"^Instrument change" [C=E]3/2"^Instrument change" [CE]/ [F,CF]2 |$ %55
+"^Instrument change" _D2"^Instrument change" C B, |"^Instrument change" =A,4 |] %57
+V:3
+ A,, G,, | F,,4- | F,,4- | F,,4- | F,,4- |$ F,,4- | F,,4- | F,,2 E,,2 |$ F,, F,2 E, | D,4- | %10
+ D,2 C,2- |$ C,4- | C,4- | C,4 |$ C,4 | G,,4- | G,,4- |$ G,,4- | G,,4 | A,,4 |$ G,,4- | G,,4 | %22
+ F,,2 !courtesy!_B,, G,, |$ A,,4 | D,3/2 C,/ B,,2- | B,,4- |$ B,,4- | B,,3- B,,/A,,/ |$ G,,4 |$ %29
+ F,,4- ||[K:Eb] F,,2 F,2 | =B,,2 C,2 |$ _D,4 | C,4 | ^F,,2 G,,2 |$ A,,4 | G,,2 =B,,2 | C,2 A,,2 |$ %38
+ F,,2 G,,2- | G,,4 |$ C,4 | B,,2 =A,,2- | A,,2 B,,2 | E,2 _D,2 |$ C,4 | _D,2 E, E,, | A,,2 A, G, |$ %47
+ F, E, _D, C, | B,, A,, G,, F,, | C,3/2 B,,/ A,,2 |$ B,,2 C,2 | F,/>=E,/ F,/>G,/ A, G, | %52
+ F, E, _D, C, |$ B,, A,, G,, F,, | C,3/2 B,,/ A,,2 |$ B,,2 C,2 | F,,4 |] %57
+V:4
+ x2 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | A,2 =B,2 |$ G,3 A, | x4 | %16
+ x4 |$ x4 | x4 | G3 ^F |$ x4 | x4 | x4 |$ x4 | F3/2 G/4A/4 x2 | x4 |$ x4 | F4- |$ F3 E |$ x4 || %30
+[K:Eb] F2 A2- | A G2 _G- |$ G2 F2 | =E2 _E2- | E D2 _D- |$ D2 C2 | =B,2 G2- | [EG]2 x2 |$ x4 | %39
+ x4 |$ x4 | x4 | C2"^Instrument change" B,3/2 A,/ | G,2"^Instrument change" F,3/2 G,/ |$ A,4 | %45
+ B,2 A G | A3/2 B/ c B |$ A G G [FG] | [FG] [FG] [=EG] x | x4 |$ F G2 G | %51
+ A/>"^Instrument change"G/ A/>B/ c B | A G G [FG] |$ [FG] [FG] [=EG] z | x4 |$ F G G3/2 F/ | F4 |] %57

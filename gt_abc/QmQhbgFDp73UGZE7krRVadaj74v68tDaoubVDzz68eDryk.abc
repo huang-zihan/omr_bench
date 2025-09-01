@@ -1,0 +1,10 @@
+X:1
+T:Peasant's Dance [2]
+L:1/8
+M:6/8
+I:linebreak $
+K:G
+V:1 treble 
+V:1
+ B2 c ded | c2 B ABc | dBG E2 A | FDF G3 :: B2 G c2 A | B2 G A2 g | dBG E2 A | FDF G3 ::$ %8
+ g2 d gdB | g2 B a2 B | Bcd E2 A | FDF G3 :: BdB (c2 e) | (A2 c) (B2 d) | G2 B AcA | FDF G3 :| %16

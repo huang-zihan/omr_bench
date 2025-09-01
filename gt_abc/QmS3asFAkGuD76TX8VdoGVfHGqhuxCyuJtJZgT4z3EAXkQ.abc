@@ -1,0 +1,71 @@
+X:1
+T:Green Hill Zone
+%%score 1 2 3 4 5 6
+L:1/8
+Q:1/4=160
+M:4/4
+I:linebreak $
+K:C
+V:1 treble transpose=12 nm="Xylophone" snm="Xyl."
+V:2 treble nm="Marimba" snm="Mrm."
+V:3 treble nm="Vibraphone" snm="Vib."
+V:4 treble transpose=24 nm="Glockenspiel" snm="Glk."
+V:5 bass nm="Marimba" snm="Mrm."
+V:6 perc stafflines=1 nm="Drumset" snm="Drs."
+K:none
+I:percmap B, F 38 normal
+I:percmap ^F c 42 x
+V:1
+!f! A/F/A/F/ B/G/B/G/ c/A/c/A/ d/B/d/B/ |!mf! cBAG cBAG | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |: %9
+!f! z2 z c c A2 c | B2 c B2 G/A/ cA |$ z2 z A e d2 c | B2 c B2 G/A/ ce | z2 z c c A2 c | %14
+ B2 c B2 G/A/ cA |$ z2 z A A F2 A | G2 A G2 C3 | z2 z c c A2 c | B2 c B2 G/A/ cA |$ z2 z A e d2 c | %20
+ B2 c B2 G/A/ ce | z2 z c c A2 c | B2 c B2 G/A/ cA |$ z2 z A A F2 A | G2 A G2 CCE | _B3 A3 G2- | %26
+ G F3 ECDE |$ A3 B3 B2- | B _d3 _eBBe | ^g3 =g3 f2- | f _e3 c2 e2 |1$!mf! z GA G2 Ae z | %32
+ eefe ggec :|[Q:1/4=110] D/D/D/D/ z/ DE/ z/ EE/ z/ E3/2 | C z/ D/ z F3/2G3/2- G2 |] %35
+V:2
+ z8 |!f! [GB]3 [FA]3 [GB]2- | [GB] [FA]3 [GB]2 [FA]2 | [Ac]3 [GB]3 [FA]2- | [FA]8 |$ %5
+ [FA]3 [GB]3 [Ac]2 | [FA]3 [GB]3 [Ac]2 | [Ac]3 [GB]4- [GB]- | [GB]8 |:!mf! z2 [CE]3 [CE]3 | %10
+ [B,D]3 [B,D]4 z |$ z2 [CE]3 [CE]3 | [B,D]3 [B,D]4 z | z2 [CE]3 [CE]3 | [B,D]3 [B,D]4 z |$ %15
+ z2 [CE]3 [CE]3 | [B,D]3 [B,D]4 z | z2 [CE]3 [CE]3 | [B,D]3 [B,D]4 z |$ z2 [CE]3 [CE]3 | %20
+ [B,D]3 [B,D]4 z | z2 [CE]3 [CE]3 | [B,D]3 [B,D]4 z |$ z2 [CE]3 [CE]3 | [B,D]3 [B,D]4 z | %25
+!ff! [_Bd]8- | [Bd]8 |$ c8 | z4 ecce | _e8- | e8 |1$!mf! z GA G2 Ae z | eefe ggec :| %33
+ C/C/C/B,/ z/ B,D/ z/ D^C/ z/ C3/2 | E z/ ^F/ z A3/2B3/2- B2 |] %35
+V:3
+ z8 |!f! [GB]3 [FA]3 [GB]2- | [GB] [FA]3 [GB]2 [FA]2 | [Ac]3 [GB]3 [FA]2- | [FA]8 |$ %5
+ [FA]3 [GB]3 [Ac]2 | [FA]3 [GB]3 [Ac]2 | [Ac]3 [GB]4- [GB]- | [GB]8 |:!mf! z2 [CE]3 [CE]3 | %10
+ [B,D]3 [B,D]4 z |$ z2 [CE]3 [CE]3 | [B,D]3 [B,D]4 z | z2 [CE]3 [CE]3 | [B,D]3 [B,D]4 z |$ %15
+ z2 [CE]3 [CE]3 | [B,D]3 [B,D]4 z | z2 [CE]3 [CE]3 | [B,D]3 [B,D]4 z |$ z2 [CE]3 [CE]3 | %20
+ [B,D]3 [B,D]4 z | z2 [CE]3 [CE]3 | [B,D]3 [B,D]4 z |$ z2 [CE]3 [CE]3 | [B,D]3 [B,D]4 z | %25
+!ff! [_Bd]8- | [Bd]8 |$ c8 | z4 ecce | _e8- | e8 |1$!mf! z GA G2 Ae z | eefe ggec :| %33
+ D/D/D/D/ z/ DE/ z/ EE/ z/ E3/2 | G z/ A/ z c3/2d3/2- d2 |] %35
+V:4
+!f! A/F/A/F/ B/G/B/G/ c/A/c/A/ d/B/d/B/ |!mf! cBAG cBAG | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |: %9
+!f! z2 z c c A2 c | B2 c B2 G/A/ cA |$ z2 z A e d2 c | B2 c B2 G/A/ ce | z2 z c c A2 c | %14
+ B2 c B2 G/A/ cA |$ z2 z A A F2 A | G2 A G2 C3 | z2 z c c A2 c | B2 c B2 G/A/ cA |$ z2 z A e d2 c | %20
+ B2 c B2 G/A/ ce | z2 z c c A2 c | B2 c B2 G/A/ cA |$ z2 z A A F2 A | G2 A G2 CCE | _B3 A3 G2- | %26
+ G F3 ECDE |$ A3 B3 c2- | c d3 ecce | ^g3 =g3 f2- | f ^d3 c2 d2 |1$!mf! z GA G2 Ae z | eefe ggec :| %33
+ D/D/D/D/ z/ DE/ z/ EE/ z/ E3/2 | G z/ A/ z c3/2d3/2- d2 |] %35
+V:5
+ z A,,A,A,, _B,,_B,=B,,=B, |!f! C,C,C,C, C,C,C,C, | x8 | x8 | x8 |$ x8 | x8 | x8 | %8
+!ff! C,C,C,C, C,C,D,E, |: [F,E]F,[F,C]F, [F,A,]F,F,F, | [E,D]E,[E,B,]E, [E,G,]C,[D,D]E, |$ %11
+ [F,E]F,[F,C]F, [F,A,]F,F,F, | [E,D]E,[E,B,]E, [E,G,]C,[D,D]E, | [F,E]F,[F,C]F, [F,A,]F,F,F, | %14
+ [E,D]E,[E,B,]E, [E,G,]C,[D,D]E, |$ [F,E]F,[F,C]F, [F,A,]F,[F,C]F, | %16
+ [C,G,]C,[C,E,]C, [C,G,]C,[D,G,]E, | [F,E]F,[F,C]F, [F,A,]F,F,F, | %18
+ [E,D]E,[E,B,]E, [E,G,]C,[D,D]E, |$ [F,E]F,[F,C]F, [F,A,]F,F,F, | [E,D]E,[E,B,]E, [E,G,]C,[D,D]E, | %21
+ [F,E]F,[F,C]F, [F,A,]F,F,F, | [E,D]E,[E,B,]E, [E,G,]C,[D,D]E, |$ [F,E]F,[F,C]F, [F,A,]F,[F,C]F, | %24
+ [C,G,]C,[C,E,]C, [C,G,]C,[D,G,]E, | _B,F,DF, B,F,DF, | _B,F,DF, B,F,DF, |$ F,C,A,C, F,C,A,C, | %28
+ F,C,A,C, F,C,A,C, | ^G,_E,CE, G,E,CE, | ^G,_E,CE, G,E,CE, |1$ CG,EG, CG,EG, | CG,EG, CG,EG, :| %33
+ G,/G,/G,/G,/ z/ G,A,/ z/ A,A,/ z/ A,3/2 | G, z/ A,/ z C3/2D3/2- D2 |] %35
+V:6
+!mf! ^F/^F/^F/^F/ ^F/^F/^F/^F/ ^F/^F/^F/^F/ ^F/^F/^F/^F/ | ^F^F[B,^F]^F ^F^F[B,^F]^F | x8 | x8 | %4
+ ^F^F[B,^F]^F [B,^F]^F[B,^F]^F |$ ^F^F[B,^F]^F ^F^F[B,^F]^F | x8 | x8 | %8
+ ^F^F[B,^F]^F [B,^F]^F[B,^F]^F |:!mf! B,B,!>!B,B, B,B,!>!B,B, | B,B,!>!B,B, B,B,/B,/ !>!B,B, |$ %11
+ B,B,!>!B,B, B,B,!>!B,B, | B,B,!>!B,B, B,B,/B,/ !>!B,B, | B,B,!>!B,B, B,B,!>!B,B, | %14
+ B,B,!>!B,B, B,B,/B,/ !>!B,B, |$ B,B,!>!B,B, B,B,!>!B,B, | B,B,!>!B,B, B,B,/B,/ !>!B,B, | %17
+ B,B,!>!B,B, B,B,!>!B,B, | B,B,!>!B,B, B,B,/B,/ !>!B,B, |$ B,B,!>!B,B, B,B,!>!B,B, | %20
+ B,B,!>!B,B, B,B,/B,/ !>!B,B, | B,B,!>!B,B, B,B,!>!B,B, | B,B,!>!B,B, B,B,/B,/ !>!B,B, |$ %23
+ B,B,!>!B,B, B,B,!>!B,B, | B,B,!>!B,B, B,B,/B,/ !>!B,B, | !>!B,B,B,!>!B, B,B,!>!B,B, | %26
+ B,!>!B,B,B, !>!B,B,B,!>!B, |$ !>!B,B,B,!>!B, B,B,!>!B,B, | B,!>!B,B,B, !>!B,B,B,!>!B, | %29
+ !>!B,B,B,!>!B, B,B,!>!B,B, | B,!>!B,B,B, !>!B,B,B,!>!B, |1$ B,!>!B,B,B, !>!B,B,B,!>!B, | %32
+ B,!>!B,B,B, !>!B,B,B,!>!B, :| B,/B,/B,/B,/ z/ B,B,/ z/ B,B,/ z/ B,3/2 | %34
+ B, z/ B,/ z B,3/2B,3/2- B,2 |] %35

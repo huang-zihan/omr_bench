@@ -1,0 +1,79 @@
+X:1
+T:Magnificat: "Quia respexit humilitatem"
+T:Johann Sebastian Bach
+T:BWV 243
+Z:Pubblico dominio
+Z:Scritto con MuseScore, un software libero e gratuito: http://musescore.org/it
+%%score [ 1 2 3 ]
+L:1/16
+Q:1/4=48
+M:4/4
+I:linebreak $
+K:D
+V:1 treble transpose=-3 nm="Oboe d'amore I"
+V:2 treble nm="Soprano I"
+V:3 bass nm="Organo e\nContinuo"
+V:1
+[K:F]"^Adagio" z2 (fe) (gfed) (^c3d/e/) G4- | G(fed) (^cBAG) (^FGAB) =c4- |$ %2
+ c(bag) (^f_edc) (Bcd=e) =f4- | f(c'=ba) (^gfed) (^c_BA=G) F(_edc) |$ dBA^G{G} A2=GF DA=B^c d4 | %5
+ z8 z (agf) (ed^c=B) |$ (^cdef) g2 z2 z2 (ba) (=c'bag) | (^f3g/a/) c4 z (AG^F) G(_ed^c) |$ %8
+ d(ag=f) (gfed) (^c3d/e/) G4- | G(fed) (^cBAG) (FA=Bc) (df)(ef) |$ (fed=c) (_BAGF) G(fed) (^cBAG) | %11
+ (^FGAB) =c2 z2 z (_edc) (BAG=F) |$ (EFGA) B2 z2 z (dcB) (AGFE) | F(bag) (fegB) (BGAc) f2 z2 |$ %14
+ z (agf) (edfA) (AFGB) e2 z2 | z (gfe) (dceG) (GEFA) (dABG) | (FDEG) (cGAE) F2>B2 G2>F2 |$ %17
+ F4 z4 z2 (ed) (fedc) | (B3c/d/) G4 z2 (fe) (gfed) |$ (^c3d/e/) A4 z2 (=c=B) (dcBA) | %20
+ (G3A/=B/) D4- D(cBA) (^GFED) |$ (CDEF) G4- G(fed) (^c_BAG) | (FGA=B) c4- c(g^fe) (^dcBA) |$ %23
+ ^G=fe=d c_ba^g afe^d e2=dc |] %24
+V:2
+ z16 | z16 |$ z16 | z16 |$ z16 |"^Solo" (d3e/f/) ed cB (^A3B/c/) E4 |$ %6
+w: |||||Qui _ _ a _ re- * spe _ _ xit|
+ z2 c2 (B^A) (=GF) (E2D2) D4 | z2 f2 (e^d) (=cB) (A2G2) G2 F2 |$ B2 G2 E4 F4 z4 | z16 |$ %10
+w: hu\- mi- * li- * ta- * tem,|hu\- mi- * li- * ta- * tem an\-|cil\- lae su\- ae.||
+ (d3e/f/) ed cB (^A3B/c/) F4 | z2 f2 (e^d) (=cB) (A2G2) G4 |$ z2 e2 (dc) (BA) (G2F2) F2 d2 | %13
+w: qui _ _ a _ re- * spe _ _ xit|hu\- mi- * li- * ta- * tem,|hu\- mi- * li- * ta- * tem an\-|
+ B2 AG TE4 D4 z4 |$ z16 | z16 | z16 |$ z4 A2 d2 (cd/e/) e2 z4 | z4 B2 e2 (de/f/) f2 z4 |$ %19
+w: cil\- lae _ su\- ae:||||ec\- ce, ec _ _ ce,|ec\- ce, ec _ _ ce,|
+ z4 z2 f e d2 c B e2 B2 | c2 A2 z2 d c B2 A ^G c2 G2 |$ A2F2 z2 F2 c8- | c2 d c BA ^G F ^B6 c^d |$ %23
+w: ec\- ce e\- nim ex hoc be\-|a\- tam, ec\- ce e nim ex hoc be\-|a\- tam, be\- a|_ tam me di _ cent be\- a _ _|
+ cf^e=d cBA^G AG A F ^E2>F2 |] %24
+w: _ _ _ _ _ _ _ _ _ _ tam me di _|
+V:3
+ B,,4 z2 B,,2 C,4 z (C,D,E,) | F,,4 z2 F,,2 B,,4 z (^D,E,F,) |$ B,,4 z2 B,,2 E,4 z (^E,F,^G,) | %3
+w: |||
+w: |||
+w: |||
+ C,4 z2 C,2 F,4 z2 F,2 |$ D,2B,,2F,2F,,2 B,,4 z (D,E,F,) | B,,4 z2 B,,2 C,4 z (D,E,F,) |$ %6
+w: |||
+w: |||
+w: |||
+ F,,4 z2 F,,2 B,,4 z (D,E,F,) | B,,4 z2 B,,2 E,4 z (D,E,F,) |$ G,4 z2 G,,2 F,,4 z (C,D,E,) | %9
+w: |||
+w: |||
+w: |||
+ ^A,,4 z2 ^A,2 B,4 z (D,E,F,) |$ B,,4 z2 B,,2 C,4 z (F,^G,^A,) | =C,4 z2 ^D,,2 E,,4 z (E,F,G,) |$ %12
+w: ||6 * * * * *|
+w: ||4 * * * * *|
+w: ||2 * * * * *|
+ A,,4 z2 C,2 D,4 z (D,E,F,) | G,,2G,2A,2A,,2 D,4 z (D,E,F,) |$ B,,4 z2 G,,2 C,4 z (C,D,E,) | %15
+w: |||
+w: |||
+w: |||
+ A,,4 z2 F,,2 B,,4 z2 E,,2 | A,,4 z2 A,2 B,2G,2A,2A,,2 |$ D,2(F,E,) (G,F,E,D,) A,2A,,2G,,2F,,2 | %18
+w: |||
+w: |||
+w: |||
+ E,,2(G,F,) (A,G,F,E,) B,2B,,2A,,2G,,2 |$ F,,2(E,D,) (F,E,D,C,) B,,2F,2^G,2E,2 | %20
+w: ||
+w: ||
+w: ||
+ A,,C,(F,E,) (D,C,B,,A,,) ^G,,4 z (C,^D,^E,) |$ F,4 z (C,=D,=E,) ^A,,4 z2 F,,2 | %22
+w: ||
+w: ||
+w: ||
+ B,,4 z (B,,C,D,) ^G,,4 z2 G,,2 |$ %23
+w: |
+w: |
+w: |
+ C,4 z (D,C,B,,) A,,2F,,2C,2"^[attacca \"Omnes generationes\"]"C,,2 |] %24
+w: |
+w: |
+w: |

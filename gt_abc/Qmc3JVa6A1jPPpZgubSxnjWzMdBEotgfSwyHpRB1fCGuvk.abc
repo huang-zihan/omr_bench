@@ -1,0 +1,12 @@
+X:1
+T:Fundamentos da Composicao Musical
+C:Ex. X - Op. Y
+L:1/16
+Q:1/2=60
+M:2/4
+I:linebreak $
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ z4 z2 z d' | a6 z f | d2>A2 F3A/F/ | (D4 D)FEG | A2G2 E2A2 | D2 z2 z4 :| z8 | z8 | z8 | z8 | z8 | %11
+ z8 | z8 |$ z8 | z8 | z8 |] %16

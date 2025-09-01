@@ -1,0 +1,14 @@
+X:1
+T:HOPE TOLD A FLATTERING TALE
+L:1/8
+Q:1/4=96
+M:6/8
+I:linebreak $
+K:G
+V:1 treble 
+V:1
+S"^Andantino" d | B2 B A2 A | G3 z2 d | d2 B e2 e | A z z z2 A | B2 B c2 c | (d3 e2) e | %7
+ G2 G{B} A2 A | G2 z z2 d | ^G2 G e2 d |$ c3 z2 c | F2 F d2 c | B3 z2 G | ^c2 c !fermata!c2 c | %14
+ d2 z z2 d | =c2 c B2 B | A3- A2 A | B2 B c2 c | (d3 e2) e | G2 G A2 A |$ G2 z z"^Fine." z2 |] %21
+[K:Gmin] d3 d2 d | e2 z z2 c | A3 (d2 c) | B2 z z2 z | (Bcd de=f) | G3- G ec | B3 c3 | B2 z z2 z | %29
+ (c3 cde) |$ ^F3 G2 G | B3 A3 |S G2 z !fermata!z2 d |] %33

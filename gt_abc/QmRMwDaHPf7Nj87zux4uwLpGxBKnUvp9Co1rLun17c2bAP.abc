@@ -1,0 +1,11 @@
+X:1
+T:Youghal Harbour [3]
+L:1/8
+M:3/4
+I:linebreak $
+K:C
+V:1 treble 
+V:1
+"^Slow" A/B/ | cc c2 eg | aa a2 c'a | gecde>d | cA G3 G | cc c2 eg | aa a2 c'a | gecde>d |$ %8
+ cc c3 || c/d/ | ee c'2 bc' aa a2 c'a | gecde>d | cA G2 A/B/ | cc c2 eg | aa a2 c'a |$ gecde>d | %16
+ cc c3 || %17

@@ -1,0 +1,44 @@
+X:1
+T:The Everlasting Hymn
+C:Benjamin Hillyard Sweney
+Z:Public Domain
+Z:Courtesy of the Cyber Hymnal™
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=115
+M:4/4
+I:linebreak $
+K:E
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+L:1/8
+V:1
+ [B,E] [B,E] [DF] [DF] | [EG]2 [EB]2 | [Ec]3/2 [Ec]/ [EB] [EG] | [EG]2 [DF]2 | E E [DF] [DF] | %5
+w: 1.~Ho- ly, ho- ly,|ho- ly;|An- gel voic- es|sing- ing;|Ho- ly, ho- ly,|
+w: 2.~Ho- ly, ho- ly,|ho- ly;|Grand- est mus- ic|swell- ing;|Ho- ly, ho- ly,|
+w: 3.~Ho- ly, ho- ly,|ho- ly;|Come, let us a-|dore Him;|Ho- ly, ho- ly,|
+ [EG]2 [EB]2 |$ [E^A]3/2 [EA]/ [EG] [EA] | [Ec]2 [DB]2 | [EB] [EG] [DA] [B,D] | %9
+w: ho- ly,|Through high heav- en|ring- ing.|From that tem- ple,|
+w: ho- ly,|All sweet notes ex-|cell- ing.|Those who con- quered|
+w: ho- ly,|Hum- bly bow be-|fore Him.|Wis- dom, glo- ry,|
+ [B,E]3/2 [DF]/ [EG]2 |$ [EA] [Ec] [EB] [EG] | [FA]3/2 [EG]/ [DF]2 | [EG]3/2 [FA]/ [GB] [EG] | %13
+w: pure and bright,|Bathed in streams of|crys- tal light,|Hear the ev- er-|
+w: by His might,|Wear- ing now their|crowns of light,|Join the ev- er-|
+w: love and might,|With the ser- a-|phim u- nite|In the ev- er-|
+ [EA] [EB] [Ec]2 | [EB] E [DA] [EG] |$ [DF]2 [B,E]2 |] %16
+w: last- ing hymn,|Ho- ly, ho- ly,|ho- ly.|
+w: last- ing hymn,|Ho- ly, ho- ly,|ho- ly.|
+w: last- ing hymn,|Ho- ly, ho- ly,|ho- ly.|
+V:2
+ x4 | x4 | x4 | x4 | E E x2 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x E x2 |$ x4 |] %16
+V:3
+ [E,G,] [E,G,] [B,,B,] [B,,B,] | [E,B,]2 [G,B,]2 | A,3/2 A,/ [G,B,] [E,B,] | [B,,B,]2 (B, A,) | %4
+ [C,G,] [C,G,] [B,,B,] [B,,B,] | [E,B,]2 [G,B,]2 |$ [F,C]3/2 [F,C]/ [F,B,] [F,C] | %7
+ [F,^A,]2 (B, =A,) | [E,G,] [E,B,] [B,,B,] [B,,A,] | [E,G,]3/2 [E,B,]/ [E,B,]2 |$ %10
+ [A,C] A, [G,B,] [E,B,] | [D,B,]3/2 [E,B,]/ [B,,B,]2 | [E,B,]3/2 [E,B,]/ [E,B,] [=D,B,] | %13
+ [C,A,] [B,,G,] [A,,A,]2 | [B,,G,] [B,,G,] [B,,F,] [B,,B,] |$ [B,,A,]2 [E,G,]2 |] %16
+V:4
+ x8 | x8 | A,3 A, x4 | x4 B,,4 | x8 | x8 |$ x8 | x4 B,,4 | x8 | x8 |$ x2 A,2 x4 | x8 | x8 | x8 | %14
+ x8 |$ x8 |] %16

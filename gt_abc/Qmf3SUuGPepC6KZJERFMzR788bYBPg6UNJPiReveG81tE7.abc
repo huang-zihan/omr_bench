@@ -1,0 +1,29 @@
+X:1
+T:Iona
+Z:Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)
+%%score { ( 1 2 ) ( 3 4 ) }
+L:1/4
+Q:1/4=112
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="P1"
+V:2 treble 
+V:3 bass nm="P2"
+V:4 bass 
+V:1
+"^Editor: John Henry Fowler""^( Revision: 11-30-2007 )" F A c B | A G B A | G F A G | %3
+ F"^( 1885 )" E F2 | F A d c | c =B A G | e d c"^John Stainer""^( 1840 - 1901 )" A | G =B c2 |$ %8
+ c B A G | G ^F G A | B _e d c | B c d2 | d f d c | B c A B | c d c F | G E F2 |] %16
+V:2
+ C F F F | F E F E | D C D D | C C C2 | F F G G | F F F F | E E E F | E F E2 |$ E E ^D D | %9
+ D D D D | D _E F G | F F F2 | F F F F | D G F F | F F E F | D C C2 |] %16
+V:3
+ A, D C D | C C B, C | G, A, F, B, | A, G, A,2 | A, C =B, C | F, G, A, D | C _A, =A, C | C D C2 |$ %8
+ G, G, C B, | B, A, G,"^Lyrics:  Christ­o­pher Words­worth, The Ho­ly Year, 3rd Ed., 1863." ^F, | %10
+ G, B,"^Heav’nly Father, send Thy blessingOn Thy children gathered here,May they all, Thy Name confessing,Be to Thee forever dear;May they be, like Joseph, loving,Dutiful, and chaste, and pure;And their faith, like David, proving,Steadfast unto death endure.                        2.Holy Savior, who in meeknessDidst vouchsafe a Child to be,Guide their steps, and help their weakness,Bless and make them like to Thee;Bear Thy lambs, when they are weary,In Thine arms and at Thy breast;Through life’s desert, dry and dreary,Bring them to Thy heav’nly rest.                        3.Spread Thy golden pinions o’er them,Holy Spirit, from above,Guide them, lead them, go before them,Give them peace, and joy, and love;Thy true temples, Holy Spirit,May they with Thy glory shine,And immortal bliss inherit,And forevermore be Thine." B, _E | %11
+ D A, B,2 | B, C B, A, | G, G, C B, | A, G, B, A, | B, G, A,2 |] %16
+V:4
+ F, D, A,, B,, | C, C, D, C, | B,, A,, B,, B,, | C, C, F,2 | F, F, F, E, | D, D, C, =B,, | %6
+ C, E, A, F, | G, G, C,2 |$ C, C, C, C, | D, C, B,, D, | G, G, F, _E, | F, F, B,,2 | B, A, B, F, | %13
+ G, E, F, D, | A,, B,, C, D, | B,, C, F,2 |] %16

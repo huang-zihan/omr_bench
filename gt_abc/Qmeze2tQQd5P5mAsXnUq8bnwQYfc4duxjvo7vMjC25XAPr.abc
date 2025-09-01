@@ -1,0 +1,30 @@
+X:1
+T:Title
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=90
+M:3/4
+I:linebreak $
+K:Eb
+V:1 treble nm="Grand Piano, Soprano"
+V:2 bass nm="Choir Pad, Arnhem, F. M. Graham 1914"
+V:3 bass 
+V:1
+ [B,E][B,E] [DF] [EG]3 | [DF][EG] [FA] [GB]3 | [GB][GB] [EG] [DF]3 |$ [Ac][GB] [FA] [EG]3 | %4
+w: By~Frank~Monford~Graham,~1914 * * *||||
+ [EG][EG] [FA] [GB]3 | [EG][FA] [GB] [Ac]3 | [Ae][Ae] [Ac] [GB]3 | [EG][EG] [B,F] [B,E]3 | %8
+w: ||||
+ [GB][Ae]- [Ae]/[Ae]/ [Ae]3 |$ [Ac][Ae]- [Ae]/[Ac]/ [GB]3 | [GB][GB] [GB] [F=A]3 | %11
+w: |||
+ [FB][Fc]- [Fc]/[Fc]/ [FB]3 | [EG][EG] [FA] [GB]3 | [EG][FA] [GB] [Ac]3 | [Ae][Ae] [Ac] [GB]3 |$ %15
+w: ||||
+ [EG][EG] [B,F] [B,E]3- | [B,E]4 z2 |] %17
+w: ||
+V:2
+ G,G, A, B,3 | B,B, B,[K:treble] E3 | EE B, B,3 |$ EE[K:bass] B, B,3 | B,B, B, E3 | %5
+ B,B,[K:treble] E E3 | CC E E3 | B,B, A, G,3 | E[K:treble]C- C/C/ C3 |$ EC- C/E/ E3 | EE E E3 | %11
+ DC- C/C/ D3 | B,B, B, E3 | B,B,[K:treble] E E3 | CC E E3 |$ B,B, A, G,3- | G,4 z2 |] %17
+V:3
+ E,E, E, E,3 | E,E, E, E,3 | E,E, E, B,,3 |$ B,,B,, D, E,3 | E,E, E, E,3 | _D,C, B,, A,,3 | %6
+ A,,A,, C, E,3 | E,B,, B,, E,3 | E,A,- A,/A,/ A,3 |$ A,A,- A,/A,/ E,3 | E,E, E, F,3 | %11
+ F,F,- F,/F,/ B,,3 | E,E, E, E,3 | _D,C, B,, A,,3 | A,,A,, C, E,3 |$ E,B,, B,, E,3- | E,4 z2 |] %17

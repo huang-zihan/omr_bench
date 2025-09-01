@@ -1,0 +1,26 @@
+X:1
+T:Op.2776
+C:Yohei Kato * 加藤 洋平
+Z:Yohei Kato * 加藤 洋平 2020
+%%score { ( 1 3 ) | 2 }
+L:1/4
+Q:1/4=40
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:2 bass 
+V:1
+!mf!"^菖蒲色：Red Violet" z2!mp! [_AB_e]2 | [_G_B_e]2!p! [B_df]2 |!>(! [Adf]3 [Ace]!>)! | %3
+ [^FBd]2 [FA^c]2 |!<(! [GBe]2 [_A_de]2!<)! | [_Bd]2 [F^A^c]2 | [_EG_Bf]2 [G=Beg]2 |$ %7
+{/f} [G_B_e]2{/d} [^F^A^c]2 |!mp! [F_B_d]4 | [Ace]2 [Bdf]2 | [Be]2 [^F^A^c]2 |!>(! [EA]4!>)! | %12
+ [FBd]4- | !fermata![FBd]4 |] %14
+V:2
+ [E,,C,]4- | [E,,C,]4- | [E,,C,]4- | [E,,C,]4- | [E,,C,]4- | [E,,C,]3!mf! [E,,C,]- | %6
+ [E,,C,]!f! [D,,D,]2 [E,,B,,]- |$ %7
+"_Groningen, 12:14, Sunday, 2/2/2020\n\n\n\nToday’s quote: The shallow is easy to embrace, but the profound is difficult. Nichiren Daishonin\n\n\n" [E,,B,,] [C,,_A,,]2 [_B,,,_G,,]- | %8
+ [B,,,G,,]!f! [A,,,F,,]2 [G,,,_E,,]- | [G,,,E,,] [C,,_A,,]2 [D,,B,,]- | [D,,B,,]3 [E,,C,]- | %11
+ [E,,C,]3!mp! [^G,,E,]- | [G,,E,]3!mf! [E,,C,]- | !fermata![E,,C,]4 |] %14
+V:3
+ x4 | x4 | x4 | x4 | x4 | f e x2 | x4 |$ x4 | x4 | x4 | g f x2 | d2 c2 | x4 | x4 |] %14

@@ -1,0 +1,61 @@
+X:1
+T:Bridge the Road to Heaven with a Smile
+C:E. Margaret Parker, 1922
+Z:Public Domain
+%%score 1 ( 2 3 )
+L:1/8
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble 
+V:2 bass 
+V:3 bass 
+L:1/4
+V:1
+ [B,D]>[CE] | [DF]>[^C=E] [DF]>[_EG] [DF]>[=CE] [B,D]>[CE] |$ [DF]>[Bd] [Ad]>[Gd] [Fd]2 [Fc]2 | %3
+w: 1.~There is|not a care in all the world but|smiles can make it light, Then|
+w: 2.~Tho’ your|path- way seems the rough- est, and the|rocks and thorns a- bound, Just|
+w: 3.~Tho’ the|storm may ga- ther o’er you, foes as-|sail with- out, with- in, Fear|
+ [GB]>[^FA] [GB]>[Ac] [GB]2 [EG]2 |$ [DF]6 [B,D]>[CE] | %5
+w: smile as on your way you|go; There is|
+w: smile a- way the ache and|pain; Tho’ the|
+w: not the dan- ger or the|strife; If you|
+ [DF]>[^C=E] [DF]>[_EG] [DF]>[=CE] [B,D]>[CE] |$ [DF]>[Bd] [Ad]>[Gd] [Fd]2 [Fd]2 | %7
+w: not a cloud so dark but has a|sil- ver lin- ing bright, And|
+w: ruts are deep and mud- dy, don’t give|up and turn a- round, For|
+w: smile and fight with cour- age, there is|One to help you win A|
+ [=Ec]>[EG] [EG]>[EG] [EA]>[EA] [EB]>[EB] |$ [Fc]6 ||"^Refrain" [Fd][Ec] | %10
+w: ev- ery tri- al met is e- ven|so.||
+w: soon the sun will shine a- way the|rain.|You can|
+w: crown of joy and ev- er- last- ing|life.||
+ [Dc]>[DB] [DB]>[DA] [Dc]<[DB] [DB]>[DG] |$ [EB]2 [EA]2 [EA]2 [Ec]>[EB] | %12
+w: ||
+w: bridge the road to Heav- en with a|sun- ny smile, And its|
+w: ||
+ [EB]>[EA] [EA]>[EG] [EB]<[EA] [EA]>[CE] |$ [EG]2 [DF]2 [DF]2 [DF]>[DF] | %14
+w: ||
+w: miles of care and sor- row with a|song be- guile; Doubt and|
+w: ||
+ [EG]>[EG] [EG]>[FA] [GB]2 [FA]>[EG] |$ [DF]>[DF] [FB]>[Fc] [Fd]2 [Ge]>[Ge] | %16
+w: ||
+w: fear will not mo- lest; you will|be su- preme- ly blest If you|
+w: ||
+ [Fd]>[Fd] [Fd]>[DB] [Fd]<[Fd] [Ec]>[Ec] | [DB]6 |] %18
+w: ||
+w: bridge the road to Heav- en with a|smile.|
+w: ||
+V:2
+ [B,,F,]>[B,,F,] | [B,,B,]>[B,,B,] [B,,B,]>[B,,B,] [B,,B,]>[B,,F,] [B,,F,]>[B,,F,] |$ %2
+ [B,,B,]>[B,,B,] [B,,B,]>[B,,B,] [B,,B,]2 [D,B,]2 | %3
+ [E,E]>[E,E] [E,E]>[E,E] E,>[E,F,E] G,>[E,A,B,] |$ (z3/2 G,/ F,>E, B,,2) [B,,F,]>[B,,F,] | %5
+ [B,,B,]>[B,,B,] [B,,B,]>[B,,B,] [B,,B,]>[B,,F,] [B,,F,]>[B,,F,] |$ %6
+ [C,B,]>[C,B,] [C,B,]>[C,B,] [B,,B,]2 [B,,B,]2 | %7
+ [C,B,]>[C,B,] [C,C]>[C,C] [C,C]>[C,C] [G,C]>[G,C] |$ (z3/2 G,/ A,>G, F,2) || [F,A,]F, | %10
+ [B,,F,]>[B,,F,] [B,,F,]>[B,,F,] [B,,F,]>[B,,F,] [B,,F,]>[B,,F,B,] |$ %11
+ [C,F,]2 [C,F,]2 [F,C]2 [F,A,]>[F,B,] | [F,C]>[F,C] [F,C]>[F,A,] [F,C]<[F,C] [F,C]>[F,A,] |$ %13
+ [B,,B,]2 [B,,B,]2 [B,,B,]2 [B,,B,]>[B,,B,] | [E,B,]>[E,B,] [E,B,]>[E,B,] [E,E]2 [E,E]>[E,B,] |$ %15
+ [B,,B,]>[B,,B,] [D,B,]>[F,A,] B,2 [E,B,]>[E,B,] | %16
+ [F,B,]>[F,B,] [F,B,]>[F,B,] [F,B,]<[F,B,] [F,A,]>F, | [B,,F,B,]6 |] %18
+V:3
+ x | x4 |$ x4 | x4 |$ [B,,B,]3 x | x4 |$ x4 | x4 |$ [F,A,]3 || x/ F,/ | x4 |$ x4 | x4 |$ x4 | x4 |$ %15
+ x2 B, x | x15/4 F,/4 | x3 |] %18

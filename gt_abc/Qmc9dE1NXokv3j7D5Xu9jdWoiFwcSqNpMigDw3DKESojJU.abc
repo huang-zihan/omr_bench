@@ -1,0 +1,11 @@
+X:1
+T:HORNPIPE
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble 
+V:1
+|: GABc dBAG | gfag fedc | BdBG cecA | BdBG FAFD | GABc dBAG |$ gfag fedc | BdBG cecA | %7
+ FDEF G2 z2 :| defg fafd | gbge fafd |$ defg fafd | BdBG FAFD | BdBG cecA | fafd gbge | dgfe dcBA | %15
+ B2 G2 G2 |] %16

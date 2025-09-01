@@ -1,0 +1,93 @@
+X:1
+T:Chanson à boire
+C:Halfdan Kjerulf
+%%score [ 1 2 3 4 ]
+L:1/4
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:F
+V:1 treble-8 nm="T1"
+V:2 treble-8 nm="T2"
+V:3 bass nm="B1"
+V:4 bass nm="B2"
+V:1
+"^Alletgretto con moto""^Tutti." .A/ .B/ .c .A/ .B/ .c | d d c2 | A c f a | g2 f z!fine! || %4
+w: Tra- la la Tra- la la|la la la|Tra- la la la|la la.|
+w: ||||
+w: ||||
+ z2 A A | F c c c | A2 c F |$ G A G2 | F z A A | F c c c | A2 c F | G A G2 | F z"^cresc." f f |$ %13
+w: 1.Quand la|mer rouge ap- pa|rut aux yeux|de Gré- goi-|re, aus- si-|tôt ce bu- veur|crut, qu’il n’a-|vait qu’à boi-|re: mais mon|
+w: 2.A- lex-|an- dre, dont le|nom a rem-|pli la ter-|re, n’ai- mait|pas tant le ca-|non, qu’il n’ai-|mait le ver-|re. Si Mars|
+w: 3.Le bon-|hom- me Gé- dé-|on fai- sait|des mer- veil-|les, ain- si|n’u- sait sé- di-|tion rien que|des bou- teil-|les. Ser- vons-|
+ e e d d | c2"^" c3/2 d/ | c B B c | !breath!A A/ B/ c c | c A/ B/ c c |$ %18
+w: voi- sin fut plus|fin, voy- ant|que ce n’é- tait|vin, il la pas, pas,|pas, il la sa, sa,|
+w: par- mi les guer-|riers s’est ac-|quis tant de lau-|riers, que pou- vons, vons,|vons, que de- vons, vons,|
+w: nous donc au- jourd’-|hui de bou-|teil- les com- me|lui! Fai- sons la, la,|la, fai- sons gue, gue,|
+ c A/ B/!<(! c A/ B/!<)! | c A/ B/ c c |"^" d2 c2 |"^" F/ z/ G/ z/ A/ z/ B/ z/ | G2 F z!D.C.! :| %23
+w: sa, il la pas, il la|sa il la pas- sa|tou- te,|sans en boi- re|gout- te.|
+w: vons, que pou- vons, que de-|vons, que pou- vons- nous|croi- re,|si non qu’il sut|boi- re!|
+w: gue, fai- sons, la fai- sons|gue fai- sons tous la|guer- re,|à grand coups de|ver- res!|
+V:2
+"^Tutti." .F/ .G/ .A .F/ .G/ .A | B B A2 | A c d f | (g e) f z || z2 A A | F c c c | A2 c F |$ %7
+w: Tra- la la Tra- la la|la la la|Tra- la la la|la _ la.|1.Quand la|mer rouge ap- pa|rut aux yeux|
+w: ||||2.A- lex-|an- dre, dont le|nom a rem-|
+w: ||||3.Le bon-|hom- me Gé- dé-|on fai- sait|
+ G A G2 | F z A A | F c c c | A2 c F | G A G2 | F z"^cresc." f f |$ e e d d | c2"^" c3/2 d/ | %15
+w: de Gré- goi-|re, aus- si-|tôt ce bu- veur|crut, qu’il n’a-|vait qu’à boi-|re: mais mon|voi- sin fut plus|fin, voy- ant|
+w: pli la ter-|re, n’ai- mait|pas tant le ca-|non, qu’il n’ai-|mait le ver-|re. Si Mars|par- mi les guer-|riers s’est ac-|
+w: des mer- veil-|les, ain- si|n’u- sait sé- di-|tion rien que|des bou- teil-|les. Ser- vons-|nous donc au- jourd’-|hui de bou-|
+ c B B c | !breath!A A/ B/ c c | c A/ B/ c c |$ c A/ B/!<(! c A/ B/!<)! | c A/ B/ c c |"^" d2 c2 | %21
+w: que ce n’é- tait|vin, il la pas, pas,|pas, il la sa, sa,|sa, il la pas, il la|sa il la pas- sa|tou- te,|
+w: quis tant de lau-|riers, que pou- vons, vons,|vons, que de- vons, vons,|vons, que pou- vons, que de-|vons, que pou- vons- nous|croi- re,|
+w: teil- les com- me|lui! Fai- sons la, la,|la, fai- sons gue, gue,|gue, fai- sons, la fai- sons|gue fai- sons tous la|guer- re,|
+"^" F/ z/ G/ z/ A/ z/ B/ z/ | G2 F z :| %23
+w: sans en boi- re|gout- te.|
+w: si non qu’il sut|boi- re!|
+w: à grand coups de|ver- res!|
+V:3
+"^Tutti." .F,/ .F,/ .F, .F,/ .F,/ .F, | F, F, F,2 | F, G, A, C | (D C/B,/) A, z || z2 E, E, | %5
+w: Tra- la la Tra- la la|la la la|Tra- la la la|la _ _ la.|1.Quand la|
+w: ||||2.A- lex-|
+w: ||||3.Le bon-|
+ F, G, A, B, | A,2 F, F, |$ F, F, (F, E,) | F, z ^C, (D,/E,/) | F, E, F, G, | A,2 F, F, | %11
+w: mer rouge ap- pa|rut aux yeux|de Gré- goi- *|re, aus- si- *|tôt ce bu- veur|crut, qu’il n’a-|
+w: an- dre, dont le|nom a rem-|pli la ter- *|re, n’ai- mait _|pas tant le ca-|non, qu’il n’ai-|
+w: hom- me Gé- dé-|on fai- sait|des mer- veil- *|les, ain- si _|n’u- sait sé- di-|tion rien que|
+ D, (C,/D,/) F, E, | F, z"^cresc." A, A, |$ C C F, F, | A,2"^" G, ^F, | A, (G,/F,/) F, E, | %16
+w: vait qu’à _ boi- *|re: mais mon|voi- sin fut plus|fin, voy- ant|que ce _ n’é- tait|
+w: mait le _ ver- *|re. Si Mars|par- mi les guer-|riers s’est ac-|quis tant _ de lau-|
+w: des bou- * teil- *|les. Ser- vons-|nous donc au- jourd’-|hui de bou-|teil- les _ com- me|
+ !breath!F, F,/ G,/ A, A, | A, F,/ G,/ A, A, |$ A, F,/ G,/!<(! A, F,/ G,/!<)! | A, F,/ G,/ A, A, | %20
+w: vin, il la pas, pas,|pas, il la sa, sa,|sa, il la pas, il la|sa il la pas- sa|
+w: riers, que pou- vons, vons,|vons, que de- vons, vons,|vons, que pou- vons, que de-|vons, que pou- vons- nous|
+w: lui! Fai- sons la, la,|la, fai- sons gue, gue,|gue, fai- sons, la fai- sons|gue fai- sons tous la|
+"^" B,2 A,2 |"^" F,/ z/ F,/ z/ F,/ z/ F,/ z/ | (F, E,) F, z :| %23
+w: tou- te,|sans en boi- re|gout- * te.|
+w: croi- re,|si non qu’il sut|boi- * re!|
+w: guer- re,|à grand coups de|ver- * res!|
+V:4
+"^Tutti." .F,/ .F,/ .F, .F,/ .F,/ .F, | B,, D, F,2 | F, E, D, A,, | (B,, C,) F,, z || z2 C, C, | %5
+w: Tra- la la Tra- la la|la la la|Tra- la la la|la _ la.|1.Quand la|
+w: ||||2.A- lex-|
+w: ||||3.Le bon-|
+ D, E, F, G, | (F, C,) A,, D, |$ B,, =B,, C,2 | F, z A,, (=B,,/^C,/) | D, C, D, E, | %10
+w: mer rouge ap- pa-|rut _ aux yeux|de Gré- goi-|re, aus- si- *|tôt ce bu- veur|
+w: an- dre, dont le|nom _ a rem-|pli la ter-|re, n’ai- mait _|pas tant le ca-|
+w: hom- me Gé- dé-|on _ fai- sait|des mer- veil-|les, ain- si _|n’u- sait sé- di-|
+ (F, C,) A,, D, | B,, (A,,/B,,/) C,2 | F, z"^cresc." D, D, |$ A,, A,, B,, B,, | F,,2"^" D, D, | %15
+w: crut, _ qu’il n’a-|vait qu’à _ boi-|re: mais mon|voi- sin fut plus|fin, voy- ant|
+w: non, _ qu’il n’ai-|mait le _ ver-|re. Si Mars|par- mi les guer-|riers s’est ac-|
+w: tion _ rien que|des bou- * teil-|les. Ser- vons-|nous donc au- jourd’-|hui de bou-|
+ G,, G,, C, C, | !breath!F, F,/ F,/ F, F, | F, F,,/ F,,/ F,, F,, |$ %18
+w: que ce n’é- tait|vin, il la pas, pas,|pas, il la sa, sa,|
+w: quis tant de lau-|riers, que pou- vons, vons,|vons, que de- vons, vons,|
+w: teil- les com- me|lui! Fai- sons la, la,|la, fai- sons gue, gue,|
+ F,, F,/ F,/!<(! F, F,,/ F,,/!<)! | F,, F,/ C,/ F,, F, |"^" (B,,/C,/D,/E,/) F,2 | %21
+w: sa, il la pas, il la|sa il la pas- sa|tou- * * * te,|
+w: vons, que pou- vons, que de-|vons, que pou- vons- nous|croi- * * * re,|
+w: gue, fai- sons, la fai- sons|gue fai- sons tous la|guer- * * * re,|
+"^" F,/ z/ E,/ z/ D,/ z/ G,,/ z/ | C,2 F,, z :| %23
+w: sans en boi- re|gout- te.|
+w: si non qu’il sut|boi- re!|
+w: à grand coups de|ver- res!|

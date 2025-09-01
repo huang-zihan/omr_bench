@@ -1,0 +1,26 @@
+X:1
+T:Germany, LM
+C:William Gardiner, 1815
+Z:Public Domain
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+M:3/4
+I:linebreak $
+K:Bb
+V:1 treble 
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ [DF] [FB] [EA] | [FB]2 [Cc] | (F G) [EA] | [DB]3 | [=EB] [FA] [EG] | [Fc]2 [FA] | %6
+ (A/G/) [CF] [C=E] | [CF]3 [DF] | [DF]2 [DB] |$ (B A) [EG] | [DF]2 [Fd] | (d c) [GB] | [FA]2 [Ae] | %13
+ (e d) [Gc] | (B c) [EA] | [DB]3 |] %16
+V:2
+ x3 | x3 | E2 x | x3 | x3 | x3 | D x2 | x4 | x3 |$ E2 x | x3 | G2 x | x3 | B2 x | F2 x | x3 |] %16
+V:3
+ [B,,B,] [B,,D] [C,C] | [D,B,]2 [E,G,] | (A, B,) [^F,C] | [G,B,]3 | [C,G,] [C,C] [B,,C] | %5
+ [A,,C]2 [D,F,] | [B,,B,] [C,A,] [C,G,] | [F,A,]3 [B,,B,] | [B,,B,]2 [B,,F,] |$ %9
+ (F,3/2 G,/) [C,A,] | [D,B,]2 [B,,B,] | (B, E) [=E,_D] | [F,C]2 [^F,C] | [G,B,]2 [E,E] | %14
+ (D E) [F,C] | [B,,B,]3 |] %16
+V:4
+ x3 | x3 | ^F,2 x | x3 | x3 | x3 | x3 | x4 | x3 |$ C,2 x | x3 | =E,2 x | x3 | x3 | F,2 x | x3 |] %16

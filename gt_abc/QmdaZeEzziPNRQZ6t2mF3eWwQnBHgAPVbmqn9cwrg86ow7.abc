@@ -1,0 +1,19 @@
+X:1
+T:Bobby Caseys Jig
+L:1/8
+M:6/8
+I:linebreak $
+K:D
+V:1 treble 
+V:1
+ D | A2 B =cAF | A2 B =cAF | G2 E EDE | =c2 d cAG | A2 D FED | A2 B =cAF | GEE =cEE |$ DED D2 :: %9
+ A | d2 e fed | e2 d cAF | G2 E EDE | =c2 d cAG | Add fed | e2 d cAF |$ GEE =cEE | DED D2 :: %18
+[K:G] G | A2 D FED | A2 B cAF | G2 E EDE | c2 d cAG | A2 D FED |$ A2 B cAF | GEE cEE | DED D2 :: %27
+ c | d2 e =fed | e2 d cAF | G2 E EDE | c2 d cAG | d2 e =fed |$ e2 d cAF | GEE cEE | DED D2 :: %36
+"^\"Variation\"" G | A2 D FED | A2 d cAF | G2 E EDE | c2 d cAG | A2 D FED |$ A2 d cAF | GFG cGE | %44
+ EDD D2 :: c | d2 e fed | ged cAA | G2 E EDE | c2 d cAG | Add fed |$ ged cAA | GFG cGE | EDD D2 :| %54
+"^\"Variation by bobby Casey\"" A2 D FED | AdB cAF | GEE EDE | c2 d cAG | A/A/AD FED |$ A2 A cAF | %60
+ GEE cGE | D^CE D2 F | [FA]2 D FED | A/A/AB cAF | GEE EDE | c2 d cAG |$ ADD FED | AdB cAF | %68
+ G2 E cGE | D^CE DFG || d2 e f2 d | efd ^cAF | GEE EDE |$ c/c/cd cAG | Add fed | e2 d ^cAF | %76
+ GEE cGE | D^CE DFA | d2 e f2 d | e2 d ^cAF |$ G2 E EDE | c2 d cAG | Add fed | efd cAF | GEE cGE | %85
+ D^CE D3 :| %86

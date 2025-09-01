@@ -1,0 +1,98 @@
+X:1
+T:Title
+%%score [ 1 2 3 4 5 ]
+L:1/8
+Q:1/4=60
+M:none
+I:linebreak $
+K:Eb
+V:1 treble nm="S."
+V:2 treble nm="A1."
+V:3 treble nm="A2."
+V:4 treble-8 nm="T."
+V:5 bass nm="B."
+V:1
+ B4 BB B4"^Luci serene e chiare" c2 e6 c2"^Gesualdo di Venosa\n(1566-1613)" z4 |$ %1
+w: Lu- ci se- re- ne~e chia- re|
+ z2 BA/G/ cA c2 GcB c2 F z2 z |$ c/A/_d d/c/ e2 e2 z B2 A G2 G2 z4 |$ %3
+w: Voi m'in- cen- de- te, voi, ma pro- va~il co- re|Nell' in- cen- dio di- let- to, non do- lo- re,|
+ z2 f2 z/ B/ (c2"^- 2 -" =B) c2 z2 _B4 BB B4 c2 e6 c2 |$ cB/A/_dc e2 z2 FE/D/GE e2 |$ %5
+w: non do- lo * re. Dol- ci pa- ro- le~e ca- re|Voi me fe- ri- te, voi, voi mi fe- ri- te, voi,|
+ cfd e2 d z/ E/BA c2 G z2 z |$ B/e/c c/f/ e2"^- 3 -" d2 z2 B2 z/ G/ (A2 G) |$ %7
+w: ma pro- va~il pet- to, ma pro- va~il pet- to|Non do- lor nel- la pia- ga, ma di- let *|
+ A e2 c B4 B2 z2 e2 =ef>fc _d2 c2 |$ z4 z2 GF/G/A/B/c |$ B e2 d"^- 4 -" z/ B/d/d/ e2 |$ %10
+w: to, ma di- let- to. O mi- ra- col d'a- mo- re!|Al- ma che~è tut- ta fo-|co, al- ma che~è tut- ta fo-|
+ d/B/d/=e/ff z2 f2 BB (c4 =B2) c4 d2 d2 c2 |$ e4 d2 e4 d6 dd B4 G4 z4 |$ %12
+w: co, che~è tut- ta fo- co e tut- ta san * gue si strug- ge~e|non si duol, mo- re~e non lan- gue,|
+ e2 =ef>fc _d2"^- 5 -" c2 z4 |$ z2 GF/G/ A/B/cB e2 d |$ z/ B/d/d/ e2 d/B/d/=e/ff z2 |$ %15
+w: O mi- ra- col d'a- mo- re!|Al- ma che~è tut- ta fo- co, al- ma|che~è tut- ta fo- co, che~è tut- ta fo- co|
+ f2 BB (c4 =B2)"^- 6 -" c4 d2 d2 c2 e4 d2 |$ e4 z8 z2 c4 BB B4 |$ G4 z2 f4 _dd d4 B16 | %18
+w: e tut- ta san * gue Si strug- ge~e non si|duol, mo- re~e non lan-|gue, mo- re~e non lan- gue.|
+V:2
+ G4 GG G4 A2 A4 A4 z4 |$ ED/C/GE FCGE G2 D/D/GF A2 E z |$ %2
+w: Lu- ci se- re- ne~e chia- re|Voi m'in- cen- de- te, voi, ma pro- va~il co- re, ma pro- va~il co- re|
+ A/F/B B/=A/ B2 B2 z2 G2 z/ E/ (F2 =E) F2 c2 |$ z/ F/ (G2 F) G4 z4 G4 GG G4 A2 A4 A4 |$ %4
+w: Nell' in- cen- dio di- let- to, non do- lo * re, non|do- lo * re. Dol- ci pa- ro- le~e ca- re|
+ z A G/F/c Bc z2 z FBG B2 |$ F2 BA/G/ cB B2 z CGE G2 D |$ G/B/A A/c/ c2 =B2 z2 z G>C E2 B, |$ %7
+w: Voi me fe- ri- te, voi, my pro- va~il pet-|to, voi me fe- ri- te, voi, ma pro- va~il pet- to|Non do- lor nel- la pia- ga, ma di- let- to,|
+ z2 z F z/ B,/ (E2 D) E2 z2 G2 BA>AA A2 A2 |$ z2 AG/G/ A/B/c B2 z2 |$ GE/F/ G/A/B EF E/F/G/A/ |$ %10
+w: ma di- let * to. O mi- ra- col d'a- mo- re!|Al- ma che~è tut- ta fo- co,|al- ma che~è tut- ta fo- co, al- ma che~è tut- ta|
+ B3 =A z2 B2 GG _A4 FF F2 E2 F2 D2 E2 |$ B2 B2 F2 G4 F2 G4 G4 EE E2 =B,2 z4 |$ %12
+w: fo- co e tut- ta san- gue Si strug- ge~e non si duol,|si strug- ge~e non si duol, mo- re~e non lan- gue,|
+ G2 BA>AA A2 A2 z2 AG/G/ |$ A/B/c B2 z2 GE/F/G/A/B |$ EF E/F/G/A/ B3 =A z2 |$ %15
+w: O mi- ra- col d'a- mo- re! Al- ma che~è|tut- ta fo- co, al- ma che~è tut- ta fo-|co, al- ma che~è tut- ta fo- co|
+ B2 GG A4 FF F2 E2 F2 D2 E2 B2 B4 |$ G2 A4 G2 A2 F4 EE E4 B,4 |$ z4 A2 FF F4 B,2 B4 _GG G4 E8 | %18
+w: e tut- ta san- gue Si strug- ge~e non si duol, si strug-|ge~e non si duol, mo- re~e non lan- gue,|mo- re~e non lan- gue, mo- re~e non lan- gue.|
+V:3
+ E4 EE E4 E2 C6 A,2 CB,/A,/_DB, |$ C2 E2 AF G2 CEBG A2 E2 z |$ E/_D/F F/F/ G2 G2 z8 z A2 G |$ %3
+w: Lu- ci se- re- ne~e chia- re Voi m'in- cen- de- te,|voi, ma pro- va~il co- re, ma pro- va~il co- re|Nell' in- cen- dio di- let- to, non do-|
+ F2 F2 B z/ E/ G2 G2 z2 B,4 EE E4 E2 C6 A,2 |$ z F E/D/A GA z2 CFD E2 B, |$ %5
+w: lo- re, non do- lo- re. Dol- ci pa- ro- le~e ca- ~~~~~~re|Voi me fe- ri- te, voi, ma pro- va~il pet- to,|
+ FE/D/GE F2 z F,CA, C3 G, z |$ D/G/E E/A/ G2 G2 z2 z E2 C B,2 |$ %7
+w: voi mi fe- ri- te, voi, ma pro- va~il pet- to|Non do- lor nel- la pia- ga, ma di- let-|
+ A,2 C2 _DC B,2 B,2 z2 C2 B,F>FE F2 E2 |$ A,G,/G,/ A,/B,/(C/B,/ C/D/ E2) DFE/F/ |$ %9
+w: to, ma, ma di- let- to. O mi- ra- col d'a- mo- re!|Al- ma che~è tut- ta fo * * * * co, al- ma che~è|
+ G/A/ (B2 A/G/ B2) GC |$ B,/G,/B,/C/DC z2 F2 E3 C F2 D2 G2 G2 F2 G4 |$ %11
+w: tut- ta fo * * * co, al-|ma che~è tut- ta fo- co e tut- ta san- gue Si strug- ge~e non|
+ E2 F4 z8 D6 B,B, B,2 G,2 z4 |$ C2 B,F>FE F2 E2 A,G,/G,/A,/B,/(C/B,/) |$ %13
+w: si duol, mo- re~e non lan- gue,|O mi- ra- col d'a- mo- re! Al- ma che~è tut- ta fo *|
+ (C/D/ E2) D FE/F/ G/A/ (B2 A/G/) |$"^____\n" (B2 G)C B,/G,/B,/C/DC z2 |$ %15
+w: * * * co, al- ma che~è tut- ta fo * *|* co, al- ma che~è tut- ta fo- co|
+ F2 E3 C F2 D2 G2 G2 F2 G4 E2 F4 |$ C2 C2 B,2 C4 A,2 A,4 z2 G4 EE |$ E4 F4 z4 z2 _G4 EE E4 B,8 | %18
+w: e tut- ta san- gue Si strug- ge~e non si duol,|si strug- ge~e non si duol, mo- re~e non|lang- gue mo- re~e non lan- gue.|
+V:4
+ B4 BB B4 E2 e4 e4 z2 AG/F/ |$ cA B2 z Aec e2 B/B/ec c2 G z |$ %2
+w: Lu- ci se- re- ne~e chia- re Voi m'in- cen-|de- te, voi, ma pro- va~il co- re, ma pro- va~il co- re|
+ A/A/B F/F/ B2 B2 e2 z/ B/ (c2 =B) c2 z f2 e |$ d2 d2 e z/ c/ d2 c2 z2 e4 BB B4 E2 e4 e4 |$ %4
+w: Nell' in- cen- dio di- let- to, non do- lo * re, non do-|lo- re, non do- lo- re. Dol- ci pa- ro- le~e ca- re,|
+ z4 z Aed f2 B2 GF/E/ |$ AF G2 z2 G d2 c e3 B z |$ B/B/c c/c/ g2 d g2 f e4 e2 |$ %7
+w: Ma pro- va~il pet- to, voi me fe-|ri- te, voi, ma pro- va~il pet- to|Non do- lor nel- la pia- ga, ma di- let- to,|
+ z2 z A2 G F2 G2 z2 G2 gc>cc A2 Ae |$ c/c/d/e/fe AG/A/ B/c/dc>c |$ e/f/ g2 G z/ G/B/B/cG |$ %10
+w: ma di- let- to. O mi- ra- col d'a- mo- re! Al-|ma che~è tut- ta fo- co, al- ma che~è tut- ta fo- co, che~è|tut- ta fo- co, che~è tut- ta fo- co|
+ z4 z2 B2 B2 E2 F2 F2 z8 z2 |$ z4 d2 d2 c2 d2 G2 B2 B4 GG G2 D2 z4 |$ G2 gc>cc A2 Aec/c/d/=e/f_e |$ %13
+w: e tut- ta san- gue|Si strug- ge~e non si duol, mo- re~e non lan- gue,|O mi- ra- col d'a- mo- re! Al- ma che~è tut- ta fo- co,|
+ AG/A/ B/c/d c>c e/f/ g2 G |$ z/ G/B/B/cG z4 z2 |$ B2 B2 E2 F2 F2 z8 g2 g4 f2 |$ %16
+w: al- ma che~è tut- ta fo- co, che~è tut- ta fo- co,|che~è tut- ta fo- co|e tut- ta san- gue Si strug- ge~e|
+ g2 e2 f2 e4 cc c4 E8 |$ z2 e4 _dd d4 _G4 e2 BB B4 =G8 | %18
+w: non si duol, mo- re~e non lan- gue,|mo- re~e non lan- gue, mo- re~e non lan- gue.|
+V:5
+ E,4 E,E, E,4 C,2 A,,4 A,,4 z2 F,E,/_D,/ |$ A,F, G,2 z4 z C,G,E, F,2 C,2 z |$ %2
+w: Lu- ci se- re- ne~e chia- re Voi m'in- cen-|de- te, voi, ma pro- va~il co- re,|
+"^This edition ? Andrew Sims 2011" A,,/_D,/B,, B,,/F,/ E,2 E,2 z8 z4 |$ %3
+w: Nell' in- cen- dio di- let- to,|
+ z B,2 A, G,2 G,2 z4 E,4 E,E, E,4 C,2 A,,4 A,,4 |$ z4 z2 E,B,=A, B,2 E,B,_A,/G,/ |$ %5
+w: non do- lo- re. Dol- ci pa- ro- le~e ca- re,|Ma pro- va~il pet- to, voi mi fe-|
+ C=A, B,2 z B,,E,D, F,2 C,2 z2 z |$ G,/E,/A, A,/F,/ G,2 G,2 A,3 G, E,2 E,2 |$ %7
+w: ri- te, voi, ma pro- va~il pet- to|Non do- lor nel- la pia- ga, ma di- let- to,|
+ z2 A, z/ A,,/ B,,4 E,2 z2 C,2 G,F,>F,A, _D,2 A,,2 |$ z4 F,E,/F,/ G,/A,/B, A,2 |$ %9
+w: ma di- let- to. O mi- ra- col d'a- mo- re!|Al- ma che~è tut- ta fo- co,|
+ z4 z D, C,/D,/E,/F,/ |$ G,2 F,2 z2 D,2 E,2 C,2 _D,2 =D,2 z2 C2 C2 =B,2 C2 |$ %11
+w: al- ma che~è tut- ta|fo- co e tut- ta san- gue Si strug- ge~e non|
+ G,2 !courtesy!_B,4 z2 C,4 B,,B,, B,,4 G,,8 z4 |$ C,2 G,F,>F,A, _D,2 A,,2 z4 |$ %13
+w: si duol, mo- re~e non lan- gue,|O mi- ra- col d'a- mo- re!|
+ F,E,/F,/ G,/A,/B, A,2 z4 |$ z D, C,/D,/E,/F,/ G,2 F,2 z2 |$ %15
+w: Al- ma che~è tut- ta fo- co|al- ma che~è tut- ta fo- co|
+ D,2 E,2 C,2 _D,2 =D,2 z2 C2 C2 =B,2 C2 G,2 _B,4 |$ z8 z4 z2 A,4 G,G, G,4 |$ %17
+w: e tut- ta san- gue Si strug- ge~e non si duol,|mo- re~e non lan-|
+"^Eyes serene and clear / You burn me, yet feels my heart / In the burning delight, not pain.""^Sweet words and dear / You wound me, yet feels my breast / Not pain in the wound, but delight. /""^O miracle of love! / A soul that is all afire, and all bleeding / Is consumed and grieves not, dies and languishes not." C,2 C4 B,B, B,8 E,16 | %18
+w: gue, mo- re~e non lan- gue.|

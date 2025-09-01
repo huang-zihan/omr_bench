@@ -1,0 +1,26 @@
+X:1
+T:galaxy
+C:Floris Heijink
+%%score { 1 | 2 }
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+L:1/8
+V:1
+ A4 | A G G F | A4 | A G G F |$ A4 | A G G F | D2 E2 | F2 G2 :|$ F4 | G F G A | F4 | G F G A |$ %12
+ F4 | G F G A | D2 E2 | F2 G2 |$ A4 | A G G F | A4 | A G G F |$ A4 | A G G F | D2 E2 | F2 G2 | %24
+ !arpeggio![FAcf]4 |] %25
+V:2
+!ped! F,,F,F,,F, F,,F,F,,F,!ped-up! |!ped! C,CC,C C,CC,C!ped-up! |!ped! D,DD,D D,DD,D!ped-up! | %3
+!ped! B,,B,B,,B, B,,B,B,,B,!ped-up! |$!ped! F,,F,F,,F, F,,F,F,,F,!ped-up! | %5
+!ped! C,CC,C C,CC,C!ped-up! |!ped! B,,B,B,,B, B,,B,B,,B,!ped-up! |!ped! C,CC,C C,CC,C!ped-up! :|$ %8
+!ped! D,DD,D D,DD,D!ped-up! |!ped! C,CC,C C,CC,C!ped-up! |!ped! B,,B,B,,B, B,,B,B,,B,!ped-up! | %11
+!ped! C,CC,C C,CC,C!ped-up! |$!ped! D,DD,D D,DD,D!ped-up! |!ped! C,CC,C C,CC,C!ped-up! | %14
+!ped! B,,B,B,,B, B,,B,B,,B,!ped-up! |!ped! C,CC,C C,CC,C!ped-up! |$ %16
+!ped! F,,F,F,,F, F,,F,F,,F,!ped-up! |!ped! C,CC,C C,CC,C!ped-up! |!ped! D,DD,D D,DD,D!ped-up! | %19
+!ped! B,,B,B,,B, B,,B,B,,B,!ped-up! |$!ped! F,,F,F,,F, F,,F,F,,F,!ped-up! | %21
+!ped! C,CC,C C,CC,C!ped-up! |!ped! B,,B,B,,B, B,,B,B,,B,!ped-up! |!ped! C,CC,C C,CC,C!ped-up! | %24
+!ped! !arpeggio![F,,A,,C,F,]8!ped-up! |] %25

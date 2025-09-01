@@ -1,0 +1,25 @@
+X:1
+T:St Columba
+T:Traditional Irish
+T:(The King of love my Shepherd is)
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+M:none
+I:linebreak $
+K:Eb
+V:1 treble nm="Organ"
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+ E/F/ | G2 A | B2 A/B/ | G2 F | E2 E/F/ | G2 A | B2 (3A/B/c/ | B3 | !breath!B2 B |$ e2 c | B2 A | %11
+ G2 F | E2 G | B2 A | G2 F | E3 | E2 |] %17
+V:2
+ B, | E2 E | D2 E/F/ | E2 D | C2 E | E2 E | E2 C | (E2 F) | G2 G/F/ |$ E2 F | G2 F | E2 D | C2 D | %13
+ E2 E | E2 D | (E2 C) | B,2 |] %17
+V:3
+ G,/A,/ | B,2 A, | F,2 E,/B,/ | B,2 B,/A,/ | G,2 G,/A,/ | B,2 C | B,2 E, | (G,2 A,) | B,2 B, |$ %9
+ C2 A, | G,2 C | (B,3/2 C/) D | E2 D | B,2 C | B,2 A, | (G,2 A,) | G,2 |] %17
+V:4
+ E, | (E, D,) C, | B,,2 C,/D,/ | (E, G,,) B,, | C,2 C, | B,,2 A,, | G,,2 A,, | E,3 | E,2 E,/D,/ |$ %9
+ C,2 D, | E,2 F, | (G,3/2 A,/) B, | C2 B, | (G, G,,) A,, | B,,2 B,, | E,3 | E,2 |] %17

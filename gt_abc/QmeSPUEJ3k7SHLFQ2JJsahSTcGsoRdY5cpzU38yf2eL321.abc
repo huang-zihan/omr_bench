@@ -1,0 +1,29 @@
+X:1
+T:Title
+%%score { 1 | ( 2 3 ) }
+L:1/8
+Q:1/4=94
+M:4/4
+I:linebreak $
+K:A
+V:1 treble nm="Grand Piano"
+V:2 bass 
+V:3 bass 
+V:1
+ A>E A>E A2 A2 | [EAc]>[EGB] [EA]>[EGB] [EAc]4 | B>F B>F B2 B2 | [DB]>[DA] [B,DG]>[A,DF] [G,E]4 | %4
+w: J.~H.~Hall * * * * *||||
+ F>^E F>E F2 F2 |$ [Fd]>[Fc] [FB]>[FA] [EG]2 [GB]2 | [EAc]>[EGB] [EAc]>[EAd] [EAe]2 [EA]2 | %7
+w: |||
+ [FB]>[Fd] [Ec]>[DEB] [CEA]4 | [EAc]>[EGB] [EAc]>[EGB] [EAc]2 [C^EB]2 | %9
+w: ||
+ [CFA]>[C^EG] [CFA]>[CEG] [CFA]4 |$ [B,FA]>[B,FA] [B,FB]>[FB] [^Ec]2 [=Ed]2 | %11
+w: ||
+ [B,FB]>[DFB] [CEA]>[B,EG] [CEA]4 |] %12
+w: |
+V:2
+ A,>E, A,>E, A,2 A,2 | A,>E, C,>E, A,4 | B,>F, B,>F, B,2 B,2 | B,>B, B,,>B,, E,4 | %4
+ F,>^E, F,>E, F,2 F,2 |$ z4 B,2 z2 | A,>E, A,>B, C2 C,2 | [D,A,]>[B,,A,] [E,A,]>E, A,,4 | %8
+ A,>E, A,>E, A,2 G,2 | F,>C, E,>C, F,4 |$ F,>F, D,>[D,F,] [C,G,]2 [B,,B,]2 | D,>D, E,>E, A,,4 |] %12
+V:3
+ x8 | x8 | x8 | x8 | x8 |$ [B,,B,]>[C,^A,] [D,B,]>[^D,B,] E,2- [E,E]2 | x8 | x8 | x8 | x8 |$ x8 | %11
+ x8 |] %12

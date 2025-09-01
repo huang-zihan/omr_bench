@@ -1,0 +1,313 @@
+X:1
+T:James Gibb editions
+T:O Lord God of hosts - Purcell
+%%score [ 1 2 3 4 5 6 7 8 ] ( 9 10 )
+L:1/4
+Q:1/4=140
+M:none
+I:linebreak $
+K:D
+V:1 treble nm="Treble" snm="S"
+V:2 treble nm="Treble" snm="S"
+V:3 treble nm="Alto" snm="A"
+V:4 treble nm="Alto" snm="A"
+V:5 treble-8 nm="Tenor" snm="T"
+V:6 treble-8 nm="Tenor" snm="T"
+V:7 bass nm="Bass" snm="B"
+V:8 bass nm="Bass" snm="B"
+V:9 bass nm="Continuo"
+V:10 bass 
+V:1
+"^Dec.""^O Lord God of hosts, Z 37""^Henry Purcell\n(1659-1695)""^Psalm 80:4-7,18" z8 | z8 | %2
+w: ||
+ z4 z2 e2- | e2 c2 A3 A | d4 z2 B2- | B2 ^G2 E3 E |$ c2 A4 c2 | e3 e ^G4 | z2 B2 c c c B | %9
+w: O|* Lord God of|hosts, O|* Lord God of|hosts, O Lord|God of hosts:|how long wilt thou be|
+ A A F F B E z2 |$ z4 z2 z C | F F G A B B B2- | B B A4 G F |$ G F2 E E2 E2 || z8 | z8 |$ z8 | z8 | %18
+w: an- gry with thy peo- ple,|how|long wilt thou be an- gry with|* thy peo- ple, thy|peo- ple that pray- eth?|||||
+ z4"^Dec." z F A2- |$ A A ^G2 ^A A B2- | B2 =A3/2 ^G/ G G c c | c A d3/2 c/ B3 B |$ (=c4 B3) A | %23
+w: Thou feed\-|* est them with the bread|* * of tears: and giv'st them|plen- teous- ness of tears, of|tears * to|
+ A2 ||"^Chorus" A A c c2 c | e F G3 F ^G A |$ ^G G B B e3/2 e/ e3/2 (d/ | %27
+w: drink.|Thou hast made us a|ve- ry strife un- to our|neigh- bours: and our e- ne- mies laugh|
+ c3/2) (d/ c3/2) c/ B2 z B |$ B E c2 (c3/2 B/ A B/c/ |$ d3/2 e/ d3/2 c/ B3/2) (A/ ^G3/2) F/ | %30
+w: * us * to scorn, our|e- ne- mies laugh * * * *|* * * * * us * to|
+ E2 z E F3/2 F/ F2 | (^G2 A3) A G2 |$ A4 ||[K:C][M:3/2]"^Verse Dec."[Q:1/4=180] c2 c2 z2 | %34
+w: scorn, our e- ne- mies|laugh * us to|scorn.|Turn us,|
+ B3 c A2 | B4 e2 | e2 (A B c2) | c4 B2 | c6 | z6 |$ %40
+w: turn us a-|gain, O|God, O * *|God of|hosts:||
+[M:3/2][Q:1/4=180][Q:1/4=180][Q:1/4=180][Q:1/4=180][Q:1/4=180][Q:1/4=180][Q:1/4=180][Q:1/4=180][Q:1/4=180] z6 | %41
+w: |
+ z6 | z6 | z2 B3 B | d6- | d2 (d2 c) B |$ c3 c c2 | (c2 B2) e2 | (e3 ^d) (d3/2 e/) | e6 | %50
+w: ||shew the|light|* of * thy|coun- te- nance,|and * we|shall * be *|whole.|
+ e2 e2 z2 | e3 f d2 | e4 (e3/2 f/) | d4 d2 |$ (_e d c B2) c | B6 | z2 d3 d | (d2 c3) c | B2 B3 A | %59
+w: Turn us,|turn us a-|gain, O *|God, O|God * * * of|hosts:|shew the|light, * the|light of thy|
+ ^G3 ^F E2 | z2 d4- |$ d3 e c2- | c B B3 A ||[K:D]"^Chorus Dec."[Q:1/4=120] A A c2 d c B A | %64
+w: coun- te- nance,|and|* we shall,|* we shall be|whole. And so will we not go|
+ ^G G A3 A G2- ||$ %65
+w: back, so will we not|
+[Q:1/4=120][Q:1/4=120][Q:1/4=120][Q:1/4=120][Q:1/4=120][Q:1/4=120][Q:1/4=120][Q:1/4=120][Q:1/4=120] G (F/^E/) F4 E2 | %66
+w: * go * back from|
+ F2 z2 z4 |$ z2 z E A2 B A | ^G F E2 z A d2 | e d c B ^A A B2- |$ B2 ^A2 B2 z2 | z4 z2 z c | %72
+w: thee,|ans so will we|not go back, and so|will we not go back, go back|* from thee:|and|
+ A F B d B ^G c3/2 d/ | (c2 B3/2) c/ c2 z2 |$ z8 | z8 | z2 A4 A A |$ B4 z e c A | d f d B e2 A2 | %79
+w: we shall call u- pon thy Name, u-|pon * thy Name,|||O let us|live, and we shall|call u- pon that Name, O|
+ A A B2 z4 |$ z c A F B d B ^G | A3/2[Q:1/4=119] B/[Q:1/4=117] c3/2[Q:1/4=115] B/[Q:1/4=110] A4- |$ %82
+w: let us live,|and we shall call u- pon thy|Name, shall call u- pon|
+[Q:1/4=105] A2[Q:1/4=101] A2[Q:1/4=100] !fermata!A8 | %83
+w: * thy Name.|
+V:2
+"^Can." z8 | z4 B4- | B2 ^G2 E3 E | c4 z2 A2- | A2 F2 D3 D | G2 B4 ^G2 |$ E3 E c4 | z4 E2 ^G2 | %8
+w: |O|* Lord God of|hosts, O|* Lord God of|hosts, O Lord|God of hosts,|O Lord|
+ B3 B E4 | z2 A2 ^G G G ^A |$ B B B3 B A2- | A A G2 F F F F | E2 F E ^D B, (E2- |$ E2 ^D2) E2 E2 || %14
+w: God of hosts:|how long wilt thou be|an- gry with thy peo\-|* ple that pray- eth, with thy|peo- ple. thy peo- ple that|* * pray- eth?|
+ z8 | z8 |$ z8 | z8 | z4"^Can." z ^D D2- |$ D ^D D2 ^E3 E | F3 ^G ^E2 z E | A A A F B A ^G2- |$ %22
+w: ||||Thou feed\-|* est them with the|bread of tears: and|giv'st them plen- teous- ness of tears,|
+ G ^G A4 G2 | A2 || E3 E A A- | A A E E E D D F |$ E E2 z z2 E E | %27
+w: * of tears to|drink.|Thou hast made us|* a ve- ry strife un- to our|neigh- bours: and our|
+ A3/2 A/ A3/2 (A/ ^G3/2) (A/ G3/2) F/ |$ E2 z e e A d2- |$ d2 B B e3/2 e/ e3/2 (d/ | %30
+w: e- ne- mies laugh * us * to|scorn, our e- ne- mies|* laugh, our e- ne- mies laugh|
+ c3/2 B/ A3 B/c/ d2- | d2 c2) B3 c |$ c4 ||[K:C][M:3/2]"^Can." A2 A2 z2 | ^G3 A ^F2 | ^G4 c2 | %36
+w: |* * us to|scorn.|Turn us,|turn us a-|gain, O|
+ A4 =G2 | (_B A G3) G | G6 | z6 |$[M:3/2] z6 | z2 A3 A | c6- | c2 B3 c | A3 A A2 | ^G4 G2 |$ A6- | %47
+w: God, O|God * * of|hosts:|||shew the|light|* of thy|coun- te- nance,|and we|shall,|
+ A4 (G A) | B4 B2 | B6 | ^c2 c2 z2 | ^c3 d B2 | ^c4 A2 | A4 G2 |$ A4 A2 | G6 | z6 | z6 | z6 | %59
+w: * we *|shall be|whole.|Turn us,|turn us a-|gain, O|God, O|God of|hosts:||||
+ z2 c3 c | c2 (c2 B) c |$ B3 B B2 | A A ^G3 A ||[K:D]"^Can." A2 z2 z4 | z4 z A d2 ||$ %65
+w: shew the|light of * thy|coun- te- nance,|and we shall be|whole.|And so|
+ c B A ^G G (A/B/) c2- | c c B A ^G G A2- |$ A2 ^G2 A2 z2 | z2 z E c2 d c | B B (e3 c) d2 |$ %70
+w: will we not go back from * thee,|* so will we not go back|* from thee,|and so will we|not go back, * go|
+ c3 B B2 z2 | z8 | z2 z B ^G E A2- | A A ^G3/2 A/ A2 z2 |$ z8 | z8 | z4 z2 F2- |$ F2 F F ^G2 A2 | %78
+w: back from thee:||and we shall call|* u- pon thy Name,|||O|* let us live, O|
+ A A B4 z A | F D G B G E B2 |$ A2 A A B3 e | c A e3 A d f |$ d6 (c B) !fermata!c4 | %83
+w: let us live, and|we shall call u- pon thy Name,|O let us live, and|we shall call, shall call u-|pon thy * Name.|
+V:3
+"^Dec." z8 | z8 | E6 C2 | A,3 A, F4 | z8 | z4 z2 E2- |$ E2 C2 A,2 A,2 | C2 E3 E E,2- | E,2 z2 z4 | %9
+w: ||O Lord|God of hosts,||O|* Lord God of|Lord God of hosts,||
+ z4 z2 E2 |$ D D D E F F F2- | F F E3 E (D C) | B, B, F3 ^D E E |$ (^D3/2 C/ B,2) B,2 B,2 || z8 | %15
+w: how|long wilt thou be an- gry with|* thy peo- ple that *|pray- eth, with thy peo- ple|that * * pray- eth?||
+ z8 |$ z8 | z8 | z4"^Dec." z B, B,2- |$ B, B, ^B,2 C3 C | D2 =B,2 C2 z C | F F F D G3/2 F/ E2- |$ %22
+w: |||Thou feed\-|* est them with the|bread of tears: and|giv'st them plen- teous- ness of tears,|
+ E2 ^D2 E3 E, | A,2 || C C E E F2 | E3 E A, (B,/C/) D D |$ D B,2 z z4 | z8 |$ %28
+w: * of tears to|drink.|Thou hast made us a|ve- ry strife un\- * to our|neigh- bours:||
+ E E A3/2 A/ A3/2 (G/ F3/2 E/ |$ D2 D3/2 E/ E3/2 F/ ^G2- | G ^G E3 (A, D F | %31
+w: and our e- n- mies laugh * *|* us to scorn, our e\-|* ne- mies laugh * *|
+ B,2 C D) E2 D3/2) C/ |$ C4 ||[K:C][M:3/2]"^Dec." E2 E2 z2 | D3 E C2 | B,4 C2 | C2 D2 E2 | F4 F2 | %38
+w: * * * us * to|scorn.|Turn us,|turn us a-|gain, O|God, O *|God of|
+ E2 E3 E | G6- |$[M:3/2] G2 (A G) (F E) | ^C3 C C2 | z6 | z6 | z2 A,3 A, | E6- |$ E2 ^F2 F2 | %47
+w: hosts: shew the|light|* of * thy *|coun- te- nance,|||shew the|light|* of thy|
+ ^F3 F G2 | E ^F (G F2) E | E6 | (E3/2 =F/) G2 z2 | F3 F F2 | E4 ^C2 | D4 _B,2 |$ A,4 A,2 | D6 | %56
+w: coun- te- nance,|and we shall * be|whole.|Turn * us,|turn us a-|gain, O|God, O|God of|hosts:|
+ z6 | z2 G3 G | (G F) D3 C | B,3 A, ^G,2 | A,4 A,2 |$ B,4 C2 | (D4 ^C) D || %63
+w: |shew the|light * of thy|coun- te- nance,|and we|shall, we|shall * be|
+[K:D]"^Dec." C2 z E F2 G F | E D C C D2 z2 ||$ z2 z C ^G2 A G | F E D2 z B, E2 |$ G F E D C C D2- | %68
+w: whole. And so will we|not go back from thee,|and so will we|not go back, and so|will we not go back from thee,|
+ D B, E3 C F2- | F F E4 F2 |$ C3 C ^D2 z2 | z8 | z F D B, E E C A, | D2 E2 A,2 z2 |$ z8 | z8 | %76
+w: * we not go back|* from thee, go|back from thee:||and we shall call, shall call u-|pon thy Name,|||
+ z4 z2 D2- |$ D2 ^D D E2 z2 | z2 G2 G G A2 | z F D B, E G E B, |$ C2 z A F D E ^G | E C E E F4- |$ %82
+w: O|* let us live,|O let us live,|and we shall call u- pon thy|Name, and we shall call u-|pon thy Name, u- pon|
+ F2 F2 !fermata!E8 | %83
+w: * thy Name.|
+V:4
+"^Can." A,6 C2 | E3 E ^G,4 | z8 | z4 z2 F2- | F2 D2 B,3 B, | E4 z4 |$ z2 E4 C2 | A,3 A, B,2 z2 | %8
+w: O Lord|God of hosts,||O|* Lord God of|hosts,|O Lord|God of hosts:|
+ z8 | z4 z2 C2 |$ B, B, B, C D D C C | B,2 B,2 z F B,2- | B, B, =C C F, F, E, E, |$ %13
+w: |how|long wilt thou be an- gry with thy|peo- ple, how long|* wilt thou be an- gry with thy|
+ B, B, F,2 ^G,2 G,2 ||"^Verse Can." z B, D3 D C2 | ^D D (E4 =D3/2) C/ |$ C2 z C F3/2 F/ F D | %17
+w: peo- ple that pray- eth?|Thou feed- est them|with the bread * of|tears: and giv'st them plen- teous-|
+ D B, E4 (D3/2 C/) | C3 B, B,2 z2 |$ z8 | z8 | z8 |$ z8 | z2 || E E C C2 C | C3 C C A, D3/2 C/ |$ %26
+w: ness of tears, of *|tears to drink.||||||Thou hast made us a|ve- ry strife un- to our|
+ B, ^G,2 z z4 | z2 A, A, E3/2 E/ E3/2 (D/ |$ C3/2) (D/ C3/2) B,/ A,2 z F |$ F B, D2 D2 D B, | %30
+w: neigh- bours:|and our e- ne- mies laugh|* us * to scorn, our|e- ne- mies laugh us to|
+ C E A3/2 A/ A3/2 (G/ F2) | E6 E2 |$ E4 ||[K:C][M:3/2]"^Can." A,2 A,2 z2 | E,3 E, E,2 | %35
+w: scorn, our e- ne- mies laugh *|us to|scorn.|Turn us,|turn us a-|
+ E,2 (E F G2) | F4 C2 | D2 (D3 C) | C6 | z6 |$[M:3/2] z2 D3 D | F2 (F2 E) F | E3 E E2 | D4 E2 | %44
+w: gain, O * *|God, O|God of *|hosts:||shew the|light of * thy|coun- te- nance,|and we|
+ F4 F2 | B,2 B,2 B,2 |$ B,2 A,4 | B,4 B,2 | B,4 A,2 | ^G,6 | A,2 A,2 z2 | A,3 A, A,2 | A,4 F2 | %53
+w: shall be|whole, and we|shall be|whole, we|shall be|whole.|Turn us,|turn us a-|gain, O|
+ F4 D2 |$ D4 D2 | G,6 | z6 | z6 | z2 F3 F | (F2 E3) E | (E F) D3 E |$ E3 E E2 | F F E3 E || %63
+w: God, O|God of|hosts:|||shew the|light, * the|light * of thy|coun- te- nance,|and we shall be|
+[K:D]"^Can." E2 z2 z4 | z2 z E F2 ^G F ||$ ^E ^D C3 C C2 | z2 z B, E2 G F |$ E D E2 z2 z F | %68
+w: whole.|And so will we|not go back from thee,|and so will we|not go back, and|
+ ^G2 A G F E D2- | D B, C4 (B, D) |$ F3 F F2 z2 | z8 | z8 | z2 E4 E E |$ F6 z E | C A, D F E3 E | %76
+w: so will we not go back|* from thee, go *|back from thee,|||O let us|live, and|we shall call, shall call u-|
+ E3 (F/G/) F2 z2 |$ z F ^D B, E ^G E C | F2 z2 E2 E E | F2 G D E2 z2 |$ z A F D F2 E2 | E3 C D4- |$ %82
+w: pon thy * Name,|and we shall call u- pon thy|Name, O let us|live, let us live,|and we shall call u-|pon, u- pon|
+ D2 D2 !fermata!E8 | %83
+w: * thy Name.|
+V:5
+"^Dec." z8 | z8 | z8 | z2 A4 F2 | D3 D G4 | z8 |$ A2 c2 e3 e | E4 z4 | z2 e4 c2- | c2 A A B2 z2 |$ %10
+w: |||O Lord|God of hosts,||O Lord God of|hosts,|O Lord|* God of hosts,|
+ z2 z G F F F E | ^D D E E F F z2 | z e A3 F (G A) |$ B B B2 B2 B2 ||"^Dec." z ^G G3 G G2 | %15
+w: how long wilt thou be|an- gry with thy peo- ple,|how long, with thy *|peo- ple that pray- eth?|Thou feed- est them|
+ ^A3 A B3 B |$ E E A3/2 A/ A F B3/2 A/ | ^G3 A (^A2 B2- | B2) ^A2 B2 z2 |$ z8 | z8 | z8 |$ z8 | %23
+w: with the bread of|tears: and giv'st them plen- teous- ness of|tears, of tears *|* to drink.|||||
+ z2 || c c A A2 A | A3 A d d B B |$ B e2 z z4 | z4 z2 E E |$ A3/2 A/ A3/2 (G/ F3/2 G/ A2- |$ %29
+w: |Thou hast made us a|ve- ry strife un- to our|neigh- bours:|and our|e- ne- mies laugh * * *|
+ A (B/A/ ^G3/2) A/ B4 | z2 A A d3/2 d/ d3/2 c/ | B2 A2 ^G3/2) (F/ E3/2) E/ |$ E4 || %33
+w: * us * * to scorn,|and our e- ne- mies laugh|* * * us * to|scorn.|
+[K:C][M:3/2] z6 | z6 | z6 | z6 | z6 | z6 | z6 |$[M:3/2] z6 | z6 | z6 | z6 | z6 | z6 |$[M:3/2] z6 | %47
+w: ||||||||||||||
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 |$[M:3/2] z6 | z6 | z6 | z6 | z6 | z6 | z6 |$ %61
+w: ||||||||||||||
+[M:3/2][K:treble-8] z6 | z6 ||[K:D]"^Dec." z4 z A B2 | c B A G F F B2- ||$ B ^G A B c B A2- | %66
+w: ||And so|will we not go back from thee|* so will we not go back|
+ A A d2 z4 |$ z B e2 =f e d =c | B ^G c2 z2 z F | B2 z2 c ^A F B |$ (c d) e2 ^d2 B2- | B2 B B c4 | %72
+w: * from thee,|and so will we not go|back from thee, and|so will we not go|back * from thee: O|* let us live,|
+ z8 | z4 z2 c2- |$ c2 c c ^d2 z2 | z8 | z8 |$ z2 B2 B B c2 | z2 z B G E A c | A2 G2 E2 e2 |$ %80
+w: |O|* let us live,|||O let us live,|and we shall call u-|pon thy Name, O|
+ e e f2 z4 | z e c A d f d A |$ d2 A2 !fermata!A8 | %83
+w: let us live,|and we shall call, shall call u-|pon thy Name.|
+V:6
+"^Can." z8 | E6 ^G2 | B3 B C3 C | E4 z2 D2- | D2 F2 G3 G | E2 ^G4 B2 |$ c3 c E4 | z2 c2 B B B c | %8
+w: |O Lord|God of hosts, of|hosts, O|* Lord God of|hosts, O Lord|God of hosts:|how long wilt thou be|
+ d3 d c ^d e2- | e e ^d2 e e z2 |$ z8 | z F B B B c d2- | d d =c c B4- |$ B B A2 B2 B2 || z8 | %15
+w: an- gry with thy peo\-|* ple that pray- eth?||how long wilt thou be an\-|* gry with thy peo\-|* ple that pray- eth?||
+ z8 |$ z8 | z8 | z8 |$ z8 | z8 | z8 |$ z8 | z2 || A3 A c c- | c A A A A3/2 A/ ^G F |$ ^G E2 z z4 | %27
+w: |||||||||Thou hast made us|* a ve- ry strife un- to our|neigh- bours:|
+ z8 |$ z8 |$ z4 B B e3/2 e/ | e3/2 (d/ c3/2 B/ A3/2) A/ B3/2 B/ | B2 (E F ^G3/2) (F/ E3/2) E/ |$ %32
+w: ||and our e- ne-|mies laugh, * * * our e- ne-|mies laugh * * us * to|
+ E4 ||[K:C][M:3/2] z6 | z6 | z6 | z6 | z6 | z6 | z6 |$[M:3/2] z6 | z6 | z6 | z6 | z6 | z6 |$ %46
+w: scorn.||||||||||||||
+[M:3/2] z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |$[M:3/2] z6 | z6 | z6 | z6 | z6 | z6 | z6 |$ %61
+w: |||||||||||||||
+[M:3/2] z6 | z6 || z8 | z8 ||$[K:D][K:treble-8] z"^Can." ^G c2 e d c B | A F B3 B A c |$ B2 z2 z4 | %68
+w: ||||And so will we not go|back from thee, go back from|thee,|
+ z B c2 c B A A | B2 z C F2 B B |$ ^A ^G F F F2 z2 | z2 ^G4 G G | A2 z2 z4 | z8 |$ z4 z B ^G E | %75
+w: and so will we not go|back, and so will we|not go back from thee:|O let us|live,||and we shall|
+ A c A F B c d2- | d2 c2 d2 z2 |$ z4 z2 z A | F D G G E =C E2 | z2 G4 ^G G |$ A2 z2 B2 B B | %81
+w: call u- pon thy Name, u- pon|* thy Name,|and|we shall call u- pon thy Name,|O let us|live, O let us|
+ c2 z2 z A F D |$ F A d F !fermata!A8 | %83
+w: live, and we shall|call u- pon thy Name|
+V:7
+"^Dec." z4 A,,4- | A,,2 C,2 E,3 E, | ^G,,4 z4 | z8 | z8 | E,6 ^G,2 |$ A,3 A, C,4 | z8 | %8
+w: O|* Lord God of|hosts,|||O Lord|God of hosts:||
+ z2 ^G,2 A, A, A, G, | F,3 F, z4 |$ z8 | z2 z E, B,, B,, B,, A,, | ^G,, =G,, A,, A,, B,,3 B,, |$ %13
+w: how long wilt thou be|an- gry,||how long wilt thou be|an- gry with thy peo- ple|
+ B,,4 E,2 E,2 ||"^Dec." z E, E,3 E, ^E,2 | F,3 F, =G,2 ^G,,2 |$ A,,2 z A,, D,3/2 D,/ D, B,, | %17
+w: that pray- eth?|Thou feed- est them|with the bread of|tears: and giv'st them plen- teous-|
+ E,3 C, F,4- | F,2 F,,2 B,,2 z2 |$ z8 | z8 | z8 |$ z8 | z2 || E, E, A, A,2 A, | %25
+w: ness of tears|* to drink.||||||Thou hast made us a|
+ C C, E, E, F,2 B,2 |$ E, E,,2 z z4 | z8 |$ z2 A,, A,, D,3/2 D,/ D,3/2 (C,/ |$ %29
+w: ve- ry strife un- to our|neigh- bours:||and our e- ne- mies laugh|
+ B,,3/2 C,/ B,,3/2) (A,,/ ^G,,3/2) F,,/ E,,2 | z A, C3/2 C/ C2 (B,3/2 A,/ | %31
+w: * * * us * to scorn,|our e- ne- mies laugh *|
+ ^G,3/2 F,/ E,3) E, E,2 |$ A,,4 ||[K:C][M:3/2]"^Dec." A,,2 A,,2 z2 | A,,3 A,, A,,2 | E,4 C,2 | %36
+w: * * * us to|scorn.|Turn us,|turn us a-|gain, O|
+ F,4 E,2 | D,2 G,,4 | C,6 | z2 G,3 G, |$[M:3/2] _B,2 (B,2 A,) B, | A,3 A, A,2 | z2 E,3 E, | G,6- | %44
+w: God, O|God of|hosts:|shew the|light of * thy|coun- te- nance,|shew the|light|
+ G,2 (F,2 E,) F, | E,3 E, E,2 |$ A,4 ^F,2 | ^D,4 E,2 | (G,, A,,) B,,4 | E,6 | A,2 A,2 z2 | %51
+w: * of * thy|coun- te- nance,|and we|shall, we|shall * be|whole.|Turn us,|
+ D,3 D, D,2 | A,,4 A,2 | _B,4 B,2 |$ ^F,4 F,2 | G,2 G,3 G, | (G, F,) (F,2 E,) F, | E,3 E, E,2 | %58
+w: turn us a-|gain, O|God, O|God of|hosts: shew the|light * of * thy|coun- te- nance,|
+ D,4 D,2 | E,4 E,2 | ^F,4 F,2 |$ ^G,4 A,2 | D,2 E,3 E, ||[K:D]"^Dec." A,,2 z2 z2 z D, | %64
+w: and we|shall, we|shall be|whole, and|we shall be|whole. And|
+ E,2 F, E, D, C, B,, B,, ||$ C,6 C,2 | D,3 D, E,2 z A, |$ B,2 =C B, A, G, F, F, | B,2 z2 z2 z D, | %69
+w: so will we not go back from|thee, go|back from thee, and|so will we not go back from|thee, and|
+ G,2 A, G, F, E, D, B,, |$ F,3 F, B,,2 z2 | z2 E,4 ^E, E, | F,2 z2 z4 | z8 |$ z2 z F, ^D, B,, E,2 | %75
+w: so will we not go back, go|back from thee:|O let us|live,||and we shall call|
+ z A, F, D, G, E, F, G, | A,2 A,,2 D,4 |$ z8 | z D, B,, G,, =C, E, ^C, A,, | D,2 z2 z2 z E, |$ %80
+w: and we shall call, shall call u-|pon thy Name,||and we shall call u- pon thy|Name, and|
+ C, A,, D, F, D, B,, E,2- | E, A,, A,6- |$ A,3/2 G,/ F, D, !fermata!A,,8 | %83
+w: we shall call u- pon thy Name,|* shall call|* u- pon thy Name.|
+V:8
+"^Can." z8 | z8 | z4 A,,4- | A,,2 C,2 D,3 D, | F,,4 z4 | z8 |$ z4 A,,4- | A,,2 C,2 E,3 E, | %8
+w: ||O|* Lord God of|hosts,||O|* Lord God of|
+ ^G,,4 z4 | z2 F,2 E, E, E, F, |$ G,3 G, z4 | z4 z2 z B, | E, E, A, G, F, F, B, E, |$ %13
+w: hosts:|how long wilt thou be|an- gry,|how|long wilt thou be an- gry with thy|
+ B,, A,, B,,2 E,,2 E,,2 || z8 | z8 |$ z8 | z8 | z8 |$ z8 | z8 | z8 |$ z8 | z2 || %24
+w: peo- ple that pray- eth?|||||||||||
+ A,, A,, A, A,2 A, | C,3 C, D, D, D, D, |$ E, E,2 z z4 | z8 |$ z8 |$ z4 z2 E, E, | %30
+w: Thou hast made us a|ve- ry strife un- to our|neigh- bours:|||and our|
+ A,3/2 A,/ A,3/2 (G,/ F,3/2 E,/ D,2) | E,4 E,,4 |$ A,,4 ||[K:C][M:3/2] z6 | z6 | z6 | z6 | z6 | %38
+w: e- ne- mies laugh * * *|us to|scorn.||||||
+ z6 | z6 |$[M:3/2] z6 | z6 | z6 | z6 | z6 | z6 |$[M:3/2] z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |$ %54
+w: ||||||||||||||||
+[M:3/2] z6 | z6 | z6 | z6 | z6 | z6 | z6 |$[M:3/2] z6 | z6 || z8 | z8 ||$[K:D] z4 z2 z"^Can." C, | %66
+w: |||||||||||And|
+ F,2 G, F, E, D, C, A,, |$ E,4 z A,, D,2 | E, D, C, B,, A,, G,, F,, F,, | G,,2 E,,2 F,,4- |$ %70
+w: so will we not go back from|thee, and so|will we not go back, so will we|not go back|
+ F,,2 F,,2 B,,4 | z8 | z8 | z4 z2 A,2- |$ A,2 ^A, A, B,2 z2 | z8 | z8 |$ z2 z B, ^G, E, A, C | %78
+w: * from thee:|||O|* let us live,|||and we shall call u-|
+ A, F, G,2 =C,2 ^C, C, | D, D B, G, =C B, ^G, E, |$ A, C, D,2 z B,, ^G,, E,, | %81
+w: pon thy Name, O let us|live, and we shall call, shall call u-|pon thy Name, and we shall|
+ A,, C, A,, G,, F,,4- |$ F,,2 D,,2 !fermata!A,,8 | %83
+w: call, shall call u- pon|* thy Name.|
+V:9
+ A,4 A,,4- | A,,2 C,2 E,3 E, | ^G,,4 A,,4- | A,,2 C,2 D,3 D, | F,,4 G,3 G, | x2- x4 ^G,2 |$ %6
+w: |* 6 * *|6 *|* 6 * *|6 * *|* 6|
+w: ||||||
+w: ||||||
+ A,3 A, A,,4- | A,,2 C,2 E,3 E, | ^G,,2 ^G,2 A, A, A, G, | F,2 F,2 E, E, E, F, |$ %10
+w: |* 6 3 6|5 * * * * 6|7 6 * * 6 3|
+w: ||6 * * * * *|* * * * * 7|
+w: ||||
+ G,3 G, F, F, F, E, | ^D, D, E, E, B,, B,, B,, A,, | ^G,, G,, A,, A,, x2- x B,, |$ %13
+w: 5 6 6 * 5 *|6 * * * * 4 * 3|6 * 6 5 7 *|
+w: * * 4 * 3 *|5 * * * * * * *|* * * * 3 *|
+w: |||
+ B,, A,, B,,2 E,,4 || z E, E,3 E, ^E,2 | x2- x F, =G,2 ^G,,2 |$ A,,2 z A,, x2- x B,, | %17
+w: 6 * 5 *|* 7 * 6|6 * 6 5|* * 5 *|
+w: 4 * 3 *||3 * * *||
+w: ||||
+ E,3 C, (x2- x2 | F,2) F,,2 B,,2 B,2- |$ B, B, ^B,2 x2- x C | D2 =B,2 C2 z[K:treble] C | %21
+w: * * 7|5 3 * 7|* * 6 6 *|6 7~~~~~~6 * *|
+w: * * 3||* * * 3 *||
+w: ||||
+ x2- x D G3/2 F/ E2- |$ E2 ^D2 x2- x E, | A,2 || A,, A,, x2- x A, | x2- x C, x- x x- x |$ %26
+w: * * * * 5|6 7 4 *||* * 5 *|6 * 4 4|
+w: * * * * 3|* 5 * *|||* * 9 6|
+w: |||||
+ E,2[K:treble] B B e3/2 e/ e3/2 d/ | A3/2 A/[K:bass] A, A, E3/2 E/ E, E, |$ %28
+w: 3 * * * * * *||
+w: ||
+w: ||
+ A,3/2 A,/ A,, A,, D,3/2 D,/ D,3/2 C,/ |$ B,,3/2 C,/ B,,3/2 A,,/ ^G,,3/2 F,,/ E,,2 | %30
+w: 9 * 8 * 9 * 8 *|7 * 6 * 6 * 7|
+w: |* * * * 5 * 3|
+w: ||
+ A,3/2 A,/ A,3/2 G,/ F,3/2 E,/ D,2 | x2- x2 x2- x2 |$ A,,4 ||[K:C][M:3/2] A,,4 z2 | A,,3 A,, A,,2 | %35
+w: 7 * 5 * 6 * 6|7 5|||7 * 6|
+w: * * * * 5 * *|3 4|||4 * *|
+w: ||||2 * *|
+ E,4 C,2 | x2- x2 E,2 | D,2 x2- x2 | C,6 | z2 G,3 G, |$[M:3/2] _B,6 | A,6 | z2 E,3 E, | %43
+w: * 6|7 6|7 4|||6|6|6 *|
+w: ||* 7||||3||
+w: ||||||||
+ (x2- x2 x2 | G,2) F,4 | E,6 |$ x2- x2 ^F,2 | x2- x2 E,2 | G,, A,, x2- x2 | E,6 | x2- x2 z2 | %51
+w: 4|5 6|7|9 *|7 *|6 * 6||3|
+w: |2 *|3||6 *|* * 4||8|
+w: |7 *|||||||
+ D,4 D,2 | A,,4 A,2 | _B,4 B,2 |$ ^F,4 F,2 | G,2 G,3 G, | G,2 F,4 | x2- x4 | x2- x2 D,2 | %59
+w: 7 6|* 6|7 6|6 *||* 6|7|6 *|
+w: 6 *|* 3||5 *||||4 *|
+w: ||||||||
+ x2- x2 E,2 | x2- x2 ^F,2 |$ ^G,4 A,2 | x- x E,4 ||[K:D] A,,2 z E F- [A,F] B, D, | %64
+w: 3 *|7 *|6 9|7 3|* * * * * 5|
+w: 9 *||5 *|5 7||
+w: |||||
+ E,2 F, E, D, C, x- x ||$ x2- x2 x2 x- x | x2- x D, E, D, C, A,, |$ x2- x x A, A,, x- x | %68
+w: 3 * 6 * * 6|7 6|7 * * * 6 *|5 6 5 6|
+w: * * 4 * * *|3 3||4 3 * 8|
+w: |||* * * 3|
+ E, D, C, B,, A,, G,, F,, F,, | x- x x- x (x2- x2 |$ x2 x2 B,,2 B,2- | B,2 x2- x2 ^E, E, | %72
+w: * * 6 6 6 * 6 *|6 6 7||* 5 * *|
+w: |* * 3||* 3 * *|
+w: ||||
+ F, F D B, E E C A, | D2 E2 A,2 A,2- |$ A,2 ^A, F, ^D, B,, E,2 | A, A, F, D, G, E, F, G, | %76
+w: * * 6 * * * 6 *|7 5 * 5|6 * * 6 * *|* * 6 * 6 6 6 6|
+w: |* 3 * *||* * * * * * * 5|
+w: ||||
+ A,2 A,,2 D,2 D2- |$ D2 B, B, ^G, E, A, C | F, D, B,, G,, =C,2 ^C, A,, | D,2 G,2 x- x ^G, E, |$ %80
+w: 5 * * *||6 * 6 * 7 6 *|* * 6 6 *|
+w: 4 3 * 5|6 * * 6 * * *|||
+w: ||||
+ C, A,, x2- x B,, ^G,, E,, | A,,3 G,, x2- x2 |$ F,,2) D,,2 !fermata!A,,8 | %83
+w: 6 * * * 6 *|* 4 7||
+w: |* 2 6||
+w: |||
+V:10
+ x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 |$ x8 || x8 | x8 |$ x8 | x8 | %18
+ x8 |$ x8 | x7[K:treble] x | x8 |$ x8 | x2 || x6 | x8 |$ x2[K:treble] x2 x2 E E | x2[K:bass] x6 |$ %28
+ x8 |$ x8 | x8 | x8 |$ x4 ||[K:C][M:3/2] x6 | x6 | x6 | x6 | x6 | x6 | x6 |$[M:3/2] x6 | x6 | x6 | %43
+ x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | %62
+ x6 ||[K:D] x8 | x8 ||$ x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 | %79
+ x8 |$ x8 | x8 |$ x12 | %83

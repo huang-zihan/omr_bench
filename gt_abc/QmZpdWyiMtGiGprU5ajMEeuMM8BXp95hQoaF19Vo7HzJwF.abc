@@ -1,0 +1,54 @@
+X:1
+T:ViolinÃozÃo
+%%score 1 2 3 4 5
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Violinos(Mariana)" snm="Vlns."
+V:2 treble nm="Violinos(Suiani)" snm="Vlns."
+V:3 alto nm="Violas(Everton)" snm="Vlas."
+V:4 bass nm="Violoncelos(Thiago)" snm="Vcs."
+V:5 bass transpose=-12 nm="Contrabaixos(André)" snm="Cbs."
+V:1
+ c2 g3/2 c/ | _d f3 | c2 g3/2 f/ | _d4 |$ c2 g3/2 c/ | _d f2 g | _a3 _b | g2 _b2 |$ %8
+"^Age of Mythology" c G d e | (3^G/A/B/- B3 | c2 B G | ^G4 | c G d e | (3^G/A/B/- B2 B | c B A ^F | %15
+ z4 |$ z4 | z4 | z4 | z4 | z4 |$ z4 |[Q:1/4=200] z4 | z4 | z4 | z4 | z4 | z4 | z4 |$ z4 | z4 | %31
+ z!p! c z c | z c z c | z c z c | z c c z | z c z c | z c z c |$ _e f d _B | c G c3/2 z/ |: %39
+[M:3/4] z3 | z3 | z3 |1 z3 :| z3 |:!f! D/F/ d2 | D/F/ d2 | e3/2 f/ e/f/ |$ e/c/ A2 |1 A D F/G/ | %49
+ A- A2 | A D F/G/ | E3 :| A D F/G/ | A2 A |: D3 | E3 | F3 | E3 :| %58
+V:2
+ C2 G3/2 C/ | _D F3 | C2 G3/2 F/ | _D C ^A,/C/ ^c |$ C2 G3/2 C/ | _D F2 G | _A3 _B | G2 _B2 |$ %8
+ c G d e | (3^G/A/B/- B3 | c2 B G | ^G4 | c G d e | (3^G/A/B/- B2 B | c B A ^F | z4 |$ z4 | z4 | %18
+ z4 | z4 | z4 |$ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 |$ z4 | z4 | z!p! c z c | z c z c | %33
+ z c z c | z c c z | z c z c | z c z c |$ _e f d _B | c G c3/2 z/ |:[M:3/4] z3 | z3 | z3 |1 z3 :| %43
+ z3 |:!f! z d2 | z d2 | e2 e/f/ |$ e/c/ A2 |1 A2 F/G/ | A- A2 | A2 F/G/ | E3 :| A2 F/G/ | A2 A |: %54
+ D3 | E3 | F3 | E3 :| %58
+V:3
+ C2 G3/2 C/ | _D F3 | C2 G3/2 F/ | _D C ^A,/C/ ^c |$ C2 G3/2 C/ | _D F2 G | _A3 _B | G2 _B2 |$ C4 | %9
+ E4 | C4 | E4 | C4 | E4 | C2 D2 |"^Pokemon Red and Blue" E3/2 _A/ B2- |$ B2 d3/2 _d/4c/4 | %17
+ B2 D3/2 _D/4C/4 | B,2 (3A _A =A | E3/2 _A/ B2 | D2 (3A _A =A |$ B2 (3d _d A | B2 B B | %23
+"^Gourmet Race - Kirby" c3/2 z/ G3/2 z/ | _E D C3/2 z/ | C D _E C | _B, C G,3/2 z/ | %27
+ c3/2 z/ G3/2 z/ | _E D C C/D/ |$ _E F D _B, | C2 z2 |!p! C z C z | C z C z | C z C z | C z C z | %35
+ C z C z | C z C _E |$ F D _B, C | G, C3/2 z z/ |:[M:3/4] z3 | z3 | z3 |1 z3 :| z3 |:!f! D,3 | %45
+ E,3 | F,3 |$ E,3 |1 A,3 | A,3 | A,3 | E,3 :| _B, A, A, | F, A,2 |: D A A | E B2 | F c c | E B2 :| %58
+V:4
+ C,2 G,3/2 C,/ | _D, F,3 | C,2 G,3/2 F,/ | _D, C, ^A,,/C,/ ^C |$ C,2 G,3/2 C,/ | _D, F,2 G, | %6
+ _A,3 _B, | G,2 _B,2 |$ G,4 | B,4 | G,4 | B,4 | G,4 | B,4 | G,2 A,2 | E, B,,/ E, B,,/E,/B,,/ |$ %16
+ D, B,,/ D, B,,/D,/B,,/ | E, B,,/ E,2 _D,/4C,/4 | B,,2 (3A,, _A,, =A,, | E, B,,/ E, B,,/E,/B,,/ | %20
+ D, B,,/D,/ (3A,, _A,, =A,, |$ E, B,,/E,/ (3D, _D, A,, | z4 | .F,,2 .G,,2 | _A,, G,, F,,3/2 z/ | %25
+ .C,2 ._E,2 | ._B,,2 .G,,3/2 z/ | .F,,2 .G,,2 | ._A,, .G,, .F,,3/2 z/ |$ ._E,2 .D,2 | C,2 z2 | %31
+!f! F,, F,, _A,, C, | _E, D, C, G,, | F,, F,, _A,, C, | _E, F, G,2 | F,, F,, _A,, C, | %36
+ _E, D, C, G,, |$ _E, F, D, _B,, | C, G,, C,3/2 z/ |:[M:3/4] z3 | z3 | z3 |1 z3 :| z A, A, |: %44
+!p! D, A, A, | E, B,2 | F, C C |$ E, B,2 |1 _B,, F, F, | F,, F,2 | _B,, F, F, | A,, E,2 :| %52
+ _B,, F,, F,, | F,,3 |: D, F, F, | E, G,2 | F, A, A, | E, G,2 :| %58
+V:5
+ C,2 G,3/2 C,/ | _D, F,3 | C,2 G,3/2 F,/ | _D, C, z2 |$ C,2 G,3/2 C,/ | _D, F,2 G, | _A,3 _B, | %7
+ G,2 _B,2 |$ C,4 | E,4 | C,4 | E,4 | C,4 | E,4 | C,2 D,2 | E,2 B,,2 |$ E,2 B,,2 | B,,2 E, _D, | %18
+ B,,2 (3A,, _A,, =A,, | E, B,,/ E, B,,/E,/B,,/ | D,2 (3A,, _A,, =A,, |$ E,2 (3D, _D, A,, | z4 | %23
+ z4 | z4 | z4 | z4 | z4 | z4 |$ z4 | z4 |"^pizz."!f! F,, F,, _A,, C, | _E, D, C, G,, | %33
+ F,, F,, _A,, C, | _E, F, G,2 | F,, F,, _A,, C, | _E, D, C, G,, |$ _E, F, D, _B,, | %38
+ C, G,, C,3/2 z/ |:[M:3/4] D,3 | E,3 | F,3 |1 E,3 :| E,3 |:!p! D, F, F, | E, G,2 | F, A, A, |$ %47
+ E, G,2 |1 _B,, D, D, | F,, C,2 | _B,, D, D, | A,, ^C,2 :| _B,, D, D, | F,, C,2 |: D, F, F, | %55
+ E, G,2 | F, A, A, | E, G,2 :| %58

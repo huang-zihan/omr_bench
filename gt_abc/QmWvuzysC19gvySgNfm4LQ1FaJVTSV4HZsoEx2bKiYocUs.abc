@@ -1,0 +1,42 @@
+X:1
+T:Every Goodbye is Hello Backing Track
+%%score { ( 1 4 ) | ( 2 3 ) }
+L:1/4
+Q:1/4=130
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:4 treble 
+L:1/8
+V:2 treble 
+L:1/8
+V:3 treble 
+V:1
+"^\n" [_Bd_b]2 [Bdb]2 | [_B_e_b]2 [Beb]2 | [_Bd_b]2 [Bdb]2 | [_B_e_b]2 [Beb]2 |$ [_Bf_b]2 [Bfb]2 | %5
+ [_B_e_b]2 [Beb]2 | [_Bd_b]2 [Bdb]2 | [cg_b]2 [c_gb]2 |$ [_Bf_b]2 [Bfb]2 | [c_e_a_b]2 [ceab]2 | %10
+ g _B [_e_b]2 | a c [fc']2 |$ [d_b]2 [_Gd]2 | [ca] [_Bg]3 | [_B_e]2 [_EB]2 | [Fcf]2 _B A |$ %16
+ [Af]2 [G_e]2 | [cf]4 | [F,_B,D]2 [G,C]2 | [DF_B] F [G,_B,C] [G,B,D]/[A,C]/ |$ D F, _E, [_B,_E] | %21
+ [A,F] F, [G,_E] [_E,_B,] | [D,_B,] D,/B,/ _E,/F,/G,/_E/ |$ C/A,/F/C/ _E/_B,/G/_B/ | %24
+ [Fd] [D_B] [_E,_B,F] [E,B,] | [E,G,C] [G,CE] [_B,D_G] [CDGA] |$ [_B,DA] [B,D_B] [B,DG] D | %27
+ [_E,_A,C_E]/[F,F]/[G,G]/[A,_A]/ [_B,FA_B]/[CEAc]/[DAd]/[EAc_e]/ | %28
+ [F_Bdf] [GBdg] [_EGB_e] [DGBd] |$ z [fc'] [ca] [Af] | [_Bdf_b]3/2 [_E_e]/ [D_GAd] [CGAc] | %31
+ [CGc] [_B,DG_B]3 | [_E,_B,_E] E, B, E |$ [CF]2 [_B,F] [A,F] | [A,F]2 [G,_E]2 | %35
+[Q:1/4=80] [G,_B,C]2 A,2 |[Q:1/4=100]"^\n" z F, [CF] [D_B] |$ z [_B,_B]3 |] %38
+V:2
+ [_B,F]8 | [_B,G]8 | [_B,F]8 | [_B,G]8 |$ [_B,A]8 | [_B,G]8 | [_B,F]8 | D8 |$ [G,D]8 | _B,8 | %10
+ _E,2 _B,2 G4 | _E,2 C2 A4 |$ [D,_B,]4 [_G,D]4 | G,2 D2 A2 G2 | C,2 G,2 C4 | D,2 A,2 D4 |$ %16
+ _E,2 _B,2 _E4 |[K:bass] [F,_E]8 | [_B,,,F,,D,]4 [D,,A,,E,]4 | [_E,,_B,,F,]4 [F,,_E,]2 F,,F,,, |$ %20
+ _B,,, F,,2 C, B,,, G,,2 _E, | _B,,, A,,2 C, B,,, G,,2 _B,, | _B,,,F,, C,2 B,,,G,,_E, z |$ %23
+ _B,,,F,, C,2 B,,,G,, _E,2 | _B,,, F,,2 D, C,, G,,2 D, | D,,A,,C,D, _G,,D,_G,D,, |$ %26
+ G,, D,2 A,- A,A,D,G,, | [_B,,,_B,,]3 [B,,,B,,] [B,,,B,,]2 [B,,,B,,]2 | _E,,_B,,F,G, _B,G,F,_E, |$ %29
+ _E,,C,F,A, CA,F,C, | D,,_B,,F,D, _G,,D,A,_G, | G,,D,A,G, F,,D, F,2 | C,, G,,2 D,2 D,2 D, |$ %33
+ D,,A,,F,D,- D,4 | _E,,2 _B,,2 F,4 | [F,,_E,]8 | _B,,,F,,_B,,C, D,F,_B,C |$ z2 [_B,,,_B,,D,F,]6 |] %38
+V:3
+ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ A2 G2 | F2 _E D | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | %17
+[K:bass] x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | %34
+ x4 | x4 | x4 |$ x4 |] %38
+V:4
+ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |$ x8 | %17
+ [G_B]4 A4 | F_BBF EcBc | x4 _Ec- c2 |$ x8 | x8 | x8 |$ x8 | x8 | x8 |$ x8 | x8 | _E4- EEFE |$ %29
+ [CFAc]2 CC, F,G, z2 | D4 C4 | D4 DC _B,2 | x8 |$ x8 | x8 | x8 | x8 |$ x8 |] %38

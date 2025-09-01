@@ -1,0 +1,43 @@
+X:1
+T:James Gibb editions
+T:Psalm 111 (Becker) - Schütz
+%%score [ ( 1 2 ) ( 3 4 ) ]
+L:1/4
+Q:1/4=98
+M:2/2
+I:linebreak $
+K:F
+V:1 treble nm="Soprano Alto"
+V:2 treble 
+V:3 bass nm="Tenor Bass"
+V:4 bass 
+V:1
+"^Cornelius Becker\n(1561-1604)""^Psalm 111, SWV 209""^Heinrich Schütz\n(1585-1672)" d2 f d | %1
+w: ~Ich will von|
+w: im Rat der|
+ _e2 d2 | c3/2 d/ c B | G2 ^F2 | A2 B2 | c2 d2 | _e d c2 |$ B2 :|$[M:2/2] c2 | B G A2 | G4 | %11
+w: Her- zen|dan- ken Gott dem|Her- ren|und ihm|die- nen|wil- lig ger-|ne|Ky-|ri- e- lei-|son.|
+w: From- men|und in der Ge-|mei- ne,|die ihn|ehrt von|Her- zen rei-|ne,||||
+ F2 A2 | (c3/2 B/4A/4 G) B | A B G G | F4 | c2 d2 | B2 G2 |$ A c c =B | c2 A A | B2 c B | A2 G A | %21
+w: Herr, wie|schön * * * und|groß sind dei- ne|Werk,|die zeu-|gen von|dei- ner Macht und|Stärk, wer mit|Fleiß sie schaut|an, der hat|
+w: ||||||||||
+ B d d ^c | d2 D2 | E G ^F2 |$ G4 |] %25
+w: ei- tel Lust da-|ran, Ky-|ri- e- lei-|son.|
+w: ||||
+V:2
+ G2 F G | G2 F2 | F3/2 F/ F D | _E2 D2 | D2 D2 | F2 F2 | G F F2 |$ F2 :|$[M:2/2] F2 | %9
+ D (C/B,/) D2 | D4 | D2 F2 | E3 D | F F F E | F4 | F2 F2 | _E2 E2 |$ F G A G | G2 ^F F | G2 G G | %20
+ ^F2 D D | D F E3/2 E/ | D2 D2 | C D D2 |$ D4 |] %25
+V:3
+ B,2 A, B, | B,2 B,2 | A,3/2 B,/ A, B, | C2 A,2 | ^F,2 G,2 | A,2 B,2 | B, B, A,2 |$ B,2 :|$ %8
+[M:2/2] A,2 | G, G, ^F,2 | G,4 | A,2 F,2 | (A,3/2 G,/4F,/4 E,) G, | A, D C C | C4 | A,2 A,2 | %16
+ G,2 B,2 |$ D E F D | %18
+ E2"^2. Was er verordnet, das ist löblich sehre,\nvoll Ruhm, Herrlichkeit und Ehre, \nin allen Ständen G'rechtigkeit soll walten, \ndarob er will ewig halten, Kyrieleison. \nEr hat ein Gedächtnis gestiftet, \ndas sein Wunder, Lieb und Treu betrifft, \nder Herr gnädig allzeit \ntut an uns Barmherzigkeit, Kyrieleison.\n\n3. All'n, die ihn fürchten, will er Speise geben,\nsein Leib und Blut, daß sie leben, \nden Bund der Gnaden, den er aufgerichtet, \nhält er, vergißt sein mit nichte, Kyrieleison. \nSeinem lieben Volk hie auf Erden \ndie gewaltigen Taten kund werden, \nauf daß ihm wird zuteil \nder Heiden Erb, Gnad und Heil, Kyrieleison.\n\n4. Wahrheit und Recht sind Werke seiner Hände, \nwie man spürt an allen Enden,\nrecht die Gebot sind, die uns Gott gegeben, \ndanach wir auch sollen leben, Kyrieleison. \nAuch wird sein Wort unverruckt bleiben, \nman wird's in der Kirchen stets treiben, \ngar treulich und redlich \nwird es werden ausgericht, Kyrieleison." D D | %19
+ D2 _E D | D2 B, A, | %21
+ G,"^5. Gott wird erlösen sein Volk in Genaden\nund verhüten allen Schaden, \nan Leib und Seel wird er sie wohl bewahren, \ndaß kein Leid ih 'n widerfahre, Kyrieleison. \nDenn was er eidlich verheißen hat, \ndas wird er auch gewißlich haben statt, \nsein Bund bleibt ewiglich, \nseinem Wort glaub sicherlich, Kyrieleison.\n\n6. Des Herren Name ist heilig und hehre,\ndem allein gebührt die Ehre, \nder hat den Anfang zur Weisheit gefunden, \nwer Gott fürcht von Herzensgrunde, Kyrieleison.\nDas ist eine göttliche Klugheit, \nwer danach sich achtet allezeit, \nführt sein Leben heiliglich, \ndes Lob bleibet ewiglich, Kyrieleison." A, A,3/2 A,/ | %22
+ A,2 B,2 | G, B, A,2 |$ G,4 |] %25
+V:4
+ G,2 D, G, | _E,2 B,,2 | F,3/2 B,,/ F, G, | C,2 D,2 | D,2 G,2 | F,2 B,2 | _E, B,, F,2 |$ B,,2 :|$ %8
+[M:2/2] F,2 | G, _E, D,2 | G,,4 | D,2 D,2 | A,,3/2 B,,/ C, G,, | D, B,, C, C, | F,4 | F,2 D,2 | %16
+ _E,2 E,2 |$ D, C, F, G, | C,2 D, D, | G,2 C, G, | D,2 G, ^F, | G, D, A, A, | D,2 B,,2 | %23
+ C, G, D,2 |$ G,,4 |] %25

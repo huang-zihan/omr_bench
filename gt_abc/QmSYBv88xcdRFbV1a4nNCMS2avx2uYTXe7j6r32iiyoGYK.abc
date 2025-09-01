@@ -1,0 +1,12 @@
+X:1
+T:Blink
+L:1/8
+M:4/4
+I:linebreak $
+K:D
+V:1 treble 
+V:1
+ B3 E FEFA | Bdef dB B2 | ABAF DEFB | ABdf edAd | B3 E FEFA | (3Bcd ef dB B2 |$ ABde f2 fe |1 %7
+ dBAd BEFA :|2 dBAd BE(3Bcd |: e3 f ed(3Bcd | (3efg fd edBc |$ d3 B ADFA | d2 fd ed(3Bcd | %13
+ e3 f ed(3Bcd | (3efg fd edBc | d2 (3Bcd effe |$ dBAd BE(3Bcd | e3 f ed(3Bcd | (3efg fd edBc | %19
+ d3 B ADFA | df f2 ABdf | e3 f ed(3Bcd |$ (3efg fd edBc | d2 (3Bcd effe | dBAd BEFA | %25

@@ -1,0 +1,76 @@
+X:1
+T:Kristallen
+C:Trad.
+Z:PIO
+%%score [ 1 2 3 4 ]
+L:1/8
+Q:1/4=66
+M:3/8
+I:linebreak $
+K:C
+V:1 treble-8 nm="T1"
+L:1/16
+V:2 treble-8 nm="T2"
+V:3 bass nm="B1"
+V:4 bass nm="B2"
+V:1
+"^Allegretto" (AB) | c2 c2 c2 | d3 c d2 | e2 e2 (ef) | (ed) (cB) (AB) | c2 c2 c2 | d3 c d2 | e6- | %8
+w: 1.Kri- *|stal- len den|fi- na, som|so- len månd' _|ski- * na, _ som _|stär- nor- na|blän- ka i|skyn.|
+w: 2.Och _|om jag än|fo- re till|värl- de- nes _|än- * de _ så _|läng- tar mitt|hjär- ta till|dig.|
+ e4 (AB) |$ c2 c2 c2 | d3 c d2 | e2 e2 (ef) | (ed) (cB) (AB) | c2 c2 c2 | d3 c d2 | e6- | e4 a2 | %17
+w: _ Jag _|kän- ner en|flic- ka, i|dyg- den den _|fi- * na, _ en _|flic- ka i|den- na här|byn.|_ Min|
+w: _ Och _|om jag än|fo- re till|värl- de- nes _|än- * de _ så _|läng- tar mitt|hjär- ta till|dig.|_ Till|
+ e4 e2 | e4 d2 |$ c4 c2 | c2 B2 a2 | e4 e2 | e2 e2 d2 | c4 (ed) | c2 B2 (AB) | c2 c2 c2 | d4 d2 | %27
+w: vän, min|vän och|äl- skogs-|blom- ma! Ack|om vi|kun- de till-|sam- mans _|kom- ma och _|jag vo- re|vän- nen|
+w: dig, *||||||||||
+ e6- | e4 (AB) |$ c2 c2 c2 | d3 c d2 | e6- | e4 a2 | e3 d c2 | (BA) A2 (ed) | c2 c2 B2 | A4 |] %37
+w: din.|_ Och _|du all- ra|kär- est- an|min!|_ Du|ä- de- la|ros _ och för- *|gyl- lan- de|skrin.|
+w: ||||||||||
+V:2
+ A | A A A | B3/2 A/ B | c c c | B (A/^G/) (A/G/) | A A A | A3/2 A/ A | B3- | B2 A |$ A A A | %10
+w: 1.Kri-|stal- len den|fi- na, som|so- len månd'|ski- na, _ som _|stjär- nor- na|blän- ka i|skyn.|_ Jag|kän- ner en|
+w: 2.Och|om jag än|fo- re till|värl- de- nes|än- de _ så _|läng- tar mitt|hjär- ta till|dig.|_ Och|om jag än|
+ B3/2 A/ B | c c c | B (A/^G/) (A/G/) | A A A | A3/2 A/ A | B3- | B2 c | c2 c | B2 A |$ A2 A | %20
+w: flic- ka, i|dyg- den den|fi- na, _ en _|flic- ka i|den- na här|byn.|_ Min|vän, min|vän och|äl- skogs-|
+w: fo- re till|värl- de- nes|än- de _ så _|läng- tar mitt|hjär- ta till|dig.|_ Till|dig, *|||
+ A ^G c | c2 c | c c B | A2 A | A ^G (A/G/) | A A A | A2 A | B3- | B2 (A/^G/) |$ A A A | %30
+w: blom- ma! Ack|om vi|kun- de till-|sam- mans|kom- ma och _|jag vo- re|vän- nen|din.|_ Och _|du all- ra|
+w: ||||||||||
+ B3/2 A/ B | c3- | c2 c | c3/2 B/ A | (^G/A/) A G | A A ^G | A2 |] %37
+w: kä- res- tan|min!|_ Du|ä- de- la|ros _ och för-|gyl- lan- de|skrin!|
+w: |||||||
+V:3
+ A, | E, E, E, | G,3/2 G,/ G, | G, G, A, | ^G, E, E, | E, E, E, | A,3/2 A,/ A, | ^G,3- | G,2 A, |$ %9
+w: 1.Kri-|stal- len den|fi- na, som|so- len månd'|ski- na, som|stjär- nor- na|blän- ka i|skyn.|_ Jag|
+w: 2.Och|om jag än|fo- re till|värl- de- nes|än- de så|läng- tar mitt|hjär- ta till|dig.|_ Och|
+ E, E, E, | G,3/2 G,/ G, | G, G, A, | ^G, E, E, | E, E, E, | A,3/2 A,/ A, | ^G,3- | G,2 A, | %17
+w: kän- ner en|flic- ka i|dyg- den den|fi- na, en|flic- ka i|den- na här|byn.|_ Min|
+w: om jag än|fo- re till|värl- de- nes|än- de så|läng- tar mitt|hjär- ta till|dig.|_ Till|
+ A,2 A, | ^G,2 A, |$ E,2 ^F, | E, E, A, | G,2 G, | G, G, F, | E,2 F, | E, E, E, | E, E, E, | %26
+w: vän, min|vän och|äl- skogs-|blom- ma! Ack|om vi|kun- de till-|sam- mans|kom- ma och|jag vo- re|
+w: dig, *|||||||||
+ F,2 A, | ^G,3- | G,2 E, |$ E, E, E, | G,3/2 G,/ G, | G,3- | G,2 A, | C,3/2 D,/ E, | F, E, E, | %35
+w: vän- nen|din.|_ Och|du all- ra|kä- res- tan|min!|_ Du|ä- de- la|ros och för-|
+w: |||||||||
+ E, E, E, | C,2 |] %37
+w: gyl- lan- de|skrin!|
+w: ||
+V:4
+ A,, | A,, A,, A,, | G,,3/2 G,,/ G,, | C, C, A,, | (E,/F,/) (E,/D,/) (C,/B,,/) | A,, A,, A,, | %6
+w: 1.Kri-|stal- len den|fi- na, som|so- len månd'|ski- * na, _ som _|stjär- nor- na|
+w: 2.Och|om jag än|fo- re till|värl- de- nes|än- * de _ så _|läng- tar mitt|
+ F,3/2 F,/ F, | E,3- | E,2 A,, |$ A,, A,, A,, | G,,3/2 G,,/ G,, | C, C, A,, | %12
+w: blän- ka i|skyn.|_ Jag|kän- ner en|flic- ka i|dyg- den den|
+w: hjär- ta till|dig.|_ Och|om jar än|fo- re till|värl- de- nes|
+ (E,/F,/) (E,/D,/) (C,/B,,/) | A,, A,, A,, | F,3/2 F,/ F, | E,3- | E,2 A, | A,,2 C, | E,2 F, |$ %19
+w: fi- * na, _ en _|flic- ka i|den- na här|byn.|_ Min|vän, min|vän och|
+w: än- * de _ så _|läng- tar mitt|hjär- ta till|dig.|_ Till|dig, *||
+ E,2 ^D, | E, E, F, | C,2 C, | G,, G,, ^G,, | A,,2 D, | E, E, (C,/B,,/) | A,, A,, A,, | F,2 F, | %27
+w: äl- skogs-|blom- ma! Ack|om vi|kun- de till-|sam- mans|kom- ma och _|jag vo- re|vän- nen|
+w: ||||||||
+ E,3- | E,2 (C,/B,,/) |$ A,, A,, A,, | G,,3/2 G,,/ G,, | C,3- | C,2 A,, | A,,3/2 B,,/ C, | %34
+w: din.|_ Och _|du all- ra|kä- res- tan|min!|_ Du|ä- de- la|
+w: |||||||
+ D, C, B,, | A,, C, E, | A,,2 |] %37
+w: ros och för-|gyl- lan- de|skrin!|
+w: |||

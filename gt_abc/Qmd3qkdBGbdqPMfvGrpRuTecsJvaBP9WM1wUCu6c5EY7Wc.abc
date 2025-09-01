@@ -1,0 +1,36 @@
+X:1
+T:Title
+%%score ( 1 2 ) 3
+L:1/8
+Q:1/4=97
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble nm="Grand Piano, Soprano"
+V:2 treble 
+L:1/4
+V:3 bass nm="Choir Pad, There’s a Sweet Land"
+V:1
+ [CE]>[CE] [CA]2 [CA]>[CA] [CA]2 | [Ec]>[EB] [FA]>B [FA]>[DF] [CE]2 | %2
+w: By~Robert~Lowry * * * * *||
+ [CE]>[CE] [CA]2 [Ec]>[Ec] [Fd]>[Ec] |$ [EB]>[=DA] [EB]6 | [CA]>[DB] [Ec]2 [Ec]>[DB] [CA]2 | %5
+w: |||
+ [EA]>[EA] [FB]>A [EG]>[DF] [CE]2 | E>E [DF]>[EG] [EA]2 [EA]2 | G-[DG] [CA]6 | %8
+w: |||
+ [Ec]>[Ed] [Ee]2 [Ec]>[DB] [CA]2 |$ [Ec]>[EB] [FA]>B [FA]>[DF] [CA]2 | %10
+w: ||
+ [Ec]>[Ed] [Ee]2 [Ec]>[EB] [EA]2 | [EB]>c [EB]6 | [Ec]>[Ed] [Ee]2 [Ac]>[EB] [EA]2 | %13
+w: |||
+ [EA]>[EA] [FB]>A [EG]>[DF] [CE]2 |$ E>E [DF]2 [EA]>[FB] [EA]2 | G-[DG] [CA]6- | [CA]2 z2 z4 |] %17
+w: ||||
+V:2
+ x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | .E z z2 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | .E z z2 | x4 |] %17
+V:3
+ [A,,A,]>[A,,A,] [A,,E,]2 [A,,E,]>[A,,E,] [A,,E,]2 | %1
+ [A,,A,]>[C,A,] [D,A,]2 [D,A,]>[D,A,] [A,,A,]2 | [A,,A,]>[A,,A,] [A,,A,]2 A,>A, A,2 |$ %3
+ [G,B,]>F, [E,G,]6 | [A,,A,]>[A,,A,] [A,,A,]2 [A,,A,]>[A,,E,] [A,,E,]2 | %5
+ [C,A,]>[C,A,] [D,A,]2 [D,A,]>[D,A,] [A,,A,]2 | [C,A,]>[C,A,] [D,A,]>[D,B,] [C,A,]2 [E,C]2 | %7
+ [E,B,]2 [A,,A,]6 | A,>[A,B,] [A,C]2 A,>A, A,2 |$ [A,,A,]>[C,A,] [D,A,]2 [D,A,]2 [A,,A,]2 | %10
+ A,>[A,B,] [A,C]2 [A,,A,]>[B,,G,] [C,A,]2 | [B,,G,]>[A,,A,] [E,G,]6 | %12
+ A,>[A,B,] [A,C]2 [A,E]>[A,D] [A,C]2 | [A,C]>[A,C] [D,D]2 [D,A,]2 [A,,A,]2 |$ %14
+ [C,A,]>[C,A,] [D,A,]2 [C,A,]>[D,D] [E,C]2 | [E,B,]2 [A,,A,]6- | [A,,A,]2 z2 z4 |] %17

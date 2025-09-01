@@ -1,0 +1,23 @@
+X:1
+T:[ID 2-35]
+C:Urheber unbekannt
+C:Erstbeleg: 1767 (Datum in der schriftlichen Quelle)
+C:Datum in der hier transkribierten schriftlichen Quelle: 1776 - 1791
+%%score 1 2
+L:1/8
+M:3/4
+I:linebreak $
+K:C
+V:1 treble 
+V:2 treble nm="Secondo"
+V:1
+ C2 (cB)(cB) | c2 BA G2 | AcBAGF | E4 D2 | G,4 (3EFG | (GF)(FE)(ED) | G,4 (3EFG | (FF)(EE) D2 |$ %8
+ c4 d2 | (3edc (3dcB c2 | F2 E2 DB, | C6 :: c2 e2 (3efg | d2 cBAG | ABcBAG | ^F2 EF D2 | %16
+ D4 (3Bcd |$ (dc)(cB)(BA) | D4 (3ABc | (cB)(BA) G2 | AcBAG^F | G2 z GAB | c4 GE | A4 FD | G4 EC | %25
+ B,2 z DB,G, |$ G,4 (3EFG | (GF)(FE)(ED) | G,4 (3DEF | (FE)(ED) D2 | c4 d2 | (3edc (3dcB c2 | %32
+ F2 E2 DB, | C6 :| %34
+V:2
+ !fermata!C2 c2 c2 | c2 G2 E2 | c2 G2{F} E2 | C4 G,2 | B,4 E2 | (ED)(DC)(CB,) | B,4 D2 | %7
+ (DC)(CB,) B,2 |$ E4 G2 | c2 G2 E2 | F2 D4 | E6 :: E2 c2 (3cde | d2 B2 G2 | B2 cBAG | ^F2 DE F2 | %16
+ ^F4 B2 |$ (BA)(AG)(GF) | ^F4 A2 | (AG)(GF)(FE) | G2 D3 C | B,4 G2 | c4 eg | F4 Ac | E4 ce | %25
+ d2 B2 G2 |$ B,4 E2 | (ED)(DC) C2 | B,4 D2 | (DC)(CB,) B,2 | G2 c2 a2 | g2 G4 | c2 GFED | E6 :| %34

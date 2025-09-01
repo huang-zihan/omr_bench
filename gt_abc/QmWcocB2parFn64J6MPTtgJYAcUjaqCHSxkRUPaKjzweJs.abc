@@ -1,0 +1,14 @@
+X:1
+T:J.O. Forbes, Esq. of Corse,
+C:Peter Milne
+L:1/8
+M:4/4
+I:linebreak $
+K:E
+V:1 treble 
+V:1
+ A | (G>B) (E>G) (A>c) (F>A) | (G<B) (c>d) e2 e>d | c>eB>e A>eG>e | %4
+ F<ff>e .d/.e/.d/.c/ .B/.c/.B/.A/ |$ G<B E>G A<c F>A | (G<B) g>f e2 e>d | c>eB>e A>eG>e | %8
+ G>E{E}F>D E2 E || a |$ (g/a/b/a/ g<).e (c<e) a>c' | (B<e) g>b (B<d) (f>a) | %12
+ (g/a/b/a/ g<.e) (c<e) a>c' | (b<B) g>f e2 e>a |$ (g/a/b/a/ g<).e .c<.e .a<.c' | B<e g<b B<d f>a | %16
+ (3gfe (3def (3eBA (3GAB | (3cde (3def g<e e2 || %18

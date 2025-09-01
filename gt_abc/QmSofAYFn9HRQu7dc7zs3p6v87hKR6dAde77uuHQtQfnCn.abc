@@ -1,0 +1,14 @@
+X:1
+T:Siege Of Delhi
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble 
+V:1
+ GA |: B4 B2 d2 | dGeG d2 GA | B4 B2 d2 |{e} g2 dB A2 GA | B4 B2 d2 | dGeG d2 GA | B2 gd ecdc |$ %8
+ B2 G2 G2 GA :: B4 B2 d2 | c4 c2 e2 | B4 B2 d2 |{e} g2 dB A2 GA | B4 B2 d2 | c4 c2 e2 | %15
+ B2 gd ecdc |1 B2 G2 G2 GA :|2$ B2 G2 G2 f2 |: g2 ge d2 dB | G2 GB d2 GA | B4 B2 d2 | %21
+{e} g2 dB A2 f2 | g2 ge d2 dB | G2 GB d2 GA |$ B2 gd ecdc |1 B2 G2 G2 f2 :|2 B2 G2 G2 GA |: %27
+ B4 B2 d2 | ecgc ecgc | B4 B2 d2 |{e} g2 dB A2 GA | B4 B2 d2 |$ ecgc ecgc | B2 gd ecdc | %34
+ B2 G2 G2 GA :| %35

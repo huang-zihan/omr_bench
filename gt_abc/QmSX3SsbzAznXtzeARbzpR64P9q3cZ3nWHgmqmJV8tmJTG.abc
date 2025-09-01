@@ -1,0 +1,203 @@
+X:1
+T:My Boy
+C:Billie Eilish
+%%score 1 [ 2 3 4 5 ]
+L:1/8
+Q:1/4=132
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Voice" snm="Vo."
+L:1/4
+V:2 treble nm="Soprano 1" snm="S1"
+L:1/4
+V:3 treble nm="Soprano 2" snm="S2"
+V:4 treble nm="Alto 1" snm="A1"
+V:5 treble nm="Alto 2" snm="A2"
+V:1
+"^\n\n\n\n \n\n\n\n\n\n" z | z4 | (3:2:6z z z F D E- | E z z2 |$ %4
+w: ||bah bah dah||
+"^Swing""^Swing" F/D/E/F/ E/D/C/D/ | C B,2 z | z z C D | z/ C/ D3/2 C/B,/C/ |$ ^A,2 z z/ E/ | %9
+w: ba ba da ba da ba da ba|da a|mm *||* My|
+ F2 D/ C B,/- | B,/ z/ z D B,- |$ B, E C3/2 B,/ | ^A, z z/ z/ z/ C/ | D2 C2 | B,2 A, A,- |$ %15
+w: boy's be ing suss|* he was|* sha- dy e-|nough but|now hes|just a sha|
+ A, F,2 z | x2 z E | F2 F F | D B,2 D |$ E D C3/2 B,/ | _B,3 C/<C/ | (3D C3/2 B,7/2 | %22
+w: * dow|My|boy loves his|fr- iends like|I love my split|ends and by|that I mean|
+ z B, B, B,/B,/- | B,/4 z/4 z/ z z2 |$[Q:1/4=170]"^\n\n""^forte" F D2 F | D2 F D | B,3 z | z z D2 | %28
+w: He cuts 'em off||My boy My|boy My b-|oy|Don't|
+ B2 A2 | G2 F F- |$ F E/ D2 z/ | z z3 | F D2 F | D2 F D | B,3 z | z D D3/2 D/ | C B, C D |$ %37
+w: love me|like he promised-|||My boy My|boy My b-|oy|He ain't a|man and sure as|
+ C- C C3/2 C/- | C B,/ z/ z2 | z3 E | F2 D C |$ B, z z D/D/ | E D C3/2 B,/ | ^A, z z C/C/ | %44
+w: hell * ain't honest-||my|boys be- in'|sus and he|dont know how to|cuss he just|
+ D2 C B, |$ B,3/2 A,/ B, A, | A, F, z2 | z3 E | F3/2 E/ F/E/ F | D B,3/2 D D/ |$ E3/2 D/ C B, | %51
+w: sounds like hes|try- na be his|fa- ther|my|boys an u- gl- y|cry- er but hes|such a pre- tty|
+ _B,2 z C/C/ | D/ C3/2 B,2 | z A, B, D- | D B,/A,/ B,2 | z4 |$ F D2 F | D2 F D | B,3 z | z z D2 | %60
+w: liar and by|that I mean|he said he-|d cha- a- nge||My boy My|boy My bo-|oy|dont|
+ B2 A2 | G2 F F- | F E/ D2 z/ |$ z z3 | F D2 F | D2 F D | B,3 z | z D D3/2 D/ | C B, C D |$ %69
+w: love me|like he pro-|mi * sed||My boy my|boy my boy||he aint a|man and sure as|
+ C- C C3/2 C/- | C B,/ z/ z2 | z4 | z4 | z4 | z4 |$ z4 | z4 | z4 | z4 | z4 | z4 |$ z4 | z4 | z4 | %84
+w: hell * aint ho|* nest||||||||||||||
+ z4 |$ z4 | z4 | z4 | F D2 [FA] |"^harmony" [DB]2 F D |"^trill for 8 beats" [B,E]3 z | z z D2 | %92
+w: ||||||||
+ B2 A2 | G2 F F- |$ F E/ D2 z/ | z z3 | [FA] [DB]2 [FA] | [DF]2 F D | B,3 z | z D D3/2 D/ | %100
+w: ||||||||
+ C B, C D |$ C- C C3/2 C/- | C B,/ z/ z2 | z2 z D | F F G F | E2 D F- | F F/F/- F/E/ D | %107
+w: |||||||
+ B,3/2 B,/ D D |$ E3/2 D/ C2 | ^A,2 C D- | D B,2 D | G F G F | E2 D F- | F F/F/- F/E/ D | %114
+w: |||||||
+ B,3/2 B,/ D D |$ E3/2 D/ C2 | ^A,2 C D- | D B,3 | z4 |] %119
+w: |||||
+V:2
+ z | z4 | z4 | E/ z/ E/ z/ E/ z/ E/ z/ |$ E/ z/ E/ z/ E/ z/ E/ z/ | F/ z/ F/ z/ F/ z/ F/ z/ | %6
+w: |||dah dah dah dah|||
+ F/ z/ F/ z/ F/ z/ F/ z/ | z/ E/ F3/2 E/D/E/ |$ C3/2 z/ z2 | z4 | z4 |$ z G E3/2 z/ | z4 | F2 E2 | %14
+w: |mm * * * *||||sha- dy||dah dah|
+ D2 F F |$ C C2 z | c2 e2 | z2 B B | z4 |$ z2 _B B | z4 | F2 D2 |!<(! [FB]4!<)! | z4 |$ z3 B | %25
+w: dah a sha|dow- *|doh doh|doh doh||doh doh||dah dah|ah||my|
+ z3 B | z4 | z4 | z4 | z4 |$ z d3 | ^A- A f2 | z4 | z4 | z4 | z2 F3/2 A/ | G4 |$ E4 | B4 | z4 | %40
+w: my|||||doo|doo * doo||||doo doo|doo|doo|dah||
+ z4 |$ B z B z | z4 | ^A z A z | z4 |$ z4 | z4 | c2 e2 | A3/2 G/ A/G/ A | F D3/2 F F/ |$ %50
+w: |sus sus||cuss cuss|||||||
+ F3/2 F/ E D | C2 z2 | z4 | z4 | z4 | z4 |$ z3 B | z3 B | z4 | z4 | z4 | z4 | z d3 |$ ^A- A f2 | %64
+w: ||||||||||||||
+ z4 | z4 | z4 | z2 F3/2 A/ | G4 |$ E4 | B4 | z4 | z4 | z2 d2 | B z z2 |$ z2 A2 | F z z2 | z4 | %78
+w: |||||||||oo|oo|oo|oo||
+ F d3 | ^A- A f2 | B D F D |$ B D F C | B D F D | B D F D | G F E D |$ E D C D | B, z z2 | z4 | %88
+w: oo oo|oo oo *|doo doo doo doo|doo doo doo doo|doo doo doo doo|doo doo doo doo|love love love love|love love love love|love||
+ z3 B | z3 B | z4 | z4 | z4 | z4 |$ z d3 | ^A- A f2 | z4 | z4 | z4 | z2 F3/2 A/ | G4 |$ E4 | B4 | %103
+w: |||||||||||||||
+ B B z2 | G B d B | G B d B | B d f d | B d f d |$ B4 | _B4 | B3 z | B A B A | G2 F A- | %113
+w: ||||||||want me to be|yours well then|
+ A A/A/- A/G/ F | D3/2 D/ F F |$ z4 | z4 | z2 z z | z4 |] %119
+w: * you got * ta be|mine and if you|||||
+V:3
+ z/ z/ z/ A,/ | D z D z D z D z | D z D z D z D z/ D/ | ^C z C z C z C z |$ C z C z C z C z/ C/ | %5
+w: bah|dah dah dah dah|cont. * * * *|||
+ D z D z D z D z | D z D z D z D z | F8 |$ c4 (3:2:6cccccc | D z D z D z D z | %10
+w: ||dah|bah ba da dat da da dat|dah dah dah dah|
+ D z D z D z D z/ D/ |$ C z C z C z C z | C z C z C z C z | D z D z F4 | E4 D2 D2 |$ F8 | %16
+w: cont. * * * *|||* * dah|dah a sha|dow|
+ _B4 (3:2:6BBBBBB | D2 B,2 D2 B,2 | D2 B,2 D2 B,2 |$ _B2 z2 B2 z2 | _B2 C2 F2 C2 | D4 F4 | E8 | %23
+w: bah ba da dat da da dat|doo doo doo doo|doo doo doo doo|doh doh|doh doh doh doh|dah dah|ah|
+ z8 |$ A2 F4 A2 | F4 A2 F2 | D6 z2 | z2 z2 F4 | d4 c4 | B4 A2 A2- |$ A2 G F4 z | z2 z2 z4 | %32
+w: |my boy my|boy my b-|oy|Don't|love me|like he promised-|||
+ A2 F4 A2 | F4 A2 F2 | D6 z2 | z2 F2 F3 F | E2 D2 E2 F2 |$ z8 | B2 B2 BB B2 | B z z2 z4 | %40
+w: My boy my|boy my b-|oy|He ain't a|man and sure as||dn dn da da dat|dat|
+ D z D z D z D z |$ D z D z D z D z | z z C z C z C z | C z C z C z C z | D z D z F4 |$ E4 D2 D2 | %46
+w: dah * * *||||||
+ F8 | A4 c4 | D2 B,2 D2 B,2 | D2 B,2 D2 B,2 |$ _B2 C2 B2 C2 | _B2 C2 F2 C2 | D4 F4 | E8 | F8 | %55
+w: |||||||||
+ z8 |$ A2 F4 A2 | F4 A2 F2 | D6 z2 | z2 z2 F4 | d4 c4 | B4 A2 A2- | A2 G F3- F z |$ z2 z2 z4 | %64
+w: |||||||||
+ A2 F4 A2 | F4 A2 F2 | D6 z2 | z2 F2 F3 F | E2 D2 E2 F2 |$ z8 | B2 B2 BB B2 | B z z4 E2 | %72
+w: |||||||* my|
+ F2 z2 z4 | z2 E2 z2 E2 | F2 z4 E2 |$ D2 B,2 z2 E2 | D2 D2 z4 | z2 E2 z2 E2 | D2 D2 C3 B, | %79
+w: boy|my my|boy my|bo- y I|love love|I I|love love my split|
+ _B,2 z4 E2 | F2 z2 z4 |$ z2 E2 z2 E2 | F2 z4 E2 | D2 B,2 z2 E2 | D2 D2 D2 D2 |$ %85
+w: end My|boy|my my|boy my|bo- y *|love love love love|
+ [_B,G]2 [B,F]2 [B,E]2 B,2 | B,2 z2 z4 | z8 | A2 F4 A2 | F4 A2 F2 | D6 z2 | z2 z2 F4 | d4 c4 | %93
+w: love love love love|love|||||||
+ B4 A2 A2- |$ A2 G F3- F z | z2 z2 z4 | A2 F4 A2 | F4 A2 F2 | D6 z2 | z2 F2 F3 F | E2 D2 E2 F2 |$ %101
+w: ||||||||
+ z8 | B2 B2 BB B2- | B6 z2 | d8 | d8 | F8 | F8 |$ c8 | F8 | F6 z2 | G2 F2 G2 F2 | E4 D2 F2- | %113
+w: |||oo|oo|oo|oo|oo|oo|oo|want me to be|yours well then|
+ F2 FF- FE D2 | B,3 B, D2 D2 |$ z8 | z8 | z4 z2 z2 | z8 |] %119
+w: * you got * ta be|mine and if you|||||
+V:4
+ x x/ F,/ | B, z B, z B, z B, z | B, z B, z B, z B, z/ B,/ | _B, z B, z B, z B, z |$ %4
+w: bah|dah dah dah dah|cont. * * * *||
+ _B, z B, z B, z B, z/ B,/ | B, z B, z B, z B, z | B, z B, z B, z B, z | C8 |$ F4 (3:2:6FFFEEE | %9
+w: |||dah|bah ba da dat da da dat|
+ B, z B, z B, z B, z | B, z B, z B, z B, z/ B,/ |$ _B, z B, z B, z B, z | _B, z B, z B, z B, z | %13
+w: dah dah dah dah||||
+ B, z B, z B, z B, z | F4 B,2 B,2 |$ C8 | F4 (3:2:6FFFFED | B, z B, z B, z B, z | %18
+w: |dah a sha|dow|bah ba da dat da da dat|doo doo doo doo|
+ B, z B, z B, z B, z |$ _B, z B, z B, z B, z | _B, z B, z B, z B, z | B,8 | B,8 | z8 |$ D2 D2 z4 | %25
+w: doo doo doo doo|doh doh doh doh|doh doh doh doh|dah|ah||dn dn|
+ D2 D2 C2 C2 | B,2 B,4 z2 | B,2 B,2 A,2 A,2 | z8 | z4 A,4 |$ D2 D4- DD | C2 C6 | D2 D2 z4 | %33
+w: dn dn dn dn|dn dn|dn dn dn dn|||||dn dn|
+ D2 D2 C2 C2 | B,2 B,4 z2 | B,2 B,2 A,2 A,2 | D2 D4 z2 |$ _B,2 B,2 A,2 A,2 | B,2 B,2 B,B, B,2 | %39
+w: dn dn dn dn|dn dn|dn dn dn dn|dn dn|dn dn dn dn|dn dn da da dat|
+ B, z z2 z4 | B, z B, z B, z B, z |$ B, z B, z B, z B,2 | _B, z B, z B, z B, z | %43
+w: dat|dah * * *|||
+ _B, z B, z B, z B, z | B, z B, z B, z B, z |$ F4 B,2 B,2 | C8 | F4 (3:2:2F4 E2 | %48
+w: |||||
+ B, z B, z B, z B, z | B, z B, z B, z B, z |$ _B, z B, z B, z B, z | _B, z B, z B, z B, z | B,8 | %53
+w: |||||
+ B,8 | B,8 | z8 |$ D2 D2 z4 | D2 D2 C2 C2 | B,2 B,4 z2 | B,2 B,2 A,2 A,2 | z8 | z4 A,4 | %62
+w: |||||||||
+ D2 D4- DD |$ C2 C6 | D2 D2 z4 | D2 D2 C2 C2 | B,2 B,4 z2 | B,2 B,2 A,2 A,2 | D2 D4 z2 |$ %69
+w: |||||||
+ _B,2 B,2 A,2 A,2 | B,2 B,2 B,B, B,2 | B, z z2 B,A, G,2 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 | z8 | %80
+w: ||* da da dum|||||||||
+ z4 C2 D2 |$ B,2 z2 C2 D2 | B,2 z2 C2 D2 | B,2 z2 C2 D2 | B,2 z2 C2 D2 |$ _B,2 z2 B,2 C2 | %86
+w: love~ love|love love love|love love love|love love love|love love love|love love love|
+ B,2 z2 z4 | z8 | D2 D2 z4 | D2 D2 C2 C2 | B,2 B,4 z2 | B,2 B,2 A,2 A,2 | z8 | z4 A,4 |$ %94
+w: love||||||||
+ D2 D4- DD | C2 C6 | D2 D2 z4 | D2 D2 C2 C2 | B,2 B,4 z2 | B,2 B,2 A,2 A,2 | D2 D4 z2 |$ %101
+w: |||||||
+ _B,2 B,2 A,2 A,2 | B,2 B,2 B,B, B,2 | B,2 B,2 z4 | B8 | B8 | D8 | D8 |$ F8 | C8 | D6 z2 | %111
+w: ||||||||||
+ G2 F2 G2 F2 | E4 D2 F2- | F2 FF- FE D2 | B,3 B, D2 D2 |$ z8 | z8 | z4 z2 z2 | z8 |] %119
+w: want me to be|yours well then|* you got * ta be|mine and if *|||||
+V:5
+ z z/ F,/ | F, z z2 F, z z2 | F, z z2 F, z z2 | E, z z2 E, z z2 |$ E, z z z E, z z z | %5
+w: |||||
+w: bah|bah bah|bah bah|bah bah|bah bah|
+ F, z z z F, z z z | F, z z z F, z z z | A,8 |$ C4 (3:2:6CCCCCC | F, z z2 F, z z2 | %10
+w: |||||
+w: bah bah|bah bah|dah|bah ba da dat da da dat|bah bah|
+ F, z z2 F, z z2 |$ E, z E, z E, z E, z | G,2 F,2 z2 z2 | F, z F, z F, z F, z | %14
+w: ||||
+w: bah bah|bah bah bah bah|sha dy||
+ F, z F, z F, z F, z |$ A,8 | C4 (3:2:6CCCCCC | F, z F, z F, z F, z | F, z F, z F, z F, z |$ %19
+w: |dow|bah~ ba da dat da da dat|~~~doo * * *||
+w: |||||
+ F, z F, z F, z F, z | F, z F, z F, z F, z | F,8- | [C,F,]8 | z8 |$ [G,B,]2 [G,B,]2 z4 | %25
+w: |||||dn dn|
+w: ||||||
+ [G,B,]2 [G,B,]2 A,2 A,2 | G,2 G,4 z2 | G,2 G,2 F,2 F,2 | z8 | z4 F,4 |$ B,2 B,4- B,B, | _B,2 B,6 | %32
+w: dn dn dn dn|dn dn|dn dn dn dn|||||
+w: |||||||
+ [G,B,]2 [G,B,]2 z4 | [G,B,]2 [G,B,]2 A,2 A,2 | G,2 G,4 z2 | G,2 G,2 F,2 F,2 | G,2 G,4 z2 |$ %37
+w: |||||
+w: |||||
+ G,2 G,2 F,2 F,2 | F,2 F,2 F,F, F,2 | F, z z z z4 | F, z F, z F, z F, z |$ F, z F, z F, z F, z | %42
+w: |||||
+w: |||||
+ ^A,8 | C4 C4 | F, z F, z F, z F, z |$ F, z F, z F, z F, z | C,8 | F,4 F, z E, z | F,8- | %49
+w: |||||||
+w: |||||||
+ [D,F,]8 |$ F, z z2 F, z z2 | F, z z2 F, z z2 | E,4 E,4 | G,4 F,4 | F,8 | z8 |$ %56
+w: |||||||
+w: |||||||
+ [G,B,]2 [G,B,]2 z4 | [G,B,]2 [G,B,]2 A,2 A,2 | G,2 G,4 z2 | G,2 G,2 F,2 F,2 | z8 | z4 F,4 | %62
+w: ||||||
+w: ||||||
+ B,2 B,4- B,B, |$ _B,2 B,6 | [G,B,]2 [G,B,]2 z4 | [G,B,]2 [G,B,]2 A,2 A,2 | G,2 G,4 z2 | %67
+w: |||||
+w: |||||
+ G,2 G,2 F,2 F,2 | G,2 G,4 z2 |$ G,2 G,2 F,2 F,2 | F,2 F,2 F,F, F,2 | F, z z2 G,F, E,2 | %72
+w: |||||
+w: |||||
+ D,2 D,2 z4 | z8 | C,2 C,2 z2 z2 |$ z4 A,2 A,2 | G,2 G,2 z4 | z4 z4 | A,2 A,2 z2 z G, | %79
+w: dm dm||dm dm|dm dm|dm dm||dm dm da|
+w: |||||||
+ F,2 F,2 G,F, E,2 | F,2 F,2 z4 |$ E,3/2D,>E,F,/ E,2 D,2 | B,2 B,2 z4 | B,2 B,2 z4 | %84
+w: dm dm da da dm|dm dm|da da da da da da|dm dm|dm dm|
+w: |||||
+ B,2 B,2 B,2 B,2 |$ F,2 F,2 F,2 F,2 | B,2 z2 z4 | z8 | [G,B,]2 [G,B,]2 z4 | %89
+w: love love love love|love love love love|love|||
+w: |||||
+ [G,B,]2 [G,B,]2 A,2 A,2 | G,2 G,4 z2 | G,2 G,2 F,2 F,2 | z8 | z4 F,4 |$ B,2 B,4- B,B, | _B,2 B,6 | %96
+w: |||||||
+w: |||||||
+ [G,B,]2 [G,B,]2 z4 | [G,B,]2 [G,B,]2 A,2 A,2 | G,2 G,4 z2 | G,2 G,2 F,2 F,2 | G,2 G,4 z2 |$ %101
+w: |||||
+w: |||||
+ G,2 G,2 F,2 F,2 | F,2 F,2 F,F, F,2 | F,2 F,2 z4 | G,8 | G,8 | B,8 | B,8 |$ F8 | ^A,8 | B,6 z2 | %111
+w: ||||||||||
+w: ||||||||||
+ E2 D2 E2 D2 | C4 B,2 D2- | D2 DD- DB, A,2 | B,3 B, D2 D2 |$ z8 | z8 | z4 z2 z2 | z8 |] %119
+w: ||||||||
+w: ||||||||

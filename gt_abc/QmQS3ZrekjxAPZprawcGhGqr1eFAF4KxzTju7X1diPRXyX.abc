@@ -1,0 +1,28 @@
+X:1
+T:4
+C:Henri Lemoine
+%%score { 1 | 2 }
+L:1/16
+Q:1/4=120
+M:2/4
+I:linebreak $
+K:G
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+L:1/4
+V:1
+"_legato""^Allegretto"!mf! !1!B!2!c!3!^c!4!d !1!d!2!e!3!f!4!g | %1
+ !1!B!2!c!3!^c!4!d !1!d!2!e!3!f!4!g | !1!e!2!=f!3!^f!4!g !1!g!2!a!3!b!4!c' | %3
+ !1!e!2!=f!3!^f!4!g !1!g!2!a!3!b!4!c' |$ !1!a!2!b!3!c'!4!^c' !1!d'!2!e'!3!f'!4!g' | %5
+ a'g'f'e' !1!d'!4!=c'ba | gd'c'b ag!3!fe | !1!d!4!edc !1!B!4!c!3!B!2!A |$ %8
+"_legato"!mf! !1!B!2!c!3!^c!4!d !1!d!2!e!3!f!4!g | !1!B!2!c!3!^c!4!d !1!d!2!e!3!f!4!g | %10
+ !1!e!2!=f!3!^f!4!g !1!g!2!a!3!b!4!c' | !1!e!2!=f!3!^f!4!g !1!g!2!a!3!b!4!c' | %12
+ !1!a!2!b!3!c'!4!^c' !1!d'!2!e'!3!f'!4!g' |$ a'g'f'e' !1!d'!4!=c'ba | gd'c'b ag!3!fe | %15
+ !1!d!4!edc !1!B!4!c!3!B!2!A | G!5!dcB A!4!cBA | G!5!dcB A!4!cBA |$ G!5!dcB A!4!cBA | %19
+ G!5!dcB A!4!cBA | .G2 z2 z4 |!ff! !fermata![Bdg]8 |] %22
+V:2
+ [G,B,D] !^![G,B,D]- | [G,B,D] [G,B,D] | [G,CE] !^![G,CE]- | [G,CE] [G,CE] |$ [G,CD] !^![G,CD]- | %5
+ [G,CD] [G,CD] | [G,B,D]2 | [G,CD]2 |$ [G,B,D] !^![G,B,D]- | [G,B,D] [G,B,D] | [G,CE] !^![G,CE]- | %11
+ [G,CE] [G,CE] | [G,CD] !^![G,CD]- |$ [G,CD] [G,CD] | [G,B,D]2 | [G,CD]2 | %16
+ [G,B,D]/ z/!>(! ((([G,CD]!>)! | [G,B,D]/))) z/!>(! ([G,CD]!>)! |$ [G,B,D]/) z/!>(! ([G,CD]!>)! | %19
+ [G,B,D]/) z/!>(! ([G,CD]!>)! | .[G,B,D]) z | !fermata![G,D]2 |] %22
